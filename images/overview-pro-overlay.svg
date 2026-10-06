@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1918" height="904" viewBox="0 0 1918 904" preserveAspectRatio="none">
+  <g fill="#fff">
+    <rect x="318" y="762" width="226" height="27"/>
+    <rect x="318" y="799" width="226" height="27"/>
+    <rect x="318" y="836" width="226" height="27"/>
+    <rect x="318" y="873" width="226" height="27"/>
+    <rect x="1111" y="762" width="228" height="27"/>
+    <rect x="1111" y="799" width="228" height="27"/>
+    <rect x="1111" y="836" width="228" height="27"/>
+    <rect x="1111" y="873" width="228" height="27"/>
+    <rect x="1350" y="762" width="228" height="27"/>
+    <rect x="1350" y="799" width="228" height="27"/>
+    <rect x="1350" y="836" width="228" height="27"/>
+    <rect x="1350" y="873" width="228" height="27"/>
+  </g>
+  <g fill="#111" font-family="Arial, Segoe UI, sans-serif" font-size="14" font-weight="400">
+    <text x="322" y="783">Иванов Иван Петрович</text>
+    <text x="322" y="820">Петрова Мария Сергеевна</text>
+    <text x="322" y="857">Смирнов Алексей Викторович</text>
+    <text x="322" y="894">Кузнецова Елена Андреевна</text>
+    <text x="1116" y="783">ООО &quot;Пенза-Топливо&quot;</text>
+    <text x="1116" y="820">ООО &quot;Пенза-Топливо&quot;</text>
+    <text x="1116" y="857">ООО &quot;Пенза-Топливо&quot;</text>
+    <text x="1116" y="894">ООО &quot;Пенза-Топливо&quot;</text>
+    <text x="1355" y="783">ТРК №1</text>
+    <text x="1355" y="820">ТРК №1</text>
+    <text x="1355" y="857">ТРК №1</text>
+    <text x="1355" y="894">ТРК №1</text>
+  </g>
+</svg>

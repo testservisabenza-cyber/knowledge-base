@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1244 118" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="base" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#f8fcff"/>
+      <stop offset=".31" stop-color="#eef8ff"/>
+      <stop offset=".58" stop-color="#cfe8ff"/>
+      <stop offset=".82" stop-color="#9ac9ff"/>
+      <stop offset="1" stop-color="#6daaff"/>
+    </linearGradient>
+    <linearGradient id="lowerWave" x1="0" x2=".95" y1="1" y2=".1">
+      <stop offset="0" stop-color="#d6edff" stop-opacity=".08"/>
+      <stop offset=".48" stop-color="#80b9fa" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#4a94ef" stop-opacity=".22"/>
+    </linearGradient>
+    <linearGradient id="upperWave" x1="0" x2="1" y1="0" y2=".8">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".64"/>
+      <stop offset=".5" stop-color="#d8efff" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity=".04"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".62"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softBlur" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+
+  <rect width="1244" height="118" fill="url(#base)"/>
+  <ellipse cx="742" cy="15" rx="292" ry="94" fill="url(#glow)"/>
+  <ellipse cx="980" cy="120" rx="220" ry="76" fill="#6eaaf7" opacity=".22" filter="url(#softBlur)"/>
+
+  <path d="M356 118 C490 106 548 43 656 37 C753 31 798 96 891 89 C1008 80 1051 14 1148-17 L1244-17 L1244 118Z" fill="url(#lowerWave)"/>
+  <path d="M517 118 C615 79 685 60 750 73 C838 91 865 130 958 118Z" fill="#77b6f4" opacity=".2"/>
+  <path d="M642-6 C716 6 742 47 813 57 C919 72 964 21 1059-12Z" fill="url(#upperWave)"/>
+  <path d="M842 118 C953 73 992 47 1082 63 C1146 74 1199 87 1244 65 L1244 118Z" fill="#dcefff" opacity=".34"/>
+  <path d="M1036 0 H1244 V12 C1186 27 1157 58 1122 69 C1085 79 1052 64 1014 51Z" fill="#ffffff" opacity=".12"/>
+  <path d="M478 118 C590 70 632 32 719 35 C822 40 841 91 928 80 C1001 70 1064 25 1147 11" fill="none" stroke="#ffffff" stroke-opacity=".34" stroke-width="1.5"/>
+  <path d="M584 118 C694 83 754 103 837 107 C925 111 1010 67 1091 56" fill="none" stroke="#f4fbff" stroke-opacity=".33" stroke-width="1"/>
+</svg>

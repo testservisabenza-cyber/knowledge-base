@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430">
+  <rect width="1280" height="430" rx="18" fill="#f2f6f8"/>
+  <rect x="1" y="1" width="1278" height="428" rx="17" fill="#fff" stroke="#d7e2e8" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="68" rx="17" fill="#fff"/>
+  <rect x="28" y="18" width="32" height="32" rx="7" fill="#004680"/><text x="44" y="42" fill="#fff" font-family="Arial,sans-serif" font-size="23" font-weight="700" text-anchor="middle">b.</text>
+  <text x="73" y="41" fill="#183c54" font-family="Arial,sans-serif" font-size="22" font-weight="700">benzamat</text><text x="174" y="28" fill="#183c54" font-family="Arial,sans-serif" font-size="9">®</text>
+  <path d="M198 17v36" stroke="#d4e0e6" stroke-width="2"/>
+  <text x="218" y="41" fill="#31566b" font-family="Arial,sans-serif" font-size="18" font-weight="700">База знаний</text>
+  <rect x="760" y="15" width="310" height="40" rx="8" fill="#f7fafb" stroke="#d8e3e8"/>
+  <circle cx="782" cy="34" r="8" fill="none" stroke="#456a7f" stroke-width="2"/><path d="m788 40 6 6" stroke="#456a7f" stroke-width="2"/>
+  <text x="806" y="40" fill="#637e8d" font-family="Arial,sans-serif" font-size="15">Поиск по инструкциям</text>
+  <text x="1110" y="40" fill="#174f73" font-family="Arial,sans-serif" font-size="15" font-weight="700">Поддержка</text>
+  <path d="M1 68h1278" stroke="#e1e8ec" stroke-width="2"/>
+  <rect x="1" y="69" width="1278" height="92" fill="#f5f8fa"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <rect x="25" y="91" width="233" height="48" rx="8" fill="#fff" stroke="#004680" stroke-width="3"/>
+    <text x="141" y="121" fill="#193348" font-size="17" font-weight="700">benzamat ПРО.</text>
+    <rect x="270" y="91" width="233" height="48" rx="8" fill="#fff" stroke="#ccdce5" stroke-width="2"/>
+    <text x="386" y="121" fill="#193348" font-size="17" font-weight="700">benzamat Оплата</text>
+    <rect x="515" y="91" width="233" height="48" rx="8" fill="#fff" stroke="#ccdce5" stroke-width="2"/>
+    <text x="631" y="121" fill="#193348" font-size="17" font-weight="700">benzamat Старт</text>
+    <rect x="760" y="91" width="233" height="48" rx="8" fill="#fff" stroke="#ccdce5" stroke-width="2"/>
+    <text x="876" y="121" fill="#193348" font-size="17" font-weight="700">benzamat Офис</text>
+    <rect x="1005" y="91" width="250" height="48" rx="8" fill="#fff" stroke="#ccdce5" stroke-width="2"/>
+    <text x="1130" y="121" fill="#193348" font-size="16" font-weight="700">Руководства к устройствам</text>
+  </g>
+  <rect x="1" y="161" width="1278" height="268" fill="#fbfcfd"/>
+  <text x="58" y="219" fill="#173d54" font-family="Arial,sans-serif" font-size="26" font-weight="700">Выберите продукт, с которым работаете</text>
+  <text x="58" y="258" fill="#506d7c" font-family="Arial,sans-serif" font-size="18">После выбора обновятся разделы слева и материалы по этому ПО.</text>
+  <rect x="58" y="300" width="6" height="62" rx="3" fill="#004680"/>
+  <text x="80" y="325" fill="#193348" font-family="Arial,sans-serif" font-size="17" font-weight="700">Выбранный продукт</text>
+  <text x="80" y="351" fill="#506d7c" font-family="Arial,sans-serif" font-size="16">Активная кнопка остаётся белой и отмечена синей обводкой.</text>
+</svg>

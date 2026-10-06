@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="590" viewBox="0 0 1280 590">
+  <rect width="1280" height="590" rx="18" fill="#f2f6f8"/>
+  <rect x="1" y="1" width="1278" height="588" rx="17" fill="#fff" stroke="#d7e2e8" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="75" rx="17" fill="#fff"/>
+  <rect x="30" y="22" width="32" height="32" rx="7" fill="#004680"/><text x="46" y="46" fill="#fff" font-family="Arial,sans-serif" font-size="23" font-weight="700" text-anchor="middle">b.</text><text x="76" y="45" fill="#183c54" font-family="Arial,sans-serif" font-size="22" font-weight="700">benzamat</text><text x="177" y="31" fill="#183c54" font-family="Arial,sans-serif" font-size="9">®</text>
+  <path d="M199 19v39" stroke="#d4e0e6" stroke-width="2"/><text x="220" y="45" fill="#31566b" font-family="Arial,sans-serif" font-size="18" font-weight="700">База знаний</text>
+  <rect x="685" y="17" width="385" height="42" rx="8" fill="#fff" stroke="#6aadd0" stroke-width="2"/>
+  <circle cx="711" cy="37" r="8" fill="none" stroke="#456a7f" stroke-width="2"/><path d="m717 43 6 6" stroke="#456a7f" stroke-width="2"/>
+  <text x="739" y="43" fill="#193348" font-family="Arial,sans-serif" font-size="16">резервуар</text><path d="m1038 31 12 12m0-12-12 12" stroke="#6c8490" stroke-width="2"/>
+  <path d="M1 75h1278" stroke="#e1e8ec" stroke-width="2"/>
+  <rect x="655" y="82" width="447" height="410" rx="10" fill="#fff" stroke="#d5e2e8" stroke-width="2"/>
+  <text x="679" y="119" fill="#536f80" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">РЕЗУЛЬТАТЫ ПОИСКА</text>
+  <path d="M655 137h447" stroke="#e1e8ec" stroke-width="2"/>
+  <g font-family="Arial,sans-serif">
+    <text x="680" y="175" fill="#173d54" font-size="17" font-weight="700">Добавить секцию и настроить резервуар</text>
+    <text x="680" y="201" fill="#637181" font-size="14">benzamat ПРО. · Пошаговая инструкция</text>
+    <path d="M679 219h399" stroke="#e1e8ec"/>
+    <text x="680" y="258" fill="#173d54" font-size="17" font-weight="700">Проверить показания секций</text>
+    <text x="680" y="284" fill="#637181" font-size="14">benzamat ПРО. · Описание материала</text>
+    <path d="M679 302h399" stroke="#e1e8ec"/>
+    <text x="680" y="341" fill="#173d54" font-size="17" font-weight="700">Настройки станции</text>
+    <text x="680" y="367" fill="#637181" font-size="14">benzamat ПРО. · Пошаговая инструкция</text>
+    <path d="M679 385h399" stroke="#e1e8ec"/>
+    <text x="680" y="429" fill="#637181" font-size="14">Выберите подходящий результат, чтобы открыть материал.</text>
+  </g>
+  <rect x="1" y="77" width="590" height="512" fill="#fbfcfd"/>
+  <text x="53" y="164" fill="#112e43" font-family="Arial,sans-serif" font-size="30" font-weight="700">Найдите материал по слову</text>
+  <text x="53" y="205" fill="#506d7c" font-family="Arial,sans-serif" font-size="17">Введите название раздела, функции или объекта.</text>
+  <text x="53" y="238" fill="#506d7c" font-family="Arial,sans-serif" font-size="17">Поиск проверяет названия и текст материалов.</text>
+  <rect x="53" y="285" width="495" height="3" rx="1.5" fill="#d7e2e8"/>
+  <circle cx="67" cy="333" r="5" fill="#004680"/><text x="86" y="339" fill="#193348" font-family="Arial,sans-serif" font-size="16">Нажмите на результат — откроется нужная страница.</text>
+  <circle cx="67" cy="380" r="5" fill="#004680"/><text x="86" y="386" fill="#193348" font-family="Arial,sans-serif" font-size="16">Enter открывает первый результат списка.</text>
+  <circle cx="67" cy="427" r="5" fill="#004680"/><text x="86" y="433" fill="#193348" font-family="Arial,sans-serif" font-size="16">Клик вне списка закрывает подсказки.</text>
+  <rect x="53" y="475" width="495" height="59" rx="7" fill="#eaf4f8"/>
+  <text x="72" y="511" fill="#31566b" font-family="Arial,sans-serif" font-size="15">Если результатов много, уточните запрос.</text>
+</svg>

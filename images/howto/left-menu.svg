@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="610" viewBox="0 0 1280 610">
+  <rect width="1280" height="610" rx="18" fill="#f2f6f8"/>
+  <rect x="1" y="1" width="1278" height="608" rx="17" fill="#fff" stroke="#d7e2e8" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="58" rx="17" fill="#fff"/>
+  <rect x="25" y="14" width="30" height="30" rx="6" fill="#004680"/><text x="40" y="36" fill="#fff" font-family="Arial,sans-serif" font-size="21" font-weight="700" text-anchor="middle">b.</text><text x="68" y="36" fill="#183c54" font-family="Arial,sans-serif" font-size="20" font-weight="700">benzamat</text><text x="158" y="23" fill="#183c54" font-family="Arial,sans-serif" font-size="8">®</text>
+  <path d="M1 58h1278" stroke="#e1e8ec" stroke-width="2"/>
+  <rect x="1" y="59" width="1278" height="70" fill="#f5f8fa"/>
+  <g font-family="Arial,sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+    <rect x="24" y="74" width="233" height="42" rx="7" fill="#fff" stroke="#ccdce5"/><text x="140" y="101" fill="#193348">benzamat ПРО.</text>
+    <rect x="268" y="74" width="233" height="42" rx="7" fill="#fff" stroke="#ccdce5"/><text x="384" y="101" fill="#193348">benzamat Оплата</text>
+    <rect x="512" y="74" width="233" height="42" rx="7" fill="#fff" stroke="#ccdce5"/><text x="628" y="101" fill="#193348">benzamat Старт</text>
+    <rect x="756" y="74" width="233" height="42" rx="7" fill="#fff" stroke="#ccdce5"/><text x="872" y="101" fill="#193348">benzamat Офис</text>
+    <rect x="1000" y="74" width="255" height="42" rx="7" fill="#fff" stroke="#ccdce5"/><text x="1127" y="101" fill="#193348">Руководства к устройствам</text>
+  </g>
+  <rect x="1" y="129" width="350" height="480" fill="#fff" stroke="#d8e2e7"/>
+  <g font-family="Arial,sans-serif" fill="#1a2d3e">
+    <text x="35" y="169" font-size="17">Программное обеспечение</text>
+    <text x="35" y="208" font-size="17">Частые вопросы</text><path d="m307 196 7 7-7 7" fill="none" stroke="#31566b" stroke-width="2"/>
+    <path d="M20 231h310" stroke="#dce5e9" stroke-width="2"/>
+    <text x="35" y="253" font-size="11" font-weight="700" letter-spacing="1.5" fill="#617482">ИНСТРУКЦИИ ПО РАЗДЕЛАМ</text>
+    <text x="35" y="291" font-size="16">Начало работы</text><path d="m307 280 7 7-7 7" fill="none" stroke="#31566b" stroke-width="2"/>
+    <text x="35" y="332" font-size="16">Главная и мониторинг</text><path d="m307 321 7 7-7 7" fill="none" stroke="#31566b" stroke-width="2"/>
+    <rect x="20" y="349" width="312" height="36" rx="7" fill="#e1effc"/>
+    <text x="35" y="373" fill="#004680" font-size="17" font-weight="700">Компании</text><path d="m306 361 7 7 7-7" fill="none" stroke="#004680" stroke-width="2"/>
+    <path d="M41 393v157" stroke="#cbdce5" stroke-width="2"/>
+    <text x="55" y="414" fill="#38556a" font-size="14">ⓘ  Описание</text>
+    <text x="55" y="449" fill="#004680" font-size="14" font-weight="700">▤  Инструкции</text>
+    <path d="M57 462v47" stroke="#004680" stroke-width="2"/>
+    <rect x="62" y="468" width="262" height="35" rx="6" fill="#eaf3fb"/>
+    <text x="73" y="491" fill="#004680" font-size="14" font-weight="700">Добавить компанию</text>
+    <text x="55" y="539" fill="#38556a" font-size="14">ⓘ  Частые ошибки</text>
+  </g>
+  <rect x="351" y="129" width="928" height="480" fill="#fbfcfd"/>
+  <text x="395" y="197" fill="#112e43" font-family="Arial,sans-serif" font-size="32" font-weight="700">Добавить компанию</text>
+  <text x="395" y="239" fill="#37576a" font-family="Arial,sans-serif" font-size="17">Сначала идут загрузки и частые вопросы.</text>
+  <text x="395" y="270" fill="#37576a" font-family="Arial,sans-serif" font-size="17">Ниже выберите тему и нужный материал.</text>
+  <path d="M395 305h820" stroke="#d7e2e8" stroke-width="2"/>
+  <text x="395" y="358" fill="#173d54" font-family="Arial,sans-serif" font-size="23" font-weight="700">Список компаний</text>
+  <rect x="395" y="384" width="820" height="128" rx="8" fill="#fff" stroke="#d7e2e8"/>
+  <rect x="420" y="412" width="198" height="36" rx="6" fill="#eaf2f6"/><text x="438" y="436" fill="#527080" font-family="Arial,sans-serif" font-size="15">Название</text>
+  <rect x="640" y="412" width="188" height="36" rx="6" fill="#eaf2f6"/><text x="658" y="436" fill="#527080" font-family="Arial,sans-serif" font-size="15">Тип компании</text>
+  <rect x="850" y="412" width="330" height="36" rx="6" fill="#eaf2f6"/><text x="868" y="436" fill="#527080" font-family="Arial,sans-serif" font-size="15">Действия</text>
+  <text x="420" y="480" fill="#193348" font-family="Arial,sans-serif" font-size="15">ООО «Пенза-Топливо»</text><text x="640" y="480" fill="#193348" font-family="Arial,sans-serif" font-size="15">Главная</text>
+  <text x="395" y="562" fill="#506d7c" font-family="Arial,sans-serif" font-size="15">Левое меню остаётся на месте, пока вы прокручиваете материал.</text>
+</svg>

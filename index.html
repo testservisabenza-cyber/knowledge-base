@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ru">
+  <head><base href="/knowledge-base/">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0d3151" />
+    <link rel="preload" as="image" href="/knowledge-base/images/product-pro-logo-dark.svg" />
+    <link rel="preload" as="image" href="/knowledge-base/images/product-pay-logo-dark.svg" />
+    <link rel="preload" as="image" href="/knowledge-base/images/product-start-logo-dark.svg" />
+    <link rel="preload" as="image" href="/knowledge-base/images/product-office-logo-dark.svg" />
+    <script>
+      try {
+        document.documentElement.dataset.theme = localStorage.getItem('benzamat-kb-theme') === 'dark' ? 'dark' : 'light';
+        const background = localStorage.getItem('benzamat-kb-background');
+        document.documentElement.dataset.background = background === 'off' || background === 'full' ? background : 'sides';
+      } catch {
+        document.documentElement.dataset.theme = 'light';
+      }
+    </script>
+    <title>База знаний benzamat</title>
+    <script type="module" crossorigin src="/knowledge-base/assets/index-CX--orX1.js"></script>
+    <link rel="stylesheet" crossorigin href="/knowledge-base/assets/index-DiXs6Cph.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="600" viewBox="0 0 1280 600" role="img" aria-labelledby="title desc">
+  <title id="title">Где проверить письмо о регистрации</title>
+  <desc id="desc">Схема почтового ящика: проверить входящие и спам для адреса, указанного при регистрации.</desc>
+  <rect width="1280" height="600" rx="16" fill="#f2f7fb"/>
+  <text x="62" y="69" fill="#003f75" font-family="Arial,sans-serif" font-size="29" font-weight="700">Проверьте почту, указанную при регистрации</text>
+  <text x="62" y="105" fill="#5b7286" font-family="Arial,sans-serif" font-size="18">Схема: названия и вид папок могут отличаться в вашем почтовом сервисе</text>
+  <rect x="62" y="145" width="1156" height="394" rx="14" fill="#fff" stroke="#bfd4e4" stroke-width="2"/>
+  <rect x="62" y="145" width="292" height="394" rx="14" fill="#eaf4fb"/>
+  <text x="94" y="212" fill="#003f75" font-family="Arial,sans-serif" font-size="23" font-weight="700">Папки</text>
+  <rect x="86" y="249" width="238" height="59" rx="8" fill="#fff" stroke="#d4e3ed"/>
+  <text x="110" y="287" fill="#1d506f" font-family="Arial,sans-serif" font-size="20">Входящие</text>
+  <rect x="86" y="324" width="238" height="59" rx="8" fill="#fff" stroke="#d4e3ed"/>
+  <text x="110" y="362" fill="#1d506f" font-family="Arial,sans-serif" font-size="20">Спам</text>
+  <rect x="80" y="243" width="250" height="146" rx="10" fill="none" stroke="#e3242b" stroke-width="5"/>
+  <text x="399" y="224" fill="#5b7286" font-family="Arial,sans-serif" font-size="18">Ищите письмо о регистрации в benzamat ПРО.</text>
+  <rect x="395" y="257" width="771" height="95" rx="9" fill="#f7fbfe" stroke="#d4e3ed"/>
+  <text x="426" y="299" fill="#003f75" font-family="Arial,sans-serif" font-size="20" font-weight="700">benzamat ПРО.</text>
+  <text x="426" y="329" fill="#496a82" font-family="Arial,sans-serif" font-size="17">Подтверждение регистрации</text>
+  <text x="399" y="435" fill="#5b7286" font-family="Arial,sans-serif" font-size="18">Если письма нет в обеих папках, обратитесь в поддержку.</text>
+</svg>

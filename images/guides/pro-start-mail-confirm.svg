@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="620" viewBox="0 0 1280 620" role="img" aria-labelledby="title desc">
+  <title id="title">Подтверждение почты после регистрации</title>
+  <desc id="desc">Схема письма о регистрации с выделенной кнопкой «Подтвердить»</desc>
+  <rect width="1280" height="620" fill="#f2f6fa"/>
+  <text x="90" y="82" fill="#003f75" font-family="Arial,sans-serif" font-size="29" font-weight="700">Письмо о регистрации</text>
+  <text x="90" y="120" fill="#5b7286" font-family="Arial,sans-serif" font-size="18">Схема: оформление письма зависит от почтового сервиса</text>
+  <rect x="90" y="164" width="1100" height="390" rx="14" fill="#fff" stroke="#bed0df" stroke-width="2"/>
+  <rect x="90" y="164" width="1100" height="63" rx="14" fill="#e4eff7"/>
+  <text x="124" y="204" fill="#183a54" font-family="Arial,sans-serif" font-size="20" font-weight="700">Подтверждение регистрации в benzamat ПРО.</text>
+  <text x="124" y="282" fill="#284b63" font-family="Arial,sans-serif" font-size="19">Для завершения регистрации перейдите по ссылке подтверждения в письме.</text>
+  <rect x="124" y="344" width="280" height="58" rx="6" fill="#004b84"/>
+  <text x="184" y="381" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="700">Подтвердить</text>
+  <rect x="117" y="337" width="294" height="72" rx="8" fill="none" stroke="#e3242b" stroke-width="5"/>
+  <text x="124" y="466" fill="#607b8e" font-family="Arial,sans-serif" font-size="16">Если письма нет во «Входящих», проверьте «Спам».</text>
+</svg>

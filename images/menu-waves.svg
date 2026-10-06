@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#b8d8f1" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#91bee2" stop-opacity=".2"/>
+    </linearGradient>
+  </defs>
+  <path d="M650 0C1000 155 1310-110 1670 10S1950 100 2040 40V-140H650Z" fill="url(#ribbon)"/>
+  <path d="M-200 420C130 470 365 660 290 860S50 1040-100 1180H-200Z" fill="url(#ribbon)"/>
+  <g fill="none" stroke="#8db6d3" stroke-opacity=".19" stroke-width="1">
+    <path d="M640-40C1030 160 1270-80 1670 35S1900 150 2090 60"/>
+    <path d="M940-80C1280 140 1550-40 1840 60S2070 165 2190 100"/>
+    <path d="M-130 410C190 525 355 660 255 855S55 1050-70 1190"/>
+    <path d="M-160 470C170 565 285 720 200 875S40 1060-120 1190"/>
+  </g>
+</svg>

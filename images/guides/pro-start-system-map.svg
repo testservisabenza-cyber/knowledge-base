@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-labelledby="title desc">
+  <title id="title">Как связаны объекты в benzamat ПРО</title>
+  <desc id="desc">Компания содержит станции; каждая станция содержит секции резервуара. Контроллер связывается со станцией и секциями. Пользователи и транспорт получают доступ к контроллеру, а данные выводятся на главной и в отчётах.</desc>
+  <rect width="1280" height="560" rx="22" fill="#f2f7fb"/>
+  <text x="56" y="66" fill="#003f75" font-family="Arial,sans-serif" font-size="31" font-weight="700">Рабочая схема benzamat® ПРО.</text>
+  <text x="56" y="103" fill="#426782" font-family="Arial,sans-serif" font-size="18">От организации и резервуара — к выдаче топлива и проверке результата</text>
+  <path d="M250 228H349M571 228H670M892 228H990M1107 284V351" fill="none" stroke="#9bbcd4" stroke-width="4" stroke-linecap="round"/>
+  <g font-family="Arial,sans-serif">
+    <rect x="55" y="161" width="195" height="123" rx="14" fill="#fff" stroke="#b9d1e4" stroke-width="2"/>
+    <rect x="55" y="161" width="195" height="8" rx="4" fill="#004b84"/>
+    <text x="77" y="211" fill="#003f75" font-size="22" font-weight="700">Компания</text>
+    <text x="77" y="243" fill="#516f86" font-size="16">Реквизиты, лимит</text>
+    <rect x="349" y="161" width="222" height="123" rx="14" fill="#fff" stroke="#b9d1e4" stroke-width="2"/>
+    <rect x="349" y="161" width="222" height="8" rx="4" fill="#0874ad"/>
+    <text x="371" y="211" fill="#003f75" font-size="22" font-weight="700">Станция</text>
+    <text x="371" y="243" fill="#516f86" font-size="16">Резервуар и его адрес</text>
+    <rect x="670" y="161" width="222" height="123" rx="14" fill="#fff" stroke="#b9d1e4" stroke-width="2"/>
+    <rect x="670" y="161" width="222" height="8" rx="4" fill="#2c91b5"/>
+    <text x="692" y="211" fill="#003f75" font-size="22" font-weight="700">Секции</text>
+    <text x="692" y="243" fill="#516f86" font-size="16">Части резервуара</text>
+    <rect x="990" y="161" width="235" height="123" rx="14" fill="#fff" stroke="#b9d1e4" stroke-width="2"/>
+    <rect x="990" y="161" width="235" height="8" rx="4" fill="#004b84"/>
+    <text x="1012" y="211" fill="#003f75" font-size="22" font-weight="700">Контроллер</text>
+    <text x="1012" y="243" fill="#516f86" font-size="16">Выдача и обмен</text>
+    <text x="349" y="330" fill="#426782" font-size="17" font-weight="700">К выдаче на контроллере допускают:</text>
+    <rect x="349" y="351" width="222" height="111" rx="14" fill="#e0eff8" stroke="#b9d1e4" stroke-width="2"/>
+    <text x="371" y="395" fill="#003f75" font-size="20" font-weight="700">Пользователи</text>
+    <text x="371" y="425" fill="#516f86" font-size="16">Карты и лимиты</text>
+    <rect x="670" y="351" width="222" height="111" rx="14" fill="#e0eff8" stroke="#b9d1e4" stroke-width="2"/>
+    <text x="692" y="395" fill="#003f75" font-size="20" font-weight="700">Транспорт</text>
+    <text x="692" y="425" fill="#516f86" font-size="16">Карты и лимиты</text>
+    <rect x="990" y="351" width="235" height="111" rx="14" fill="#d5e9f6" stroke="#9bbcd4" stroke-width="2"/>
+    <text x="1012" y="395" fill="#003f75" font-size="20" font-weight="700">Главная и отчёты</text>
+    <text x="1012" y="425" fill="#516f86" font-size="16">Контроль операций</text>
+    <text x="56" y="516" fill="#54738a" font-size="16">Данные оборудования поступают в ПРО после настройки связи и действующей услуги.</text>
+  </g>
+</svg>

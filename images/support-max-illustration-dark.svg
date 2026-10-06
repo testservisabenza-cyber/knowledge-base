@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" fill="none">
+  <defs>
+    <linearGradient id="orbit" x1="54" y1="62" x2="290" y2="145" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d4dde2" stop-opacity=".15"/>
+      <stop offset=".43" stop-color="#8b9da8" stop-opacity=".84"/>
+      <stop offset=".76" stop-color="#708591" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#dbe3e8" stop-opacity=".38"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="126" y1="18" x2="240" y2="148" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#687983"/>
+      <stop offset=".45" stop-color="#45555f"/>
+      <stop offset="1" stop-color="#2b363e"/>
+    </linearGradient>
+    <linearGradient id="tileSide" x1="166" y1="118" x2="247" y2="169" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3a4953"/>
+      <stop offset="1" stop-color="#222d35"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#d7dfe4" stop-opacity=".73"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="153" y1="45" x2="215" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e8edf0"/>
+    </linearGradient>
+    <filter id="shadow" x="-40%" y="-60%" width="180%" height="220%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="bubbleShadow" x="-40%" y="-50%" width="180%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <ellipse cx="185" cy="149" rx="104" ry="17" fill="#18222a" opacity=".22" filter="url(#shadow)"/>
+  <ellipse cx="174" cy="106" rx="128" ry="42" transform="rotate(-12 174 106)" stroke="url(#orbit)" stroke-width="15"/>
+  <ellipse cx="174" cy="106" rx="128" ry="42" transform="rotate(-12 174 106)" stroke="#dce4e9" stroke-opacity=".58" stroke-width="2"/>
+
+  <g transform="rotate(10 186 82)">
+    <rect x="121" y="28" width="134" height="132" rx="27" fill="url(#tileSide)"/>
+    <rect x="116" y="15" width="134" height="132" rx="27" fill="url(#tile)" stroke="#9aabb6" stroke-width="2"/>
+    <path d="M144 24h79c10 0 18 5 22 13" stroke="#c7d3db" stroke-opacity=".75" stroke-width="3" stroke-linecap="round"/>
+    <path d="M129 123c15 17 82 27 113 9" stroke="#18222a" stroke-opacity=".24" stroke-width="5" stroke-linecap="round"/>
+    <path d="M184 40c-25 0-44 18-44 42 0 14 6 25 17 33l-5 17 19-9c4 1 9 2 13 2 25 0 44-19 44-43s-19-42-44-42Zm0 24c12 0 21 8 21 18s-9 19-21 19-21-9-21-19 9-18 21-18Z" fill="url(#ring)" fill-rule="evenodd"/>
+    <path d="M184 65c11 0 20 8 20 18s-9 18-20 18-20-8-20-18 9-18 20-18Z" fill="#4d6575"/>
+  </g>
+
+  <g opacity=".96">
+    <path d="M59 25h45c8 0 14 6 14 14v29c0 8-6 14-14 14H79L65 92l2-10h-8c-8 0-14-6-14-14V39c0-8 6-14 14-14Z" fill="#788b98" opacity=".18" filter="url(#bubbleShadow)"/>
+    <path d="M59 19h45c8 0 14 6 14 14v29c0 8-6 14-14 14H79L65 86l2-10h-8c-8 0-14-6-14-14V33c0-8 6-14 14-14Z" fill="url(#glass)" stroke="#ffffff" stroke-opacity=".95" stroke-width="2"/>
+    <circle cx="67" cy="48" r="4" fill="#7894a7"/>
+    <circle cx="82" cy="48" r="4" fill="#7894a7"/>
+    <circle cx="97" cy="48" r="4" fill="#7894a7"/>
+  </g>
+
+  <g opacity=".94">
+    <path d="M248 91h54c7 0 13 6 13 13v28c0 7-6 13-13 13h-9l2 10-14-10h-33c-7 0-13-6-13-13v-28c0-7 6-13 13-13Z" fill="#6f8593" opacity=".2" filter="url(#bubbleShadow)"/>
+    <path d="M248 85h54c7 0 13 6 13 13v28c0 7-6 13-13 13h-9l2 10-14-10h-33c-7 0-13-6-13-13V98c0-7 6-13 13-13Z" fill="url(#glass)" stroke="#ffffff" stroke-opacity=".9" stroke-width="2"/>
+    <path d="M252 104h43M252 116h31" stroke="#829dad" stroke-width="5" stroke-linecap="round" opacity=".8"/>
+  </g>
+</svg>

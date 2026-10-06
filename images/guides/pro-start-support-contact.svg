@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">Контакты технической поддержки</title>
+  <desc id="desc">Справочная карточка с адресом help@benza.ru для обращения по входу и подтверждению электронной почты.</desc>
+  <rect width="1280" height="520" rx="18" fill="#f2f7fb"/>
+  <rect x="98" y="92" width="1084" height="336" rx="18" fill="#fff" stroke="#c8dce9" stroke-width="2"/>
+  <rect x="98" y="92" width="1084" height="13" rx="6" fill="#004b84"/>
+  <text x="148" y="172" fill="#003f75" font-family="Arial,sans-serif" font-size="29" font-weight="700">Нужна помощь со входом?</text>
+  <text x="148" y="226" fill="#496a82" font-family="Arial,sans-serif" font-size="20">Напишите в техническую поддержку:</text>
+  <rect x="143" y="256" width="530" height="92" rx="10" fill="#eaf4fb" stroke="#0c71ae" stroke-width="2"/>
+  <text x="168" y="315" fill="#004b84" font-family="Arial,sans-serif" font-size="34" font-weight="700">help@benza.ru</text>
+  <text x="148" y="386" fill="#496a82" font-family="Arial,sans-serif" font-size="18">Укажите компанию, логин или Email и опишите проблему.</text>
+</svg>
