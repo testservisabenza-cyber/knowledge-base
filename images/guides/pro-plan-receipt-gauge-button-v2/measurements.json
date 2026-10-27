@@ -1,0 +1,76 @@
+{
+  "stations": {
+    "nav": {
+      "height": 39.640625,
+      "width": 250,
+      "x": 0,
+      "y": 256.3125
+    },
+    "open": {
+      "height": 28.0625,
+      "width": 36,
+      "x": 1613.203125,
+      "y": 368.046875
+    },
+    "scrollX": 0,
+    "scrollY": 0
+  },
+  "section": {
+    "edit": {
+      "height": 28.0625,
+      "width": 36,
+      "x": 1613.671875,
+      "y": 313.21875
+    },
+    "scrollX": 0,
+    "scrollY": 0,
+    "tab": {
+      "height": 41.5,
+      "width": 83.96875,
+      "x": 471.640625,
+      "y": 139.59375
+    },
+    "url": "https://pro.benza.online/station/301"
+  },
+  "gauge": {
+    "field": {
+      "height": 67.609375,
+      "width": 367,
+      "x": 1537,
+      "y": 263.75
+    },
+    "save": {
+      "height": 36.53125,
+      "width": 91.28125,
+      "x": 1537,
+      "y": 1005.953125
+    },
+    "scrollX": 0,
+    "scrollY": 0,
+    "url": "https://pro.benza.online/station/301"
+  },
+  "receipt": {
+    "gauges": [
+      {
+        "height": 36.53125,
+        "width": 164.328125,
+        "x": 957,
+        "y": 690.453125
+      },
+      {
+        "height": 36.53125,
+        "width": 164.328125,
+        "x": 1333.65625,
+        "y": 690.453125
+      }
+    ],
+    "scrollX": 0,
+    "scrollY": 0,
+    "section": {
+      "height": 67.609375,
+      "width": 352.65625,
+      "x": 1145.3125,
+      "y": 111
+    }
+  }
+}

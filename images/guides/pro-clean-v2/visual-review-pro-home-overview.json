@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "manifestHash": "aa5edab76e8853daa49eb3695a113b7521c88b486adf3aab5de19a14099bbe55",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-home-overview",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": false,
+    "backgroundModes": false,
+    "stepNavigation": false,
+    "imageZoom": false,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": false
+  },
+  "shots": [
+    {
+      "output": "home-map.svg",
+      "sourceHash": "4d280d3ee1882d7300cdaba1a31080736cb1cbb0e9159814f01d6a5c2af862d9",
+      "svgHash": "5fb2f17d6dbe062b67de5a3d4ad0b72a554b5b0dc769106742fbd8a512cef3b1",
+      "stepText": "Карта, маркеры и секции\nМаркер на карте обозначает станцию. Для ориентира можно менять масштаб кнопками «+» и «−». Нажатие на маркер открывает короткую карточку объекта.\nВ карточке маркера показаны название резервуара и текущий остаток. Это краткая сводка: подробности отдельной секции находятся в правом блоке карты.\nВ блоке справа под названием резервуара перечислены его секции. Раскрытая строка секции показывает её данные. Для каждой секции отдельно указан вид топлива.\nВ раскрытой секции показаны объём, текущий объём, заполненность и время последнего получения данных с уровнемера. Перед использованием цифры проверьте дату: устаревшее или отсутствующее время означает, что свежесть показания не подтверждена.\nЕсли у станции включён математический остаток, он рассчитывается по учётным операциям. Такой показатель не является текущим измерением уровнемера. Режим учёта проверяют в карточке станции.",
+      "stepTextHash": "9191ab1419cfd7276532b23cc98529defee55e3099f9b454ffcf2c8a811ba7aa",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "station-fields.svg",
+      "sourceHash": "2946d2e27a31803faa123627876935ff7712ced0efe2cb4272a4821339481546",
+      "svgHash": "47b209ed776df6e5296ed642a2eebaa991032d042936158e412fda9c84298059",
+      "stepText": "Координаты, цвет и свежесть данных\nПоложение станции берётся из её долготы и широты. Если координаты не заполнены, объект может отсутствовать на карте. Цвет помогает оценить заполненность: зелёный — топлива достаточно, жёлтый — остаток снижается, красный — очень низкий.\nПри проверке остатка учитывайте время показаний. Ошибка получения времени или старое показание не подтверждают фактическое количество топлива сейчас. Сначала проверяют связь, привязку уровнемера и секцию; математический остаток рассчитывается по учётным операциям и не является измерением датчика.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по настройке станции](/articles/pro-station-settings).",
+      "stepTextHash": "27c045dcf8ac3b6a7c55d461edbc20abadcb1695d74c93d8350da60263f8338e",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "home.svg",
+      "sourceHash": "7abb02f825ddf98c7b1618c7232845eb2f1733e6f3ac20622da380342a5902b4",
+      "svgHash": "c3f4a6eef9a2707352f671c2bffabbfe0653e42e0b666b20172dfa098a08a209",
+      "stepText": "Как устроен главный экран\nВ левом меню находится раздел «Главная». На рабочем экране расположены виджеты: карта, отпуск и поступление топлива, контроллеры, компании, автоотчёты, последние заправки, приход топлива и уведомления. Скрытый виджет не означает, что его данные удалены.\nВерхняя панель содержит переход в базу знаний, техническую поддержку, колокольчик сообщений и меню профиля. В профиле можно проверить, под каким логином и ролью выполнен вход, или выйти из сервиса.",
+      "stepTextHash": "f4ad7ba47487dd268a557b9b36b9f08cdba088edecea6dbbeb4e35410636a063",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "home-widgets.svg",
+      "sourceHash": "741442f65c5b40f2ba4a182cda86f0f97b170725d835f0a0781ea3ac568dc403",
+      "svgHash": "95858a163ddbeb9e1d3c0cd3c11429cf5ccb2c8c919e8ea9ae553d55fc2dca39",
+      "stepText": "Выбор и расположение виджетов\nУправление виджетами позволяет выбрать нужные блоки, разблокировать их перемещение и зафиксировать раскладку после настройки. Кнопка обновления в отдельном блоке перечитывает его данные; она не меняет параметры контроллера.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по настройке виджетов](/articles/pro-widgets).",
+      "stepTextHash": "c855e6e2332c130a9a39fac6d5eecfbfe4812cbd5fc4a9f5cb5484db5691d1f5",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "home-graphs.svg",
+      "sourceHash": "720585f831136c18dd0b963e84023c2f708118d5b87aad6b33a5959efff24245",
+      "svgHash": "c6cd1d5538eddd1c8812ac0ecb675508051d74ef344c54e7b958d6b7bc4c1d85",
+      "stepText": "Отпуск и поступление топлива\nНад графиком показаны итоги за текущий день и месяц. Столбцы ниже распределяют отпуск по датам; это помогает увидеть дни с выдачей топлива и сравнить объёмы.\nСоседний график показывает итоги поступления за день и месяц. В текущем интерфейсе легенда разделяет данные уровнемеров и данные по накладной при математическом остатке — при сверке учитывайте выбранный источник.",
+      "stepTextHash": "20af1309b74746bf9e854e1d1f6f70ee938ebbfc0dbc7fbd0f021bfcd2159499",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "home-summary.svg",
+      "sourceHash": "36ca3648792ab108c8d0e03f0714319bfd1aa28d4e4a409912ff1b0f85727cac",
+      "svgHash": "7e4944a579fe092e09dd0531cf77a59f800a65237ffc63f8c12966e39dca3586",
+      "stepText": "Контроллеры, компании и автоотчёты\nСводка показывает, сколько контроллеров на связи и без связи, а также состояние лицензий. Если конкретное устройство вызывает вопрос, откройте «Контроллеры (ТРК)» и сравните его строку со временем успешного опроса.\nВиджет автоотчётов показывает три последних сформированных файла. В соседнем блоке видны количества действующих, заблокированных, главных и обслуживаемых компаний. Подробности находятся в соответствующих разделах.",
+      "stepTextHash": "de3adf6de83b28f2578b14e527aa298f59438a394d996c3905feee6a2f0a80b2",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "home-fillings.svg",
+      "sourceHash": "60d0584016ade17083f0b11030c482c17cace5ed76b18707f6d037decd0dcc52",
+      "svgHash": "822fc4c09976570b58ea2efd52519118c8ac024df103a3ba207b896739526237",
+      "stepText": "Последние заправки\nВ таблице каждая строка относится к отдельной заправке. По столбцам можно сверить пользователя, дату, вид топлива, количество, компанию и контроллер. Таблица показывает недавние записи; для поиска за произвольный период используйте «Аналитика».",
+      "stepTextHash": "5d0a3b061a99de4ae69e469c32cdd1e08671a9114b2158cd20adc6c1d3a5b361",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "home-intake.svg",
+      "sourceHash": "662a1bd515429ac9a44d0b56938eecb20bbf8fcd07da307dea4fdb9f7eed720e",
+      "svgHash": "96a32d31a918f670561727c28cf8e9998fc3e573f1e71321696695804584043e",
+      "stepText": "Приход топлива и уведомления\nТаблица «Приход топлива» показывает поставки по секциям: фактический приход, объём по накладной, дату операции, дату изменения и пользователя, который оформил запись. Разница между измеренным приходом и накладной помогает при сверке поставки.\nВиджет «Уведомления» показывает события сервиса. Полный список сообщений доступен через колокольчик, а правила отправки на почту задаются отдельно в разделе «Оповещения».\nДля пошаговой настройки нажмите кнопку [Открыть обзор поступления топлива](/articles/pro-plan-receipt-model).\nДля пошаговой настройки нажмите кнопку [Открыть обзор оповещений](/articles/pro-plan-alerts-view).",
+      "stepTextHash": "5beb62b147a234659cc981b414fb3a47a9f5ae826d1907f2357a0e6d5e14eb12",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    }
+  ]
+}

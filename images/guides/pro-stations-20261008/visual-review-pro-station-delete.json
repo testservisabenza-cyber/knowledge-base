@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "manifestHash": "862ad05e9bfdf9438706a7585c61af003e8998472bf77959f696d6e113a1d70b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-station-delete",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "station-nav.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "bd5d9c30ab8b3b7ee8d00312e71975f4365ac4c7c0a3063c5ff0553d57da4fa5",
+      "stepText": "В левом меню откройте раздел «Станции».",
+      "stepTextHash": "afbef995451875c8acc71a8fb1aae10d94f25aa877480e7435aa92c3b181894a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Раздел Станции (0, 256, 246x40). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-find-training.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "c738fbf64465b0dd3b162a1770097eb4b3fc5790fb284b8b3f43179fb625258f",
+      "stepText": "Найдите объект, который нужно удалить. Для поиска можно воспользоваться фильтром под заголовком «Название». Сверьте название и компанию в его строке.",
+      "stepTextHash": "290258755815a261062fd62cb86f95f91e619f375ddd2becefbfb6985a7afb20",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Учебный резервуар №1 (286, 230, 1574x61); 1: Пустой фильтр по названию (300, 191, 287x32). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "station-delete-button.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "4ec7b7a01d850fcc36339acadf0a49c4ccac6fdafdf0c57ab78bbc5f551e4e69",
+      "stepText": "В той же строке нажмите красную кнопку с корзиной.",
+      "stepTextHash": "be1d85e14e7dd8344530fe8710ad2e4884a21acd7acb35b6ad0f756376b17220",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Удаление станции (1681, 246, 36x28). Стрелки: к рамке 0: точно в угол bottom-right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-delete-confirm.svg",
+      "sourceHash": "b923b6319ee6866f986dd47ce86309bbba4168f0edef944868fb60b310eedb02",
+      "svgHash": "1c56ec68e9870dff81998869b6cdc1188acd4ff39d7c0db6bca6674b4030d0d9",
+      "stepText": "Прочитайте предупреждение: оно перечисляет данные, которые будут удалены вместе со станцией. Если действительно нужно удалить выбранную станцию, нажмите «Подтвердить». Удаление нельзя отменить после подтверждения.",
+      "stepTextHash": "f19ad72837ba63095f675e86386aa00ef922bd7737559a74f6f9e8d949c34aa4",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Подтвердить удаление (993, 289, 105x37). Стрелки: к рамке 0: прямая к стороне left; проходят вне подписей и соседних кнопок.  В окне удаления выделено только подтверждение; отмена без меток."
+    }
+  ],
+  "inspectedAt": "2026-10-08",
+  "inspectionEnvironment": "Individual clean sources and complete SVGs: 1920x1080. Article viewport: 1920x889; both themes, background choices, step navigation, 125% image zoom and PNG clipboard inspected. Original dark theme and background restored."
+}

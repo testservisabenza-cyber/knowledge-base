@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-config",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка по ширине меню с отступом справа, прямая стрелка. Исходник, полный SVG, фото в статье и увеличении просмотрены индивидуально. Заглушек, курсора, водяного знака и пересечений текста нет."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка к открытию второй строки, отдельно от корзины. Исходник, полный SVG, фото в статье и увеличении просмотрены индивидуально. Заглушек, курсора, водяного знака и пересечений текста нет."
+    },
+    {
+      "output": "operations-button.svg",
+      "sourceHash": "8243b7289e1b670096b12adea8d438d285f58935bf20c99a40232d790fd6d938",
+      "svgHash": "4ee615bf280c90ed186a1a92e29438c55007de4401c8faf772665e8b2f9c1448",
+      "stepText": "В карточке откройте меню «Действия с контроллерами».",
+      "stepTextHash": "78c07c84e55216a16863c59e0ad840b863f6cd88d2cd10a5b7fdd95af6d9b38c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Меню действий, горизонтальная стрелка слева. Исходник, полный SVG, фото в статье и увеличении просмотрены индивидуально. Заглушек, курсора, водяного знака и пересечений текста нет."
+    },
+    {
+      "output": "operations-config.svg",
+      "sourceHash": "8243b7289e1b670096b12adea8d438d285f58935bf20c99a40232d790fd6d938",
+      "svgHash": "b80584051d891ba2f88079fabed0c2048314063e96e46a8a6a5efd3aa1d491b2",
+      "stepText": "Выберите «Установка конфигурации».",
+      "stepTextHash": "3dbc27785f5be5f5ffacbad8d4e03a52832694d4b5976f5a1c51ce7e0edd5d93",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только пункт установки конфигурации, стрелка слева. Исходник, полный SVG, фото в статье и увеличении просмотрены индивидуально. Заглушек, курсора, водяного знака и пересечений текста нет."
+    },
+    {
+      "output": "config-dialog.svg",
+      "sourceHash": "94148b856040c8e808432106580d77bbb67dc7df920ed657c9a2efde1b71a43b",
+      "svgHash": "649a0e8dd782b65baeead595b5cda26c72c4bf33a5688389da4c72d4898010f9",
+      "stepText": "В форме откройте поле «Конфигурация».",
+      "stepTextHash": "a991b95fa521c3195eb5ff29c1a3878cbedbd3ed467a94e23b9001dfa87251b9",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Поле и подпись в одной рамке по ширине белого окна; без стрелки по правилу пользователя. Исходник, полный SVG, фото в статье и увеличении просмотрены индивидуально. Заглушек, курсора, водяного знака и пересечений текста нет."
+    },
+    {
+      "output": "config-apply.svg",
+      "sourceHash": "94148b856040c8e808432106580d77bbb67dc7df920ed657c9a2efde1b71a43b",
+      "svgHash": "8e0b090295cf151817c72c16177e1071c16a66ad2d364815152160896fe54f28",
+      "stepText": "После сверки с оборудованием нажмите «Установить конфигурацию». Дождитесь результата обмена с контроллером.",
+      "stepTextHash": "7becb4604571b9097f63d1546646034772c86fbfa5bfcf804dd96a4be2895b0d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка установки и горизонтальная стрелка справа. Исходник, полный SVG, фото в статье и увеличении просмотрены индивидуально. Заглушек, курсора, водяного знака и пересечений текста нет."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи контроллер будет работать с выбранной конфигурацией ТРК.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "663649a557de51a6c380a475859be8897b2261c999de9c82c62d2d052a1daccd",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Реальное окно записи и стрелка вверх к кнопке, запись не запускалась. Исходник, полный SVG, фото в статье и увеличении просмотрены индивидуально. Заглушек, курсора, водяного знака и пересечений текста нет."
+    },
+    {
+      "output": "card-configuration.svg",
+      "sourceHash": "913dd4ddf985b5ca5165ef12802a76fe209d389870cc70010aaa0ecc06209270",
+      "svgHash": "4705ec9d908315687032e321cd3d42f17d614936695befdaecaaa07a354f5346",
+      "stepText": "Проверьте обозначение конфигурации рядом с ID в заголовке карточки.",
+      "stepTextHash": "894de5a565760de946e913fd9e518fc654c2eebcecd792bb3c209e6cc66a3047",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только текущая конфигурация Электромеханическая в заголовке, без стрелки. Исходник, полный SVG, фото в статье и увеличении просмотрены индивидуально. Заглушек, курсора, водяного знака и пересечений текста нет."
+    },
+    {
+      "output": "config-options.svg",
+      "sourceHash": "79ddf25eade1cb1fbf2970ebd868501f32bbbff56670c41ee5570b2c064337f2",
+      "svgHash": "ec65e3a3d674ce113c1f6dd115a0f4060d9a58a7dd2049d4c6c754ee32e7ac08",
+      "stepText": "Выберите вариант по типу установленной ТРК и схеме подключения. В списке есть «Электромеханическая», «Ливенка», «АЗТ 2.0 (Топаз, Квант)», «Гилбарко», «Токхейм Индия», «SmartGO Benza» и «Топливный склад».",
+      "stepTextHash": "11c2ea237fabf432fbb4c72b47fd7327f404e3995a6f93e1b565bda71c323574",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Реальный раскрытый список всех перечисленных конфигураций, единая рамка без стрелки. Исходник, полный SVG, фото в статье и увеличении просмотрены индивидуально. Заглушек, курсора, водяного знака и пересечений текста нет."
+    }
+  ]
+}

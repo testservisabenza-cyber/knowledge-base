@@ -1,0 +1,303 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/forgot-link.png",
+      "output": "forgot-link.svg",
+      "title": "Открыть восстановление пароля",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/Login",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 17,
+          "selector": "#forgot-password",
+          "target": "Забыли пароль?",
+          "width": 134.40625,
+          "x": 892.796875,
+          "y": 513.296875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            830.796875,
+            521.796875
+          ],
+          "toSide": "left"
+        }
+      ],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 620,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    },
+    {
+      "source": "source/request.png",
+      "output": "request.svg",
+      "title": "Запросить восстановление",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/ForgotPassword",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 66.140625,
+          "selector": ".form-group",
+          "target": "Email регистрации с подписью",
+          "width": 395,
+          "x": 762.5,
+          "y": 202.125
+        },
+        {
+          "height": 36.53125,
+          "selector": "form button",
+          "target": "Восстановить",
+          "width": 395,
+          "x": 762.5,
+          "y": 292.265625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "from": [
+            700.5,
+            310.53125
+          ],
+          "toSide": "left"
+        }
+      ],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 620,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    },
+    {
+      "source": "source/request-sent.png",
+      "output": "request-sent.svg",
+      "title": "Письмо отправлено",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/ForgotPasswordConfirmation",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 620,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      },
+      "unannotatedReason": "По уточнению пользователя от 26.10.2026: обычное текстовое сообщение об отправке ссылки не требует рамки или стрелки."
+    },
+    {
+      "source": "source/new-password.png",
+      "output": "new-password.svg",
+      "title": "Задать новый пароль",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/ResetPassword",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 232.703125,
+          "selector": "form .mb-3",
+          "target": "Email, пароль и подтверждение с подписями",
+          "width": 395,
+          "x": 762.5,
+          "y": 202.125
+        },
+        {
+          "height": 36.53125,
+          "selector": "form button.btn-primary",
+          "target": "Изменить пароль",
+          "width": 395,
+          "x": 762.5,
+          "y": 450.828125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "from": [
+            700.5,
+            469.09375
+          ],
+          "toSide": "left"
+        }
+      ],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 620,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    },
+    {
+      "source": "source/mail-link.png",
+      "output": "mail-link.svg",
+      "title": "Открыть ссылку из письма",
+      "sourceUrl": "https://e.mail.ru/inbox/1:163dd0f3592f501c:0/",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 17,
+          "selector": "a[href*=\"/Identity/Account/ResetPassword\"]",
+          "target": "Сбросить пароль",
+          "width": 120.234375,
+          "x": 831.390625,
+          "y": 369
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            891.5078125,
+            326
+          ],
+          "toSide": "top"
+        }
+      ]
+    },
+    {
+      "source": "source/mail-inbox.png",
+      "output": "mail-inbox.svg",
+      "title": "Найти письмо восстановления",
+      "sourceUrl": "https://e.mail.ru/inbox/",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 48,
+          "selector": "a[href=\"/inbox/1:163dd0f3592f501c:0/?\"]",
+          "target": "Письмо «Сброс пароля» от benzamatPay",
+          "width": 1396,
+          "x": 272,
+          "y": 244
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            551.2,
+            202
+          ],
+          "toSide": "top",
+          "toOffset": 0.2
+        }
+      ]
+    },
+    {
+      "source": "source/reset-confirmed.jpg",
+      "output": "reset-confirmed.svg",
+      "title": "Перейти ко входу с новым паролем",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/ResetPasswordConfirmation",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 17,
+          "selector": "a[href=\"/Identity/Account/Login\"]",
+          "target": "Авторизоваться",
+          "width": 109.265625,
+          "x": 762.5,
+          "y": 247.34375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            700.5,
+            255.84375
+          ],
+          "toSide": "left"
+        }
+      ],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 620,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      },
+      "provenance": "Успешный сброс подтверждён на странице результата в Chrome после действия пользователя. Чистый снимок того же публичного экрана снят во встроенном браузере."
+    },
+    {
+      "source": "source/login-new.jpg",
+      "output": "login-new.svg",
+      "title": "Войти с новым паролем",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/Login",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 149.421875,
+          "selector": "form .mb-3",
+          "target": "Email и новый пароль с подписями",
+          "width": 395,
+          "x": 762.5,
+          "y": 202.125
+        },
+        {
+          "height": 36.53125,
+          "selector": "form button.btn-primary",
+          "target": "Войти в систему",
+          "width": 395,
+          "x": 762.5,
+          "y": 421.15625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "from": [
+            700.5,
+            439.421875
+          ],
+          "toSide": "left"
+        }
+      ],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 620,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    },
+    {
+      "source": "source/login-result.jpg",
+      "output": "login-result.svg",
+      "title": "Доступ к кабинету восстановлен",
+      "sourceUrl": "https://pay.benza.online/Users/User/Single/1698",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 21.59375,
+          "selector": "h2",
+          "target": "Заголовок открытого личного кабинета",
+          "width": 393.71875,
+          "x": 274,
+          "y": 101.46875
+        }
+      ],
+      "arrows": []
+    }
+  ]
+}

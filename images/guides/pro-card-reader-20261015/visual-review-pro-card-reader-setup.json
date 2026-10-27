@@ -1,0 +1,433 @@
+{
+  "version": 1,
+  "manifestHash": "b321a5e96362b5b75dde0f6de00df282b9ee91a48f4f1dc1b45cf9743a2c3a50",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-card-reader-setup",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "step-01.svg",
+      "sourceHash": "d377a743a68d8a1f24137691090fbb72a0fc34e8b0e1d54bd0c2ae9263b4958d",
+      "svgHash": "788e5db7151e15698ded642d78a34fc2e3a78df953ab97aafe311394fd045475",
+      "stepText": "Скачайте «Считыватель карт для benzamat ПРО.» кнопкой ниже. Программа также доступна в разделе «Программное обеспечение» базы знаний.",
+      "stepTextHash": "231c939a1a4d080b32b0c17d6440d55c322f524761e71b00b5076398a680f78d",
+      "clickTargets": [
+        1
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "В чистом кадре базы выделены строка считывателя и кнопка скачивания; стрелка справа проходит по пустой области. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    },
+    {
+      "output": "step-02.svg",
+      "sourceHash": "163adc94a629707c511135c38593f92d24080d92fb0979929fef1175ef9fb012",
+      "svgHash": "70e79380321d380771156a42ce1f96e979a062956325ec8739382ede954844d4",
+      "stepText": "Откройте скачанный установщик «setupBenzamatProReader». В окне мастера установки нажмите «Далее».",
+      "stepTextHash": "d7db6b55395d4779cdb6ad7347410026a9b822e73e1b0d5fac8d0f12432eefb3",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полное окно установщика. Рамка вокруг «Далее», вертикальная стрелка сверху не пересекает подписи. Проверены обычный вид статьи и увеличение, цель различима и соответствует тексту."
+    },
+    {
+      "output": "step-03.svg",
+      "sourceHash": "3691e0664e0df3e9c754d21afc2037c25633297ff8e75917fa01acbb47fada00",
+      "svgHash": "01ce33466d7ce963f182fa2a89db0f7f20ae086edbe74e8c7c9d4ce90b1b7d93",
+      "stepText": "В «Дополнительных задачах» оставьте отмеченными «Создать значок на Рабочем столе» и «Установка Net 7.0».",
+      "stepTextHash": "8164a923060eef01563eb8ccc533636be6c8ca7888282692012b5e03784bad90",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полное окно дополнительных задач. Оба флажка выделены одной рамкой со свободным местом вокруг текста. Проверены обычный вид статьи и увеличение, цель различима и соответствует тексту."
+    },
+    {
+      "output": "step-04.svg",
+      "sourceHash": "3691e0664e0df3e9c754d21afc2037c25633297ff8e75917fa01acbb47fada00",
+      "svgHash": "eb1a5abfee1d3ba1bc02c00a082e9da32fa016afffbaa9e2beb1560dbc0bce43",
+      "stepText": "Нажмите «Далее» и завершите установку по подсказкам мастера.",
+      "stepTextHash": "9281f984f6db8cb27fee370c3fb7c09c2bc1f07a2b9a5e64d78d44a51bfff57d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Окно дополнительных задач сохранено целиком. Выделена только кнопка «Далее», стрелка проходит через пустой фон. Проверены обычный вид статьи и увеличение, цель различима и соответствует тексту."
+    },
+    {
+      "output": "step-05.svg",
+      "sourceHash": "702d9fef65006f87a3a491410367e6db97d2a1dce7ceb6c9ea0c2e18713d3c1a",
+      "svgHash": "26a6f4f2d842e85bad108b98bfc87c5c8511d0f09f191068c6f23954ba16df8e",
+      "stepText": "Запустите программу «benzamat ПРО. Считыватель карт». В её окне находятся поля «Адрес сервера» и «ID пользователя».",
+      "stepTextHash": "0ada02ba742faf4d378a26c911a20eb004437d94e685c5a93ee8fc5750a40cf3",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Первый запуск из вложения пользователя. ID пустой, выделены только подписи и поля адреса и ID без кнопки сохранения. Проверены обычный вид статьи и увеличение, цель различима и соответствует тексту."
+    },
+    {
+      "output": "step-06.svg",
+      "sourceHash": "702d9fef65006f87a3a491410367e6db97d2a1dce7ceb6c9ea0c2e18713d3c1a",
+      "svgHash": "03628f51c3b95a4310ad5f364cad9262143065f187b6264a8fa3b9b3f31a0e0d",
+      "stepText": "В поле «Адрес сервера» укажите pro.benza.online.",
+      "stepTextHash": "f33b947d6f018423ebb4b4bb1fdaee68302f3b061c9e2ddd6e174435a950da75",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "На исходнике первого запуска выделены только подпись и поле адреса сервера. ID и сохранение не обведены. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    },
+    {
+      "output": "step-07.svg",
+      "sourceHash": "d95329c3ef401ada427348e38e91b18825366523c79da053190f34521f795af6",
+      "svgHash": "06ef23914bee723a352bcb55f20dddf3f34ed079110703c614b9dbe6f575c29f",
+      "stepText": "В ПРО нажмите значок пользователя в правом верхнем углу. В открывшемся меню посмотрите логин учётной записи, под которой вы вошли. Программа считывателя будет передавать номер карты этой учётной записи.",
+      "stepTextHash": "fba27915a07cd808fd262f50863ed62841838e81708302b63a9ddd22115a8cc7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "В сохранённом веб-кадре видны профиль и логин Test66. Диагональная стрелка приходит точно к верхнему левому углу кнопки, не закрывая уведомления и логин. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    },
+    {
+      "output": "step-08.svg",
+      "sourceHash": "49d1f9ba84c94d0ebe13d00d53311dd52c0f127ac590b49be3e995d8bbfe7839",
+      "svgHash": "c7d8aafe006d5295c26dd076e82246ba02abb91a01479ee98c7087105168ac65",
+      "stepText": "В левом меню ПРО откройте раздел «Пользователи».",
+      "stepTextHash": "797e5d859b76c87f227ec569ef4d1f1bc26f34b562d7ad4ad73362d1f6b394b4",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделен пункт «Пользователи» по ширине левого меню. Прямая стрелка справа не пересекает его надпись. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    },
+    {
+      "output": "step-09.svg",
+      "sourceHash": "c64933894339ae260b1242f3366f4a0646c5a81a86fefca771f1cd180e6808fb",
+      "svgHash": "b3de1855717404bcc666c123ce7901292f9521e185fb7d3f0fc1c14313ea6eeb",
+      "stepText": "Найдите пользователя с логином из меню профиля. Для поиска можно воспользоваться фильтром под заголовком «Логин». В этом примере используется учётная запись Test66.",
+      "stepTextHash": "11c059cfaccf6c595e1e5dab2fb2230a1f59768b82b893e87ee7ec0aef634d94",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "На реальном кадре отфильтрован Test66. Выделены фильтр логина и вся найденная строка. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    },
+    {
+      "output": "step-10.svg",
+      "sourceHash": "c64933894339ae260b1242f3366f4a0646c5a81a86fefca771f1cd180e6808fb",
+      "svgHash": "060d60cd32c470ac57f2e64679272ffd268d10bc5cd51ccc4b60d34a351e6a02",
+      "stepText": "Нажмите стрелку в строке найденного пользователя.",
+      "stepTextHash": "04321b55d0fb5e6825264a8e7d26780c1aa2427fa24eda01ada12df2e822086c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка и стрелка выделяют кнопку перехода в строке Test66; соседняя корзина не выделена. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    },
+    {
+      "output": "step-11.svg",
+      "sourceHash": "cfa7ee524f52865030d705f3b057f5af6222e51be50d9b74a8f709cfd38fdd3b",
+      "svgHash": "58e075443b4eb9c550638f63ed73c8c5b6c2f973947491d33b9645d1c2bbda1e",
+      "stepText": "В настройках пользователя скопируйте значение поля «External Id».",
+      "stepTextHash": "671466a1be400eb205d493ea114c537e6f3de48f934c280b8501146021a342e6",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "В карточке Test66 выделены подпись и поле External Id. Значение соответствует ID в новых снимках приложения. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    },
+    {
+      "output": "step-12.svg",
+      "sourceHash": "d39f12d3c9b10192e11cf77d31873a9cb3bbf9d3addfdc2a6cab365dc776cc8f",
+      "svgHash": "87403ae1b5750b9eb2ff4beb016277f73dea94c8ba446f5db6826bb732113307",
+      "stepText": "Вставьте скопированный External Id в поле «ID пользователя» программы считывателя. Используйте ID своей учётной записи.",
+      "stepTextHash": "11ef1b94db3a88418940e16650a978bf597dc6a2c76ec8b1b27819afb4ea9aa9",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Оригинал пользователя после ввода ID. Рамка вокруг поля ID и подписи, без сохранения и поля адреса. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    },
+    {
+      "output": "step-13.svg",
+      "sourceHash": "d39f12d3c9b10192e11cf77d31873a9cb3bbf9d3addfdc2a6cab365dc776cc8f",
+      "svgHash": "5721b7602a9e135799566792b00a0cc630aa09b3d295c722618e7224efb45146",
+      "stepText": "Нажмите «Сохранить» в программе считывателя.",
+      "stepTextHash": "dd8157013d74efe9c6f2447e3b406613dc7617ad20600ef58bf5168ab4da0c92",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Тот же оригинал с введённым ID. Рамка вокруг «Сохранить», короткая горизонтальная стрелка справа в свободной области. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    },
+    {
+      "output": "step-14.svg",
+      "sourceHash": "09a4f5eaa0215a8017f054aafdaa99eacb252a9ebdb0d1c0bb5e6a6bd823a6b8",
+      "svgHash": "3a8d0b8082a04bb8aea4f6ed04784c81ae75484a2de4b47a9bda5fe8d4ae3727",
+      "stepText": "В правом нижнем углу экрана появится уведомление «Сохранение данных авторизации». Оно подтверждает, что адрес сервера и ID пользователя сохранены.",
+      "stepTextHash": "faa0a3c3349b529f3ba10dbbbf46ae6d939fc5732670ea4436495865d1e2b75e",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "16 октября: ненужная рамка удалена. Исходник неизменен; итоговый кадр просмотрен в увеличении и статье. Отдельное уведомление читается без дополнительных выделений. Уточнено расположение уведомления в правом нижнем углу экрана; актуальный текст проверен в открытой статье, изображение не менялось."
+    },
+    {
+      "output": "step-15.svg",
+      "sourceHash": "990502bb689210d692df600d0ba993c7ecad505d410a5dcd842e190171f784da",
+      "svgHash": "a1d8ac64f16564f769de71c54066d5c874c6316e75e413d5be8213b0f3a0653b",
+      "stepText": "Подключите USB-считыватель карт к компьютеру. В строке «Считыватель, версия ПО» проверьте, что программа определила устройство. Если строка не обновилась, перезапустите программу после подключения USB.",
+      "stepTextHash": "826ae11730a0f36a27cdbd5e8946d4da7d161721f72dea503e40dfcffc6bad19",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Реальный подключённый RFID-считыватель и версия ПО 2.2.0. Рамка только у строки устройства, карта ещё не считана. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    },
+    {
+      "output": "step-16.svg",
+      "sourceHash": "16be4176a5d8b0473bee0a7d52f008d5ec384e8978303ee324e5831ec4e96bf1",
+      "svgHash": "baba73e9d5437639acad7571b1dc44884790c5fe9eef7cfbbb235b6a7b090947",
+      "stepText": "Приложите карту к USB-считывателю. Прикладывайте её после запуска программы: карта, оставленная на считывателе заранее, может не определиться; тогда уберите и приложите её снова.",
+      "stepTextHash": "7ab9f1c216da2757996dabe63ee0b075bffe533e409dcc3b38d5b33df873d990",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "16 октября: косметическая ретушь по явной просьбе пользователя (заусенцы, печать карты, свет и чёткость). Оригинал сохранён отдельно. Обработанный источник просмотрен полностью; кадр без разметки проверен в статье и увеличении. Настоящее расположение карты и считывателя сохранено, ретушь указана в README и provenance. Ширина статьи по-прежнему ограничена 480 px."
+    },
+    {
+      "output": "step-17.svg",
+      "sourceHash": "129872ca9e1b1ff1143f2f03b4a5bb80b19aedaee587a6c596f21f606ea6bd5c",
+      "svgHash": "0398e289c862870b6fcb36da8515ffe703b5d399e29d298096f5f151988460ca",
+      "stepText": "В строке «Номер карты» должны появиться считанный номер и тип карты.",
+      "stepTextHash": "93e76fd3f08a778ebf2e4b859abc4ccc0ac9f03722655205eb51311abbca549d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Реальная считанная карта MIFARE 1KB с номером 76 24 C9 69. Выделена только строка номера и типа, кнопка копирования не затронута. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    },
+    {
+      "output": "step-18.svg",
+      "sourceHash": "ecaeb90e4dfc12e66a23d1b9db5e37eef4b1c6b854bc3afdf3b0f2164d1188e6",
+      "svgHash": "79c3864ae51f8d030c8c4e2994e5aaedd5a4f1263c31f6902bdad5b5a61bb1b6",
+      "stepText": "В правом нижнем углу экрана появятся уведомления «Чтение номера карты» и «Отправка номера в benzamat ПРО.». Они подтверждают, что карта считана и её номер передан в сервис.",
+      "stepTextHash": "8e9693a9854693b072c0274df211ccbda180650620cc818a6ecbc70154646230",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "16 октября: ненужная рамка удалена. Исходник неизменен; итоговый кадр просмотрен в увеличении и статье. Отдельное уведомление читается без дополнительных выделений. Уточнено расположение уведомления в правом нижнем углу экрана; актуальный текст проверен в открытой статье, изображение не менялось."
+    },
+    {
+      "output": "step-19.svg",
+      "sourceHash": "392c73a2391116d63449ec006079cee88f93d26b7d1b9e16e443e64ea99eb3b8",
+      "svgHash": "56d2652935b3b2d7e6b156cc680f605e497afcfca918d8194dcb8aca9f51a658",
+      "stepText": "Чтобы подставить считанный номер в карточку пользователя или ТС, выберите соответствующий тип считывателя и нажмите «Получить номер карты».",
+      "stepTextHash": "1243cf27cd5f96dac648802de6c55a19592a469fdf0da8947e1dc646006b20a1",
+      "clickTargets": [
+        1
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Настоящая форма пользователя. Поля авторизации и карты выделены по ширине белой панели, кнопка получения номера имеет собственные рамку и стрелку. Проверены обычный вид статьи и увеличение; цель видна и соответствует тексту."
+    }
+  ],
+  "articleInspectionNote": "Все 19 кадров просмотрены по отдельности, в статье и увеличении. Проверены светлая и тёмная темы, три режима фона, переходы шагов. Копирование вернуло image/png и статус «Скопировано». Ссылка на добавление ТС открыла отдельную вкладку; статья осталась открытой. Восстановлены тёмная тема и фон под инструкцией; размеры окна не переопределялись."
+}

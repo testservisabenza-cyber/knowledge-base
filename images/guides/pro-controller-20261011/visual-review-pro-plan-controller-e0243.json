@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-e0243",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка по ширине левого меню и горизонтальная стрелка справа. Исходник и полный SVG просмотрены; обычный размер и увеличение в статье проверены индивидуально."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка открытия второй строки отдельно от корзины, горизонтальная стрелка. Исходник и полный SVG просмотрены; обычный размер и увеличение в статье проверены индивидуально."
+    },
+    {
+      "output": "main-second-indicator.svg",
+      "sourceHash": "7a33687948df0718d9707fa149cec7f752f5fecd00df9d86a464838e4ed27198",
+      "svgHash": "422766cbae8820e9f6df3aaf08a7c99ceb47827aa833efc9665c5ade91c2a93d",
+      "stepText": "В поле «2-ой индикатор и клавиатура» выберите «Нет».",
+      "stepTextHash": "deea6f82e7c504d11eac2d331d5cb54bf3b9f3b9b9cfc0694e5c84d01eb8e213",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Подпись второго индикатора и поле Нет; рамка не касается букв. Исходник и полный SVG просмотрены; обычный размер и увеличение в статье проверены индивидуально."
+    },
+    {
+      "output": "main.svg",
+      "sourceHash": "7a33687948df0718d9707fa149cec7f752f5fecd00df9d86a464838e4ed27198",
+      "svgHash": "f2c4df54e29ec93796508edc39c782868938b67e31a7018b42728db37886b2b8",
+      "stepText": "Во вкладке «Настройки» откройте «Основное».",
+      "stepTextHash": "0e018cafbde2577644540d7208e91dd57d886beb8440d08dce09815984460735",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Основное выделено по ширине внутреннего меню, диагональ точно в угол. Исходник и полный SVG просмотрены; обычный размер и увеличение в статье проверены индивидуально."
+    },
+    {
+      "output": "main-save.svg",
+      "sourceHash": "4966b9643d4cc3bdca3b0b32a3a1355003823fe03ba3cf4001f34c5c04e9d65a",
+      "svgHash": "c0b75c00cda09195e700e225d3bd6451c97ca04b7e0071646ca2b963eb799b7b",
+      "stepText": "Прокрутите форму вниз и нажмите «Сохранить».",
+      "stepTextHash": "a84abe7a14e93748a14be4c7d63c1e9e700fad9b26f79c345e7777bb7c8ce458",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить после естественной прокрутки, согласованный ракурс; горизонтальная стрелка справа. Исходник и полный SVG просмотрены; обычный размер и увеличение в статье проверены индивидуально."
+    }
+  ]
+}

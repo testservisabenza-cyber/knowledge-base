@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "manifestHash": "dd0b632f57915098bcd36311d4323c01920d88216d754c8c9078c538a117886c",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-report-gsm-mass",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "gsm-mass-nav.svg",
+      "sourceHash": "5ca7531b2fbf3f3b88430d52b1acb2304858998b14bf1af44ca0b7336ace64ca",
+      "svgHash": "c0bc958034116a5ff9fe150cbe4fc8282a94bd4931c72ed321d025015d1a8634",
+      "stepText": "В открытом списке нажмите «Отпуск ГСМ по массе». Название отчёта появится над рабочей областью.",
+      "stepTextHash": "41a2f9c306e844612219856c83d2daf8d1ac16572486c473ef6b7bcd133383c7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Отпуск ГСМ по массе. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-mass-filter-button.svg",
+      "sourceHash": "5ca7531b2fbf3f3b88430d52b1acb2304858998b14bf1af44ca0b7336ace64ca",
+      "svgHash": "7c6b5980ad82e76f9a9e59e80c7ae22815a717793cfcdaa865d77550c4b69c9b",
+      "stepText": "Нажмите «Фильтр отчета» в правом верхнем углу страницы.",
+      "stepTextHash": "3f274914dcbac3f42e765a42b37c4140eb6bf55cd4f4a6759eccf58976c74d95",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Фильтр отчета. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-mass-company.svg",
+      "sourceHash": "410740c49a18f40058d854a5b0241403d1bbdcd0c35d90f942f07b2a200b08b7",
+      "svgHash": "7a50e51524d63dea4da6b78825eb02e4f6c97ee11803f0103cb81b6a2c6e809b",
+      "stepText": "В поле «Компания» выберите организацию, данные которой хотите посмотреть.",
+      "stepTextHash": "443835ee4fd5f41e709eda8416ab6c48e8356e1db890e39bbe1726d74cca2c32",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Компания — подпись и поле. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-mass-dates.svg",
+      "sourceHash": "410740c49a18f40058d854a5b0241403d1bbdcd0c35d90f942f07b2a200b08b7",
+      "svgHash": "1fef203d84d8ab224e78baba1243a7e828fbca5ae8d7257008b0ed4dc6f990aa",
+      "stepText": "Проверьте начальную и конечную даты и время. При необходимости исправьте их вручную: операции за пределами выбранного интервала не попадут в отчёт.",
+      "stepTextHash": "bac82dc46f967321fc3bf3e384b09c2291e5f32598e1a63d68419bb8d0388019",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Начальная и конечная даты. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-mass-submit.svg",
+      "sourceHash": "410740c49a18f40058d854a5b0241403d1bbdcd0c35d90f942f07b2a200b08b7",
+      "svgHash": "e40c93866bff2d9f3d9defcabb24145ec0529089b397e3ed1c34ef572597176e",
+      "stepText": "Нажмите «Сформировать». Отчёт покажет данные за выбранный период. Если подходящих записей нет, таблица будет пустой.",
+      "stepTextHash": "4cb3089a888bf453875e237d61bd931af91519147da1cbf5f8ab01b8908c79f8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Сформировать. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-mass-controller.svg",
+      "sourceHash": "410740c49a18f40058d854a5b0241403d1bbdcd0c35d90f942f07b2a200b08b7",
+      "svgHash": "dbcf921736d41fd523283b6f61c558c2e37222ed71a2bd1d35414c276f82dab9",
+      "stepText": "В поле «Контроллер (ТРК)» выберите устройство, операции которого хотите посмотреть.",
+      "stepTextHash": "3c219db0e73f2f3f0aae3dc1ae73473818b820dc932cd2465a3e453080d96bb3",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Контроллер (ТРК) и варианты отбора. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-mass-export.svg",
+      "sourceHash": "410740c49a18f40058d854a5b0241403d1bbdcd0c35d90f942f07b2a200b08b7",
+      "svgHash": "9a31437a04e04bbe22b83db6d318a8b6674dd1cbcc3649584c3744b6bf86bbe0",
+      "stepText": "Нажмите «Экспорт» под кнопкой формирования. Откроется список доступных форматов файла.",
+      "stepTextHash": "3f6dce76ff10360cb50807a17cf50063b9ef7fa2bc106bcf2f653589a41a402a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Экспорт. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "analytics-open.svg",
+      "sourceHash": "51a13b5fc62083edf501385e240f5405e8423d3dfd585855680476742933dfd0",
+      "svgHash": "85967b11eed60423dd01a7a26ac6c8fac372a23f1b596edb0c4a1a9482e3d0ff",
+      "stepText": "В левом меню раскройте «Аналитика». Появится список доступных отчётов.",
+      "stepTextHash": "d22c486b0c48f725844e74d28f7846a2fc70ad029c745eb659400844e5089783",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Аналитика. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага. Проверено в статье и просмотрщике с актуальным текстом шага."
+    }
+  ],
+  "articleInspectionNote": "Фактически проверены светлая и тёмная темы, фон/без фона, переходы между шагами, увеличение 125%, копирование со статусом Скопировано. Ссылки открываются в новой вкладке и сохраняют шаг. Прежнее оформление восстановлено."
+}

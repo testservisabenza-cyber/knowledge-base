@@ -1,0 +1,880 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/register-open.jpg",
+      "output": "register-open.svg",
+      "title": "Открыть регистрацию",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/Login",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 17,
+          "selector": "a[href=\"/Identity/Account/Register\"]",
+          "target": "Зарегистрироваться",
+          "width": 139.40625,
+          "x": 890.296875,
+          "y": 475.6875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            828.296875,
+            484.1875
+          ],
+          "toSide": "left"
+        }
+      ],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 620,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    },
+    {
+      "source": "source/register-fields.jpg",
+      "output": "register-fields.svg",
+      "title": "Заполнить регистрацию",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/Register",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 232.703125,
+          "selector": "form .mb-3",
+          "target": "Email, пароль и подтверждение пароля",
+          "width": 395,
+          "x": 762.5,
+          "y": 202.125
+        }
+      ],
+      "arrows": [],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 580,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    },
+    {
+      "source": "source/register-confirmed.jpg",
+      "output": "register-confirmed.svg",
+      "title": "Email успешно подтверждён",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/ConfirmEmail",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "a[href=\"/Dashboard\"]",
+          "target": "Авторизоваться",
+          "width": 124.640625,
+          "x": 762.5,
+          "y": 245.34375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            700.5,
+            263.609375
+          ],
+          "toSide": "left"
+        }
+      ],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 340,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    },
+    {
+      "source": "source/register-email.jpg",
+      "output": "register-email.svg",
+      "title": "Подтверждение почты в письме benzamatPay",
+      "sourceUrl": "https://light.mail.ru/",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 14,
+          "selector": "a: ссылка подтвердить",
+          "target": "подтвердить в письме",
+          "width": 70.171875,
+          "x": 811.234375,
+          "y": 369.078125
+        }
+      ],
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            953.40625,
+            376.078125
+          ],
+          "toSide": "right"
+        }
+      ],
+      "crop": {
+        "x": 635,
+        "y": 260,
+        "width": 660,
+        "height": 360,
+        "reason": "По запросу пользователя: увеличить текст письма и ссылку подтверждения, убрать пустое пространство вокруг полного тела письма."
+      }
+    },
+    {
+      "source": "source/login.jpg",
+      "output": "login.svg",
+      "title": "Вход в личный кабинет",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/Login",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 149.421875,
+          "selector": "form .mb-3",
+          "target": "Email и пароль",
+          "width": 395,
+          "x": 762.5,
+          "y": 202.125
+        },
+        {
+          "height": 36.53125,
+          "selector": "form button.btn-primary",
+          "target": "Войти в систему",
+          "width": 395,
+          "x": 762.5,
+          "y": 421.15625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "from": [
+            700.5,
+            439.421875
+          ],
+          "toSide": "left"
+        }
+      ],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 620,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    },
+    {
+      "source": "source/company-add.jpg",
+      "output": "company-add.svg",
+      "title": "Добавить компанию",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/All",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "button.btn-primary:not(.w-lg)",
+          "target": "Добавить компанию",
+          "width": 177.453125,
+          "x": 1718.546875,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1656.546875,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/company-fields.jpg",
+      "output": "company-fields.svg",
+      "title": "Заполнить сведения компании",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/All",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 558.984375,
+          "selector": "#offcanvasRight .form-group.mb-3",
+          "target": "Реквизиты компании",
+          "width": 472,
+          "x": 1444,
+          "y": 177.296875
+        }
+      ],
+      "measurements": {
+        "panel": {
+          "bottom": 1080,
+          "height": 1080,
+          "left": 1440,
+          "right": 1920,
+          "top": 0,
+          "width": 480,
+          "x": 1440,
+          "y": 0
+        }
+      },
+      "arrows": []
+    },
+    {
+      "source": "source/company-save.jpg",
+      "output": "company-save.svg",
+      "title": "Сохранить компанию",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/All",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#offcanvasRight .form-group.mt-3 button",
+          "target": "Добавить компанию",
+          "width": 149.546875,
+          "x": 1457,
+          "y": 752.28125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1395,
+            770.546875
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/company-open.jpg",
+      "output": "company-open.svg",
+      "title": "Открыть добавленную компанию",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/All",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 37.671875,
+          "selector": "a[href=\"/Companies/Company/Single/1575\"]",
+          "target": "Открыть карточку компании",
+          "width": 46,
+          "x": 1754.875,
+          "y": 343.8125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1692.875,
+            362.6484375
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/bank-open.jpg",
+      "output": "bank-open.svg",
+      "title": "Открыть банковские реквизиты",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/Single/1575",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.609375,
+          "selector": "#v-pills-bank-tab",
+          "target": "Банковские реквизиты",
+          "width": 375.5,
+          "x": 274,
+          "y": 273.75
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            212,
+            293.5546875
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/bank-fields.jpg",
+      "output": "bank-fields.svg",
+      "title": "Заполнить реквизиты",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/Single/1575",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 312.5625,
+          "selector": "#v-pills-bank .mb-3",
+          "target": "Банковские реквизиты",
+          "width": 1174.5,
+          "x": 673.5,
+          "y": 313.75
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/bank-save.jpg",
+      "output": "bank-save.svg",
+      "title": "Сохранить реквизиты",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/Single/1575",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#saveDataCompany",
+          "target": "Сохранить изменения",
+          "width": 162.5,
+          "x": 1733.5,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1671.5,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/credentials-open.jpg",
+      "output": "credentials-open.svg",
+      "title": "Открыть данные подключения",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/Single/1575",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.609375,
+          "selector": "#v-pills-loginandpassword-tab",
+          "target": "Логин и пароль",
+          "width": 375.5,
+          "x": 274,
+          "y": 352.96875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            212,
+            372.7734375
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/credentials.jpg",
+      "output": "credentials.svg",
+      "title": "Данные подключения оборудования",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/Single/1575",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 149.421875,
+          "selector": "#v-pills-loginandpassword .mb-3",
+          "target": "Данные для авторизации контроллеров",
+          "width": 1174.5,
+          "x": 673.5,
+          "y": 335.359375
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/orders-menu.jpg",
+      "output": "orders-menu.svg",
+      "title": "Открыть заказы",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/Single/1575",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "#side-menu a[href=\"/Orders/Order/All\"]",
+          "target": "Заказы",
+          "width": 246,
+          "x": 0,
+          "y": 215.265625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            290,
+            235.015625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/order-new.jpg",
+      "output": "order-new.svg",
+      "title": "Оформить новый заказ",
+      "sourceUrl": "https://pay.benza.online/Orders/Order/All",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "a[href=\"/Companies/Company/AddCompanyProduct\"]",
+          "target": "Оформить новый заказ",
+          "width": 172.40625,
+          "x": 1519.8125,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1457.8125,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/trial-select.jpg",
+      "output": "trial-select.svg",
+      "title": "Выбрать компанию и тестовый период",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/AddCompanyProduct",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.609375,
+          "selector": ".col-lg-5:has(#selectCompany)",
+          "target": "Компании",
+          "width": 675.828125,
+          "x": 262,
+          "y": 166.90625
+        },
+        {
+          "height": 36.53125,
+          "selector": "select[name=\"isTesting\"]",
+          "target": "Тестовый период",
+          "width": 1548,
+          "x": 299,
+          "y": 398.125
+        },
+        {
+          "height": 36.53125,
+          "selector": "input[type=\"submit\"]",
+          "target": "Выбрать услугу",
+          "width": 123.25,
+          "x": 1011.375,
+          "y": 450.65625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            200,
+            200.7109375
+          ],
+          "toSide": "left"
+        },
+        {
+          "box": 1,
+          "from": [
+            237,
+            416.390625
+          ],
+          "toSide": "left"
+        },
+        {
+          "box": 2,
+          "from": [
+            949.375,
+            468.921875
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/trial-quantity.jpg",
+      "output": "trial-quantity.svg",
+      "title": "Добавить число контроллеров",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/SelectRate",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "input[type=\"number\"]",
+          "target": "Количество штук",
+          "width": 314,
+          "x": 536,
+          "y": 525.234375
+        },
+        {
+          "height": 36.53125,
+          "selector": "input[type=\"button\"]",
+          "target": "Добавить к заказу",
+          "width": 138.140625,
+          "x": 536,
+          "y": 569.765625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "from": [
+            474,
+            588.03125
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/trial-checkout.jpg",
+      "output": "trial-checkout.svg",
+      "title": "Завершить тестовый заказ",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/SelectRate",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 42.375,
+          "selector": "button.btn-success",
+          "target": "Перейти к оплате",
+          "width": 355.984375,
+          "x": 1275,
+          "y": 531.203125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1213,
+            552.390625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/service-open.jpg",
+      "output": "service-open.svg",
+      "title": "Открыть услугу компании",
+      "sourceUrl": "https://pay.benza.online/Products/Product/All",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 30,
+          "selector": "a[href=\"/Companies/CompanyProduct/Single/1549?companyId=1575&productId=1\"]",
+          "target": "Карточка услуги",
+          "width": 38,
+          "x": 1783.046875,
+          "y": 243.671875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.046875,
+            258.671875
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/controller-tab.jpg",
+      "output": "controller-tab.svg",
+      "title": "Открыть контроллеры услуги",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/Single/1549",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.609375,
+          "selector": "#v-pills-BenzamatController-tab",
+          "target": "Контроллеры",
+          "width": 375.5,
+          "x": 274,
+          "y": 302.828125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            212,
+            322.6328125
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/controller-add.jpg",
+      "output": "controller-add.svg",
+      "title": "Добавить контроллер",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/Single/1549",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": ".tab-pane.active button.btn-primary",
+          "target": "Добавить контроллер",
+          "width": 187.578125,
+          "x": 673.5,
+          "y": 223.609375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            611.5,
+            241.875
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/controller-fields.jpg",
+      "output": "controller-fields.svg",
+      "title": "Заполнить данные контроллера",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/Single/1549",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 231.890625,
+          "selector": "[role=\"dialog\"] form > .form-group:not(:last-child)",
+          "target": "Название, ID и поштучная покупка",
+          "width": 472,
+          "x": 1444,
+          "y": 280.734375
+        }
+      ],
+      "measurements": {
+        "panel": {
+          "bottom": 1080,
+          "height": 1080,
+          "left": 1440,
+          "right": 1920,
+          "top": 0,
+          "width": 480,
+          "x": 1440,
+          "y": 0
+        }
+      },
+      "arrows": []
+    },
+    {
+      "source": "source/controller-save.jpg",
+      "output": "controller-save.svg",
+      "title": "Сохранить контроллер",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/Single/1549",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Добавить",
+          "width": 83.5,
+          "x": 1457,
+          "y": 528.625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1395,
+            546.890625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/controller-added.jpg",
+      "output": "controller-added.svg",
+      "title": "Контроллер добавлен",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/Single/1549",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 94.21875,
+          "selector": "#v-pills-BenzamatController table",
+          "target": "ID и дата окончания услуги",
+          "width": 1174.5,
+          "x": 673.5,
+          "y": 276.140625
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/controller-close.jpg",
+      "output": "controller-close.svg",
+      "title": "Закрыть панель после добавления",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/Single/1549",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 30.390625,
+          "selector": "[role=\"dialog\"] button.btn-close",
+          "target": "Закрыть панель добавления",
+          "width": 30.390625,
+          "x": 1881.609375,
+          "y": 18.453125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1819.609375,
+            33.6484375
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/register-sent.jpg",
+      "output": "register-sent.svg",
+      "title": "Письмо подтверждения отправлено",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/RegisterConfirmation",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 349.390625,
+          "selector": ".card-body",
+          "target": "Сообщение об отправке ссылки подтверждения",
+          "width": 451,
+          "x": 734.5,
+          "y": 48
+        }
+      ],
+      "arrows": [],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 410,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    },
+    {
+      "source": "source/trial-services-menu.jpg",
+      "output": "trial-services-menu.svg",
+      "title": "Открыть услуги после тестового заказа",
+      "sourceUrl": "https://pay.benza.online/Invoices/Invoice/Single",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 40.640625,
+          "selector": "#side-menu a[href=\"/Products/Product/All\"]",
+          "target": "Услуги",
+          "width": 246,
+          "x": 0,
+          "y": 336.046875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            290,
+            356.3671875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/register-fields.jpg",
+      "output": "register-save.svg",
+      "title": "Зарегистрироваться",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/Register",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "form .mt-3 button",
+          "target": "Зарегистрироваться",
+          "width": 395,
+          "x": 762.5,
+          "y": 450.828125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            700.5,
+            469.09375
+          ],
+          "toSide": "left"
+        }
+      ],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 580,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    }
+  ]
+}

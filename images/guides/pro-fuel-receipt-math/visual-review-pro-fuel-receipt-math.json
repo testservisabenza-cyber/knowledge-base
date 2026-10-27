@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "manifestHash": "00ef87fb6c44f115c9396b23026b69d8ef5ef655009eaa4047dd328a0af46976",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-fuel-receipt-math",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "step-01.svg",
+      "sourceHash": "b5b1d8ef88b49ca9be0b02334dd78652ace45277c4f543bb1028717a31af041f",
+      "svgHash": "ddd9fe9226f978b2b46f4189ac1e96fec857591c643be6c540952cb4a59e7c34",
+      "stepText": "В меню «Поступление ГСМ» откройте «Журнал поступления топлива».",
+      "stepTextHash": "d151f8a1d90b4bd20ee2453498a788e9a6f267e24eb4a31bbed0039ce84eda6a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Стрелка направлена к указанной кнопке или пункту меню.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены исходник и SVG 1920x1080: чистый загруженный журнал, рамка по пункту меню, горизонтальная стрелка не пересекает подпись. Проверен в статье и увеличении в светлой теме."
+    },
+    {
+      "output": "step-02.svg",
+      "sourceHash": "b5b1d8ef88b49ca9be0b02334dd78652ace45277c4f543bb1028717a31af041f",
+      "svgHash": "76b6b7c83d9b39a28f330b0b064136e7e41f65cacd15f4a0ed724b5f66c22b34",
+      "stepText": "Нажмите «Добавить поступление».",
+      "stepTextHash": "15eea25c8be60632fcd33fe7ae4e76e741d648980b5e3153d0b9b4768af9b4bc",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Стрелка направлена к указанной кнопке или пункту меню.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены исходник и SVG 1920x1080: кнопка добавления обведена по измеренным границам, стрелка слева. Накладная ещё не открыта. Проверен рядом с текстом шага и в увеличении на локальной странице."
+    },
+    {
+      "output": "step-03.svg",
+      "sourceHash": "060a5fc51310b287a8be5b63dd106790ec4adaa59a6f83106ff2ee91dab3fdfe",
+      "svgHash": "aca1e0df744d2bf12b67414717c114715eb91f735118ceeb216eb8cf8572e48d",
+      "stepText": "Выберите компанию, затем станцию и секцию, в которую поступило топливо.",
+      "stepTextHash": "4cb780c493355a0496988dbc4b2c7a66d192307c08a3bb5e1a194c30e98b6e29",
+      "clickTargets": [],
+      "clickExplanation": "Выбор или заполнение полей формы, отдельная кнопка не нажимается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены исходник и SVG 1920x1080: в окне только три пустых поля выбора. Рамка охватывает их подписи и поля, не включает предупреждение. Накладной нет. Проверен рядом с текстом шага и в увеличении на локальной странице."
+    },
+    {
+      "output": "step-04.svg",
+      "sourceHash": "a7ecd03a8d33253b8d2a56956163867fad8666fadd54e694982dea4351805cda",
+      "svgHash": "1da8db52d432f2f0215708963a509baaa858be7b28219f1487e511f280a8536b",
+      "stepText": "Заполните блок «Накладная» по документу поставщика. Поля со звёздочкой обязательны.\nНомер: Введите номер накладной поставщика, до 20 символов.\nОбъем, л: Введите объём поставленного топлива по накладной, в литрах.\nПлотность, кг/м3: Введите плотность топлива из накладной в килограммах на кубический метр. По ней и объёму сервис рассчитает массу.\nТемпература: Введите температуру топлива из накладной.\nМасса, кг: Рассчитывается автоматически по объёму и плотности.\nДата: Укажите дату и время поступления топлива. Если оформляете уже состоявшуюся поставку, можно выбрать прошедшую дату.",
+      "stepTextHash": "c65c2735841ac13353b32c61fd5153834d710d38ce5471bfd6a2c8cc3017273e",
+      "clickTargets": [],
+      "clickExplanation": "Выбор или заполнение полей формы, отдельная кнопка не нажимается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены исходник и полный SVG: выбран Резервуар №4, есть сообщение математического остатка. Накладная ещё пустая, рамка только вокруг её полей, подписи читаются. Проверен рядом с текстом шага и в увеличении на локальной странице."
+    },
+    {
+      "output": "step-05.svg",
+      "sourceHash": "08857e924ad2731fb7e598f7aebb3e09851f72d865c5affa7d6dbe6837a09faf",
+      "svgHash": "bc9842bb520a76756dfb0ba7b77135e2b61807caef891295bba6f6f90df7489f",
+      "stepText": "Если перед сливом измеряете топливо в бензовозе, заполните «Замер бензовоза»: уровень, объём, плотность, температуру и дату измерения. Если не измеряете, можете пропустить этот блок.",
+      "stepTextHash": "33102c88df47941785aa2af70260ae7c0e83693de5a8bbe45e6d375e4de464a7",
+      "clickTargets": [],
+      "clickExplanation": "Выбор или заполнение полей формы, отдельная кнопка не нажимается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены исходник и полный SVG: накладная заполнена после шага 4, поля замера бензовоза остаются пустыми. Рамка выделяет только блок замера, без сохранения. Проверен рядом с текстом шага и в увеличении на локальной странице."
+    },
+    {
+      "output": "step-06.svg",
+      "sourceHash": "6b627af64a1ade1237ad0235bf6d7deb008c0da3822da2bb146d3c2a714d5af4",
+      "svgHash": "18701a1badf56b6f26d1af2f85b788e2c1cc113f0e07a5e168e5e7f2af57b77a",
+      "stepText": "Прокрутите форму ниже. При необходимости укажите вместимость бензовоза в поле «Полный объем», сведения о водителе и машине, а также цену за литр.",
+      "stepTextHash": "d1aa0fbe9d8f2bd6186d05779d091e7df14de0f58ad97860ef427925afb9f8b1",
+      "clickTargets": [],
+      "clickExplanation": "Выбор или заполнение полей формы, отдельная кнопка не нажимается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены исходник и полный SVG: после прокрутки накладная уже заполнена, дополнительные сведения пустые. Две рамки точно охватывают сведения и цену, не включают Сохранить. Проверен рядом с текстом шага и в увеличении на локальной странице."
+    },
+    {
+      "output": "step-07.svg",
+      "sourceHash": "6a746d969c73a5654d4062e35c9958159104877f70c82e2465883bcd6a6e6037",
+      "svgHash": "17d412ad7ed059536c47a73cd24e3324640d4002863d9bf2f1d5bb9f80ea7883",
+      "stepText": "Нажмите «Сохранить». Поступление появится в журнале, а объём по накладной прибавится к математическому остатку станции.",
+      "stepTextHash": "4c109b36bda515fd359c6bf3546e60b2c204e74b347fd12d0eaff67332fb1e0d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Стрелка направлена к указанной кнопке или пункту меню.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены исходник и полный SVG: накладная и дополнительные сведения заполнены после предыдущих шагов. Кнопка Сохранить обведена отдельно, горизонтальная стрелка справа не касается текста. Проверен рядом с текстом шага и в увеличении на локальной странице."
+    }
+  ],
+  "articleInspectionNote": "Каждый кадр просмотрен рядом с актуальным текстом в светлой и тёмной темах, отдельно в увеличении. Проверены три режима фона и переходы вперёд/назад. Копирование показало Скопировано. Ссылок на другие инструкции в тексте этой статьи нет, сохранение прогресса для них неприменимо. Исходная тёмная тема и фон под инструкцией восстановлены."
+}

@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "status": "pending-full-article-acceptance",
+  "manifestHash": "c70ee4c27e38da9b823571f6b334699e7112e536df9e32de46433b8dfe95c907",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-client-company",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": true,
+    "backgroundModes": false,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "company-open-main.svg",
+      "sourceHash": "ce1157ed0ef87f846bf7d92ed18ea3ff0daaa0ea5bed21dd8b1213dd63e0293c",
+      "svgHash": "cf6fc0bfdf41d0e03b7bed955e25b2bbb94611bbcaf5b8503a893c03388503e4",
+      "stepText": "Нажмите стрелку в её строке, чтобы открыть карточку.",
+      "stepTextHash": "9ddceb8d1ca757bfbe9cac587d391deb4f012ab16ecb68c749d5e649275a0ea5",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка слева к кнопке в строке Тестируем сервис (ГК), корзина справа свободна. Просмотрены исходник, SVG, увеличение и шаг 3 в настоящей статье. Координаты унаследованы из прежнего манифеста; новое измерение DOM не проводилось."
+    },
+    {
+      "output": "company-clients-tab.svg",
+      "sourceHash": "7bad889605c5cd41742aff2a7298c1bc18a48327c72b3328b6dd48993aaac28f",
+      "svgHash": "3a44c03d01111e2a824cbcb554d2dce1765fd5ce98ec1c46ef9c3b1633ff3f05",
+      "stepText": "В карточке нажмите вкладку «Клиентские компании».",
+      "stepTextHash": "4c11aa59f666800b94b1bb94b639c45912a9013671f2af08a8730400e712403a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка по диагонали через свободное место под вкладками к нижней части левой грани, подписи соседних вкладок свободны. Просмотрены исходник, SVG, увеличение и шаг 4 в настоящей статье. Координаты унаследованы из прежнего манифеста; новое измерение DOM не проводилось."
+    },
+    {
+      "output": "company-client-fields.svg",
+      "sourceHash": "f168ee6af5c2500860e43e843f69568098705eeaed1d9ad98cc7e4d495646652",
+      "svgHash": "7554af7ef83e4719793faa6eea8e4a2007e74ba37351bf26da98f8292a676b52",
+      "stepText": "Заполните реквизиты в форме. Поля со звёздочкой обязательны. Тип клиентской компании определяется тем, что форма открыта на вкладке «Клиентские компании».\nНазвание: Укажите название подразделения или клиента.\nИНН, ОГРН: Перенесите номера из документов и проверьте цифры.\nКПП: Заполните при наличии.\nЮридический адрес, Почтовый адрес: Заполните оба обязательных поля.",
+      "stepTextHash": "5a0112276838ebd423e9947da20411c8306311faaebce1deb5a962ada8c99f42",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Реквизиты клиентской компании в одной рамке; добавление вне рамки. Рамка по ширине панели, слева отступ 4 px; стрелок у полей нет. Индивидуально просмотрены исходник, полный SVG, увеличение и шаг 6 в обеих темах. DOM заново не измерялся; высота унаследована, край панели взят по исходнику. Проверены открытие/закрытие увеличения и копирование полного PNG в буфер."
+    },
+    {
+      "output": "company-client-submit.svg",
+      "sourceHash": "f168ee6af5c2500860e43e843f69568098705eeaed1d9ad98cc7e4d495646652",
+      "svgHash": "1a4e184b1774288cd5a986e8d27e7ae7a5f83fedd08401bde097933f3689f6ae",
+      "stepText": "После заполнения полей нажмите «Добавить компанию» внизу формы.",
+      "stepTextHash": "df4d7ebca1acfad118b0b4ed919b7f4e79a3a7fd1bdff7628a94be8c3f750eec",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Короткая стрелка справа к кнопке сохранения/добавления, целиком внутри свободной белой области. Индивидуально просмотрены исходник, полный SVG, увеличение и шаг 7 в обеих темах. DOM заново не измерялся; высота унаследована, край панели взят по исходнику. Проверены открытие/закрытие увеличения и копирование полного PNG в буфер."
+    },
+    {
+      "output": "company-nav.svg",
+      "sourceHash": "2745f80c446228ec5541f6067be188c704110c8770e94ecd28d369f6dc332794",
+      "svgHash": "d16f3ad39fab84b25565a609dcaf6a0933b10ed994f689aba512e9d55d8acb5a",
+      "stepText": "В левом меню откройте раздел «Компании».",
+      "stepTextHash": "27f263a196038e7d4b17ecfeeba7f7d81d1e65ea47d9c083640db692adac3bb8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка выбранного пункта по ширине левого меню: слева у края, справа отступ 4 px, высота пункта сохранена; стрелка сбоку. Просмотрены исходник, полный SVG, увеличение и шаг 1 в светлой и тёмной темах; копирование проверено. Новый замер DOM не выполнялся."
+    }
+  ],
+  "pending": [
+    {
+      "step": 2,
+      "image": "/images/guides/pro-repairs-20261008/company-find-main.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 5,
+      "image": "/images/guides/pro-repairs-20261008/company-clients-add.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 8,
+      "image": "/images/guides/pro-repairs-20261008/company-clients-table.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 9,
+      "reason": "Общий шаг записи в контроллер содержит illustration и controllerWrite, но не image; screenshots:accept останавливается на этом шаге."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "manifestHash": "dd0b632f57915098bcd36311d4323c01920d88216d754c8c9078c538a117886c",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-report-change-prices",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "change-prices-nav.svg",
+      "sourceHash": "39a60ef73ac9a300859e5123060ab35e0e9c1e6b687d1c1bb90145d4d189c1c4",
+      "svgHash": "363d4d3dc0bcc813d30f646e8d6fd6a28771a83ccb814be6c62cdaef26f92626",
+      "stepText": "В открытом списке нажмите «Изменение цен». Название отчёта появится над рабочей областью.",
+      "stepTextHash": "24058f08615d5a5c53781b6ddb634875f0e03332974d09fbf10e4d95d787309d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Изменение цен. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "change-prices-filter-button.svg",
+      "sourceHash": "39a60ef73ac9a300859e5123060ab35e0e9c1e6b687d1c1bb90145d4d189c1c4",
+      "svgHash": "d8ba17cdb5a5e4d0746b5f7f2620d211d38092f42913649f25c3b795809a5c49",
+      "stepText": "Нажмите «Фильтр отчета» в правом верхнем углу страницы.",
+      "stepTextHash": "3f274914dcbac3f42e765a42b37c4140eb6bf55cd4f4a6759eccf58976c74d95",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Фильтр отчета. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "change-prices-company.svg",
+      "sourceHash": "40c7b21fd610fc6e9ce64f204065de67bbf823e19121c37dd3e7346d15ac15ac",
+      "svgHash": "686526aedfaf5f4604f4511ecbe43dae8243d60be97fe70c979bed534a47d9dc",
+      "stepText": "В поле «Компания» выберите организацию, данные которой хотите посмотреть.",
+      "stepTextHash": "443835ee4fd5f41e709eda8416ab6c48e8356e1db890e39bbe1726d74cca2c32",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Компания — подпись и поле. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "change-prices-dates.svg",
+      "sourceHash": "40c7b21fd610fc6e9ce64f204065de67bbf823e19121c37dd3e7346d15ac15ac",
+      "svgHash": "2879bda07be8dc6e2d09cbc2f76811cf9938b67a7336043bb27020fb1c4b8aee",
+      "stepText": "Проверьте начальную и конечную даты и время. При необходимости исправьте их вручную: операции за пределами выбранного интервала не попадут в отчёт.",
+      "stepTextHash": "bac82dc46f967321fc3bf3e384b09c2291e5f32598e1a63d68419bb8d0388019",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Начальная и конечная даты. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "change-prices-submit.svg",
+      "sourceHash": "40c7b21fd610fc6e9ce64f204065de67bbf823e19121c37dd3e7346d15ac15ac",
+      "svgHash": "964e6f7c414678d6b63c2156f99fa500fcd934b2ac62fb0e19d7b432dcaec530",
+      "stepText": "Нажмите «Сформировать». Отчёт покажет данные за выбранный период. Если подходящих записей нет, таблица будет пустой.",
+      "stepTextHash": "4cb3089a888bf453875e237d61bd931af91519147da1cbf5f8ab01b8908c79f8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Сформировать. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "analytics-open.svg",
+      "sourceHash": "51a13b5fc62083edf501385e240f5405e8423d3dfd585855680476742933dfd0",
+      "svgHash": "85967b11eed60423dd01a7a26ac6c8fac372a23f1b596edb0c4a1a9482e3d0ff",
+      "stepText": "В левом меню раскройте «Аналитика». Появится список доступных отчётов.",
+      "stepTextHash": "d22c486b0c48f725844e74d28f7846a2fc70ad029c745eb659400844e5089783",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Аналитика. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага. Проверено в статье и просмотрщике с актуальным текстом шага."
+    }
+  ],
+  "articleInspectionNote": "Фактически проверены светлая и тёмная темы, фон/без фона, переходы между шагами, увеличение 125%, копирование со статусом Скопировано. Ссылки открываются в новой вкладке и сохраняют шаг. Прежнее оформление восстановлено."
+}

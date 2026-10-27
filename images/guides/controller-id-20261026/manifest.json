@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/passport.png",
+      "output": "passport.svg",
+      "title": "ID контроллера: passport",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1448,
+        "height": 1086
+      },
+      "sourceUrl": "http://127.0.0.1:5174/images/guides/controller-id-20261026/source/passport.png",
+      "provenance": "Предоставлено пользователем 26.10.2026: codex-clipboard-f97f8e60-3306-4bd8-a0f2-62643c80dc9c.png. Исходные размеры сохранены. Для ПРО используется режим предоставленного окна, без пересъёмки и выдуманных DOM-координат.",
+      "measurementMethod": "source-image-pixels",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": []
+    },
+    {
+      "source": "source/board.png",
+      "output": "board.svg",
+      "title": "ID контроллера: board",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1448,
+        "height": 1086
+      },
+      "sourceUrl": "http://127.0.0.1:5174/images/guides/controller-id-20261026/source/board.png",
+      "provenance": "Предоставлено пользователем 26.10.2026: codex-clipboard-063defab-fa6e-4fb7-aebf-1600bcfe71a5.png. Исходные размеры сохранены. Для ПРО используется режим предоставленного окна, без пересъёмки и выдуманных DOM-координат.",
+      "measurementMethod": "source-image-pixels",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": []
+    },
+    {
+      "source": "source/office.png",
+      "output": "office.svg",
+      "title": "ID контроллера: office",
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 774,
+        "height": 636
+      },
+      "sourceUrl": "http://127.0.0.1:5174/images/guides/controller-id-20261026/source/office.png",
+      "provenance": "Предоставлено пользователем 26.10.2026: codex-clipboard-7a22aeb0-8d35-4c70-a422-d573bfa413d7.png. Исходные размеры сохранены. Для ПРО используется режим предоставленного окна, без пересъёмки и выдуманных DOM-координат.",
+      "measurementMethod": "source-image-pixels",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "target": "ID контроллера, значение в первой строке",
+          "selector": "source-image: ID контроллера, строка 1",
+          "x": 308,
+          "y": 101,
+          "width": 180,
+          "height": 26
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            527,
+            114
+          ],
+          "toSide": "right"
+        }
+      ],
+      "labels": [
+        {
+          "x": 527,
+          "y": 99,
+          "width": 194,
+          "height": 31,
+          "fontSize": 20,
+          "text": "ID контроллера"
+        }
+      ],
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 774,
+        "height": 408,
+        "userRequested": true,
+        "reason": "Пользователь попросил подогнать сами изображения второго шага без пустых полос. Сохранены верх окна, ID и подпись; нижние параметры исключены."
+      }
+    },
+    {
+      "source": "source/pro.png",
+      "output": "pro.svg",
+      "title": "ID контроллера: pro",
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 1905,
+        "height": 902
+      },
+      "sourceUrl": "http://127.0.0.1:5174/images/guides/controller-id-20261026/source/pro.png",
+      "provenance": "Предоставлено пользователем 26.10.2026: codex-clipboard-e85da082-47f1-4795-8ad1-2bcc26b74e42.png. Исходные размеры сохранены. Для ПРО используется режим предоставленного окна, без пересъёмки и выдуманных DOM-координат.",
+      "measurementMethod": "source-image-pixels",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "target": "Столбец ID контроллера с заголовком и всеми значениями",
+          "selector": "source-image: таблица, столбец ID контроллера",
+          "x": 1016,
+          "y": 181,
+          "width": 250,
+          "height": 304
+        },
+        {
+          "target": "Контроллеры (ТРК), весь пункт левого меню",
+          "selector": "source-image: левое меню Контроллеры (ТРК)",
+          "x": 2,
+          "y": 261,
+          "width": 211,
+          "height": 35
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1141,
+            600
+          ],
+          "toSide": "bottom"
+        },
+        {
+          "box": 1,
+          "from": [
+            249,
+            278.5
+          ],
+          "toSide": "right"
+        }
+      ],
+      "labels": [
+        {
+          "x": 1016,
+          "y": 600,
+          "width": 250,
+          "height": 46,
+          "fontSize": 28,
+          "text": "ID контроллера"
+        }
+      ],
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1290,
+        "height": 680,
+        "userRequested": true,
+        "reason": "По запросу пользователя обрезаны правая часть и пустая нижняя область. Пропорции совпадают с Офисом (129:68), меню, весь столбец ID и подпись сохранены."
+      }
+    }
+  ]
+}

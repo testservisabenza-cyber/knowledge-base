@@ -1,0 +1,297 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/step-1.jpg",
+      "output": "step-1.svg",
+      "title": "Как пользоваться базой: шаг 1",
+      "sourceUrl": "http://127.0.0.1:5174/articles/pro-company-create?guide-capture=company-select",
+      "captureState": "Выбор продукта раскрыт; инструкция Добавить компанию на фоне",
+      "background": "off",
+      "padding": -2,
+      "rightScrollbarWidth": 12.094488188976378,
+      "boxes": [
+        {
+          "height": 36,
+          "width": 340.59375,
+          "x": 26,
+          "y": 84,
+          "target": "Поле выбора продукта",
+          "selector": "#kb-select-product"
+        },
+        {
+          "height": 194,
+          "width": 340.59375,
+          "x": 26,
+          "y": 128,
+          "target": "Раскрытый список продуктов",
+          "selector": "#kb-product-choices"
+        }
+      ]
+    },
+    {
+      "source": "source/step-2.jpg",
+      "output": "step-2.svg",
+      "title": "Как пользоваться базой: шаг 2",
+      "sourceUrl": "http://127.0.0.1:5174/articles/pro-company-create?guide-capture=company",
+      "captureState": "Компании свёрнуты",
+      "background": "off",
+      "padding": -2,
+      "rightScrollbarWidth": 12.094488188976378,
+      "boxes": [
+        {
+          "height": 34,
+          "width": 340.59375,
+          "x": 26,
+          "y": 140,
+          "target": "Программное обеспечение",
+          "selector": ".kb-group-link"
+        },
+        {
+          "height": 34,
+          "width": 340.59375,
+          "x": 26,
+          "y": 175,
+          "target": "Частые вопросы",
+          "selector": ".kb-sidebar-section.is-utility-last > button"
+        },
+        {
+          "x": 26,
+          "y": 232,
+          "width": 340.59375,
+          "height": 419,
+          "target": "Инструкции по разделам",
+          "selector": ".kb-sidebar-section:not(:first-child):not(.is-utility-last) > .kb-group-button"
+        }
+      ]
+    },
+    {
+      "source": "source/step-3.jpg",
+      "output": "step-3.svg",
+      "title": "Как пользоваться базой: шаг 3",
+      "sourceUrl": "http://127.0.0.1:5174/articles/pro-company-create?guide-capture=company",
+      "captureState": "Компании раскрыты, все три группы свёрнуты",
+      "background": "off",
+      "padding": -2,
+      "rightScrollbarWidth": 12.094488188976378,
+      "boxes": [
+        {
+          "height": 31,
+          "width": 325.59375,
+          "x": 41,
+          "y": 338,
+          "target": "Описание",
+          "selector": ".kb-topic-kind:nth-child(1) > button"
+        },
+        {
+          "height": 31,
+          "width": 325.59375,
+          "x": 41,
+          "y": 370,
+          "target": "Инструкции",
+          "selector": ".kb-topic-kind:nth-child(2) > button"
+        },
+        {
+          "height": 31,
+          "width": 325.59375,
+          "x": 41,
+          "y": 402,
+          "target": "Частые ошибки",
+          "selector": ".kb-topic-kind:nth-child(3) > button"
+        }
+      ]
+    },
+    {
+      "source": "source/step-4.jpg",
+      "output": "step-4.svg",
+      "title": "Как пользоваться базой: шаг 4",
+      "sourceUrl": "http://127.0.0.1:5174/articles/pro-company-create?guide-capture=company",
+      "captureState": "Инструкции раскрыты, Добавить компанию открыта",
+      "background": "off",
+      "padding": -2,
+      "rightScrollbarWidth": 12.094488188976378,
+      "boxes": [
+        {
+          "height": 31,
+          "width": 325.59375,
+          "x": 41,
+          "y": 370,
+          "target": "Группа Инструкции",
+          "selector": ".kb-topic-kind:nth-child(2) > button"
+        },
+        {
+          "height": 30.890625,
+          "width": 306.59375,
+          "x": 60,
+          "y": 402,
+          "target": "Добавить компанию",
+          "selector": ".kb-subnav-link[href=\"/articles/pro-company-create\"]"
+        },
+        {
+          "height": 126,
+          "width": 56,
+          "x": 1754.8125,
+          "y": 477,
+          "target": "Правый переключатель шагов",
+          "selector": ".kb-step-navigation"
+        }
+      ]
+    },
+    {
+      "source": "source/step-5.jpg",
+      "output": "step-5.svg",
+      "title": "Как пользоваться базой: шаг 5",
+      "sourceUrl": "http://127.0.0.1:5174/articles/pro-company-create?guide-capture=company",
+      "captureState": "Чат закрыт",
+      "background": "off",
+      "padding": -2,
+      "rightScrollbarWidth": 12.094488188976378,
+      "boxes": [
+        {
+          "height": 48,
+          "width": 186.328125,
+          "x": 1694.671875,
+          "y": 1010,
+          "target": "Кнопка Задать вопрос",
+          "selector": ".kb-bot-launcher"
+        }
+      ],
+      "arrow": {
+        "box": 0,
+        "from": [
+          1788,
+          865
+        ],
+        "toSide": "top"
+      }
+    },
+    {
+      "source": "source/step-6.jpg",
+      "output": "step-6.svg",
+      "title": "Как пользоваться базой: шаг 6",
+      "sourceUrl": "http://127.0.0.1:5174/articles/pro-company-create?guide-capture=company",
+      "captureState": "Чат открыт, реальный вопрос и ответ о сроке лицензии",
+      "background": "off",
+      "padding": -2,
+      "rightScrollbarWidth": 12.094488188976378,
+      "boxes": [
+        {
+          "height": 42,
+          "width": 494,
+          "x": 1374,
+          "y": 1003,
+          "target": "Поле ввода и инструменты чата",
+          "selector": ".kb-bot-composer-row"
+        }
+      ]
+    },
+    {
+      "source": "source/step-7.jpg",
+      "output": "step-7.svg",
+      "title": "Как пользоваться базой: шаг 7",
+      "sourceUrl": "http://127.0.0.1:5174/articles/pro-company-create?guide-capture=company",
+      "captureState": "Панель оформления открыта, Без фона выбрано",
+      "background": "off",
+      "padding": -2,
+      "rightScrollbarWidth": 12.094488188976378,
+      "boxes": [
+        {
+          "height": 42,
+          "width": 182.234375,
+          "x": 1696.765625,
+          "y": 15,
+          "target": "Кнопка Оформление",
+          "selector": ".kb-appearance-trigger"
+        },
+        {
+          "height": 257.59375,
+          "width": 380,
+          "x": 1499,
+          "y": 71,
+          "target": "Панель оформления",
+          "selector": "#kb-appearance-panel"
+        }
+      ]
+    },
+    {
+      "source": "source/step-8.jpg",
+      "output": "step-8.svg",
+      "title": "Как пользоваться базой: шаг 8",
+      "sourceUrl": "http://127.0.0.1:5174/articles/pro-company-create?guide-capture=company",
+      "captureState": "Поиск Продлить лицензию открыт",
+      "background": "off",
+      "padding": -2,
+      "rightScrollbarWidth": 12.094488188976378,
+      "boxes": [
+        {
+          "height": 42,
+          "width": 1082.953125,
+          "x": 388.59375,
+          "y": 15,
+          "target": "Строка поиска",
+          "selector": ".kb-search"
+        },
+        {
+          "height": 181,
+          "width": 1082.953125,
+          "x": 388.59375,
+          "y": 61,
+          "target": "Результаты поиска",
+          "selector": ".kb-search-results"
+        }
+      ]
+    },
+    {
+      "source": "source/step-9.jpg",
+      "output": "step-9.svg",
+      "title": "Как пользоваться базой: шаг 9",
+      "sourceUrl": "http://127.0.0.1:5174/articles/pro-company-create?guide-capture=company",
+      "captureState": "Поиск и панели закрыты",
+      "background": "off",
+      "padding": -2,
+      "rightScrollbarWidth": 12.094488188976378,
+      "boxes": [
+        {
+          "height": 42,
+          "width": 144.21875,
+          "x": 1507.546875,
+          "y": 15,
+          "target": "Кнопка Поддержка",
+          "selector": ".kb-help-link"
+        }
+      ],
+      "arrow": {
+        "box": 0,
+        "from": [
+          1450,
+          120
+        ],
+        "toSide": "bottom"
+      }
+    },
+    {
+      "source": "source/step-10.jpg",
+      "output": "step-10.svg",
+      "title": "Как пользоваться базой: шаг 10",
+      "sourceUrl": "http://127.0.0.1:5174/articles/pro-company-create?guide-capture=company",
+      "captureState": "Окно поддержки открыто",
+      "background": "off",
+      "padding": -2,
+      "rightScrollbarWidth": 12,
+      "boxes": [
+        {
+          "height": 44,
+          "width": 179.546875,
+          "x": 1370.953125,
+          "y": 315.5,
+          "target": "Написать в MAX",
+          "selector": ".kb-support-max > a"
+        }
+      ]
+    }
+  ]
+}

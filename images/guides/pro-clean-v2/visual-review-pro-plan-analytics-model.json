@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "manifestHash": "aa5edab76e8853daa49eb3695a113b7521c88b486adf3aab5de19a14099bbe55",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-analytics-model",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": false,
+    "backgroundModes": false,
+    "stepNavigation": false,
+    "imageZoom": false,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": false
+  },
+  "shots": [
+    {
+      "output": "analytics-open.svg",
+      "sourceHash": "62cce8c0ff3f4be16693a849736b87336a944b0d7c76712f6d84d454a4f1cce2",
+      "svgHash": "ecb257b649212857439bb23ad55b96811189945ec461f8004063a95ec90b8676",
+      "stepText": "Выбор отчёта\nВ левом меню «Аналитика» собраны отчёты о заправках, показаниях уровнемеров, поступлениях, деньгах, ценах, действиях, сообщениях и качестве связи. Отдельные сводки группируют отпуск по контроллерам, пользователям, транспорту или компаниям.\nВыбор отчёта определяет и поля фильтра, и смысл результата. Журнал действий ищет изменение настройки, а «Последние заправки» — выдачу топлива: один не заменяет другой.",
+      "stepTextHash": "5a90e2deb6f5e8a58b5148ad4fdc1a058e1a9f5d816ed09965a389583d7fc14f",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "analytics-objects.svg",
+      "sourceHash": "2212be7dba8cd08173e1b9a3a557c2eb8ca5b4384285a970eca6e9dbd24c470b",
+      "svgHash": "c02493ccf5d2acc4a9da1a85ed22166db236e61f1340657c371277314e47dc21",
+      "stepText": "Объекты выборки\nКомпания ограничивает доступные объекты. Контроллеры определяют, какие ТРК учитывать; пользователи — чьи операции показать. Выбор транспорта доступен в соответствующих отчётах и не должен ожидаться в каждом фильтре.\n«Учитывать удаленных» нужен для исторических операций удалённых пользователей и транспорта. Если старые заправки отсутствуют в выборке, проверьте этот флажок и период прежде, чем считать записи потерянными.",
+      "stepTextHash": "7a33b2dfd18ab3aa0044f26556ceb3d872fcae9b08c1a8d1ff3400a5ea6e0f70",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "analytics-dates.svg",
+      "sourceHash": "2212be7dba8cd08173e1b9a3a557c2eb8ca5b4384285a970eca6e9dbd24c470b",
+      "svgHash": "5bfad9d836c42e30b6bbc4af033c13e061ba00036ac8170a847ee53a984a4699",
+      "stepText": "Даты, время и группировка\nНачало и конец периода включают дату и время. Быстрые варианты дня, недели и месяца помогают заполнить диапазон. В сводных отчётах «Группировка» объединяет результаты по выбранному временному интервалу.\nПосле задания фильтров формируется результат. При сравнении двух отчётов должны совпадать период, компания, контроллеры и учёт удалённых записей; иначе расхождение итогов может объясняться разной выборкой.",
+      "stepTextHash": "b496efdbed7e6bcbc8de4ba9a06b06b78f27232ffdf06b599250f2475898c506",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "analytics-export.svg",
+      "sourceHash": "63eca93b853ac0c97171b58d47d0318f9f55441eb6db39cc29d1a95a175f9a7d",
+      "svgHash": "4800b6495018851e82e1b88d1d4bce7e49c6888df6f569f4ce8971af7391b192",
+      "stepText": "Экспорт результата\nЭкспорт выгружает сформированный отчёт в Excel. Перед загрузкой проверьте фильтр и период: файл отражает выбранные данные, а не весь аккаунт. У разных отчётов могут различаться доступные команды и столбцы.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по просмотру и выгрузке заправок](/articles/pro-reports).",
+      "stepTextHash": "c86f798c0474f314ed669f5b6e485e3e084f4aefe1b80beacb22db72ea01715f",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "analytics-result.svg",
+      "sourceHash": "cf0b68e2a520233f4c2e76f0de05975efa819826c740c25862ef2ed38c0b30ce",
+      "svgHash": "2d88369da590e758d68fea4ff30f8076f8179cfe2462db0330ecee0638af8c91",
+      "stepText": "Последние заправки и денежные показатели\nКаждая строка «Последних заправок» относится к отдельной операции. Таблица помогает проверить дату, пользователя, ТС, карту, контроллер, топливо и отпущенное количество. График показывает распределение операций по времени.\nСтоимость определяется объёмом и ценой топлива компании. Для проверки цены на момент операции используют «Изменение цен», движения счёта — «Приход и расход денег». Новая цена не пересчитывает старые заправки.",
+      "stepTextHash": "95472902b40414f5dc5009d30a9ef577ed4f94ddddd2faf8f697ab91caabd42f",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "analytics-level-meter.svg",
+      "sourceHash": "f482002800b775680a38c9e97e2799db7ee243688f69894ad7c92f2380f758a3",
+      "svgHash": "10a5f656bb9c06e49edc752900b91549f2602a80b5fae782fe3e8ebda0c78858",
+      "stepText": "Остаток, поступления и масса\n«Показания уровнемеров» содержит полученные измерения секций. Данные сохраняются при обмене с контроллером; отсутствие свежих показаний при потере связи не равно нулевому остатку.\n«Поступление топлива» показывает поставки, а «Прием топлива на контроллере» — события соответствующего оборудования. «Отпуск ГСМ по массе» требует данных плотности и корректной связи рукава с секцией: наличие литров само по себе не даёт достоверного результата в килограммах.",
+      "stepTextHash": "cc80c2980851a424133e9b27b5072319d2dbedc80c37d5041e8af9350b7a65e1",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "analytics-actions.svg",
+      "sourceHash": "8ad636c7b363a5f75b284bbdb39e7ad74c432f4d54779fed94d2e48f603b81df",
+      "svgHash": "71e6c17aa22b4fae28ee61e9a6310955426c50897db496228ac9ef0a99b5c771",
+      "stepText": "Журналы и оборудование\n«Журнал всех сообщений» показывает сообщения оборудования, «Журнал качества связи» — сведения об обмене, «Журнал всех действий пользователей» — события работы в сервисе.\nОтчёт датчика крышки относится к оборудованию с таким датчиком. Пустой журнал неподключённого датчика не означает отсутствия действий с крышкой. В журнале изменений поступления отражается событие, а не полная история каждого значения поля.",
+      "stepTextHash": "d1c7da750dc42ac9f486779aa55dc401197315f1a0164907ef7155df1bc8c9ff",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "analytics-summary.svg",
+      "sourceHash": "fb0bb4e7665f9971a77f4443ce6caf9b8ce66175e31ddb5c010f3fc43bdc79f3",
+      "svgHash": "54c4aa6597dce37d6fa2857c759f276ad1eae8729b9d0f7aedd1393ff020942d",
+      "stepText": "Детальный и суммарный отпуск\nОтчёты отпуска по контроллерам и пользователям позволяют сравнивать объекты. Вариант «без группировки» нужен для отдельных выдач. Суммарные отчёты показывают итог по контроллерам, пользователям, транспорту и компаниям за выбранный период.\nСводка по транспорту использует зарегистрированное ТС. Если автомобиль учитывается как пользователь с одной картой, его расход ищут в отчёте по пользователям.",
+      "stepTextHash": "37f125d2ce513eeb03616cac170950dcd47237f78ed71e842834226e8915c547",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    }
+  ]
+}

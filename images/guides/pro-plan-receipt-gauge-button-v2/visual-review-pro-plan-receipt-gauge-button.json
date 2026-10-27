@@ -1,0 +1,330 @@
+{
+  "version": 1,
+  "manifestHash": "baccdd4cabb148c092f084e59afa75b1f8fe43751f8ca294e8b84e73345f026e",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-receipt-gauge-button",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "step-01.svg",
+      "sourceHash": "6d7e45b9af8ca1969574d40ff91dfd9b1cd24c84e2814abda0ce3edb49cda62b",
+      "svgHash": "3734b21fba26875a6744b8c64919d9b19e456c011f7e4f8179c51db759fdaa95",
+      "stepText": "Убедитесь, что в поступлении выбрана нужная секция. Показания берутся с уровнемера, настроенного для неё.",
+      "stepTextHash": "7307b29dc0cfac4299ae3d36b70646ba84812662166397ea90e32de48adf8c14",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Резервуар №3, Секция 1: подпись и выбранная секция обведены вместе; крайняя правая полоса удалена. Источник и итоговый SVG просмотрены отдельно; сохранены измерения исходной съёмки. Отдельно просмотрены в светлой статье и увеличении: нужная цель заметна, подпись читается."
+    },
+    {
+      "output": "step-02.svg",
+      "sourceHash": "a5575c4ac50a1a0298251c175300b9afb70916af5def1004f8b8b04dfb025030",
+      "svgHash": "bbf45b7a0dfd7d74f302bfd9fc71cc46af90012d6216e7a6b4be2fb653ecfac9",
+      "stepText": "Сообщение «У станции используется расчет математического остатка топлива» означает, что на станции включён математический остаток. В этом режиме кнопка «Уровнемер» не отображается, а привязать уровнемеры к секциям нельзя.\nСледующие шаги относятся к станции с выключенным математическим остатком и установленным уровнемером.",
+      "stepTextHash": "c56d60f9e087cbbc94762bba903340043f9f3a74de474360b7e4d935d142ea42",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сообщение о математическом остатке выделено без перекрытия текста; это отдельный пример режима, а не продолжение настройки Резервуара №3. Источник и итоговый SVG просмотрены отдельно; сохранены измерения исходной съёмки. Отдельно просмотрены в светлой статье и увеличении: нужная цель заметна, подпись читается."
+    },
+    {
+      "output": "step-03.svg",
+      "sourceHash": "574708d049ac5db9934d75de2d1ee7dc324bbae37dfae3f203f695033a9fff46",
+      "svgHash": "05bcd85d397164467cc4e99807c12ed9c9ebac7ab6fc44e71d9b5fba9e4653d8",
+      "stepText": "Откройте «Контроллеры (ТРК)». В строке контроллера, к которому подключён уровнемер, нажмите кнопку со стрелкой для перехода в настройки.",
+      "stepTextHash": "97cafd7f812e2701442b57c1d849a4df1f8b7a556efad2c12140e60f53fec67f",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Контроллеры по всей ширине меню и кнопка перехода второй строки имеют отдельные стрелки. Источник и итоговый SVG просмотрены отдельно; сохранены измерения исходной съёмки. Отдельно просмотрены в светлой статье и увеличении: нужная цель заметна, подпись читается."
+    },
+    {
+      "output": "step-04.svg",
+      "sourceHash": "96f2a3885246d4c8bf7ce8d395c1c6102407a51dfc37a6d18fad302e414c1617",
+      "svgHash": "807b5c1403ff2c3a3fec26c28433882c65b7143a1f2222340cbd334ed8031199",
+      "stepText": "В настройках откройте вкладку «Секции». В списке должна быть секция, выбранная в поступлении. Если она уже добавлена, переходите к шагу 8. Если её нет, добавьте по следующим трём шагам.",
+      "stepTextHash": "17b08f07a4b580c8e9045c0b01737b7879ed264b11994dafa63a1b0815ab6b08",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Открыты Настройки и Секции, таблица пуста; рамка и прямая стрелка точно у вкладки. Источник и итоговый SVG просмотрены отдельно; сохранены измерения исходной съёмки. Отдельно просмотрены в светлой статье и увеличении: нужная цель заметна, подпись читается."
+    },
+    {
+      "output": "step-05.svg",
+      "sourceHash": "96f2a3885246d4c8bf7ce8d395c1c6102407a51dfc37a6d18fad302e414c1617",
+      "svgHash": "72d30a52b69f34ada14b3965dd855f112acbec859929bc9074f15897bec72f63",
+      "stepText": "Нажмите «Добавить секцию».",
+      "stepTextHash": "90610cb1ad5fe303be7a40abbea7739efb70c860465c6bc5bc2e51ad7a5dc91a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка Добавить секцию выделена отдельно; стрелка справа не пересекает подпись. Источник и итоговый SVG просмотрены отдельно; сохранены измерения исходной съёмки. Отдельно просмотрены в светлой статье и увеличении: нужная цель заметна, подпись читается."
+    },
+    {
+      "output": "step-06.svg",
+      "sourceHash": "483959925270ba1893b805b548bf87f5c680929e596910e1a7174beeac319a93",
+      "svgHash": "932932cea2148f7d87ac4304a0ef5452fac029bed99c0cd01c6d5e6496fb9501",
+      "stepText": "В поле «Секции» выберите секцию, в которую оформляете поступление.",
+      "stepTextHash": "2d5b7c595460db33b6a9f90e99930b38aaee88ff2cac1ed858623b0e16e8773f",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Поле Секции и его единственный раскрытый вариант Секция 1 в одной рамке по ширине белой панели. Источник и итоговый SVG просмотрены отдельно; сохранены измерения исходной съёмки. Отдельно просмотрены в светлой статье и увеличении: нужная цель заметна, подпись читается."
+    },
+    {
+      "output": "step-07.svg",
+      "sourceHash": "ca33bc37133905059dc8835df61ca5ea8d3fab70df33c6c5864536bea1d45b92",
+      "svgHash": "acca31946d2a6908cac70917e5a839ff661c0b8ab09b0d082ca4ed73e75ce20a",
+      "stepText": "Нажмите «Сохранить» в форме «Добавление секций».",
+      "stepTextHash": "2148e894e0cdcc3ad83e4c9ac024608427d3fc0c5a9fa62751aa27acef14f635",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Секция 1 выбрана, стрелка слева подходит к Сохранить, не задевая поле. Источник и итоговый SVG просмотрены отдельно; сохранены измерения исходной съёмки. В статье и увеличении отдельно проверены подпись и стрелка нужной кнопки, цель различима без перекрытия."
+    },
+    {
+      "output": "step-08.svg",
+      "sourceHash": "055955ba989c2646684821d197c82db665a837b84fb6195a36dd1dbc5d463b17",
+      "svgHash": "fe9aeb7a7aab4213c9881a0199e4c94b292679b66a3557fe8a3a8635f3128f54",
+      "stepText": "В левом меню откройте «Станции».",
+      "stepTextHash": "0053e378135866c5b6233f48dd089d9198b24c7a2f58eb09f8a9ba85a4cf0802",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Станции обведён по ширине меню, стрелка справа в свободном месте. Чистый источник и полный SVG просмотрены; DOM измерен в состоянии съёмки. В статье и увеличении отдельно проверены подпись и стрелка нужной кнопки, цель различима без перекрытия."
+    },
+    {
+      "output": "step-09.svg",
+      "sourceHash": "055955ba989c2646684821d197c82db665a837b84fb6195a36dd1dbc5d463b17",
+      "svgHash": "4355acb042e10a461bf32c67bc4ad90dedb8a36bf57a6cf19d3ac33d63b16419",
+      "stepText": "В строке нужной станции нажмите кнопку перехода в настройки.",
+      "stepTextHash": "238f3638e3369faf97e5f1967346c595a9e8f12bde0725f0174d27d7ba3290eb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделена кнопка перехода Резервуара №3; диагональ точно в верхний левый угол рамки. Чистый источник и полный SVG просмотрены; DOM измерен в состоянии съёмки. В статье и увеличении отдельно проверены подпись и стрелка нужной кнопки, цель различима без перекрытия."
+    },
+    {
+      "output": "step-10.svg",
+      "sourceHash": "3678d5808ea0c7d76518a88f251c8cd849c40ab1c204e7fb503ca19e5ef3dbc9",
+      "svgHash": "dd875e2e272a829d554c5fee970177a1de4a9e91cca920e580891cbcdaaee3c3",
+      "stepText": "Откройте вкладку «Секции».",
+      "stepTextHash": "f14a3ed2a1ae4d6e2e889250febcd16675aaac20947a26347117ff71b73bfac7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Вкладка Секции открыта, стрелка сверху указывает только на неё. Чистый источник и полный SVG просмотрены; DOM измерен в состоянии съёмки. В статье и увеличении отдельно просмотрены; вкладка, карандаш и выбранный уровнемер читаются, метки не закрывают подписи."
+    },
+    {
+      "output": "step-11.svg",
+      "sourceHash": "3678d5808ea0c7d76518a88f251c8cd849c40ab1c204e7fb503ca19e5ef3dbc9",
+      "svgHash": "a79c80f8c0d75c35c522a5e15f479f9b854b600ca275bc41b9b658726cab3101",
+      "stepText": "В строке секции, выбранной в поступлении, нажмите карандаш.",
+      "stepTextHash": "d759b9ebb9cf1ff91279623c037d667f40f19be5d82b21ac44941cba35794c3e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Карандаш единственной Секции 1 выделен отдельно, прямая стрелка справа не касается таблицы. Чистый источник и полный SVG просмотрены; DOM измерен в состоянии съёмки. В статье и увеличении отдельно просмотрены; вкладка, карандаш и выбранный уровнемер читаются, метки не закрывают подписи."
+    },
+    {
+      "output": "step-12.svg",
+      "sourceHash": "147554b61db9488bbcfe02bba5ef3dc286efeacab371443b1f9258c11eee58d0",
+      "svgHash": "7b7cf856ce2e2bead1e566fe9448658bc0dbc6245808c0641458ce825f7ed4c0",
+      "stepText": "В поле «Уровнемер» должен быть выбран прибор, установленный в этой секции. Если поле пустое или выбран другой прибор, выберите нужный уровнемер. Если он уже указан верно, переходите к шагу 14.",
+      "stepTextHash": "0e745bb14720a66b0e04aeeb48f946a2cb9475a40e048b27c085734bf8530913",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка по ширине правой панели охватывает только Уровнемер и выбранный Тест контроллер - Уровнемер 1. Источник и полный SVG просмотрены отдельно; измерения получены в состоянии съёмки. В статье и увеличении отдельно просмотрены; вкладка, карандаш и выбранный уровнемер читаются, метки не закрывают подписи."
+    },
+    {
+      "output": "step-13.svg",
+      "sourceHash": "147554b61db9488bbcfe02bba5ef3dc286efeacab371443b1f9258c11eee58d0",
+      "svgHash": "39a8cd3f32b31af50f0922741b1feb4bbc1f273518edd85c27be3522a4d14c87",
+      "stepText": "Нажмите «Сохранить» внизу формы секции.",
+      "stepTextHash": "e53b95987a36432cf951bdc81035728e0f645319cbf7dd4335860cecd9cb3e5f",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить внизу формы секции целиком видно; отдельная стрелка слева не перекрывает другие поля. Источник и полный SVG просмотрены отдельно; измерения получены в состоянии съёмки. В статье и увеличении отдельно просмотрены: кнопка сохранения и обе кнопки Уровнемер читаются; рамки соответствуют тексту."
+    },
+    {
+      "output": "step-14.svg",
+      "sourceHash": "6d7e45b9af8ca1969574d40ff91dfd9b1cd24c84e2814abda0ce3edb49cda62b",
+      "svgHash": "5e999a598a3bf14844e13f50f625fc50d68979d4f2fe28e2a9bddaaadb7e129e",
+      "stepText": "В форме поступления для этой секции должны быть кнопки «Уровнемер» в блоках «Начало слива» и «Конец слива». Если обе связи настроены, математический остаток выключен, а кнопок по-прежнему нет, сообщите поддержке названия станции, секции и контроллера.",
+      "stepTextHash": "541aac7501c0ff9850b66e1aba274ca364b40f117ec9a55389bc6e8fb658b249",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "В форме той же станции Резервуар №3 обе кнопки Уровнемер выделены; это проверка наличия, команды нажать нет. Источник и полный SVG просмотрены отдельно; измерения получены в состоянии съёмки. В статье и увеличении отдельно просмотрены: кнопка сохранения и обе кнопки Уровнемер читаются; рамки соответствуют тексту. Из статьи удалены все ссылки на другие процедуры. Переходы 4→5→4, обе темы и три режима фона проверены; копирование показало Скопировано; восстановлены тёмная тема и фон под инструкцией."
+    }
+  ]
+}

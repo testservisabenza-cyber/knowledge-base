@@ -1,0 +1,79 @@
+{
+  "pro-plan-vehicle-model": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "100/125% и PNG clipboard проверены; 4→5→4 после завершения прокрутки; ссылка открыла отдельную вкладку, исходная статья сохранена."
+  },
+  "pro-transport-create": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "100/125%, PNG clipboard; 10→9→10; обе темы и все три фона; внутренние ссылки target blank rel noopener noreferrer, общий помощник сохранён."
+  },
+  "pro-transport-settings": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "1→2→1, 100/125%, PNG clipboard, обе темы и три фона; текстовых ссылок нет."
+  },
+  "pro-plan-vehicle-import": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "1→2→1, 125/100%, дождался Скопировано и PNG clipboard; обе темы и три фона. Кадр сохранения импорта отдельно не принят."
+  },
+  "pro-vehicle-limit-edit": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "1→2→1, обе темы и три фона; масштаб 125/100; дождался Скопировано и проверил image/png. Текстовых ссылок нет."
+  },
+  "pro-transport-delete": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "1→2→1, обе темы и три фона, увеличение 125/100, PNG clipboard; общий помощник записи сохранён."
+  },
+  "pro-plan-vehicle-card": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "1→2→1, обе темы и три фона, 125/100, PNG clipboard. Ссылка на изменение пользователя открыла новую вкладку; URL исходной статьи сохранён."
+  }
+}

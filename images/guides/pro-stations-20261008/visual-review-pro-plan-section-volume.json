@@ -1,0 +1,239 @@
+{
+  "version": 1,
+  "manifestHash": "862ad05e9bfdf9438706a7585c61af003e8998472bf77959f696d6e113a1d70b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-section-volume",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "station-view-sections.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "1b8ca24f3bd7b41e4ad470def3ec59a77279be8a5d3b008d5213067a83f9106f",
+      "stepText": "В списке «Станции» нажмите кнопку с диаграммой у нужного резервуара.",
+      "stepTextHash": "8431d6ee0fef3a0250f0374b681e6f440ca05ee2ed4e3951f7eb00667e550921",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Данные по секциям (1561, 246, 36x28). Стрелки: к рамке 0: точно в угол bottom-right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-readings-current.svg",
+      "sourceHash": "d64a972034e9c2ce0ace02896b788829c7a496d6e052be617284c436d0d15abf",
+      "svgHash": "9352711a3c3b5171a457df8e3b7c687d2263027d5c395b24be4cf0d3f8fc7e6a",
+      "stepText": "В окне «Данные по секциям» посмотрите значение «Текущий объем» у нужной секции. Не путайте его с «Полный объем»: последний задаёт ёмкость и не показывает свежее измерение.\n\nОткройте данные по секциям станции и проверьте, изменился ли «Текущий объем». Если показаний нет сразу после первой настройки, перейдите к инструкции ниже.",
+      "stepTextHash": "1a6a9d44d137b0d77b7c206c3686f80121353b8ff6d4c2f4d0869b15fec4b567",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Текущий объём (1054, 108, 145x93). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "controller-actions-button.svg",
+      "sourceHash": "8c8e0da007667953d8de85476e532d535270c4ac42fbca1ee3c8993d797e9208",
+      "svgHash": "28ae8f76ea3e5e8b48a1bf9a4d2f69c4765f6506b545889b256e1484d1bace37",
+      "stepText": "Если автоопрос отключён, в карточке контроллера раскройте «Действия с контроллерами».",
+      "stepTextHash": "a39a19c23d64add0c0e14b03d1d23f9cc20ee7a4d68dcef6fba5154a75e450be",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Действия с контроллерами (1666, 94, 203x37). Стрелки: к рамке 0: прямая к стороне left; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "controller-read-menu.svg",
+      "sourceHash": "dafb529b10b4f5219d751dace7d1bc6c412a0ae5d2cf6c352087cd4d97161b87",
+      "svgHash": "ff6d2077a95defb78eead9ab2e5ee4a6aa7e42598cacc1ab47baaf5eccaf7acc",
+      "stepText": "В меню выберите «Чтение данных с контроллера» и дождитесь результата чтения.",
+      "stepTextHash": "fed462424b83474517ca2b6b3e427ef0137b1c9d08139d8fe747faa93f7ff63a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Чтение данных с контроллера (1617, 139, 252x31). Стрелки: к рамке 0: прямая к стороне left; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "controller-nav.svg",
+      "sourceHash": "0f303d0bf16ad83ad261bcab4a646ba2286e2e7c6868ed37f09947371d1f5f29",
+      "svgHash": "73b8c7d9938c73d53280c5222789c8e26c8d250a4c8455af32632f2688a40fb6",
+      "stepText": "В левом меню откройте раздел «Контроллеры (ТРК)».",
+      "stepTextHash": "fc6af927c7ad6710703ae8decc2e3b6ed628d8383350ca9ae5ad4be38c2d69c7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Контроллеры (ТРК) (0, 296, 246x40). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "controller-status-row.svg",
+      "sourceHash": "0f303d0bf16ad83ad261bcab4a646ba2286e2e7c6868ed37f09947371d1f5f29",
+      "svgHash": "950165be2c1510df53de8001f7211e3eead972d4f962dafba6431e1a45f3ccc8",
+      "stepText": "Найдите контроллер, от которого ждёте новые показания, по названию или ID.",
+      "stepTextHash": "1fa37a9b750b1dd700fa681d7b3a57067f13aa959749e7cc15fc3762c5f80764",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Контроллер Пенза (286, 345, 1574x73); 1: Пустой фильтр названия (960, 233, 112x32). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "controller-open.svg",
+      "sourceHash": "0f303d0bf16ad83ad261bcab4a646ba2286e2e7c6868ed37f09947371d1f5f29",
+      "svgHash": "7337f9c5b9cdd37bcafc074c039f0845832d16aad4772fd05b702beb7761e2f8",
+      "stepText": "Если автоопрос отключён, нажмите стрелку в строке контроллера, чтобы открыть его карточку.",
+      "stepTextHash": "c6bb0f29f133affad864f59165007a8accc10a0bf39d96bbb2bfe3959d6beb0f",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Открыть контроллер Пенза (370, 367, 36x28). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "controller-status-health.svg",
+      "sourceHash": "0f303d0bf16ad83ad261bcab4a646ba2286e2e7c6868ed37f09947371d1f5f29",
+      "svgHash": "34b8c5e9f05aa3345cfbe26fd36318b82c6b27d5a11cc4d934800a307f7c275c",
+      "stepText": "В строке контроллера проверьте GSM, срок в колонке «Лицензия до» и дату «Успешный опрос». Если связи нет, лицензия истекла или опрос был давно, новое измерение могло не попасть в сервис.\nGSM: Показывает состояние связи контроллера.\nЛицензия до: Проверьте, что срок действия ещё не закончился.\nУспешный опрос: Сравните дату и время с моментом, когда ожидали новое показание.",
+      "stepTextHash": "c083ccf17ef7b804cd04780dab899963036a3d55ad53ab46411c89577a9d3aad",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: GSM, лицензия и успешный опрос (466, 345, 480x73). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "controller-status-autopoll.svg",
+      "sourceHash": "0f303d0bf16ad83ad261bcab4a646ba2286e2e7c6868ed37f09947371d1f5f29",
+      "svgHash": "eb238f656a7a5d048cb6984129a19bd36ea249242ede236afc6d9fda2a074551",
+      "stepText": "В той же строке посмотрите колонку «Автоопрос». Если указано «Отключено», считайте данные вручную в следующих шагах. Если автоопрос включён, сопоставьте дату последнего опроса, связь и срок лицензии; для первого чтения после настройки используйте отдельную инструкцию ниже.",
+      "stepTextHash": "de5771c4eb9d65e658eb46a7ab494499aa97b26e1d01ea6f0fa8605476f987ba",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Автоопрос (1606, 345, 180x73). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "controller-status-poll.svg",
+      "sourceHash": "0f303d0bf16ad83ad261bcab4a646ba2286e2e7c6868ed37f09947371d1f5f29",
+      "svgHash": "87b50e21e21c3fa5a9c0f6cf5da6e8d70f89adfc62d90510d8c09c85d26095b8",
+      "stepText": "После успешного чтения вернитесь к списку контроллеров и проверьте дату «Успешный опрос».",
+      "stepTextHash": "27d0cc974e773cd622a11a5db3f33ce9e348aed49b967b5f4cbb218bf51a1869",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Успешный опрос (766, 345, 180x73). Стрелок нет, состояние и поля показаны рамками."
+    }
+  ],
+  "inspectedAt": "2026-10-08",
+  "inspectionEnvironment": "Individual clean sources and complete SVGs: 1920x1080. Article viewport: 1920x889; both themes, background choices, step navigation, 125% image zoom and PNG clipboard inspected. Original dark theme and background restored."
+}

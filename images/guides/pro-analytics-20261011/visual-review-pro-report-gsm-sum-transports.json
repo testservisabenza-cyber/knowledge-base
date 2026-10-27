@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "manifestHash": "dd0b632f57915098bcd36311d4323c01920d88216d754c8c9078c538a117886c",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-report-gsm-sum-transports",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "gsm-sum-transports-nav.svg",
+      "sourceHash": "0dc0605ae6a2c8c1da1b8b3513eee5e26815e0a25d4780e8e0e07b98cd1839f5",
+      "svgHash": "53b007ad391a6bc63486946c3f960ab898336bbd45b2890e3f7ce8414e5364e6",
+      "stepText": "В открытом списке нажмите «Суммарный отпуск ГСМ по транспорту». Название отчёта появится над рабочей областью.",
+      "stepTextHash": "def7b2670ec8f753d2f2b854ea9fe804d24d6129cdb8f38d3dcfee06a304d730",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Суммарный отпуск ГСМ по транспорту. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-sum-transports-filter-button.svg",
+      "sourceHash": "0dc0605ae6a2c8c1da1b8b3513eee5e26815e0a25d4780e8e0e07b98cd1839f5",
+      "svgHash": "692fb06be9abe55d4a9d17dc44bf7036667283fe46d601fe2d92c6650cd117ef",
+      "stepText": "Нажмите «Фильтр отчета» в правом верхнем углу страницы.",
+      "stepTextHash": "3f274914dcbac3f42e765a42b37c4140eb6bf55cd4f4a6759eccf58976c74d95",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Фильтр отчета. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-sum-transports-company.svg",
+      "sourceHash": "a038bf6a95477775e7801c53c91f75a443bfd761818f1c5ecabd494c1df226db",
+      "svgHash": "e9f2362ad42bd2544e3221b35b04b4b6656f24bf11f9e2acc922b529b72e133f",
+      "stepText": "В поле «Компания» выберите организацию, данные которой хотите посмотреть.",
+      "stepTextHash": "443835ee4fd5f41e709eda8416ab6c48e8356e1db890e39bbe1726d74cca2c32",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Компания — подпись и поле. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-sum-transports-dates.svg",
+      "sourceHash": "a038bf6a95477775e7801c53c91f75a443bfd761818f1c5ecabd494c1df226db",
+      "svgHash": "9795993adcb2dc0cfa3ff8478502b9cf67c9858dce7f58bd4e224352e0eef813",
+      "stepText": "Проверьте начальную и конечную даты и время. При необходимости исправьте их вручную: операции за пределами выбранного интервала не попадут в отчёт.",
+      "stepTextHash": "bac82dc46f967321fc3bf3e384b09c2291e5f32598e1a63d68419bb8d0388019",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Начальная и конечная даты. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-sum-transports-submit.svg",
+      "sourceHash": "a038bf6a95477775e7801c53c91f75a443bfd761818f1c5ecabd494c1df226db",
+      "svgHash": "73cd141c5e188cd473c61641f376d4d36a2da8b666136e11908d6c41e0588996",
+      "stepText": "Нажмите «Сформировать». Отчёт покажет данные за выбранный период. Если подходящих записей нет, таблица будет пустой.",
+      "stepTextHash": "4cb3089a888bf453875e237d61bd931af91519147da1cbf5f8ab01b8908c79f8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Сформировать. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-sum-transports-controller.svg",
+      "sourceHash": "a038bf6a95477775e7801c53c91f75a443bfd761818f1c5ecabd494c1df226db",
+      "svgHash": "f85b237e3f4009e2c6ddc7bae8abc87581816292770c7f1d88e175752069ff29",
+      "stepText": "В поле «Контроллер (ТРК)» выберите устройство, операции которого хотите посмотреть.",
+      "stepTextHash": "3c219db0e73f2f3f0aae3dc1ae73473818b820dc932cd2465a3e453080d96bb3",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Контроллер (ТРК) и варианты отбора. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-sum-transports-vehicle.svg",
+      "sourceHash": "a038bf6a95477775e7801c53c91f75a443bfd761818f1c5ecabd494c1df226db",
+      "svgHash": "9f759103c8fb29df3c5c259780d249bb11de4cdd9e14d2b1887bc984febc1a8d",
+      "stepText": "В поле «Машина» выберите нужное ТС или отметьте «Выбрать все ТС». Чтобы включить старые карточки, используйте «Учитывать удалённых».",
+      "stepTextHash": "8bfb5fe87759a851be5096807df04f1c9ce14c2fbd92e14610ace525df7046fe",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Машина и варианты отбора. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-sum-transports-grouping.svg",
+      "sourceHash": "a038bf6a95477775e7801c53c91f75a443bfd761818f1c5ecabd494c1df226db",
+      "svgHash": "0a38b2e90dfb0b582366f77dab3f9566e254f1855b668ea2cd934dc0851a2b97",
+      "stepText": "В поле «Группировка» выберите, как объединять данные по времени. Этот выбор меняет вид итоговой сводки.",
+      "stepTextHash": "3f2c43ed7f26e2683a07d31e4dde6ea871756e98492eeab3997bf3810246523c",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Группировка и варианты отбора. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "gsm-sum-transports-export.svg",
+      "sourceHash": "a038bf6a95477775e7801c53c91f75a443bfd761818f1c5ecabd494c1df226db",
+      "svgHash": "7b2e52de4cd0c54a5557b8ac9195417ae92b59f6e50e08386844f35f90ec92dc",
+      "stepText": "Нажмите «Экспорт» под кнопкой формирования. Откроется список доступных форматов файла.",
+      "stepTextHash": "3f6dce76ff10360cb50807a17cf50063b9ef7fa2bc106bcf2f653589a41a402a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Экспорт. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "analytics-open.svg",
+      "sourceHash": "51a13b5fc62083edf501385e240f5405e8423d3dfd585855680476742933dfd0",
+      "svgHash": "85967b11eed60423dd01a7a26ac6c8fac372a23f1b596edb0c4a1a9482e3d0ff",
+      "stepText": "В левом меню раскройте «Аналитика». Появится список доступных отчётов.",
+      "stepTextHash": "d22c486b0c48f725844e74d28f7846a2fc70ad029c745eb659400844e5089783",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Аналитика. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага. Проверено в статье и просмотрщике с актуальным текстом шага."
+    }
+  ],
+  "articleInspectionNote": "Фактически проверены светлая и тёмная темы, фон/без фона, переходы между шагами, увеличение 125%, копирование со статусом Скопировано. Ссылки открываются в новой вкладке и сохраняют шаг. Прежнее оформление восстановлено."
+}

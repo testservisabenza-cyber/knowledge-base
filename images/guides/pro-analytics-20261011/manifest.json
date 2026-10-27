@@ -1,0 +1,3685 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/actions-page.jpg",
+      "output": "actions-nav.svg",
+      "title": "Журнал всех действий пользователей",
+      "sourceUrl": "https://pro.benza.online/reports/actions",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 59,
+          "selector": "#actions",
+          "tag": "A",
+          "target": "Журнал всех действий пользователей",
+          "width": 246,
+          "x": 0,
+          "y": 545.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            574.9375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/actions-page.jpg",
+      "output": "actions-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/actions",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/actions-filter.jpg",
+      "output": "actions-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/actions",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/actions-filter.jpg",
+      "output": "actions-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/actions",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 249.21875,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/actions-filter.jpg",
+      "output": "actions-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/actions",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 405.5
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            423.765625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/actions-filter.jpg",
+      "output": "actions-users.svg",
+      "title": "Пользователи и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/actions",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Пользователи и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/change-prices-page.jpg",
+      "output": "change-prices-nav.svg",
+      "title": "Изменение цен",
+      "sourceUrl": "https://pro.benza.online/reports/change-prices",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "#change-prices",
+          "tag": "A",
+          "target": "Изменение цен",
+          "width": 246,
+          "x": 0,
+          "y": 555.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            575.1875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/change-prices-page.jpg",
+      "output": "change-prices-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/change-prices",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/change-prices-filter.jpg",
+      "output": "change-prices-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/change-prices",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/change-prices-filter.jpg",
+      "output": "change-prices-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/change-prices",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/change-prices-filter.jpg",
+      "output": "change-prices-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/change-prices",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 329.890625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            348.15625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/event-hatch-open-close-page.jpg",
+      "output": "event-hatch-open-close-nav.svg",
+      "title": "Показания датчика крышки резервуара",
+      "sourceUrl": "https://pro.benza.online/reports/event-hatch-open-close",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 59,
+          "selector": "#open-close",
+          "tag": "A",
+          "target": "Показания датчика крышки резервуара",
+          "width": 246,
+          "x": 0,
+          "y": 545.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            574.9375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/event-hatch-open-close-page.jpg",
+      "output": "event-hatch-open-close-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/event-hatch-open-close",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/event-hatch-open-close-filter.jpg",
+      "output": "event-hatch-open-close-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/event-hatch-open-close",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/event-hatch-open-close-filter.jpg",
+      "output": "event-hatch-open-close-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/event-hatch-open-close",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 249.21875,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/event-hatch-open-close-filter.jpg",
+      "output": "event-hatch-open-close-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/event-hatch-open-close",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 405.5
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            423.765625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/event-hatch-open-close-filter.jpg",
+      "output": "event-hatch-open-close-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/event-hatch-open-close",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/fillings-page.jpg",
+      "output": "fillings-nav.svg",
+      "title": "Последние заправки",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "#fillings",
+          "tag": "A",
+          "target": "Последние заправки",
+          "width": 246,
+          "x": 0,
+          "y": 555.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            575.1875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/fillings-page.jpg",
+      "output": "fillings-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/fillings-filter.jpg",
+      "output": "fillings-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/fillings-filter.jpg",
+      "output": "fillings-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 473.796875,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/fillings-filter.jpg",
+      "output": "fillings-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(11) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 630.078125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            648.34375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/fillings-filter.jpg",
+      "output": "fillings-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 93.21875,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/fillings-filter.jpg",
+      "output": "fillings-users.svg",
+      "title": "Пользователи и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 272.828125,
+          "width": 388,
+          "height": 150.4375,
+          "target": "Пользователи и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/fillings-filter.jpg",
+      "output": "fillings-quick.svg",
+      "title": "День",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "День",
+          "width": 55.734375,
+          "x": 1537,
+          "y": 429.265625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1472,
+            447.53125
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/fillings-filter.jpg",
+      "output": "fillings-export.svg",
+      "title": "Экспорт",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Экспорт",
+          "width": 84.765625,
+          "x": 1537,
+          "y": 674.609375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1686.765625,
+            692.875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/fuel-intake-page.jpg",
+      "output": "fuel-intake-nav.svg",
+      "title": "Поступление топлива",
+      "sourceUrl": "https://pro.benza.online/reports/fuel-intake",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "#report-fuel-intake",
+          "tag": "A",
+          "target": "Поступление топлива",
+          "width": 246,
+          "x": 0,
+          "y": 829.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            849.1875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/fuel-intake-page.jpg",
+      "output": "fuel-intake-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/fuel-intake",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/fuel-intake-filter.jpg",
+      "output": "fuel-intake-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/fuel-intake",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/fuel-intake-filter.jpg",
+      "output": "fuel-intake-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/fuel-intake",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 249.21875,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/fuel-intake-filter.jpg",
+      "output": "fuel-intake-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/fuel-intake",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 405.5
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            423.765625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/fuel-intake-filter.jpg",
+      "output": "fuel-intake-station.svg",
+      "title": "Станции(я) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/fuel-intake",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Станции(я) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-connects-page.jpg",
+      "output": "gsm-connects-nav.svg",
+      "title": "Журнал качества связи",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-connects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "#connects",
+          "tag": "A",
+          "target": "Журнал качества связи",
+          "width": 246,
+          "x": 0,
+          "y": 554.9375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            574.6875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-connects-page.jpg",
+      "output": "gsm-connects-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-connects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-connects-filter.jpg",
+      "output": "gsm-connects-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-connects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-connects-filter.jpg",
+      "output": "gsm-connects-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-connects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 249.21875,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-connects-filter.jpg",
+      "output": "gsm-connects-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-connects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 405.5
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            423.765625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-connects-filter.jpg",
+      "output": "gsm-connects-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-connects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-controllers-page.jpg",
+      "output": "gsm-controllers-nav.svg",
+      "title": "Отпуск ГСМ по контроллерам",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 59,
+          "selector": "#gsm-controllers",
+          "tag": "A",
+          "target": "Отпуск ГСМ по контроллерам",
+          "width": 246,
+          "x": 0,
+          "y": 545.9375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            575.4375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-controllers-page.jpg",
+      "output": "gsm-controllers-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-controllers-filter.jpg",
+      "output": "gsm-controllers-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-controllers-filter.jpg",
+      "output": "gsm-controllers-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 301.75,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-controllers-filter.jpg",
+      "output": "gsm-controllers-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 458.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            476.296875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-controllers-filter.jpg",
+      "output": "gsm-controllers-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 77.609375,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-controllers-filter.jpg",
+      "output": "gsm-controllers-quick.svg",
+      "title": "День",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "День",
+          "width": 55.734375,
+          "x": 1537,
+          "y": 257.21875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1472,
+            275.484375
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-controllers-filter.jpg",
+      "output": "gsm-controllers-export.svg",
+      "title": "Экспорт",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Экспорт",
+          "width": 84.765625,
+          "x": 1537,
+          "y": 502.5625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1686.765625,
+            520.828125
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-mass-page.jpg",
+      "output": "gsm-mass-nav.svg",
+      "title": "Отпуск ГСМ по массе",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-mass",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "#mass",
+          "tag": "A",
+          "target": "Отпуск ГСМ по массе",
+          "width": 246,
+          "x": 0,
+          "y": 555.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            575.1875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-mass-page.jpg",
+      "output": "gsm-mass-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-mass",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-mass-filter.jpg",
+      "output": "gsm-mass-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-mass",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-mass-filter.jpg",
+      "output": "gsm-mass-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-mass",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 249.21875,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-mass-filter.jpg",
+      "output": "gsm-mass-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-mass",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 405.5
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            423.765625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-mass-filter.jpg",
+      "output": "gsm-mass-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-mass",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-mass-filter.jpg",
+      "output": "gsm-mass-export.svg",
+      "title": "Экспорт",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-mass",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Экспорт",
+          "width": 84.765625,
+          "x": 1537,
+          "y": 450.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1686.765625,
+            468.296875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-not-grouping-page.jpg",
+      "output": "gsm-not-grouping-nav.svg",
+      "title": "Отпуск ГСМ по контроллерам (без группировки)",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-not-grouping",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 78.5,
+          "selector": "#gsm-not-grouping",
+          "tag": "A",
+          "target": "Отпуск ГСМ по контроллерам (без группировки)",
+          "width": 246,
+          "x": 0,
+          "y": 535.9375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            575.1875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-not-grouping-page.jpg",
+      "output": "gsm-not-grouping-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-not-grouping",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-not-grouping-filter.jpg",
+      "output": "gsm-not-grouping-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-not-grouping",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-not-grouping-filter.jpg",
+      "output": "gsm-not-grouping-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-not-grouping",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 249.21875,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-not-grouping-filter.jpg",
+      "output": "gsm-not-grouping-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-not-grouping",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 405.5
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            423.765625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-not-grouping-filter.jpg",
+      "output": "gsm-not-grouping-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-not-grouping",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-not-grouping-filter.jpg",
+      "output": "gsm-not-grouping-export.svg",
+      "title": "Экспорт",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-not-grouping",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Экспорт",
+          "width": 84.765625,
+          "x": 1537,
+          "y": 450.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1686.765625,
+            468.296875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-pouring-controllers-page.jpg",
+      "output": "gsm-pouring-controllers-nav.svg",
+      "title": "Прием топлива на контроллере",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-pouring-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 59,
+          "selector": "#pouring-controllers",
+          "tag": "A",
+          "target": "Прием топлива на контроллере",
+          "width": 246,
+          "x": 0,
+          "y": 545.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            574.9375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-pouring-controllers-page.jpg",
+      "output": "gsm-pouring-controllers-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-pouring-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-pouring-controllers-filter.jpg",
+      "output": "gsm-pouring-controllers-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-pouring-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-pouring-controllers-filter.jpg",
+      "output": "gsm-pouring-controllers-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-pouring-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 249.21875,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-pouring-controllers-filter.jpg",
+      "output": "gsm-pouring-controllers-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-pouring-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 405.5
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            423.765625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-pouring-controllers-filter.jpg",
+      "output": "gsm-pouring-controllers-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-pouring-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-companies-page.jpg",
+      "output": "gsm-sum-companies-nav.svg",
+      "title": "Суммарный отпуск ГСМ по компаниям",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 59,
+          "selector": "#gsm-sum-companies",
+          "tag": "A",
+          "target": "Суммарный отпуск ГСМ по компаниям",
+          "width": 246,
+          "x": 0,
+          "y": 770.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            799.9375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-companies-page.jpg",
+      "output": "gsm-sum-companies-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-companies-filter.jpg",
+      "output": "gsm-sum-companies-company.svg",
+      "title": "Компания и выбор всех компаний",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 98,
+          "width": 388,
+          "height": 97.21875,
+          "target": "Компания и выбор всех компаний",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-companies-filter.jpg",
+      "output": "gsm-sum-companies-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 325.359375,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-companies-filter.jpg",
+      "output": "gsm-sum-companies-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 481.640625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            499.90625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-companies-filter.jpg",
+      "output": "gsm-sum-companies-grouping.svg",
+      "title": "Группировка и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 197.21875,
+          "width": 388,
+          "height": 77.609375,
+          "target": "Группировка и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-companies-filter.jpg",
+      "output": "gsm-sum-companies-quick.svg",
+      "title": "День",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "День",
+          "width": 55.734375,
+          "x": 1537,
+          "y": 280.828125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1472,
+            299.09375
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-companies-filter.jpg",
+      "output": "gsm-sum-companies-export.svg",
+      "title": "Экспорт",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Экспорт",
+          "width": 84.765625,
+          "x": 1537,
+          "y": 526.171875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1686.765625,
+            544.4375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-controllers-page.jpg",
+      "output": "gsm-sum-controllers-nav.svg",
+      "title": "Суммарный отпуск ГСМ по контроллерам",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 59,
+          "selector": "#gsm-sum-controllers",
+          "tag": "A",
+          "target": "Суммарный отпуск ГСМ по контроллерам",
+          "width": 246,
+          "x": 0,
+          "y": 593.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            622.9375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-controllers-page.jpg",
+      "output": "gsm-sum-controllers-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-controllers-filter.jpg",
+      "output": "gsm-sum-controllers-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-controllers-filter.jpg",
+      "output": "gsm-sum-controllers-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 324.828125,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-controllers-filter.jpg",
+      "output": "gsm-sum-controllers-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 481.109375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            499.375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-controllers-filter.jpg",
+      "output": "gsm-sum-controllers-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-controllers-filter.jpg",
+      "output": "gsm-sum-controllers-grouping.svg",
+      "title": "Группировка и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 249.21875,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Группировка и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-controllers-filter.jpg",
+      "output": "gsm-sum-controllers-export.svg",
+      "title": "Экспорт",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Экспорт",
+          "width": 84.765625,
+          "x": 1537,
+          "y": 525.640625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1686.765625,
+            543.90625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-transports-page.jpg",
+      "output": "gsm-sum-transports-nav.svg",
+      "title": "Суммарный отпуск ГСМ по транспорту",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 59,
+          "selector": "#gsm-sum-transports",
+          "tag": "A",
+          "target": "Суммарный отпуск ГСМ по транспорту",
+          "width": 246,
+          "x": 0,
+          "y": 711.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            740.9375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-transports-page.jpg",
+      "output": "gsm-sum-transports-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-transports-filter.jpg",
+      "output": "gsm-sum-transports-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-transports-filter.jpg",
+      "output": "gsm-sum-transports-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 447.65625,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-transports-filter.jpg",
+      "output": "gsm-sum-transports-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 603.9375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            622.203125
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-transports-filter.jpg",
+      "output": "gsm-sum-transports-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 296.4375,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-transports-filter.jpg",
+      "output": "gsm-sum-transports-vehicle.svg",
+      "title": "Машина и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 116.828125,
+          "target": "Машина и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-transports-filter.jpg",
+      "output": "gsm-sum-transports-grouping.svg",
+      "title": "Группировка и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 372.046875,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Группировка и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-transports-filter.jpg",
+      "output": "gsm-sum-transports-export.svg",
+      "title": "Экспорт",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Экспорт",
+          "width": 84.765625,
+          "x": 1537,
+          "y": 648.46875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1686.765625,
+            666.734375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-users-page.jpg",
+      "output": "gsm-sum-users-nav.svg",
+      "title": "Суммарный отпуск ГСМ по пользователям",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 59,
+          "selector": "#gsm-sum-users",
+          "tag": "A",
+          "target": "Суммарный отпуск ГСМ по пользователям",
+          "width": 246,
+          "x": 0,
+          "y": 652.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            681.9375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-users-page.jpg",
+      "output": "gsm-sum-users-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-users-filter.jpg",
+      "output": "gsm-sum-users-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-users-filter.jpg",
+      "output": "gsm-sum-users-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 496.875,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-users-filter.jpg",
+      "output": "gsm-sum-users-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(11) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 653.15625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            671.421875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-sum-users-filter.jpg",
+      "output": "gsm-sum-users-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 322.046875,
+          "width": 388,
+          "height": 97.21875,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-users-filter.jpg",
+      "output": "gsm-sum-users-users.svg",
+      "title": "Пользователь и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 142.4375,
+          "target": "Пользователь и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-users-filter.jpg",
+      "output": "gsm-sum-users-grouping.svg",
+      "title": "Группировка и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 421.265625,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Группировка и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-users-filter.jpg",
+      "output": "gsm-sum-users-export.svg",
+      "title": "Экспорт",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Экспорт",
+          "width": 84.765625,
+          "x": 1537,
+          "y": 697.6875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1686.765625,
+            715.953125
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-users-page.jpg",
+      "output": "gsm-users-nav.svg",
+      "title": "Отпуск ГСМ по пользователям",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 59,
+          "selector": "#gsm-users",
+          "tag": "A",
+          "target": "Отпуск ГСМ по пользователям",
+          "width": 246,
+          "x": 0,
+          "y": 545.9375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            575.4375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-users-page.jpg",
+      "output": "gsm-users-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-users-filter.jpg",
+      "output": "gsm-users-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 77.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-users-filter.jpg",
+      "output": "gsm-users-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 466.1875,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-users-filter.jpg",
+      "output": "gsm-users-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 622.46875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            640.734375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-users-filter.jpg",
+      "output": "gsm-users-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 181.609375,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-users-filter.jpg",
+      "output": "gsm-users-users.svg",
+      "title": "Пользователи и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 257.21875,
+          "width": 388,
+          "height": 158.4375,
+          "target": "Пользователи и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-users-filter.jpg",
+      "output": "gsm-users-quick.svg",
+      "title": "День",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "День",
+          "width": 55.734375,
+          "x": 1537,
+          "y": 421.65625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1472,
+            439.921875
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gsm-users-filter.jpg",
+      "output": "gsm-users-export.svg",
+      "title": "Экспорт",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(11) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Экспорт",
+          "width": 84.765625,
+          "x": 1537,
+          "y": 667
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1686.765625,
+            685.265625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/level-meter-page.jpg",
+      "output": "level-meter-nav.svg",
+      "title": "Показания уровнемеров",
+      "sourceUrl": "https://pro.benza.online/reports/level-meter",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "#level-meter",
+          "tag": "A",
+          "target": "Показания уровнемеров",
+          "width": 246,
+          "x": 0,
+          "y": 554.9375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            574.6875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/level-meter-page.jpg",
+      "output": "level-meter-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/level-meter",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/level-meter-filter.jpg",
+      "output": "level-meter-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/level-meter",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/level-meter-filter.jpg",
+      "output": "level-meter-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/level-meter",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 249.21875,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/level-meter-filter.jpg",
+      "output": "level-meter-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/level-meter",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 405.5
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            423.765625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/level-meter-filter.jpg",
+      "output": "level-meter-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/level-meter",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 69.609375,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/level-meter-filter.jpg",
+      "output": "level-meter-export.svg",
+      "title": "Экспорт",
+      "sourceUrl": "https://pro.benza.online/reports/level-meter",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Экспорт",
+          "width": 84.765625,
+          "x": 1537,
+          "y": 450.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1686.765625,
+            468.296875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/messages-page.jpg",
+      "output": "messages-nav.svg",
+      "title": "Журнал всех сообщений",
+      "sourceUrl": "https://pro.benza.online/reports/messages",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "#messages",
+          "tag": "A",
+          "target": "Журнал всех сообщений",
+          "width": 246,
+          "x": 0,
+          "y": 555.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            575.1875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/messages-page.jpg",
+      "output": "messages-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/messages",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/messages-filter.jpg",
+      "output": "messages-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/messages",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/messages-filter.jpg",
+      "output": "messages-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/messages",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 301.75,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/messages-filter.jpg",
+      "output": "messages-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/messages",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 458.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            476.296875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/messages-filter.jpg",
+      "output": "messages-controller.svg",
+      "title": "Контроллер (ТРК) и варианты отбора",
+      "sourceUrl": "https://pro.benza.online/reports/messages",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 77.609375,
+          "target": "Контроллер (ТРК) и варианты отбора",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/messages-filter.jpg",
+      "output": "messages-quick.svg",
+      "title": "День",
+      "sourceUrl": "https://pro.benza.online/reports/messages",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "День",
+          "width": 55.734375,
+          "x": 1537,
+          "y": 257.21875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1472,
+            275.484375
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/prices-page.jpg",
+      "output": "prices-nav.svg",
+      "title": "Приход и расход денег",
+      "sourceUrl": "https://pro.benza.online/reports/prices",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "#prices",
+          "tag": "A",
+          "target": "Приход и расход денег",
+          "width": 246,
+          "x": 0,
+          "y": 554.9375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            574.6875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/prices-page.jpg",
+      "output": "prices-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/prices",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/prices-filter.jpg",
+      "output": "prices-company.svg",
+      "title": "Компания — подпись и поле",
+      "sourceUrl": "https://pro.benza.online/reports/prices",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 69.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Компания — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/prices-filter.jpg",
+      "output": "prices-dates.svg",
+      "title": "Начальная и конечная даты",
+      "sourceUrl": "https://pro.benza.online/reports/prices",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 173.609375,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Начальная и конечная даты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/prices-filter.jpg",
+      "output": "prices-submit.svg",
+      "title": "Сформировать",
+      "sourceUrl": "https://pro.benza.online/reports/prices",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 329.890625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1721.4375,
+            348.15625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/fillings-page.jpg",
+      "output": "analytics-open.svg",
+      "title": "Аналитика",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.640625,
+          "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1)",
+          "tag": "A",
+          "target": "Аналитика",
+          "width": 246,
+          "x": 0,
+          "y": 515.796875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            535.6171875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/fillings-page.jpg",
+      "output": "overview-menu.svg",
+      "title": "Список отчётов",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 0,
+          "y": 515.796875,
+          "width": 246,
+          "height": 552.140625,
+          "target": "Список отчётов",
+          "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1), #fillings, #level-meter, #change-prices, #prices, #messages, #connects, #actions, #pouring-controllers, #open-close, #mass, #gsm-controllers"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/fillings-export.jpg",
+      "output": "fillings-export-button.svg",
+      "title": "Экспорт",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Экспорт",
+          "width": 84.765625,
+          "x": 1537,
+          "y": 674.609375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1686.765625,
+            692.875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/fillings-export.jpg",
+      "output": "fillings-export-excel.svg",
+      "title": "Excel",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "tag": "A",
+          "target": "Excel",
+          "width": 160,
+          "x": 1537,
+          "y": 719.140625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1762,
+            734.484375
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/fillings-result.jpg",
+      "output": "fillings-result-filter-button.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.984375,
+          "x": 1753.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1688.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/fillings-result.jpg",
+      "output": "fillings-result-table.svg",
+      "title": "Строки сформированного отчёта",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 737.921875,
+          "width": 1480,
+          "height": 292.125,
+          "target": "Строки сформированного отчёта",
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(2), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(3), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(4), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(5), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(6), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(7), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(8), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(1), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(3), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(4), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(5), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(6), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(7), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(8), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(1), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(2), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(3), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(4), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(5), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(6), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(7), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(8), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(1), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(2), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(3), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(4), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(5), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(6), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(7), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(8)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/fillings-result.jpg",
+      "output": "overview-fillings.svg",
+      "title": "Заправки за выбранный период",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 737.921875,
+          "width": 1480,
+          "height": 292.125,
+          "target": "Заправки за выбранный период",
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(2), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(3), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(4), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(5), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(6), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(7), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(8), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(1), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(3), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(4), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(5), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(6), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(7), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(8), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(1), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(2), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(3), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(4), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(5), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(6), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(7), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(8), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(1), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(2), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(3), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(4), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(5), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(6), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(7), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(8)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/fillings-filter.jpg",
+      "output": "overview-objects.svg",
+      "title": "Компания, контроллеры и пользователи",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 98,
+          "width": 388,
+          "height": 325.265625,
+          "target": "Компания, контроллеры и пользователи",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gsm-sum-companies-filter.jpg",
+      "output": "overview-period.svg",
+      "title": "Группировка — подпись и поле; Период отчёта",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 77.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1)",
+          "tag": "LABEL",
+          "target": "Группировка — подпись и поле",
+          "width": 388,
+          "x": 1526,
+          "y": 197.21875
+        },
+        {
+          "x": 1526,
+          "y": 325.359375,
+          "width": 388,
+          "height": 150.28125,
+          "target": "Период отчёта",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > label:nth-of-type(1), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > label:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/level-meter-result.jpg",
+      "output": "overview-levels.svg",
+      "title": "Таблица отчёта",
+      "sourceUrl": "https://pro.benza.online/reports/level-meter",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 578.53125,
+          "width": 1574,
+          "height": 175.390625,
+          "target": "Таблица отчёта",
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/actions-result.jpg",
+      "output": "overview-actions.svg",
+      "title": "Таблица отчёта",
+      "sourceUrl": "https://pro.benza.online/reports/actions",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 178.53125,
+          "width": 1574,
+          "height": 175.390625,
+          "target": "Таблица отчёта",
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/summary-result.jpg",
+      "output": "overview-summary.svg",
+      "title": "Таблица отчёта",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 209.921875,
+          "width": 1574,
+          "height": 610.484375,
+          "target": "Таблица отчёта",
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > table:nth-of-type(1), #root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > table:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/reused-pro-controller-20261011-list.jpg",
+      "output": "controller-nav.svg",
+      "title": "Контроллеры (ТРК)",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.63541793823242,
+          "selector": "#controllers",
+          "tag": "A",
+          "target": "Контроллеры (ТРК)",
+          "width": 246,
+          "x": 0,
+          "y": 295.26043701171875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            315.07814598083496
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/reused-pro-controller-20261011-list.jpg",
+      "output": "controller-health.svg",
+      "title": "list-connection",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2)",
+          "tag": "TD",
+          "target": "list-connection",
+          "width": 120,
+          "x": 466,
+          "y": 343.7708435058594
+        },
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(3)",
+          "tag": "TD",
+          "target": "list-license",
+          "width": 180,
+          "x": 586,
+          "y": 343.7708435058594
+        },
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(4)",
+          "tag": "TD",
+          "target": "list-poll",
+          "width": 180,
+          "x": 766,
+          "y": 343.7708435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/reused-pro-controller-20261011-operations.jpg",
+      "output": "controller-operations-button.svg",
+      "title": "Действия с контроллерами",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Действия с контроллерами",
+          "width": 203.0416717529297,
+          "x": 1665.625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1600.625,
+            111.92708396911621
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/reused-pro-controller-20261011-operations.jpg",
+      "output": "controller-operations-read.svg",
+      "title": "Чтение данных с контроллера",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "tag": "A",
+          "target": "Чтение данных с контроллера",
+          "width": 251.71875,
+          "x": 1616.947998046875,
+          "y": 137.8541717529297
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1551.947998046875,
+            153.1979217529297
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/reused-pro-controller-20261011-read-dialog.jpg",
+      "output": "controller-read-start.svg",
+      "title": "Чтение данных",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > button:nth-of-type(2)",
+          "tag": "BUTTON",
+          "target": "Чтение данных",
+          "width": 119.52083587646484,
+          "x": 1066.3125,
+          "y": 198.84375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1126.0729179382324,
+            299.6979179382324
+          ],
+          "toSide": "bottom"
+        }
+      ]
+    },
+    {
+      "source": "source/reused-pro-stations-20261008-pro-repairs-20261008-station-section-gauge.jpg",
+      "output": "section-gauge.svg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] label: Уровнемер",
+          "target": "Уровнемер",
+          "width": 392,
+          "x": 1524,
+          "y": 263.75,
+          "measurement": "Original same-state field union; frame inset 4 px from the 1520 px drawer boundary",
+          "widthSelector": "[role=\"dialog\"] .offcanvas-body"
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Уровнемер",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/reused-pro-stations-20261008-pro-repairs-20261008-station-section-hose-selected.jpg",
+      "output": "section-hose.svg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] label: Рукав",
+          "target": "Выбранный рукав",
+          "width": 392,
+          "x": 1524,
+          "y": 347.359375,
+          "measurement": "Original same-state field union; frame inset 4 px from the 1520 px drawer boundary",
+          "widthSelector": "[role=\"dialog\"] .offcanvas-body"
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Выбранный рукав",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/reused-pro-stations-20261008-pro-repairs-20261008-station-section-hose-selected.jpg",
+      "output": "section-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Сохранить",
+          "target": "Сохранить привязку секции",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 1005.953125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "toOffset": 0.5,
+          "from": [
+            1430,
+            1024.21875
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить привязку секции",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application"
+    }
+  ]
+}

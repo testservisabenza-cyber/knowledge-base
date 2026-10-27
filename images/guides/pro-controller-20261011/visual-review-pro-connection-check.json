@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-connection-check",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте «Контроллеры (ТРК)» в левом меню.",
+      "stepTextHash": "38104a21b0a725a456471d94d14eecfab13a48bbfa7d13504701ad21da5f7e90",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт меню обведён по ширине; короткая горизонтальная стрелка не касается текста. Исходник и полный SVG проверены; все восемь шагов просмотрены в статье и увеличении."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Если используется GSM, откройте карточку контроллера кнопкой со стрелкой.",
+      "stepTextHash": "9557a5eac0885fa17ba37cc254941f4ee2278ebc004b7683b8256493e3d7b098",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка указывает на открытие карточки, корзина остаётся отдельно. Исходник и полный SVG проверены; все восемь шагов просмотрены в статье и увеличении."
+    },
+    {
+      "output": "list-connection.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "77e1c0bb52ae792aeae154447fa1e6ef4b19105990187a65dcf273880deb9eaa",
+      "stepText": "Посмотрите индикатор GSM или «ETH» и определите, какой канал связи используется на объекте.",
+      "stepTextHash": "e38cf4916ff77734088b380a7e9f89cf6308bc4c116bf837d953d57f25a76560",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Индикатор GSM второй строки выделен в своей ячейке. Исходник и полный SVG проверены; все восемь шагов просмотрены в статье и увеличении."
+    },
+    {
+      "output": "list-license.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "01a013ce65b3de20a23574301899e54f7bb4529f52c63b6908cb6a7714afa2f1",
+      "stepText": "Проверьте «Лицензия до». Если срок истёк, продлите услугу в benzamat Оплата. Для нового контроллера до первого чтения здесь может стоять «Неизвестно».",
+      "stepTextHash": "65e012f38e45b6bd4d705557a6431bdc102df7eab64499621e82ff9c5f9ef56d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Срок лицензии второй строки выделен отдельно от даты опроса. Исходник и полный SVG проверены; все восемь шагов просмотрены в статье и увеличении."
+    },
+    {
+      "output": "list-poll.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "b7f232159947c4e37d4d00551509be9c71dc4e3edf205a10691ea08e0a0731a6",
+      "stepText": "Посмотрите столбец «Успешный опрос». Если дата старая, сервис давно не получал ответ от устройства.\n\nКогда связь восстановлена, проверьте, обновилось ли время «Успешный опрос».",
+      "stepTextHash": "d2148caa7a54a09b2cc50393f1738fc97d63ae7764cece48da41e29d0c9e5f5e",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Время успешного опроса второй строки читается; рамка не касается цифр. Исходник и полный SVG проверены; все восемь шагов просмотрены в статье и увеличении."
+    },
+    {
+      "output": "list-id.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "b7fdb6f4ff7abb0d75aafbc4685823113542ad1912f8908dea49c5e83df2e540",
+      "stepText": "Найдите строку нужного устройства и сверьте его ID.",
+      "stepTextHash": "c6313e889336f07b8cab2cb99030e06bb6cdbd9ac4682fdb2cde4b360aa308ce",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "ID работающего контроллера во второй строке выделен полностью. Исходник и полный SVG проверены; все восемь шагов просмотрены в статье и увеличении."
+    },
+    {
+      "output": "modem-fields.svg",
+      "sourceHash": "f476e6a0b900758a69de5860f0cd3f5c6dd423b5c9b67af21d71b57e39c8369a",
+      "svgHash": "c6bf23d62d53008b53b9771a5be165e2fd9f7fe7c1ea13402c7dd0f9cb84ada3",
+      "stepText": "В «Настройки» → «Модем» сверьте APN, сервер и порт с параметрами вашего объекта.",
+      "stepTextHash": "1fb21da3c45e66276313116bb350962af28322df974220a8b6418b1b8637e054",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "APN, пользователь, пароль, сервер и порт внутри одной рамки, кнопка Сохранить вне неё. Значение APN [object Object] получено из настоящего интерфейса. Исходник и полный SVG проверены; все восемь шагов просмотрены в статье и увеличении."
+    }
+  ]
+}

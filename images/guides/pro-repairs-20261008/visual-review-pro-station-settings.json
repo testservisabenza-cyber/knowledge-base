@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "manifestHash": "c8e260613d7ac0ffc4276d110d9a376362b1be6fe7c894643d27728f6ec56241",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-station-settings",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "station-nav.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "55813cc2a705b818b84342abc61f6e24db890d3bdb6d0eadfbdf5e6a3d92708f",
+      "stepText": "В левом меню откройте раздел «Станции».",
+      "stepTextHash": "afbef995451875c8acc71a8fb1aae10d94f25aa877480e7435aa92c3b181894a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Чистый список пяти станций; рамка и стрелка только на пункте Станции. Проверено в полном SVG, модальном просмотре и шаге 1 при 1920×1080."
+    },
+    {
+      "output": "station-find-training.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "c738fbf64465b0dd3b162a1770097eb4b3fc5790fb284b8b3f43179fb625258f",
+      "stepText": "Найдите в списке станцию, данные которой хотите изменить. Для поиска можно воспользоваться фильтром под заголовком «Название». В этом примере мы изменяем «Учебный резервуар №1».",
+      "stepTextHash": "63b9fb7b80ab9b34d35b163b9e4afdf5cf9439fa0e73494dae67dc208eeb7b08",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пустой фильтр Название и вся первая строка Учебного резервуара №1 с ООО Пенза-Топливо совпадают с примером шага 2. Проверено в SVG, увеличении и статье."
+    },
+    {
+      "output": "station-open-training.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "87eef8102e16e64d56962c2ca5277f2ba17043265ef9428375a8e3ce200dae3f",
+      "stepText": "В той же строке нажмите кнопку со стрелкой в столбце «Действия».",
+      "stepTextHash": "612402629cd234ceea92cf58a8431ab67340cd3850a8ee4f423411ff0f595c51",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка указывает на переход первой строки, не на диаграмму или корзину. Полный SVG и увеличение проверены ранее, статья проверена повторно в светлой теме на шаге 3."
+    },
+    {
+      "output": "station-info-tab.svg",
+      "sourceHash": "2d9a331314b71d155a8efb438456370714d305fff534281e5d479eb894c66d9e",
+      "svgHash": "8bb3814490dc1ee26bba5642da132421b88d76cebcb51fb34fb47ec28d0b4aae",
+      "stepText": "Откройте вкладку «Основная информация».",
+      "stepTextHash": "197cdf392498f39dd2d23d0de247346c15a4a6286cbc1cfb2302f966d39ad25a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "После пересъёмки исходника просмотрен заново: вкладка Основная информация обведена отдельно, стрелка проходит в промежутке под вкладкой и над Названием. Увеличение и шаг 4 проверены."
+    },
+    {
+      "output": "station-info-save.svg",
+      "sourceHash": "2d9a331314b71d155a8efb438456370714d305fff534281e5d479eb894c66d9e",
+      "svgHash": "3c498a93557fc7f34a6eb374b8a085681eceb2f4111183d98e7ed779a9a2079b",
+      "stepText": "Внизу формы нажмите «Сохранить изменения». После сохранения проверьте значения в карточке.",
+      "stepTextHash": "bc0595ad152bb44972de8c9a6677e58cd5bb10328eb5695d1f5f95ce589f1e22",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка Сохранить изменения имеет собственную рамку и короткую стрелку справа, вне текста. На новом исходнике проверены полный SVG, увеличение и шаг 7. Копирование показывает Скопировано."
+    },
+    {
+      "output": "station-coordinates.svg",
+      "sourceHash": "2d9a331314b71d155a8efb438456370714d305fff534281e5d479eb894c66d9e",
+      "svgHash": "4454365f997582cc82a01fcc58078b977bd72133930ab874841de54bee535ff4",
+      "stepText": "Если нужно уточнить положение станции на карте, заполните поля «Долгота» и «Широта» фактическими координатами объекта. Разделяйте целую и дробную части точкой.\nДолгота: Пример формата: 45.123456.\nШирота: Пример формата: 53.123456.",
+      "stepTextHash": "986a78f8f11f57abdf0687cd8ffbc3f6b8b0398a8c25f3747a7aacf65ec9f45e",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Оба поля координат с подписями объединены; отступ увеличен до 6px. Исходник пустых полей не выдаётся за заполненный пример. Новый полный SVG, увеличение и шаг 6 проверены."
+    },
+    {
+      "output": "station-info-fields.svg",
+      "sourceHash": "2d9a331314b71d155a8efb438456370714d305fff534281e5d479eb894c66d9e",
+      "svgHash": "85d188d73c5adaa555b81dd7322624efd656e37ad20c274317993a0b388f89b9",
+      "stepText": "Измените нужные поля: название, часовой пояс, описание, серийный номер или наряд-заказ. Часовой пояс задайте относительно Москвы. Компания показана в отдельном поле; на снимке она недоступна для изменения.\nНазвание: Название станции в списках benzamat ПРО.\nЧасовой пояс (по МСК): 0 — время как в Москве; 1 — на час позже Москвы; -1 — на час раньше Москвы. Например, когда в Москве 12:00, на объекте при значении 1 будет 13:00, а при -1 — 11:00.\nОписание, серийный номер, наряд заказ: Дополнительные сведения для идентификации объекта.",
+      "stepTextHash": "cf9a27d05d391a48b88faea52ca8a3875b4ff3f3af8ea6f5422cd5af15409d3c",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исправлена отсутствовавшая рамка Наряд заказ; первая рамка охватывает левую группу, Сохранить исключена. Отступ 6px сохраняет подписи. Исходник, новый полный SVG, увеличение и шаг 5 просмотрены."
+    }
+  ],
+  "articleInspectionNote": "1920×1080: все 7 снимков просмотрены отдельно в статье и увеличении; светлая тема без фона и по бокам, исходная тёмная с фоном под инструкцией восстановлена. Переключатель 4→3→4, копирование шага 7 успешно. Дополнительное руководство открылось в вкладке 220256761, исходная статья осталась на шаге 7."
+}

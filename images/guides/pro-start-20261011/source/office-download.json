@@ -1,0 +1,349 @@
+{
+  "rightScrollbarWidth": 15,
+  "targets": [
+    {
+      "height": 80,
+      "selector": "#rec1221082241 > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 80,
+      "x": 1775,
+      "y": 50
+    },
+    {
+      "height": 49,
+      "selector": "#cardtitle1_1221091951",
+      "tag": "A",
+      "target": "История изменений версий прошивок контроллера BS-01, BS-02",
+      "width": 354.609375,
+      "x": 542.5,
+      "y": 69.5
+    },
+    {
+      "height": 49,
+      "selector": "#cardtitle2_1221091951",
+      "tag": "A",
+      "target": "История изменений версий прошивок контроллера BS-02/2",
+      "width": 309.546875,
+      "x": 1142.5,
+      "y": 69.5
+    },
+    {
+      "height": 49,
+      "selector": "#cardtitle1_1221091966",
+      "tag": "A",
+      "target": "Требования к SIM-карте для контроллера Benza BS",
+      "width": 272.96875,
+      "x": 542.5,
+      "y": 264
+    },
+    {
+      "height": 72,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1)",
+      "tag": "TR",
+      "target": "№ Документ / файл Доп. информация Версия Дата",
+      "width": 1160,
+      "x": 372.5,
+      "y": 504
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1)",
+      "tag": "TR",
+      "target": "1 Программное обеспечение «benzamat Офис» (Полная версия, для первой установки) Данная версия не поддерживает передачу данных по GSM, Ethernet и MOXA. Передача данных возможна только при использовании фирменных преобразователей RS485-USB 3.0.0.101 12.05.2026 Скачать",
+      "width": 1160,
+      "x": 372.5,
+      "y": 576
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "1",
+      "width": 65,
+      "x": 372.5,
+      "y": 576
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "Программное обеспечение «benzamat Офис» (Полная версия, для первой установки)",
+      "width": 319.828125,
+      "x": 437.5,
+      "y": 576
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Данная версия не поддерживает передачу данных по GSM, Ethernet и MOXA. Передача данных возможна только при использовании фирменных преобразователей RS485-USB",
+      "width": 319.828125,
+      "x": 757.328125,
+      "y": 576
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "3.0.0.101",
+      "width": 127.921875,
+      "x": 1077.15625,
+      "y": 576
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "12.05.2026",
+      "width": 135.453125,
+      "x": 1205.078125,
+      "y": 576
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(6)",
+      "tag": "TD",
+      "target": "Скачать",
+      "width": 191.96875,
+      "x": 1340.53125,
+      "y": 576
+    },
+    {
+      "height": 44.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(6) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Скачать",
+      "width": 112.71875,
+      "x": 1360.53125,
+      "y": 633.515625
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2)",
+      "tag": "TR",
+      "target": "2 Программное обеспечение «benzamat Офис» (Укороченная версия, для обновлений) Данная версия не поддерживает передачу данных по GSM, Ethernet и MOXA. Передача данных возможна только при использовании фирменных преобразователей RS485-USB 3.0.0.101 12.05.2026 Скачать",
+      "width": 1160,
+      "x": 372.5,
+      "y": 737
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "2",
+      "width": 65,
+      "x": 372.5,
+      "y": 737
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "Программное обеспечение «benzamat Офис» (Укороченная версия, для обновлений)",
+      "width": 319.828125,
+      "x": 437.5,
+      "y": 737
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Данная версия не поддерживает передачу данных по GSM, Ethernet и MOXA. Передача данных возможна только при использовании фирменных преобразователей RS485-USB",
+      "width": 319.828125,
+      "x": 757.328125,
+      "y": 737
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "3.0.0.101",
+      "width": 127.921875,
+      "x": 1077.15625,
+      "y": 737
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "12.05.2026",
+      "width": 135.453125,
+      "x": 1205.078125,
+      "y": 737
+    },
+    {
+      "height": 161,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(6)",
+      "tag": "TD",
+      "target": "Скачать",
+      "width": 191.96875,
+      "x": 1340.53125,
+      "y": 737
+    },
+    {
+      "height": 44.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(6) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Скачать",
+      "width": 112.71875,
+      "x": 1360.53125,
+      "y": 794.515625
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3)",
+      "tag": "TR",
+      "target": "3 Демо-версия программного обеспечения «benzamat Офис» 3.0.0.65 23.10.2024 Скачать",
+      "width": 1160,
+      "x": 372.5,
+      "y": 898
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "3",
+      "width": 65,
+      "x": 372.5,
+      "y": 898
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "Демо-версия программного обеспечения «benzamat Офис»",
+      "width": 319.828125,
+      "x": 437.5,
+      "y": 898
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.828125,
+      "x": 757.328125,
+      "y": 898
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "3.0.0.65",
+      "width": 127.921875,
+      "x": 1077.15625,
+      "y": 898
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "23.10.2024",
+      "width": 135.453125,
+      "x": 1205.078125,
+      "y": 898
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(6)",
+      "tag": "TD",
+      "target": "Скачать",
+      "width": 191.96875,
+      "x": 1340.53125,
+      "y": 898
+    },
+    {
+      "height": 44.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(6) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Скачать",
+      "width": 112.71875,
+      "x": 1360.53125,
+      "y": 918
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4)",
+      "tag": "TR",
+      "target": "4 Программное обеспечение «benzamat Офис» 2.0 2.0.0.173 06.07.2023 Скачать",
+      "width": 1160,
+      "x": 372.5,
+      "y": 983.96875
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "4",
+      "width": 65,
+      "x": 372.5,
+      "y": 983.96875
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "Программное обеспечение «benzamat Офис» 2.0",
+      "width": 319.828125,
+      "x": 437.5,
+      "y": 983.96875
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.828125,
+      "x": 757.328125,
+      "y": 983.96875
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "2.0.0.173",
+      "width": 127.921875,
+      "x": 1077.15625,
+      "y": 983.96875
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "06.07.2023",
+      "width": 135.453125,
+      "x": 1205.078125,
+      "y": 983.96875
+    },
+    {
+      "height": 85.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(6)",
+      "tag": "TD",
+      "target": "Скачать",
+      "width": 191.96875,
+      "x": 1340.53125,
+      "y": 983.96875
+    },
+    {
+      "height": 44.96875,
+      "selector": "#rec1221091971 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(6) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Скачать",
+      "width": 112.71875,
+      "x": 1360.53125,
+      "y": 1003.96875
+    }
+  ],
+  "viewport": {
+    "height": 1080,
+    "width": 1920
+  },
+  "bitmap": {
+    "height": 1072,
+    "width": 1905
+  },
+  "source": "source/office-download.jpg",
+  "url": "https://benzamat.ru/help/benzamat_office_download",
+  "dom": "- button\n- link \"Benza | Центр&nbsp; поддержки\":\n  - /url: /help\n  - img \"Benza | Центр&nbsp; поддержки\"\n- list \"Соц. сети\":\n  - link \"maxmessenger\":\n    - /url: https://max.ru/join/vFl6Y90p8P15XWZjj2GE1BhheoM_NsTDIqRtKBzXXKI\n- button \"Связаться с техподдержкой\":\n  - generic: Связаться с техподдержкой\n- link \"ИИ-ассистент\":\n  - /url: https://web.max.ru/70221438\n  - generic: ИИ-ассистент\n- navigation:\n  - list:\n    - button \"benzamat ПРО.\": benzamat ПРО.\n    - button \"benzamat Оплата\": benzamat Оплата\n    - button \"benzamat Старт\": benzamat Старт\n    - button \"benzamat Офис\": benzamat Офис\n    - link \"Руководства к устройствам\":\n      - /url: /help/devices_guide\n- generic: Программное обеспечение, обновления и прошивки\n- list:\n  - link \"Главная страница\":\n    - /url: /help\n  - generic: /\n  - link \"benzamat Офис\":\n    - /url: /help/#rec1221082291\n  - generic: /\n  - link \"ПО, обновления и прошивки\":\n    - /url: /help/benzamat_office_download\n- list:\n  - button \"Первичная установка ПО\"\n  - generic: Видеоинструкция по первичной установке программного обеспечения «benzamat Офис» и настройке контроллера Benza BS-02\n  - button \"Минимальные технические требования\"\n  - generic: Список минимальных технических требований, которые необходимо учесть перед установкой ПО «benzamat Офис»\n- list:\n  - button \"Ошибки, возникающих на контроллере\"\n  - generic: Список ошибок, с которыми можно столкнуться при работе с контроллером, и действий для их устранения\n  - button \"Устранение ошибок, возникающих на контроллере\"\n  - generic: Видеоинструкция по работе с ошибками, возникающими на контроллере\n- list:\n  - button \"История изменений версий прошивок контроллера BS-01, BS-02\"\n  - generic: Список версий прошивок контроллера с информацией о внесенных обновлениях\n  - button \"История изменений версий прошивок контроллера BS-02/2\"\n  - generic: Список версий прошивок контроллера с информацией о внесенных обновлениях\n- list:\n  - button \"Требования к SIM-карте для контроллера Benza BS\"\n  - generic: Список требований к SIM-карте для контроллера Benza BS, которые необходимо учесть перед ее приобретением\n- table:\n  - rowgroup:\n    - row \"№ Документ / файл Доп. информация Версия Дата\":\n      - columnheader \"№\"\n      - columnheader \"Документ / файл\"\n      - columnheader \"Доп. информация\"\n      - columnheader \"Версия\"\n      - columnheader \"Дата\"\n      - columnheader\n  - rowgroup:\n    - row \"1 Программное обеспечение «benzamat Офис» (Полная версия, для первой установки) Данная версия не поддерживает передачу данных по GSM, Ethernet и MOXA. Передача данных возможна только при использовании фирменных преобразователей RS485-USB 3.0.0.101 12.05.2026 Скачать\":\n      - cell \"1\"\n      - cell \"Программное обеспечение «benzamat Офис» (Полная версия, для первой установки)\"\n      - cell \"Данная версия не поддерживает передачу данных по GSM, Ethernet и MOXA. Передача данных возможна только при использовании фирменных преобразователей RS485-USB\"\n      - cell \"3.0.0.101\"\n      - cell \"12.05.2026\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/setupAzsNetBenzamatPay.exe\n          - generic: Скачать\n    - row \"2 Программное обеспечение «benzamat Офис» (Укороченная версия, для обновлений) Данная версия не поддерживает передачу данных по GSM, Ethernet и MOXA. Передача данных возможна только при использовании фирменных преобразователей RS485-USB 3.0.0.101 12.05.2026 Скачать\":\n      - cell \"2\"\n      - cell \"Программное обеспечение «benzamat Офис» (Укороченная версия, для обновлений)\"\n      - cell \"Данная версия не поддерживает передачу данных по GSM, Ethernet и MOXA. Передача данных возможна только при использовании фирменных преобразователей RS485-USB\"\n      - cell \"3.0.0.101\"\n      - cell \"12.05.2026\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/setupAzsNetBenzamatPayExt.exe\n          - generic: Скачать\n    - row \"3 Демо-версия программного обеспечения «benzamat Офис» 3.0.0.65 23.10.2024 Скачать\":\n      - cell \"3\"\n      - cell \"Демо-версия программного обеспечения «benzamat Офис»\"\n      - cell\n      - cell \"3.0.0.65\"\n      - cell \"23.10.2024\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/setupAzsNetDemo.exe\n          - generic: Скачать\n    - row \"4 Программное обеспечение «benzamat Офис» 2.0 2.0.0.173 06.07.2023 Скачать\":\n      - cell \"4\"\n      - cell \"Программное обеспечение «benzamat Офис» 2.0\"\n      - cell\n      - cell \"2.0.0.173\"\n      - cell \"06.07.2023\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/setupAzsNett.exe\n          - generic: Скачать\n    - row \"5 Конвертер баз данных benzamat из 2.0 в 3.0 Руководство по обновлению 3.0 и по переходу на платный GSM сервер 28.06.2023 Скачать\":\n      - cell \"5\"\n      - cell \"Конвертер баз данных benzamat из 2.0 в 3.0\"\n      - cell \"Руководство по обновлению 3.0 и по переходу на платный GSM сервер\":\n        - link \"Руководство по обновлению 3.0 и по переходу на платный GSM сервер\":\n          - /url: https://benza.ru/upload/soft/Benzamat_office3.0.pdf\n      - cell\n      - cell \"28.06.2023\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/konverter%20baz%20dannih%20benzamat%202.0%20v%203.0.zip\n          - generic: Скачать\n    - row \"6 Прошивка BS-01 Перед обновлением считайте все данные с контроллера. Если у контроллера версия ниже 1.8.0, обратитесь в тех. поддержку 1.22.00 12.05.2026 Скачать\":\n      - cell \"6\"\n      - cell \"Прошивка BS-01\"\n      - cell \"Перед обновлением считайте все данные с контроллера. Если у контроллера версия ниже 1.8.0, обратитесь в тех. поддержку\"\n      - cell \"1.22.00\"\n      - cell \"12.05.2026\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/bs01-5000-1.22.0.bin\n          - generic: Скачать\n    - row \"7 Прошивка BS-02 Перед обновлением считайте все данные с контроллера. Если у контроллера версия ниже 1.8.0, обратитесь в тех. поддержку 1.22.00 12.05.2026 Скачать\":\n      - cell \"7\"\n      - cell \"Прошивка BS-02\"\n      - cell \"Перед обновлением считайте все данные с контроллера. Если у контроллера версия ниже 1.8.0, обратитесь в тех. поддержку\"\n      - cell \"1.22.00\"\n      - cell \"12.05.2026\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/bs02-5000-1.22.0.bin\n          - generic: Скачать\n    - row \"8 Прошивка BS-02/2 Прошивка не совместима с версией прошивки ниже 3.3.0. Если у вас версия ниже обратитесь в тех. поддержку 3.13.8 14.05.2026 Скачать\":\n      - cell \"8\"\n      - cell \"Прошивка BS-02/2\"\n      - cell \"Прошивка не совместима с версией прошивки ниже 3.3.0. Если у вас версия ниже обратитесь в тех. поддержку\"\n      - cell \"3.13.8\"\n      - cell \"14.05.2026\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/bs02-2-main._crypt_Motherboard_GD32%20%5B3.13.8%5D.bnz\n          - generic: Скачать\n    - row \"9 Доп. программа для прошивки контроллеров BS-01 и BS-02 23.05.2023 Скачать\":\n      - cell \"9\"\n      - cell \"Доп. программа для прошивки контроллеров BS-01 и BS-02\"\n      - cell\n      - cell\n      - cell \"23.05.2023\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/FirmwareUpdate_BS.zip\n          - generic: Скачать\n    - row \"10 Доп. программа для прошивки контроллеров для BS-02/2 10.04.2024 Скачать\":\n      - cell \"10\"\n      - cell \"Доп. программа для прошивки контроллеров для BS-02/2\"\n      - cell\n      - cell\n      - cell \"10.04.2024\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/GigaDevice.zip\n          - generic: Скачать\n    - row \"11 Драйвер для преобразователя интерфейсов RS-485-USB 2.12.26 10.03.2017 Скачать\":\n      - cell \"11\"\n      - cell \"Драйвер для преобразователя интерфейсов RS-485-USB\"\n      - cell\n      - cell \"2.12.26\"\n      - cell \"10.03.2017\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/rs485_to_usb.zip\n          - generic: Скачать\n    - row \"12 Драйвер для преобразователя интерфейсов RS-485-USB №2 23.05.2023 Скачать\":\n      - cell \"12\"\n      - cell \"Драйвер для преобразователя интерфейсов RS-485-USB №2\"\n      - cell\n      - cell\n      - cell \"23.05.2023\"\n      - cell \"Скачать\":\n        - link \"Скачать\":\n          - /url: https://benza.ru/upload/soft/CH341SER.zip\n          - generic: Скачать\n- link:\n  - /url: http://benzamat.ru/\n- text: benzamat ПРО.\n- link \"Справочник\":\n  - /url: https://benzamat.ru/help/benzamat_pro_guide\n- link \"Руководства и инструкции\":\n  - /url: https://benzamat.ru/help/benzamat_pro_monual\n- link \"Личный кабинет\":\n  - /url: https://pro.benza.online/login\n- link \"API\":\n  - /url: /help/api\n- link \"Оставить отзыв\":\n  - /url: https://benzamat.ru/help/benzamat_pro_feedback\n- link \"Опросник по улучшению функционала\":\n  - /url: https://benzamat.ru/help/benzamat_pro_questionnaire\n- text: benzamat Оплата\n- link \"Руководства и инструкции\":\n  - /url: https://benzamat.ru/help/benzamat_pay_monual\n- link \"Личный кабинет\":\n  - /url: https://pay.benza.online/Identity/Account/Login\n- text: benzamat Старт\n- link \"Руководства и инструкции\":\n  - /url: https://benzamat.ru/help/benzamat_start_monual\n- link \"Информация по работе с БД\":\n  - /url: https://benzamat.ru/help/benzamat_start_postgresql\n- link \"ПО, обновления и прошивки\":\n  - /url: https://benzamat.ru/help/benzamat_start_download\n- text: benzamat Офис\n- link \"Руководства и инструкции\":\n  - /url: https://benzamat.ru/help/benzamat_office_monual\n- link \"Информация по работе с БД\":\n  - /url: https://benzamat.ru/help/benzamat_office_postgresql\n- link \"ПО, обновления и прошивки\":\n  - /url: https://benzamat.ru/help/benzamat_office_download\n- link \"Руководства к устройствам\":\n  - /url: https://benzamat.ru/help/devices_guide\n- text: Техническая поддержка\n- button \"Связаться\"\n- link \"Оставить отзыв\":\n  - /url: https://benzamat.ru/help/opros_tp\n- link \"Соглашение об уровне обслуживания (SLA)\":\n  - /url: https://benza.ru/support/docs/SLA.pdf\n- link \"Политика конфиденциальности\":\n  - /url: /policy"
+}

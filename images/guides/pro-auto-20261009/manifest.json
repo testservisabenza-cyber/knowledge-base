@@ -1,0 +1,898 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/templates.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "a[href=\"/auto-reports/templates\"]",
+          "target": "Шаблоны отчетов в меню",
+          "width": 246,
+          "x": 0,
+          "y": 612.796875
+        }
+      ],
+      "output": "template-nav.svg",
+      "title": "template-nav",
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            284,
+            632.546875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/templates.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": ".page-title-right button",
+          "target": "Добавить шаблон",
+          "width": 83.5,
+          "x": 1800.5,
+          "y": 94
+        }
+      ],
+      "output": "template-add.svg",
+      "title": "template-add",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1730.5,
+            112.265625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/templates.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr:first-child button:first-child",
+          "target": "Изменить шаблон",
+          "width": 36,
+          "x": 1359.328125,
+          "y": 245.921875
+        }
+      ],
+      "output": "template-edit.svg",
+      "title": "template-edit",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "bottom-right",
+          "from": [
+            1435.328125,
+            301.984375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/templates.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr:first-child button:last-child",
+          "target": "Удалить шаблон",
+          "width": 36,
+          "x": 1403.328125,
+          "y": 245.921875
+        }
+      ],
+      "output": "template-delete.svg",
+      "title": "template-delete",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1509.328125,
+            259.953125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/settings.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "a[href=\"/auto-reports/settings\"]",
+          "target": "Настройки отправки в меню",
+          "width": 246,
+          "x": 0,
+          "y": 573.296875
+        }
+      ],
+      "output": "setting-nav.svg",
+      "title": "setting-nav",
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            284,
+            593.046875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/settings.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": ".page-title-right button",
+          "target": "Добавить расписание",
+          "width": 83.5,
+          "x": 1800.5,
+          "y": 94
+        }
+      ],
+      "output": "setting-add.svg",
+      "title": "setting-add",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1730.5,
+            112.265625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/settings.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr:first-child button:first-child",
+          "target": "Изменить расписание",
+          "width": 36,
+          "x": 1359.328125,
+          "y": 245.921875
+        }
+      ],
+      "output": "setting-edit.svg",
+      "title": "setting-edit",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "bottom-right",
+          "from": [
+            1435.328125,
+            301.984375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/settings.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr:first-child button:last-child",
+          "target": "Удалить расписание",
+          "width": 36,
+          "x": 1403.328125,
+          "y": 245.921875
+        }
+      ],
+      "output": "setting-delete.svg",
+      "title": "setting-delete",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1509.328125,
+            259.953125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/files.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/files",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "a[href=\"/auto-reports/files\"]",
+          "target": "Файлы отчетов в меню",
+          "width": 246,
+          "x": 0,
+          "y": 533.796875
+        }
+      ],
+      "output": "file-nav.svg",
+      "title": "file-nav",
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            284,
+            553.546875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/files.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/files",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr:first-child button:last-child",
+          "target": "Скачать файл",
+          "width": 36,
+          "x": 1665.671875,
+          "y": 239.375
+        }
+      ],
+      "output": "file-download.svg",
+      "title": "file-download",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1771.671875,
+            253.40625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/files.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/files",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr:first-child button:first-child",
+          "target": "Удалить файл",
+          "width": 36,
+          "x": 1613.671875,
+          "y": 239.375
+        }
+      ],
+      "output": "file-delete.svg",
+      "title": "file-delete",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1543.671875,
+            253.40625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/template-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 66.140625,
+          "selector": ".offcanvas form > .mb-3:nth-child(1)",
+          "target": "Название",
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "template-name.svg",
+      "title": "template-name",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/template-type.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 125.21875,
+          "selector": ".offcanvas form > .mb-3:nth-child(2)",
+          "target": "Тип отчета и список",
+          "width": 392,
+          "x": 1524,
+          "y": 180.140625,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "template-type.svg",
+      "title": "template-type",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/template-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 75.609375,
+          "selector": ".offcanvas form > .row > div:nth-child(1)",
+          "target": "Компания",
+          "width": 392,
+          "x": 1524,
+          "y": 263.75,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "template-company.svg",
+      "title": "template-company",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/template-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 99.21875,
+          "selector": ".offcanvas form > .row > div:nth-child(2)",
+          "target": "Объединение подписей и полей без Сохранить",
+          "width": 392,
+          "x": 1524,
+          "y": 339.359375,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "template-controllers.svg",
+      "title": "template-controllers",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/template-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 122.828125,
+          "selector": ".offcanvas form > .row > div:nth-child(4)",
+          "target": "Объединение подписей и полей без Сохранить",
+          "width": 392,
+          "x": 1524,
+          "y": 438.578125,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "template-users.svg",
+      "title": "template-users",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/template-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": ".offcanvas button[type=\"submit\"]",
+          "target": "Сохранить шаблон",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 569.40625
+        }
+      ],
+      "output": "template-save.svg",
+      "title": "template-save",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1467,
+            587.671875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/template-edit.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 463.40625,
+          "selector": ".offcanvas form > .mb-3:first-child",
+          "target": "Объединение подписей и полей без Сохранить",
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "template-fields.svg",
+      "title": "template-fields",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/template-edit.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": ".offcanvas button[type=\"submit\"]",
+          "target": "Сохранить шаблон",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 569.40625
+        }
+      ],
+      "output": "template-edit-save.svg",
+      "title": "template-edit-save",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1467,
+            587.671875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/setting-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 66.140625,
+          "selector": ".offcanvas form > div:nth-child(1)",
+          "target": "Название расписания",
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "setting-name.svg",
+      "title": "setting-name",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/setting-period.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 230.046875,
+          "selector": ".offcanvas form > div:nth-child(2)",
+          "target": "Период и список",
+          "width": 392,
+          "x": 1524,
+          "y": 180.140625,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "setting-period.svg",
+      "title": "setting-period",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/setting-switch.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 154.828125,
+          "selector": ".offcanvas form > div:nth-child(3)",
+          "target": "Да Нет и список",
+          "width": 392,
+          "x": 1524,
+          "y": 255.75,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "setting-switch.svg",
+      "title": "setting-switch",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/setting-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.609375,
+          "selector": ".offcanvas form > div:nth-child(4)",
+          "target": "Дни недели",
+          "width": 392,
+          "x": 1524,
+          "y": 331.359375,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "setting-days.svg",
+      "title": "setting-days",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/setting-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.609375,
+          "selector": ".offcanvas form > div:nth-child(5)",
+          "target": "Время Мск",
+          "width": 392,
+          "x": 1524,
+          "y": 406.96875,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "setting-time.svg",
+      "title": "setting-time",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/setting-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 144.265625,
+          "selector": ".offcanvas form > div:nth-child(6)",
+          "target": "Объединение подписей и полей без Сохранить",
+          "width": 392,
+          "x": 1524,
+          "y": 482.578125,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "setting-mail.svg",
+      "title": "setting-mail",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/setting-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 93.5625,
+          "selector": ".offcanvas form > div:nth-child(8)",
+          "target": "Шаблон",
+          "width": 392,
+          "x": 1524,
+          "y": 642.84375,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "setting-template.svg",
+      "title": "setting-template",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/setting-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": ".offcanvas button[type=\"submit\"]",
+          "target": "Сохранить расписание",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 752.40625
+        }
+      ],
+      "output": "setting-save.svg",
+      "title": "setting-save",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1467,
+            770.671875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/setting-edit.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 487.1875,
+          "selector": ".offcanvas form > div:first-child",
+          "target": "Объединение подписей и полей без Сохранить",
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "setting-fields.svg",
+      "title": "setting-fields",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/setting-edit-expanded.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": ".offcanvas button[type=\"submit\"]",
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 752.40625
+        }
+      ],
+      "output": "setting-edit-save.svg",
+      "title": "setting-edit-save",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1467,
+            770.671875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/setting-edit-expanded.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 638.40625,
+          "selector": ".offcanvas form > div:nth-child(1)",
+          "target": "Объединение подписей и полей без Сохранить",
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "setting-expanded.svg",
+      "title": "setting-expanded",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/setting-edit-expanded.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 143.21875,
+          "selector": ".offcanvas form > div:nth-child(4)",
+          "target": "Объединение подписей и полей без Сохранить",
+          "width": 392,
+          "x": 1524,
+          "y": 331.359375,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "setting-schedule.svg",
+      "title": "setting-schedule",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/files.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/files",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 73.03125,
+          "selector": "tbody tr:first-child td:nth-child(5)",
+          "target": "Сформирован",
+          "width": 262.328125,
+          "x": 1335.34375,
+          "y": 217.390625
+        }
+      ],
+      "output": "file-status.svg",
+      "title": "file-status",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/files.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/files",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "a[href=\"/auto-reports/files\"]",
+          "target": "Файлы отчетов в меню",
+          "width": 246,
+          "x": 0,
+          "y": 533.796875
+        },
+        {
+          "height": 440.546875,
+          "selector": "table",
+          "target": "Таблица готовых файлов",
+          "width": 1570,
+          "x": 286,
+          "y": 142
+        }
+      ],
+      "output": "overview-files.svg",
+      "title": "overview-files",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/templates.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/templates",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 158.140625,
+          "selector": "a[href=\"/\"][aria-expanded]",
+          "target": "Автоотчеты в меню",
+          "width": 246,
+          "x": 0,
+          "y": 494.15625
+        },
+        {
+          "height": 136.453125,
+          "selector": "table",
+          "target": "Таблица шаблонов",
+          "width": 1574,
+          "x": 286,
+          "y": 154.53125
+        }
+      ],
+      "output": "overview-templates.svg",
+      "title": "overview-templates",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/setting-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 294.4375,
+          "selector": ".offcanvas form > div:nth-child(2)",
+          "target": "Объединение подписей и полей без Сохранить",
+          "width": 392,
+          "x": 1524,
+          "y": 180.140625,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "overview-period.svg",
+      "title": "overview-period",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/setting-filled.png",
+      "sourceUrl": "https://pro.benza.online/auto-reports/settings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 253.828125,
+          "selector": ".offcanvas form > div:nth-child(6)",
+          "target": "Объединение подписей и полей без Сохранить",
+          "width": 392,
+          "x": 1524,
+          "y": 482.578125,
+          "measurement": "4 px inset from drawer edges; measured same-state field height"
+        }
+      ],
+      "output": "overview-mail.svg",
+      "title": "overview-mail",
+      "padding": 0,
+      "arrows": []
+    }
+  ]
+}

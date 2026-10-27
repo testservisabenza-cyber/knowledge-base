@@ -1,0 +1,638 @@
+{
+  "roles": {
+    "source": "source/roles.png",
+    "boxes": [
+      {
+        "height": 39.5,
+        "width": 250,
+        "x": 0,
+        "y": 655.078125,
+        "target": "Роли в системе"
+      },
+      {
+        "height": 563.890625,
+        "width": 1574,
+        "x": 286,
+        "y": 146.53125,
+        "target": "Таблица"
+      },
+      {
+        "height": 36.53125,
+        "width": 83.5,
+        "x": 1792.5,
+        "y": 94,
+        "target": "Добавить"
+      },
+      {
+        "height": 61.0625,
+        "width": 1574,
+        "x": 286,
+        "y": 282.984375,
+        "target": "Контроллер 2"
+      },
+      {
+        "height": 28.0625,
+        "width": 36,
+        "x": 1351.328125,
+        "y": 298.984375,
+        "target": "Открыть Контроллер 2"
+      },
+      {
+        "height": 32,
+        "width": 456.65625,
+        "x": 300,
+        "y": 182.53125,
+        "target": "Фильтр названия"
+      }
+    ],
+    "url": "https://pro.benza.online/roles",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "role-form": {
+    "source": "source/role-form.png",
+    "boxes": [
+      {
+        "height": 66.140625,
+        "width": 367,
+        "x": 1537,
+        "y": 98,
+        "target": "Название"
+      },
+      {
+        "height": 36.53125,
+        "width": 83.5,
+        "x": 1537,
+        "y": 180.140625,
+        "target": "Добавить роль"
+      },
+      {
+        "height": 1080,
+        "width": 400,
+        "x": 1520,
+        "y": 0,
+        "target": "Панель"
+      }
+    ],
+    "url": "https://pro.benza.online/roles",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "modules": {
+    "source": "source/modules.png",
+    "boxes": [
+      {
+        "height": 41.5,
+        "width": 214.671875,
+        "x": 471.640625,
+        "y": 136,
+        "target": "Вкладка прав"
+      },
+      {
+        "height": 55,
+        "width": 1558,
+        "x": 286.5,
+        "y": 455.046875,
+        "target": "Компании"
+      },
+      {
+        "height": 30,
+        "width": 38,
+        "x": 1737.953125,
+        "y": 467.546875,
+        "target": "Редактировать Компании"
+      },
+      {
+        "height": 150.046875,
+        "width": 1559,
+        "x": 286,
+        "y": 233.890625,
+        "target": "Объяснение прав"
+      }
+    ],
+    "url": "https://pro.benza.online/role/48",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "rightScrollbarWidth": 15
+  },
+  "module-form": {
+    "source": "source/module-form.png",
+    "boxes": [
+      {
+        "height": 66.140625,
+        "width": 367,
+        "x": 1537,
+        "y": 98,
+        "target": "Первое поле"
+      },
+      {
+        "height": 67.609375,
+        "width": 367,
+        "x": 1537,
+        "y": 514.578125,
+        "target": "Последнее поле"
+      },
+      {
+        "height": 36.53125,
+        "width": 91.28125,
+        "x": 1537,
+        "y": 598.1875,
+        "target": "Сохранить"
+      },
+      {
+        "height": 1080,
+        "width": 400,
+        "x": 1520,
+        "y": 0,
+        "target": "Панель"
+      }
+    ],
+    "url": "https://pro.benza.online/role/48",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "rightScrollbarWidth": 0
+  },
+  "role-info": {
+    "source": "source/role-info.png",
+    "boxes": [
+      {
+        "height": 41.5,
+        "width": 197.640625,
+        "x": 274,
+        "y": 136,
+        "target": "Основная информация"
+      },
+      {
+        "height": 66.140625,
+        "width": 508.65625,
+        "x": 286,
+        "y": 202.5,
+        "target": "Название"
+      }
+    ],
+    "url": "https://pro.benza.online/role/36",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "objects": {
+    "source": "source/objects.png",
+    "boxes": [
+      {
+        "height": 39.5,
+        "width": 250,
+        "x": 0,
+        "y": 694.578125,
+        "target": "Права к объектам"
+      },
+      {
+        "height": 258.578125,
+        "width": 1574,
+        "x": 286,
+        "y": 154.53125,
+        "target": "Таблица"
+      },
+      {
+        "height": 36.53125,
+        "width": 83.5,
+        "x": 1792.5,
+        "y": 94,
+        "target": "Добавить"
+      },
+      {
+        "height": 61.0625,
+        "width": 1574,
+        "x": 286,
+        "y": 352.046875,
+        "target": "12334"
+      },
+      {
+        "height": 28.0625,
+        "width": 36,
+        "x": 1089,
+        "y": 368.046875,
+        "target": "Изменить"
+      },
+      {
+        "height": 28.0625,
+        "width": 36,
+        "x": 1141,
+        "y": 368.046875,
+        "target": "Удалить"
+      },
+      {
+        "height": 32,
+        "width": 719,
+        "x": 300,
+        "y": 190.53125,
+        "target": "Фильтр"
+      }
+    ],
+    "url": "https://pro.benza.online/access-objects",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "object-types": {
+    "source": "source/object-types.png",
+    "boxes": [
+      {
+        "height": 67.609375,
+        "width": 367,
+        "x": 1537,
+        "y": 255.75,
+        "target": "Тип объекта"
+      },
+      {
+        "height": 120.828125,
+        "width": 367,
+        "x": 1537,
+        "y": 331.359375,
+        "target": "Список типов"
+      },
+      {
+        "height": 1080,
+        "width": 400,
+        "x": 1520,
+        "y": 0,
+        "target": "Панель"
+      }
+    ],
+    "url": "https://pro.benza.online/access-objects",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "object-filled": {
+    "source": "source/object-filled.png",
+    "boxes": [
+      {
+        "height": 66.140625,
+        "width": 367,
+        "x": 1537,
+        "y": 98,
+        "target": "Описание"
+      },
+      {
+        "height": 67.609375,
+        "width": 367,
+        "x": 1537,
+        "y": 180.140625,
+        "target": "Пользователи"
+      },
+      {
+        "height": 67.609375,
+        "width": 367,
+        "x": 1537,
+        "y": 255.75,
+        "target": "Тип"
+      },
+      {
+        "height": 67.609375,
+        "width": 367,
+        "x": 1537,
+        "y": 331.359375,
+        "target": "Объекты"
+      },
+      {
+        "height": 36.53125,
+        "width": 91.28125,
+        "x": 1537,
+        "y": 414.96875,
+        "target": "Сохранить"
+      },
+      {
+        "height": 1080,
+        "width": 400,
+        "x": 1520,
+        "y": 0,
+        "target": "Панель"
+      }
+    ],
+    "url": "https://pro.benza.online/access-objects",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "object-edit": {
+    "source": "source/object-edit.png",
+    "boxes": [
+      {
+        "height": 66.140625,
+        "width": 367,
+        "x": 1537,
+        "y": 98,
+        "target": "Описание"
+      },
+      {
+        "height": 67.609375,
+        "width": 367,
+        "x": 1537,
+        "y": 180.140625,
+        "target": "Пользователи"
+      },
+      {
+        "height": 67.609375,
+        "width": 367,
+        "x": 1537,
+        "y": 255.75,
+        "target": "Тип"
+      },
+      {
+        "height": 67.609375,
+        "width": 367,
+        "x": 1537,
+        "y": 331.359375,
+        "target": "Объекты"
+      },
+      {
+        "height": 36.53125,
+        "width": 91.28125,
+        "x": 1537,
+        "y": 414.96875,
+        "target": "Сохранить"
+      },
+      {
+        "height": 1080,
+        "width": 400,
+        "x": 1520,
+        "y": 0,
+        "target": "Панель"
+      }
+    ],
+    "url": "https://pro.benza.online/access-objects",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "sessions": {
+    "source": "source/sessions.png",
+    "boxes": [
+      {
+        "height": 39.640625,
+        "width": 250,
+        "x": 0,
+        "y": 734.078125,
+        "target": "Управление входом"
+      },
+      {
+        "height": 209.484375,
+        "width": 1574,
+        "x": 286,
+        "y": 142,
+        "target": "Таблица"
+      },
+      {
+        "height": 73.03125,
+        "width": 1574,
+        "x": 286,
+        "y": 217.390625,
+        "target": "Учебная сессия"
+      },
+      {
+        "height": 28.0625,
+        "width": 36,
+        "x": 1667.140625,
+        "y": 239.375,
+        "target": "Завершить сессию"
+      }
+    ],
+    "url": "https://pro.benza.online/security/tokens",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "user-list": {
+    "source": "source/user-list.png",
+    "boxes": [
+      {
+        "height": 39.640625,
+        "width": 250,
+        "x": 0,
+        "y": 335.59375,
+        "target": "Пользователи"
+      },
+      {
+        "height": 61.0625,
+        "width": 1574,
+        "x": 286,
+        "y": 367.640625,
+        "target": "Тест Тест"
+      },
+      {
+        "height": 28.0625,
+        "width": 36,
+        "x": 302,
+        "y": 383.640625,
+        "target": "Открыть"
+      }
+    ],
+    "url": "https://pro.benza.online/users",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "user-role": {
+    "source": "source/user-role.png",
+    "boxes": [
+      {
+        "height": 39.609375,
+        "width": 375.5,
+        "x": 286,
+        "y": 201.03125,
+        "target": "Основная информация"
+      },
+      {
+        "height": 67.609375,
+        "width": 575.25,
+        "x": 1284.75,
+        "y": 217.03125,
+        "target": "Роль в системе"
+      },
+      {
+        "height": 36.53125,
+        "width": 91.28125,
+        "x": 1658.125,
+        "y": 94,
+        "target": "Сохранить"
+      }
+    ],
+    "url": "https://pro.benza.online/user/37991",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "user-login": {
+    "source": "source/user-login.png",
+    "boxes": [
+      {
+        "height": 39.609375,
+        "width": 375.5,
+        "x": 286,
+        "y": 280.25,
+        "target": "Доступ к ЛК"
+      },
+      {
+        "height": 67.609375,
+        "width": 587.25,
+        "x": 685.5,
+        "y": 280.640625,
+        "target": "Режим входа"
+      },
+      {
+        "height": 66.140625,
+        "width": 587.25,
+        "x": 685.5,
+        "y": 364.25,
+        "target": "Логин"
+      },
+      {
+        "height": 66.140625,
+        "width": 587.25,
+        "x": 685.5,
+        "y": 446.390625,
+        "target": "Новый пароль"
+      }
+    ],
+    "url": "https://pro.benza.online/user/37991",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "role-added-form": {
+    "source": "source/role-added-form.png",
+    "boxes": [
+      {
+        "height": 30.390625,
+        "width": 30.390625,
+        "x": 1881.609375,
+        "y": 17.296875,
+        "target": "Закрыть форму"
+      }
+    ],
+    "url": "https://pro.benza.online/roles",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "role-created": {
+    "source": "source/role-created.png",
+    "boxes": [
+      {
+        "height": 39.5,
+        "width": 250,
+        "x": 0,
+        "y": 655.078125,
+        "target": "Роли в системе"
+      },
+      {
+        "height": 680.953125,
+        "width": 1574,
+        "x": 286,
+        "y": 146.53125,
+        "target": "Таблица"
+      },
+      {
+        "height": 36.53125,
+        "width": 83.5,
+        "x": 1792.5,
+        "y": 94,
+        "target": "Добавить"
+      },
+      {
+        "height": 61.0625,
+        "width": 1574,
+        "x": 286,
+        "y": 221.921875,
+        "target": "Учебная роль"
+      },
+      {
+        "height": 28.0625,
+        "width": 36,
+        "x": 1351.328125,
+        "y": 237.921875,
+        "target": "Открыть учебную роль"
+      },
+      {
+        "height": 32,
+        "width": 456.65625,
+        "x": 300,
+        "y": 182.53125,
+        "target": "Фильтр названия"
+      }
+    ],
+    "url": "https://pro.benza.online/roles",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "new-role-empty": {
+    "source": "source/new-role-empty.png",
+    "boxes": [
+      {
+        "height": 41.5,
+        "width": 214.671875,
+        "x": 471.640625,
+        "y": 136,
+        "target": "Вкладка прав"
+      },
+      {
+        "height": 2139.046875,
+        "width": 1559,
+        "x": 286,
+        "y": 202.5,
+        "target": "Пустая вкладка"
+      }
+    ],
+    "url": "https://pro.benza.online/role/48",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "rightScrollbarWidth": 15
+  },
+  "senior-modules": {
+    "source": "source/senior-modules.png",
+    "boxes": [
+      {
+        "height": 41.5,
+        "width": 214.671875,
+        "x": 274,
+        "y": 136,
+        "target": "Права доступа к модулям"
+      },
+      {
+        "height": 55,
+        "width": 1558,
+        "x": 286.5,
+        "y": 565.046875,
+        "target": "Контроллеры и права"
+      }
+    ],
+    "url": "https://pro.benza.online/role/3",
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "rightScrollbarWidth": 15
+  }
+}

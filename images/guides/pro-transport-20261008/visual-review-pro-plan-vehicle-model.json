@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "manifestHash": "f98b1a029a43b521346f55f4385b1e8aece0ef7f128022fc8e8ec0f9acb35039",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-vehicle-model",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "user-as-vehicle.svg",
+      "sourceHash": "3e6d8b49ddc85f5dce5228e6e0956a9145107d28f8854a9504e8075aa7941340",
+      "svgHash": "a2dfdf816da3cced8a383fbe8eee80fcc423ffa5d8551063a43b5f5213980af9",
+      "stepText": "Как заправляться: одна или две карты\nВ сервисе есть два способа заправки: по карте пользователя или по двум картам, пользователя и транспортного средства (ТС). По одной карте ТС заправиться нельзя.\nЕсли для машины нужна только одна карта, её оформляют в разделе «Пользователи». Вместо ФИО можно указать модель и номер машины, как в примере: «КамАЗ» и «А123АА 58». В поле «Авторизация ТС» выбирают «Нет».\nДля заправки по двум картам у пользователя выбирают «Авторизация ТС»: «Да», а машину с отдельной картой добавляют в раздел «Транспорт». Для выдачи топлива потребуются обе карты.",
+      "stepTextHash": "ce3ada0d12f8475eac80a1073f077460d668201b59f2eaeff0a1af02888d5d39",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Блок 1: настоящий несохранённый пример добавления пользователя. Поля Фамилия КамАЗ и Имя А123АА 58 обведены вместе, Авторизация ТС Нет отдельно. Снимок 1920x1080 просмотрен без меток, SVG в полном размере, в статье и увеличении. Рамки не перекрывают подписи. Копирование подтвердилось сообщением Скопировано."
+    },
+    {
+      "output": "overview-list.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "69d156d8d36db2577ed367ba0bc312a3c2c413a8671c4f4e751341078892b66d",
+      "stepText": "Список транспорта\nВ таблице показаны название ТС, компания, номер, RFID карты и тип лимита. Фильтры под заголовками позволяют искать нужную запись. Стрелка в строке открывает настройки, корзина удаляет запись.\nМеню «Добавить ТС» содержит добавление одной записи и «Импорт из excel» для массовой загрузки. Импорт добавляет записи по шаблону, это не выгрузка существующего списка.",
+      "stepTextHash": "f3b099393bcb74f0e7eb04298f1067411d13b68602ee20b0231ca1fe16876077",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Блок 2: таблица и пункт Транспорт видны в статье и увеличении, красные рамки не касаются текста. Список перенесён после объяснения способов заправки."
+    },
+    {
+      "output": "overview-info.svg",
+      "sourceHash": "c24e908d505070a6b58308d2518b7ba8d560028c4a5b0198e0ad548547a0292f",
+      "svgHash": "04fb0ecc02b28a37b72f372646333fad3a847c6f57f60d52e30c2b06f41296c4",
+      "stepText": "Основные и дополнительные сведения\nНазвание различает транспорт в списке и отчётах. Компания выбирается при создании и затем не меняется. Контроллеры определяют устройства, где карта может обслуживаться; можно выбрать несколько.\nНомер и модель помогают идентифицировать автомобиль. «Договор» — дополнительное поле для удобной вам информации. «Обслуживать до» ограничивает срок действия карты; без указанной даты действует стандартный срок 10 лет, который можно изменить позднее.",
+      "stepTextHash": "32f27012e0111923a3d3d669f50d703dd4177c91a7b740cabbc7172b71434706",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Информация, поля и вкладка отдельно, кнопка сохранения исключена."
+    },
+    {
+      "output": "overview-reader.svg",
+      "sourceHash": "c24e908d505070a6b58308d2518b7ba8d560028c4a5b0198e0ad548547a0292f",
+      "svgHash": "b122f2e3b3440b9bc671fbe6e89e292618e312a858ac97cac31d5fb46e951a0a",
+      "stepText": "RFID и получение номера карты\nДля транспорта используется RFID. Тип считывателя и номер карты должны соответствовать фактической карте; сохраняйте начальные нули и не используйте одну карту в нескольких записях.\nКнопка «Получить номер карты» работает с устройством, подключённым к этому компьютеру, и настроенной программой считывателя. Если программы нет, нажмите кнопку [Открыть инструкцию по установке считывателя](/articles/pro-card-reader-setup).",
+      "stepTextHash": "2b6d94696f366b637b8e513f01aa2533394cd2f0044204067f66ba7bbd2946d7",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: RFID: вкладка и правая колонка отдельно, надписи в рамке не задеты; просмотр в статье и увеличении."
+    },
+    {
+      "output": "overview-limits.svg",
+      "sourceHash": "ba8eb59a45548d37b338246ea79d44b8a4c0508ffbf6d7c5fa384dc15d590014",
+      "svgHash": "c48ef290080311ee3123e75226897a6fed607c9b8f1a9a56ae9785c00adafdbd",
+      "stepText": "Лимиты транспорта\nНа вкладке «Лимиты» видны тип ограничения, объём, остаток и сигнальные пороги. «День и месяц» обновляет дневной объём каждый день, месячный — с началом календарного месяца. При двух ограничениях заправку ограничивает меньший доступный остаток.\nАбсолютный остаток уменьшается при выдаче и автоматически не обновляется. Безлимитный план снимает лимит самого ТС, но сохраняются ограничения пользователя, компании и срок обслуживания.\nЧтобы получить предупреждение о низком остатке, настройте событие в «Оповещениях».\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по настройке оповещений](/articles/pro-notifications).",
+      "stepTextHash": "3cdce57e16e8af7a84e336876d13ccb036fcfc239c0018f507bdd704f5573766",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: Лимиты: вкладка и обе карточки ограничений отдельно; в статье и увеличении без стрелок."
+    },
+    {
+      "output": "overview-controllers.svg",
+      "sourceHash": "d5680d4616606cff81dc3761680df81f2e2154d8ba40f018ea50e72a7148f8c9",
+      "svgHash": "6d07f6d51fc1e525b27468bfa93c1fe90b8dda9290cf2d4ec43c8509872e6f58",
+      "stepText": "Контроллеры, блокировка и применение\nВкладка «Контроллеры» показывает допуск ТС на устройства. Если карту не добавили при создании или нужен новый объект, её можно добавить позднее в настройках контроллера, в разделе транспорта.\nБлокировка временно прекращает обслуживание карты, разблокировка возвращает его. Удаление убирает запись. После добавления, изменения карты, лимита, блокировки или удаления данные необходимо записать в контроллер, чтобы состояние изменилось на ТРК.",
+      "stepTextHash": "25f91826fa3dce6cbe023d7c41a7449eb937d0f61d2cebd4e0a5029b58bf4d0b",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 6: Контроллеры: вкладка и таблица отдельными рамками; статус и GSM видны в статье и увеличении."
+    },
+    {
+      "output": "overview-history.svg",
+      "sourceHash": "ab46270c2bb70a6d043f673ee17fab51a861f7a8ce679dbdbc64976d1cf4ddae",
+      "svgHash": "7ee2b92623c0e52000350f24c6f37ea80e1ac72f710eafacaea1563dc09314d2",
+      "stepText": "История изменений\nНа вкладке «История изменений» показаны изменённое поле, старое и новое значения, пользователь и дата. Фильтры помогают найти нужное изменение. Пустая таблица означает, что для выбранного ТС нет записей по текущим условиям; это не журнал заправок.",
+      "stepTextHash": "cc6b79d7a92432c659856fe80afa40f0620eb3a92c1e937f76e0ec36d5d4d229",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 7: История: отдельная вкладка и пустая загруженная таблица, соответствует тексту; статья и увеличение."
+    }
+  ]
+}

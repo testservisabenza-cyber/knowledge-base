@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "manifestHash": "dd0b632f57915098bcd36311d4323c01920d88216d754c8c9078c538a117886c",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-analytics-model",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "overview-menu.svg",
+      "sourceHash": "51a13b5fc62083edf501385e240f5405e8423d3dfd585855680476742933dfd0",
+      "svgHash": "5b06601930f692e108ffc95e2e46d3c762c0c18593a2c7d895fef93193490b1b",
+      "stepText": "Как выбрать отчёт\nОтчёты разделены по задачам: отдельные заправки, показания уровнемеров, поставки, деньги, цены, связь и действия пользователей. Сводки показывают итог по контроллерам, пользователям, транспорту или компаниям.\n«Последние заправки» показывает каждую выдачу топлива. «Журнал всех действий пользователей» показывает изменения, сделанные в сервисе.",
+      "stepTextHash": "d06d9b36d7cd7db634d57edfb6b639ae5024959bec64ec3cd31d5189a87e78a5",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Список отчётов. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "fillings-export-button.svg",
+      "sourceHash": "63eca93b853ac0c97171b58d47d0318f9f55441eb6db39cc29d1a95a175f9a7d",
+      "svgHash": "d5ebc6c77da6205c48b5f8450b73ab8f699596c902e7bbdcd70302e626780dcd",
+      "stepText": "Скачать отчёт\nКнопка экспорта сохраняет результат с текущими фильтрами и периодом. В разных отчётах могут отличаться кнопки и столбцы.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по просмотру и выгрузке заправок](/articles/pro-reports).",
+      "stepTextHash": "9b4cb3cdfd8c91bc1ae6be74986cb30d118e1e1b7acfef30ef983c5b1ffbaae2",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Названная кнопка или пункт меню имеет собственную прямую стрелку через свободное место.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Экспорт. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "overview-fillings.svg",
+      "sourceHash": "39e99a629a601d17c1aba3814b52fdcb1ce5b3dbc5b54d867e3339d89867cb22",
+      "svgHash": "51804cc7a93bac93ed528e016c7e20f4ca01df065afe286a768a3d7984fb1ce0",
+      "stepText": "Заправки и стоимость\nВ таблице «Последние заправки» каждая строка — отдельная операция. По ней можно сверить время, пользователя, карту, транспорт, контроллер, топливо и объём. Столбцы, которые не помещаются на экране, доступны по горизонтальной прокрутке.\nСтоимость заправки зависит от выданного объёма и цены топлива, заданной для компании. Историю цены смотрят в «Изменении цен», списания и пополнения счёта — в «Приходе и расходе денег».",
+      "stepTextHash": "96d764c3ef30be88a2415bd076e8b875a859ff8495e1678506d49f2cdd4f1081",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Заправки за выбранный период. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "overview-objects.svg",
+      "sourceHash": "132da9abe764edc8222163808e3309778559f3003d5e0803200269cac7ef88f6",
+      "svgHash": "dcc90afad1bcc2a66204486fb2693b7d01063a847ce4b4355dca5206f36adb04",
+      "stepText": "Компания и другие фильтры\nВыберите компанию и те контроллеры и пользователей, чьи данные нужны. В некоторых отчётах также можно выбрать транспорт.\nФлажок «Учитывать удалённых» добавляет старые операции удалённых пользователей и машин. Если не хватает записей, проверьте этот флажок и выбранный период.",
+      "stepTextHash": "abf4654a8a2040ab719bdf11b4c229914d91a02bbbfe53e80ad414d0a42e3beb",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Компания, контроллеры и пользователи. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "overview-period.svg",
+      "sourceHash": "384e2844b2d5225ae5e733439060ca0d8793fbdca2367b611a959c86ce1f3f6d",
+      "svgHash": "dd4041a1335a39cdb6723abc5b64e84a549f03a750fc554fc54fa35a5b990adf",
+      "stepText": "Период и группировка\nУкажите дату и время начала и конца отчёта. Кнопки «День», «Неделя» и «Месяц» подставляют готовые даты.\nВ сводных отчётах поле «Группировка» задаёт, за какие интервалы объединять данные. Для сравнения отчётов выберите одинаковые даты и фильтры.",
+      "stepTextHash": "d892a288b908bd75b1804e68085c65a0623669b48eec3087f6486d41ca93021c",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Группировка — подпись и поле; Период отчёта. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "overview-levels.svg",
+      "sourceHash": "6ba3303223d9058fce924c5b4b490fddfe579bc28c43546ec82c70cbf4fc1eb7",
+      "svgHash": "faba5413128e6949f917756668850b7e9f5b61b44f63553e8b9c2aff4dfeec82",
+      "stepText": "Показания, поставки и масса\n«Показания уровнемеров» содержит измерения по секциям. Если связь пропала, новые показания не приходят; старое измерение не показывает текущий остаток.\n«Поступление топлива» показывает оформленные поставки. «Приём топлива на контроллере» — события приёма, записанные оборудованием. Для расчёта массы нужны показания плотности и привязка рукава к секции.",
+      "stepTextHash": "02530388100ea8f3e91422b70cdbca8b54dcd0ce5e16a54d2d05aa0838e9a1c1",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Таблица отчёта. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "overview-actions.svg",
+      "sourceHash": "a59bcffd1b096f07c9a4e3cf9f997fe984b8c1103067a2e049fe7ea15f7519ee",
+      "svgHash": "e84a52e757cb6749442d6c2446ca0bb3821843944fc10543b628628cbe5bc0f3",
+      "stepText": "Журналы\n«Журнал всех сообщений» показывает сообщения оборудования. «Журнал качества связи» помогает проверить обмен с контроллером. «Журнал всех действий пользователей» показывает, что меняли в сервисе.\nОтчёт по крышке есть только на станциях с таким датчиком. В журнале поступлений видно, что запись изменяли, но не все её прежние значения.",
+      "stepTextHash": "d0bcc102601f12c7a84c5ac1e552f367fb86fb972f026a11bab392f80e8fcdc9",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Таблица отчёта. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    },
+    {
+      "output": "overview-summary.svg",
+      "sourceHash": "aa3c379731c78ca60d905bd80434ed22187b0cc2d292fd49f8a2e997fe82c45b",
+      "svgHash": "f1bb5ccf340529731e1fe6b474c8e125ba10b2db9d468e54bdc2b6a48fb1ad3c",
+      "stepText": "Отдельные операции и сводки\nОтчёт без группировки оставляет каждую выдачу отдельной строкой. Суммарные отчёты складывают объёмы за выбранный период и группируют их по контроллерам, пользователям, транспорту или компаниям.\nЕсли машину учитывают как пользователя с одной картой, её заправки ищите в отчёте по пользователям.",
+      "stepTextHash": "856b1d105c11560067edfa672249cb8ebf0f6243abf12b5661600661aae541a6",
+      "clickTargets": [],
+      "clickExplanation": "Поля и результат выделены без стрелок; форма по ширине белой панели.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник и полный SVG просмотрены индивидуально: Таблица отчёта. Рамка не касается подписей; стрелка не пересекает текст. Проверено в статье и просмотрщике с актуальным текстом шага."
+    }
+  ],
+  "articleInspectionNote": "Фактически проверены светлая и тёмная темы, фон/без фона, переходы между шагами, увеличение 125%, копирование со статусом Скопировано. Ссылки открываются в новой вкладке и сохраняют шаг. Прежнее оформление восстановлено."
+}

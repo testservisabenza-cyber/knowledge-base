@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "manifestHash": "99a317fff0d9504aa0ec314970326dd6a39e219ed52a0e2f497e794edf1d943b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-alerts-view",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "overview-list.svg",
+      "sourceHash": "3a9c29483d8fbe41310e364f71554b140dd505879d52fa8609f4fdd5471e3463",
+      "svgHash": "eb48904b17e9c5966633f470804306d1ea2cb8468ff9a10397b5aae2b780ee21",
+      "stepText": "Список правил\nРаздел «Оповещения» в левом меню содержит созданные правила. Описание помогает различать настройки; столбцы каналов и событий показывают количество выбранных способов доставки и событий, а не число получателей.\n«Добавить» открывает новое правило. Карандаш меняет существующее правило, корзина удаляет его. Изменение списка событий или получателей выполняют в том же правиле, чтобы не создавать лишние дубли рассылки.",
+      "stepTextHash": "adde3fa16c8fefbef63eb3ea0e32548da3e7128445f2225fd683d60f03f56621",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Меню и таблица отдельные рамки без стрелок"
+    },
+    {
+      "output": "overview-fields.svg",
+      "sourceHash": "f8d8181fea5d2ed5a463c18b594bc16c61c91a9eb1792f8a8b060cf226c846a0",
+      "svgHash": "6b4aa255a1c81f7573ff1f4a6fff345697170ac82a339c900011aea9f8eab698",
+      "stepText": "Поля правила и их назначение\nОдна настройка может содержать несколько событий. «Описание» — название правила внутри сервиса; это не текст письма. «Каналы» определяет доставку, сейчас используется электронная почта.\n«События» задаёт причину уведомления, например достижение сигнального порога или действие с записью. «Почты» содержит адреса получателей; каждый адрес завершают Enter или пробелом и проверяют его отдельную метку. Ошибка в адресе мешает доставке именно этому получателю.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по настройке оповещений](/articles/pro-notifications).",
+      "stepTextHash": "2597ad6dd7d92bfddf11daf2a029c2bfc093518b69e8d0ea2d29fd8bba52d3b3",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Поля единым блоком по ширине без Сохранить; ссылка компактна"
+    },
+    {
+      "output": "alerts-events.svg",
+      "sourceHash": "8171367b6d6554aa4ba41e9812a23d9aa0cc52a8a2da44310a84623aa3d672ed",
+      "svgHash": "c571f440477158c24248e050062b29339d0d298d83bbc8f84721a7ff1e29d750",
+      "stepText": "Сигнальный порог и перечень событий\nПорог у пользователя, транспорта, компании или секции задаёт значение остатка для предупреждения. Чтобы получать сообщение, в правиле выбирают соответствующее событие достижения порога и канал отправки.\nВ списке есть события добавления, изменения и удаления поступлений, изменения лимитов, пополнения счёта, блокировки, изменения прав и карточек. Для оборудования предусмотрены события «Нет связи у контроллера» и «Дата окончания лицензии». Выбирайте только те события, которые нужны получателю; включение всех событий увеличивает число писем.\nНастройка порога не является самостоятельной рассылкой и не заменяет лимит. Состояние связи и время успешного обмена дополнительно проверяют в разделе «Контроллеры (ТРК)».",
+      "stepTextHash": "9f04c03691d3dfda030cffe51c7204c6040ce14f7f90a6248249d1c998f7041c",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Список событий содержит порог, рамка целиком"
+    },
+    {
+      "output": "alerts-inbox.svg",
+      "sourceHash": "1e3ffb8b1df39c27fdc3d9704cf092db1ad27865ba3329ee003291a099110254",
+      "svgHash": "e04aed19a92b15464a41a331a992e10c2411b8746506fb9b980241479e8a8c0c",
+      "stepText": "Пользовательские уведомления\nКолокольчик в верхней панели открывает сообщения. На вкладке «Пользовательские уведомления» показаны события вашей работы, дата получения и действие для перехода к связанной записи. Число у колокольчика показывает новые сообщения.\nСообщение в сервисе и доставка электронной почты проверяются отдельно: наличие строки не доказывает доставку письма. Сверьте событие с правилом и проверьте спам получателя.",
+      "stepTextHash": "db30aadf799cc81352a7397a7e88d6c18f804143d00aa67e407f4cd04d72a864",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Пользовательская вкладка и таблица отдельно без стрелок"
+    },
+    {
+      "output": "alerts-system.svg",
+      "sourceHash": "9fd85885bc97800db87fc9d476ec6f31c8ed641ea4c692ac7cbfb192eb3e15c0",
+      "svgHash": "bba5863208c382a93a173c976f4b4f6360548c6fc8648bef78c1abfa08c896f1",
+      "stepText": "Системные уведомления\nВкладка «Системные уведомления» содержит объявления самого сервиса: технические работы, изменения и сообщения поддержки. Это отдельная таблица с текстом и датой; ваши правила событий не управляют этими объявлениями.",
+      "stepTextHash": "ea9747a74e9a6cd0f4d9f3ddc38cd7a1d0c284f44cc53fa7bf64ab8cf4d3f52d",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: Системная вкладка и таблица отдельно, рамки не касаются"
+    }
+  ]
+}

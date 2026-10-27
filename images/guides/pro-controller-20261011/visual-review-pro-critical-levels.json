@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-critical-levels",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка по ширине левого меню, стрелка справа без перекрытия корзины. Индивидуально просмотрены исходник, полный SVG, кадр в статье и в увеличении. Нет курсора, водяного знака, заглушек и наложений."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Отдельная кнопка открытия второй строки, горизонтальная стрелка справа. Индивидуально просмотрены исходник, полный SVG, кадр в статье и в увеличении. Нет курсора, водяного знака, заглушек и наложений."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи контроллер будет останавливать налив при достижении заданного порога, если включён контроль остатка по уровнемеру.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "11c2e0036d35b6b004ac1507fd1410b89fa2ade01cde0275534e2091aeb20843",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Настоящее окно записи, стрелка вверх к Записать данные; операция не запускалась. Индивидуально просмотрены исходник, полный SVG, кадр в статье и в увеличении. Нет курсора, водяного знака, заглушек и наложений."
+    },
+    {
+      "output": "gauge-tab.svg",
+      "sourceHash": "fc148a228117cf8ecf213857d8aed73cb55f3864c1687cec49b4c2053302fb75",
+      "svgHash": "cd06b205dc10f8ffabf39e862553910e8688cbe2393a6142e01e2316fc575a6e",
+      "stepText": "Откройте вкладку «Уровнемеры».",
+      "stepTextHash": "1cc202df8c0e7b2aa6bac94c5aaaacf7dd2fc4bddc9dee933491ea61142af233",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Вкладка Уровнемеры; диагональная стрелка снизу справа точно в угол, кнопка настроек не пересекается. Индивидуально просмотрены исходник, полный SVG, кадр в статье и в увеличении. Нет курсора, водяного знака, заглушек и наложений."
+    },
+    {
+      "output": "gauge-menu.svg",
+      "sourceHash": "fc148a228117cf8ecf213857d8aed73cb55f3864c1687cec49b4c2053302fb75",
+      "svgHash": "690b440c1b25dd77a86cbc0e27cdd744fbd2b2531079acea226b9e9fd85bef95",
+      "stepText": "Нажмите «Настройки на контроллере».",
+      "stepTextHash": "a36d363ea96eae615fbc6e5972fe8905fd375e0bd42b48a7494cf735d7bdbd72",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка кнопки Настройки на контроллере, горизонтальная стрелка справа; поле Тип свободно. Индивидуально просмотрены исходник, полный SVG, кадр в статье и в увеличении. Нет курсора, водяного знака, заглушек и наложений."
+    },
+    {
+      "output": "gauge-critical-menu.svg",
+      "sourceHash": "56acfe3c970ce52ef3e8d7816a426099e323a7144994566d8727f064f88d5be7",
+      "svgHash": "5ff3f29a662cea228e6d8740ad90a391f6a737b4e5fd8d532ef18e82b5fd9821",
+      "stepText": "Выберите «Настройки критических уровней».",
+      "stepTextHash": "3119bba7035669c2df549b6126c3c1eaba599e67bd837ca6aef54432538b0373",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только пункт критических уровней, диагональ в нижний правый угол. Индивидуально просмотрены исходник, полный SVG, кадр в статье и в увеличении. Нет курсора, водяного знака, заглушек и наложений."
+    },
+    {
+      "output": "critical-choice.svg",
+      "sourceHash": "ca073eb8cc41446dab0a4dbbae598adbf0c3bb14c0c9acf1435d66769e2116f5",
+      "svgHash": "3541db8e0286aa99e88ca654c14c5ae482d74442382b33cc02e4207bcd196013",
+      "stepText": "В окне «Нижний уровень» отметьте нужный способ: «Уровень» для высоты или «Общий объем» для литров.\nУровень: Высота топлива. Единицу измерения сверяйте с моделью уровнемера и контроллера.\nОбщий объем: Количество топлива в литрах по градуировке ёмкости.",
+      "stepTextHash": "d5f9cb911c5f8650c2f0ba2f2932dcc72aa44f361abe0648746e591e45e81144",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Две отдельные рамки объединяют подписи и соответствующие флажки; поля не пересекаются. Индивидуально просмотрены исходник, полный SVG, кадр в статье и в увеличении. Нет курсора, водяного знака, заглушек и наложений."
+    },
+    {
+      "output": "critical-volume.svg",
+      "sourceHash": "ca073eb8cc41446dab0a4dbbae598adbf0c3bb14c0c9acf1435d66769e2116f5",
+      "svgHash": "9121c5876217acd84b4753d6b87e38b4c194676b799e5d1018a5a206b9921b44",
+      "stepText": "Введите порог для своей ёмкости в поле выбранного способа. На снимке показан пример для общего объёма — 5 000 л; своё значение рассчитайте по резервуару.",
+      "stepTextHash": "db765aec54682010b50b6fbea01c1f20f3c9d0288dbe791753db8f93e357e879",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Общий объем вместе с флажком и полем 5000; сохранение вне рамки. Индивидуально просмотрены исходник, полный SVG, кадр в статье и в увеличении. Нет курсора, водяного знака, заглушек и наложений."
+    },
+    {
+      "output": "critical-save.svg",
+      "sourceHash": "ca073eb8cc41446dab0a4dbbae598adbf0c3bb14c0c9acf1435d66769e2116f5",
+      "svgHash": "9c37c5d5a58dd2d81e7a0a0343659cf7ebbdbe178198afbd83b7c148423fad9b",
+      "stepText": "Нажмите зелёную кнопку «Сохранить» в окне.",
+      "stepTextHash": "57dc0a3a622cd883c9810a8ef2943e503108575cb1191d993d862ad355f1f5de",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Зелёное Сохранить внутри модального окна; фоновая кнопка не выделена. Индивидуально просмотрены исходник, полный SVG, кадр в статье и в увеличении. Нет курсора, водяного знака, заглушек и наложений."
+    }
+  ]
+}

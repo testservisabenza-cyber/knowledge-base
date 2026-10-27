@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "manifestHash": "aa5edab76e8853daa49eb3695a113b7521c88b486adf3aab5de19a14099bbe55",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-receipt-model",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": false,
+    "backgroundModes": false,
+    "stepNavigation": false,
+    "imageZoom": false,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": false
+  },
+  "shots": [
+    {
+      "output": "receipts-list.svg",
+      "sourceHash": "84957832adfc19337f504149ca57d3d3cafd4d96ad781262895d6a27a78d0cc2",
+      "svgHash": "c7b111c2922b9ca2b0588ecdc47cf0c2741f250ab70843162f9c015046eabef8",
+      "stepText": "Журнал поставок\nРаздел «Поступление ГСМ» → «Журнал поступления топлива» содержит оформленные поставки. Строки показывают секцию, приход, объём по накладной, даты операции и изменения и автора записи. Фильтры помогают отбирать записи, а карандаш открывает редактирование.\n«Добавить поступление» создаёт запись; поставку также можно оформить из блока «Приход топлива» на главной странице. Поставка относится к выбранным компании, станции и секции, а не сразу ко всем резервуарам.\n\nСохранение, исправление и отчёты\nПосле сохранения запись появляется в журнале, на главной странице и в отчётах о поступлениях. Редактирование исправляет данные поставки, удаление убирает запись; в журнале действий фиксируется событие изменения, без подробного сравнения всех прежних и новых полей.\nИсправление или удаление старого поступления не пересчитывает текущий математический остаток автоматически. Сначала сверьте фактический остаток, затем при необходимости скорректируйте его в настройках станции.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по исправлению остатка после правки поступления](/articles/pro-plan-receipt-balance).",
+      "stepTextHash": "7ad53171574152d210d7fb689ffd77ca4cfcc86d4bcbb8f50433cd4122f1f1bd",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "receipts-objects.svg",
+      "sourceHash": "b4af6e34506191a4b2e26c91fbf54640efc69ca4c125b7aee87f926999e31532",
+      "svgHash": "3fba6b75223cb706f0c250fad66437398645c594584c50a039ac2b07e90a4d84",
+      "stepText": "Компания, станция и секция\nПоля выбирают последовательно: компания ограничивает список станций, станция — список её секций. Секция определяет отсек, в который поступило топливо. Ошибочный выбор даст приход другому объекту, даже если номер накладной верный.",
+      "stepTextHash": "6703e77db976998a85685a90426eb913445b1a632edce5d0909ced43350bd019",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "receipts-invoice.svg",
+      "sourceHash": "3ec70d93fa2947a66c870c075b146847c588dc07268aab788edb659e211b71b5",
+      "svgHash": "c4a105d00b4f5a159a7cf4ec4dacbb5c3233381f49528b61964cd84c1dab2fbf",
+      "stepText": "Накладная поставщика\nВ накладной указывают номер документа, литры, плотность, температуру и дату операции. Эти поля обязательны. Дата относится к поставке и может быть прошлой; дата создания записи отражает, когда её внесли в сервис.\nЛитры по накладной — документальный объём, который не обязан совпадать с измеренным приростом в резервуаре. При математическом остатке именно этот объём участвует в увеличении учётного остатка.",
+      "stepTextHash": "661b76d52d5a186fe9daa2cb950ab0165b34f5dba798f126b374c28d6b201758",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "receipts-extra.svg",
+      "sourceHash": "3ec70d93fa2947a66c870c075b146847c588dc07268aab788edb659e211b71b5",
+      "svgHash": "603e5c5071a25a71dc1293604a7c8a9dc0939ba5cdf33df99a257bdcad60558f",
+      "stepText": "Дополнительные данные доставки\nДополнительные поля позволяют сохранить сведения о бензовозе, водителе, объёме, цене и измерениях. Замер в бензовозе и ручной замер резервуара помогают сопоставить поставку с накладной. Обязательные сведения помечены звёздочкой; дополнительные заполняют по фактически имеющимся документам и замерам.",
+      "stepTextHash": "e930c1ef20b4ce4ce61a6e7e0f8faf668cc5d8359875ef7948952404e502218a",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "receipts-measurements.svg",
+      "sourceHash": "63964147e734c94e984632442acdd77f0dfb598f630c77de94f6f5b88fe68682",
+      "svgHash": "20dacd2107f7ba967e2acd5c51d03ba5ea8d9d43156e0afaf90efad4ae61dfe9",
+      "stepText": "Начало и конец слива\nЗамеры «Начало» и «Конец» описывают состояние секции до и после поставки: уровень, объём, плотность, температуру и время. По их разнице оценивают фактический приход, а плотность позволяет учитывать массу.\nКнопка «Уровнемер» считывает данные привязанного прибора. Для этого нужны корректные секция, привязка и связь. Ручные замеры используют фактические измерения, а не подставляют объём накладной вместо показаний.\nПри включённом математическом остатке поля считывания уровнемера не используются. Такой остаток является расчётом по операциям, а не доказательством измеренного количества топлива.",
+      "stepTextHash": "b1cafd2af13d3791ff2bfafa86a981eb8962411ffe7c492651a3fc388a6e5b55",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    }
+  ]
+}

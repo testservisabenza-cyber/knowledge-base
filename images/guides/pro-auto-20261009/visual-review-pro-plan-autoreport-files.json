@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "manifestHash": "fb1bb9a6e1e74bb780465e748891a2b60d90bccecbf71afcac053a5bb60ce3c1",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-autoreport-files",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "setting-nav.svg",
+      "sourceHash": "44a699aebeacfbb482f7485e312fb6ab1d24bc90537baacfade6028a3fabdaa9",
+      "svgHash": "cd42a34dbf99a3206847cb7445a78f47dad5b649340ed39075a89ead4740ae69",
+      "stepText": "Откройте «Настройки отправки» в разделе «Автоотчеты» и найдите правило по названию.",
+      "stepTextHash": "3b1d6886281e434b27b8094546dea46d2771a72e917c019d1f7ad682c3b70da2",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Настройки отправки, меню по ширине."
+    },
+    {
+      "output": "setting-edit.svg",
+      "sourceHash": "44a699aebeacfbb482f7485e312fb6ab1d24bc90537baacfade6028a3fabdaa9",
+      "svgHash": "650c994bef9cdaa8d7040c3960eedd6a95d84f3d70ca5b2d316c5c05d3ccb6f0",
+      "stepText": "Нажмите карандаш в строке нужного правила.",
+      "stepTextHash": "9e2c0c82da8bbd81da455c51b7eded80a5cb667a87b28a5e93bc0dc78b13c199",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Отдельный карандаш, диагональ в угол."
+    },
+    {
+      "output": "setting-expanded.svg",
+      "sourceHash": "2bb964a086bdeaedf18f41127355d82fd25fe04624dcde73d7274d290e68a0a6",
+      "svgHash": "d9a3ddcc393919969feb0d93c5f4abeb77e928da949ab2ed76ee94f00e3a68a3",
+      "stepText": "Проверьте период данных, выбранный шаблон и расписание. Если дни и время не видны, заново выберите «Да» в «Указать данные для отправки». На снимке раскрытые дни и время пустые: заполните их и сверяйте ожидаемый запуск по Москве.",
+      "stepTextHash": "6176ab5f3b5d7edcdc6997ea7bcc8da12588a99afb598fe76da3882a86fee69a",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Раскрытая форма с полями; пустое расписание объяснено."
+    },
+    {
+      "output": "setting-edit-save.svg",
+      "sourceHash": "2bb964a086bdeaedf18f41127355d82fd25fe04624dcde73d7274d290e68a0a6",
+      "svgHash": "fea3ad4081eef29baea8987de34007773f9b7595231ee3bacd1214da26afaf32",
+      "stepText": "Нажмите «Сохранить», если исправляли настройку. Дождитесь следующего указанного времени формирования.",
+      "stepTextHash": "236c6eccdb223c7ec57295ec58a697c909db3fee5bc8ef0b393d8461df1a792f",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Сохранить, отдельная стрелка."
+    },
+    {
+      "output": "file-nav.svg",
+      "sourceHash": "31fe8b89796aa841738f0698da7d4b95250b958b0361998f59350cfea2cc7ade",
+      "svgHash": "63efd4ed79bdfbce95be54da122c9a8a0f46cc5ba2bd82eb5014e201abb96b6b",
+      "stepText": "Откройте «Файлы отчетов» и найдите результат по названию и дате.",
+      "stepTextHash": "eb437d4712f1045f7f6afa58a3ffdc8d93e1d2ec127a1371f4754d75864c72e8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: Меню файлов, горизонтальная стрелка."
+    },
+    {
+      "output": "file-status.svg",
+      "sourceHash": "31fe8b89796aa841738f0698da7d4b95250b958b0361998f59350cfea2cc7ade",
+      "svgHash": "0c109c8c4a2ccd9400f69e9385b51c9366063c1d61c9bda9aaa431902182efdb",
+      "stepText": "Сверьте статус и дату результата с ожидаемым запуском. Старый файл не подтверждает новый запуск.",
+      "stepTextHash": "1ea17dd794176c97fb11208c279dcedac4c3e71480b5ed41b63d53982efb41f3",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 6: Статус выделен без общей рамки строки."
+    },
+    {
+      "output": "template-nav.svg",
+      "sourceHash": "a8eb87818ff43ecc604cd8248c39308e5bf94c55d81f1eeb8176a394f38a96c2",
+      "svgHash": "ec014a70de874628f8905e873f73a09887d63d3788dd23c4c920020c405691da",
+      "stepText": "Если результата нет, откройте «Шаблоны отчетов» и найдите используемый шаблон.",
+      "stepTextHash": "620ed1706ed7d7d225f58096f45b8b395121f4f0116a9e7ac8da8877a1e6a6d2",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 7: Шаблоны отчетов, полная ширина меню."
+    },
+    {
+      "output": "template-edit.svg",
+      "sourceHash": "a8eb87818ff43ecc604cd8248c39308e5bf94c55d81f1eeb8176a394f38a96c2",
+      "svgHash": "689648f576d871540ded176421ee1bb48b6c83fdf2a8094238f508cb4f86175a",
+      "stepText": "Нажмите карандаш в строке этого шаблона.",
+      "stepTextHash": "7fa98cec46f4e7216fa9fd9d366f2895e71bd22196c45ea21882f3cf1ec90f9f",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 8: Карандаш нужного шаблона."
+    },
+    {
+      "output": "template-fields.svg",
+      "sourceHash": "5453f4342d7e3dd1e79cb473bf832279c5c64b142a332798323b6c00bde095a2",
+      "svgHash": "ca8eaee4f1f9f71a15b1838f8ab6e5fb87999d0a2f46610d3f3e3ee2d468e80f",
+      "stepText": "Проверьте компанию, контроллеры и пользователей. За выбранный период у них должны быть операции заправки. Для исторических данных удалённых записей проверьте «Учитывать удаленных».",
+      "stepTextHash": "c8cfdd24ff30b5e8cde74475aef607c473a8476e912bd02e11b847956bed9a1d",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 9: Форма шаблона, поля и флажок удалённых читаемы."
+    },
+    {
+      "output": "template-edit-save.svg",
+      "sourceHash": "5453f4342d7e3dd1e79cb473bf832279c5c64b142a332798323b6c00bde095a2",
+      "svgHash": "9a142df7be8efea87d7739c37636597789a38cdba4e97a27b7782da6f9f596c4",
+      "stepText": "Нажмите «Сохранить», если изменяли состав шаблона. Затем проверяйте следующий запуск.",
+      "stepTextHash": "45a4027806b41ceb7f438ff6b6a531bc5ddd28ae02ac2925cbe877dfca1eb107",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 10: Сохранить шаблон, отдельная горизонтальная стрелка."
+    }
+  ]
+}

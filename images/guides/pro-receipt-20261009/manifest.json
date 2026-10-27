@@ -1,0 +1,852 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/journal.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:49:23.627Z",
+      "boxes": [
+        {
+          "height": 59,
+          "target": "Меню",
+          "width": 246,
+          "x": 0,
+          "y": 494.15625,
+          "selector": "measured journal: Меню"
+        },
+        {
+          "height": 679.765625,
+          "target": "Таблица",
+          "width": 1610,
+          "x": 280,
+          "y": 88,
+          "selector": "measured journal: Таблица"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "overview-journal.svg",
+      "title": "overview-journal",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/journal.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:49:23.627Z",
+      "boxes": [
+        {
+          "height": 59,
+          "target": "Меню",
+          "width": 246,
+          "x": 0,
+          "y": 494.15625,
+          "selector": "measured journal: Меню"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "journal-nav.svg",
+      "title": "journal-nav",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            284,
+            523.65625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/journal.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:49:23.627Z",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "target": "Добавить",
+          "width": 190.6875,
+          "x": 1693.3125,
+          "y": 94,
+          "selector": "measured journal: Добавить"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "add.svg",
+      "title": "add",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1638.3125,
+            112.265625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/objects-initial.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-14T13:12:45.838Z",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "target": "Поля выбора компании, станции и секции",
+          "width": 1105.96875,
+          "x": 399.5,
+          "y": 111,
+          "selector": "[role=dialog] .modal-body form .row > div .mb-2, three field groups measured as one union"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "objects.svg",
+      "title": "objects",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/objects-open.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:50:01.481Z",
+      "boxes": [
+        {
+          "height": 196.4375,
+          "target": "Поле секции",
+          "width": 352.65625,
+          "x": 1160.3125,
+          "y": 111,
+          "selector": "measured objects-open: Поле секции"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "objects-dropdown.svg",
+      "title": "objects-dropdown",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/form-top.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:50:48.118Z",
+      "boxes": [
+        {
+          "height": 479.84375,
+          "target": "Накладная",
+          "width": 270.5,
+          "x": 393.5,
+          "y": 202.609375,
+          "selector": "measured form-top: Накладная"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "invoice.svg",
+      "title": "invoice",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/form-top.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:50:48.118Z",
+      "boxes": [
+        {
+          "height": 479.84375,
+          "target": "Бензовоз",
+          "width": 270.5,
+          "x": 676,
+          "y": 202.609375,
+          "selector": "measured form-top: Бензовоз"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "tanker.svg",
+      "title": "tanker",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/form-top.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:50:48.118Z",
+      "boxes": [
+        {
+          "height": 479.84375,
+          "target": "Начало",
+          "width": 176.328125,
+          "x": 958.5,
+          "y": 202.609375,
+          "selector": "measured form-top: Начало"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "start.svg",
+      "title": "start",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/form-top.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:50:48.118Z",
+      "boxes": [
+        {
+          "height": 479.84375,
+          "target": "Изменение",
+          "width": 176.328125,
+          "x": 1146.828125,
+          "y": 202.609375,
+          "selector": "measured form-top: Изменение"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "difference.svg",
+      "title": "difference",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/form-top.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:50:48.118Z",
+      "boxes": [
+        {
+          "height": 479.84375,
+          "target": "Конец",
+          "width": 176.328125,
+          "x": 1335.15625,
+          "y": 202.609375,
+          "selector": "measured form-top: Конец"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "end.svg",
+      "title": "end",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/form-top.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:50:48.118Z",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "target": "Уровнемер начало",
+          "width": 164.328125,
+          "x": 964.5,
+          "y": 690.453125,
+          "selector": "measured form-top: Уровнемер начало"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "gauge-start.svg",
+      "title": "gauge-start",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            909.5,
+            708.71875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/form-top.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:50:48.118Z",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "target": "Уровнемер конец",
+          "width": 164.328125,
+          "x": 1341.15625,
+          "y": 690.453125,
+          "selector": "measured form-top: Уровнемер конец"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "gauge-end.svg",
+      "title": "gauge-end",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1286.15625,
+            708.71875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/recalculated.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:51:27.055Z",
+      "boxes": [
+        {
+          "height": 265.421875,
+          "target": "Дополнительные сведения",
+          "width": 553,
+          "x": 393.5,
+          "y": 583.984375,
+          "selector": "measured recalculated: Дополнительные сведения"
+        },
+        {
+          "height": 265.421875,
+          "target": "Цена",
+          "width": 553,
+          "x": 958.5,
+          "y": 583.984375,
+          "selector": "measured recalculated: Цена"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "extra.svg",
+      "title": "extra",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/form-bottom.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:51:10.682Z",
+      "boxes": [
+        {
+          "height": 90.140625,
+          "target": "Метрошток начало",
+          "width": 835.5,
+          "x": 393.5,
+          "y": 892.40625,
+          "selector": "measured form-bottom: Метрошток начало"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "dipstick.svg",
+      "title": "dipstick",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/recalculated.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:51:27.055Z",
+      "boxes": [
+        {
+          "height": 90.140625,
+          "target": "Метрошток начало",
+          "width": 835.5,
+          "x": 393.5,
+          "y": 892.40625,
+          "selector": "measured recalculated: Метрошток начало"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "dipstick-result.svg",
+      "title": "dipstick-result",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/form-bottom.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:51:10.682Z",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "target": "Пересчитать",
+          "width": 104.734375,
+          "x": 1247,
+          "y": 940.40625,
+          "selector": "measured form-bottom: Пересчитать"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "recalculate.svg",
+      "title": "recalculate",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1406.734375,
+            958.671875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/recalculated.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:51:27.055Z",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 399.5,
+          "y": 998.546875,
+          "selector": "measured recalculated: Сохранить"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "save.svg",
+      "title": "save",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            545.78125,
+            1016.8125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/saved.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:51:49.518Z",
+      "boxes": [
+        {
+          "height": 93.046875,
+          "target": "Строка поступления",
+          "width": 1574,
+          "x": 286,
+          "y": 277.53125,
+          "selector": "measured saved: Строка поступления"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "saved.svg",
+      "title": "saved",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/math-journal.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T07:06:22.065Z",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "target": "Карандаш поступления 04.09.2026, Секция 1, накладная 3000 л",
+          "width": 36,
+          "x": 318,
+          "y": 556.671875,
+          "selector": "measured math-journal: Карандаш поступления 04.09.2026, Секция 1, накладная 3000 л"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "open-saved.svg",
+      "title": "open-saved",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            263,
+            570.703125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/math-receipt.png",
+      "url": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-09T06:55:15.051Z",
+      "boxes": [
+        {
+          "height": 75.609375,
+          "target": "Компания",
+          "width": 789.984375,
+          "x": 557.5,
+          "y": 111,
+          "selector": "measured math-receipt: Компания"
+        },
+        {
+          "height": 47.609375,
+          "target": "Математический учёт",
+          "width": 742,
+          "x": 569.5,
+          "y": 202.609375,
+          "selector": "measured math-receipt: Математический учёт"
+        },
+        {
+          "height": 487.84375,
+          "target": "Накладная",
+          "width": 363,
+          "x": 567.5,
+          "y": 282.21875,
+          "selector": "measured math-receipt: Накладная"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "math-receipt.svg",
+      "title": "math-receipt",
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/stations.png",
+      "url": "https://pro.benza.online/stations",
+      "capturedAt": "2026-10-09T06:53:02.826Z",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "target": "Меню Станции",
+          "width": 246,
+          "x": 0,
+          "y": 256.3125,
+          "selector": "measured stations: Меню Станции"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "stations-nav.svg",
+      "title": "stations-nav",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application",
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            279,
+            276.1328125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/stations.png",
+      "url": "https://pro.benza.online/stations",
+      "capturedAt": "2026-10-09T06:53:02.826Z",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "target": "Открыть математическую станцию",
+          "width": 36,
+          "x": 1613.203125,
+          "y": 429.109375,
+          "selector": "measured stations: Открыть математическую станцию"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "math-open.svg",
+      "title": "math-open",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "bottom-right",
+          "from": [
+            1674.203125,
+            492.171875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/stations.png",
+      "url": "https://pro.benza.online/stations",
+      "capturedAt": "2026-10-09T06:53:02.826Z",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "target": "Открыть станцию с уровнемером",
+          "width": 36,
+          "x": 1613.203125,
+          "y": 490.171875,
+          "selector": "measured stations: Открыть станцию с уровнемером"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "gauge-station-open.svg",
+      "title": "gauge-station-open",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "bottom-right",
+          "from": [
+            1674.203125,
+            553.234375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/math-station.png",
+      "url": "https://pro.benza.online/station/262",
+      "capturedAt": "2026-10-09T06:53:25.116Z",
+      "boxes": [
+        {
+          "height": 41.5,
+          "target": "Основная информация",
+          "width": 197.640625,
+          "x": 274,
+          "y": 139.59375,
+          "selector": "measured math-station: Основная информация"
+        },
+        {
+          "height": 149.75,
+          "target": "Математический остаток",
+          "width": 508.65625,
+          "x": 818.65625,
+          "y": 452.515625,
+          "selector": "measured math-station: Математический остаток"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "math-fields.svg",
+      "title": "math-fields",
+      "sourceUrl": "https://pro.benza.online/station/262",
+      "background": "application",
+      "padding": 6,
+      "arrows": []
+    },
+    {
+      "source": "source/math-station.png",
+      "url": "https://pro.benza.online/station/262",
+      "capturedAt": "2026-10-09T06:53:25.116Z",
+      "boxes": [
+        {
+          "height": 41.5,
+          "target": "Основная информация",
+          "width": 197.640625,
+          "x": 274,
+          "y": 139.59375,
+          "selector": "measured math-station: Основная информация"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "math-tab.svg",
+      "title": "math-tab",
+      "sourceUrl": "https://pro.benza.online/station/262",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            219,
+            160.34375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/math-station.png",
+      "url": "https://pro.benza.online/station/262",
+      "capturedAt": "2026-10-09T06:53:25.116Z",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "target": "Сохранить",
+          "width": 162.5,
+          "x": 286,
+          "y": 700.40625,
+          "selector": "measured math-station: Сохранить"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "math-save.svg",
+      "title": "math-save",
+      "sourceUrl": "https://pro.benza.online/station/262",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            503.5,
+            718.671875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/sections.png",
+      "url": "https://pro.benza.online/station/8",
+      "capturedAt": "2026-10-09T06:54:06.274Z",
+      "boxes": [
+        {
+          "height": 41.5,
+          "target": "Вкладка",
+          "width": 83.96875,
+          "x": 471.640625,
+          "y": 139.59375,
+          "selector": "measured sections: Вкладка"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "sections-tab.svg",
+      "title": "sections-tab",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            513.625,
+            104.59375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/sections.png",
+      "url": "https://pro.benza.online/station/8",
+      "capturedAt": "2026-10-09T06:54:06.274Z",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "target": "Карандаш",
+          "width": 36,
+          "x": 1613.671875,
+          "y": 435.34375,
+          "selector": "measured sections: Карандаш"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "section-open.svg",
+      "title": "section-open",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1704.671875,
+            449.375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/section-gauge.png",
+      "url": "https://pro.benza.online/station/8",
+      "capturedAt": "2026-10-09T06:54:19.630Z",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "target": "Уровнемер",
+          "width": 392,
+          "x": 1524,
+          "y": 263.75,
+          "selector": "measured section-gauge: Уровнемер"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "section-gauge.svg",
+      "title": "section-gauge",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/controller-status.png",
+      "url": "https://pro.benza.online/controllers",
+      "capturedAt": "2026-10-09T06:54:44.856Z",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "target": "Меню",
+          "width": 246,
+          "x": 0,
+          "y": 295.953125,
+          "selector": "measured controller-status: Меню"
+        },
+        {
+          "height": 73.03125,
+          "target": "Успешный опрос",
+          "width": 180,
+          "x": 766,
+          "y": 272.421875,
+          "selector": "measured controller-status: Успешный опрос"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "output": "controllers-check.svg",
+      "title": "controllers-check",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            279,
+            315.7734375
+          ]
+        }
+      ]
+    }
+  ]
+}

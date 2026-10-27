@@ -1,0 +1,1169 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/company-list.jpg",
+      "output": "company-open-penza.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:nth-child(9) button:first-child",
+          "target": "Открыть Пенза",
+          "width": 36,
+          "x": 1580.40625,
+          "y": 734.421875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1500.40625,
+            748.453125
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Открыть Пенза",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-list.jpg",
+      "output": "company-delete-button.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:nth-child(9) button:last-child",
+          "target": "Корзина Пенза",
+          "width": 36,
+          "x": 1632.40625,
+          "y": 734.421875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1758.40625,
+            748.453125
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Корзина Пенза",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-type.jpg",
+      "output": "company-add-type.svg",
+      "boxes": [
+        {
+          "x": 1525,
+          "y": 219.53125,
+          "width": 395,
+          "height": 158.828125,
+          "selector": "label: Тип* UNION [role=\"dialog\"] [role=\"listbox\"]; horizontal extent: drawer",
+          "target": "Поля по ширине белой панели с отступом 4 px слева",
+          "measurementNote": "Высота унаследована из DOM-измерений исходного кадра; границы панели взяты по исходнику, повторное измерение DOM не проводилось."
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Поле Тип и раскрытый список по ширине правой панели",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/company-info.jpg",
+      "output": "company-info-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Информация",
+          "target": "Вкладка Информация",
+          "width": 126.40625,
+          "x": 274,
+          "y": 154.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            219,
+            214.03125
+          ],
+          "toOffset": 0.85
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Вкладка Информация",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-balance.jpg",
+      "output": "company-balance-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Баланс",
+          "target": "Вкладка Баланс",
+          "width": 81.90625,
+          "x": 400.40625,
+          "y": 154.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            345.40625,
+            214.03125
+          ],
+          "toOffset": 0.85
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Вкладка Баланс",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-balance.jpg",
+      "output": "company-limit-edit.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "#left-tabs-example-tabpane-first .card button",
+          "target": "Карандаш лимита",
+          "width": 36,
+          "x": 1218.75,
+          "y": 318.171875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1138.75,
+            332.203125
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Карандаш лимита",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-limit-options.jpg",
+      "output": "company-limit-type.svg",
+      "boxes": [
+        {
+          "x": 1525,
+          "y": 98,
+          "width": 395,
+          "height": 166.828125,
+          "selector": "[role=\"dialog\"] form > div:first-child UNION [role=\"dialog\"] [role=\"listbox\"]",
+          "target": "Поля по ширине белой панели с отступом 4 px слева",
+          "measurementNote": "Высота унаследована из DOM-измерений исходного кадра; границы панели взяты по исходнику, повторное измерение DOM не проводилось."
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Тип лимита, Варианты Абсолютный и Безлимитный",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/company-fuels.jpg",
+      "output": "company-fuel-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Виды топлива",
+          "target": "Вкладка Виды топлива",
+          "width": 132.65625,
+          "x": 856.046875,
+          "y": 154.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            801.046875,
+            214.03125
+          ],
+          "toOffset": 0.85
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Вкладка Виды топлива",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-fuel-kind.jpg",
+      "output": "company-fuel-kind.svg",
+      "boxes": [
+        {
+          "x": 1525,
+          "y": 98,
+          "width": 395,
+          "height": 375.609375,
+          "selector": "[role=\"dialog\"] form > div:first-child UNION [role=\"dialog\"] [role=\"listbox\"]",
+          "target": "Поля по ширине белой панели с отступом 4 px слева",
+          "measurementNote": "Высота унаследована из DOM-измерений исходного кадра; границы панели взяты по исходнику, повторное измерение DOM не проводилось."
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Вид топлива, Доступные виды топлива",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/company-main-list.jpg",
+      "output": "company-open-main.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:nth-child(3) button:first-child",
+          "target": "Открыть главную компанию",
+          "width": 36,
+          "x": 1580.40625,
+          "y": 368.046875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1500.40625,
+            382.078125
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Открыть главную компанию",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-clients.jpg",
+      "output": "company-clients-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Клиентские компании",
+          "target": "Клиентские компании",
+          "width": 190.328125,
+          "x": 988.703125,
+          "y": 154.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            933.703125,
+            214.03125
+          ],
+          "toOffset": 0.85
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Клиентские компании",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application"
+    },
+    {
+      "source": "source/company-stations.jpg",
+      "output": "company-stations-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Станции",
+          "target": "Станции компании",
+          "width": 92.1875,
+          "x": 614.9375,
+          "y": 154.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            559.9375,
+            214.03125
+          ],
+          "toOffset": 0.85
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Станции компании",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application"
+    },
+    {
+      "source": "source/company-balance-fixed.jpg",
+      "output": "company-limit-plan.svg",
+      "boxes": [
+        {
+          "height": 39.609375,
+          "padding": 2,
+          "selector": "#left-tabs-example-tab-first",
+          "target": "Лимитный план",
+          "width": 381.5,
+          "x": 286,
+          "y": 221.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            206,
+            240.8359375
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Лимитный план",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-account-clean.jpg",
+      "output": "company-account-tab.svg",
+      "boxes": [
+        {
+          "height": 39.609375,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Счет",
+          "target": "Счет",
+          "width": 381.5,
+          "x": 286,
+          "y": 300.25
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            206,
+            320.0546875
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Счет",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-delete-dialog.jpg",
+      "output": "company-delete-confirm.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Подтвердить",
+          "target": "Подтвердить",
+          "width": 105.421875,
+          "x": 993.140625,
+          "y": 311.984375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            915,
+            330.25
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Подтвердить удаление компании",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/company-add-form.jpg",
+      "output": "company-add-fields.svg",
+      "boxes": [
+        {
+          "x": 1525,
+          "y": 137.390625,
+          "width": 395,
+          "height": 560.453125,
+          "selector": "[role=\"dialog\"] input[name=\"Name\"] UNION [role=\"dialog\"] input[name=\"Type\"] UNION [role=\"dialog\"] input[name=\"INN\"] UNION [role=\"dialog\"] input[name=\"OGRN\"] UNION [role=\"dialog\"] input[name=\"KPP\"] UNION [role=\"dialog\"] input[name=\"Address\"] UNION [role=\"dialog\"] input[name=\"MailAddress\"]",
+          "target": "Поля по ширине белой панели с отступом 4 px слева",
+          "measurementNote": "Высота унаследована из DOM-измерений исходного кадра; границы панели взяты по исходнику, повторное измерение DOM не проводилось."
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Все заполняемые поля без кнопки",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/company-limit-form.jpg",
+      "output": "company-limit-liters.svg",
+      "boxes": [
+        {
+          "x": 1525,
+          "y": 98,
+          "width": 395,
+          "height": 157.75,
+          "selector": "[role=\"dialog\"] form > div:nth-child(1) UNION [role=\"dialog\"] form > div:nth-child(2)",
+          "target": "Поля по ширине белой панели с отступом 4 px слева",
+          "measurementNote": "Высота унаследована из DOM-измерений исходного кадра; границы панели взяты по исходнику, повторное измерение DOM не проводилось."
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Тип лимита и литры, без Сохранить",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/company-account-form.jpg",
+      "output": "company-account-amount.svg",
+      "boxes": [
+        {
+          "x": 1525,
+          "y": 98,
+          "width": 395,
+          "height": 66.140625,
+          "selector": "[role=\"dialog\"] input[placeholder=\"Введиту сумму\"]",
+          "target": "Поля по ширине белой панели с отступом 4 px слева",
+          "measurementNote": "Высота унаследована из DOM-измерений исходного кадра; границы панели взяты по исходнику, повторное измерение DOM не проводилось."
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сумма с подписью",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/company-account-form.jpg",
+      "output": "company-account-comment.svg",
+      "boxes": [
+        {
+          "x": 1525,
+          "y": 180.140625,
+          "width": 395,
+          "height": 66.140625,
+          "selector": "[role=\"dialog\"] input[placeholder=\"Введите комментарий\"]",
+          "target": "Поля по ширине белой панели с отступом 4 px слева",
+          "measurementNote": "Высота унаследована из DOM-измерений исходного кадра; границы панели взяты по исходнику, повторное измерение DOM не проводилось."
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Комментарий с подписью",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/company-fuel-form.jpg",
+      "output": "company-fuel-price.svg",
+      "boxes": [
+        {
+          "x": 1525,
+          "y": 98,
+          "width": 395,
+          "height": 149.75,
+          "selector": "[role=\"dialog\"] form > div:first-child UNION [role=\"dialog\"] input[placeholder=\"Введите цену\"]",
+          "target": "Поля по ширине белой панели с отступом 4 px слева",
+          "measurementNote": "Высота унаследована из DOM-измерений исходного кадра; границы панели взяты по исходнику, повторное измерение DOM не проводилось."
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Вид топлива и цена за литр без кнопки",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/company-fuel-edit-form.jpg",
+      "output": "company-fuel-edit-price.svg",
+      "boxes": [
+        {
+          "x": 1525,
+          "y": 180.140625,
+          "width": 395,
+          "height": 66.140625,
+          "selector": "[role=\"dialog\"] input[placeholder=\"Введите цену\"]",
+          "target": "Поля по ширине белой панели с отступом 4 px слева",
+          "measurementNote": "Высота унаследована из DOM-измерений исходного кадра; границы панели взяты по исходнику, повторное измерение DOM не проводилось."
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Новая цена за литр с подписью",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/company-client-form.jpg",
+      "output": "company-client-fields.svg",
+      "boxes": [
+        {
+          "x": 1525,
+          "y": 137.390625,
+          "width": 395,
+          "height": 476.84375,
+          "selector": "[role=\"dialog\"] input[name=\"Name\"] UNION [role=\"dialog\"] input[name=\"MailAddress\"]",
+          "target": "Поля по ширине белой панели с отступом 4 px слева",
+          "measurementNote": "Высота унаследована из DOM-измерений исходного кадра; границы панели взяты по исходнику, повторное измерение DOM не проводилось."
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Реквизиты клиентской компании",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/company-add-form.jpg",
+      "output": "company-add-submit.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Добавить компанию внизу формы",
+          "width": 149.546875,
+          "x": 1537,
+          "y": 713.84375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1766.546875,
+            732.109375
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавить компанию внизу формы",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-limit-form.jpg",
+      "output": "company-limit-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Сохранить лимит",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 271.75
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1708.28125,
+            290.015625
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить лимит",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-account-form.jpg",
+      "output": "company-account-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Сохранить пополнение",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 262.28125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1708.28125,
+            280.546875
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить пополнение",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-fuel-form.jpg",
+      "output": "company-fuel-submit.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Добавить топливо внизу формы",
+          "width": 138.265625,
+          "x": 1537,
+          "y": 263.75
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1755.265625,
+            282.015625
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавить топливо внизу формы",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-fuel-edit-form.jpg",
+      "output": "company-fuel-edit-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Сохранить цену",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 262.28125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1708.28125,
+            280.546875
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить цену",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-client-form.jpg",
+      "output": "company-client-submit.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Добавить компанию",
+          "width": 149.546875,
+          "x": 1537,
+          "y": 630.234375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1766.546875,
+            648.5
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавить компанию",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application"
+    },
+    {
+      "source": "source/company-list.jpg",
+      "output": "company-nav.svg",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "padding": 0,
+          "selector": "a[href=\"/companies\"]",
+          "target": "Раздел Компании",
+          "width": 246,
+          "x": 0,
+          "y": 216.671875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            320,
+            236
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Раздел Компании",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application",
+      "measurementNote": "Высота и положение пункта унаследованы из DOM-измерений исходного кадра; правый край рамки на 4 px внутри меню шириной 250 px. Повторный замер DOM не проводился."
+    },
+    {
+      "source": "source/stations-list.jpg",
+      "output": "company-stations-nav.svg",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "padding": 0,
+          "selector": "a[href=\"/stations\"]",
+          "target": "Раздел Станции",
+          "width": 246,
+          "x": 0,
+          "y": 256.3125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            320,
+            276
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Раздел Станции",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application",
+      "measurementNote": "Высота и положение пункта унаследованы из DOM-измерений исходного кадра; правый край рамки на 4 px внутри меню шириной 250 px. Повторный замер DOM не проводился."
+    },
+    {
+      "source": "source/overview-companies-list.jpg",
+      "output": "company-overview-list.svg",
+      "title": "Список компаний и действия",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.640625,
+          "selector": "#company",
+          "target": "Раздел Компании",
+          "width": 246,
+          "x": 0,
+          "y": 216.671875,
+          "padding": 0
+        },
+        {
+          "height": 36.53125,
+          "selector": "button[varian=\"primary\"]",
+          "target": "Добавить компанию",
+          "width": 149.546875,
+          "x": 1726.453125,
+          "y": 94
+        },
+        {
+          "height": 28.0625,
+          "selector": "tbody tr:nth-child(2) button:has(svg.lucide-arrow-right)",
+          "target": "Открыть настройки ООО Пенза-Топливо",
+          "width": 36,
+          "x": 1580.40625,
+          "y": 306.984375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            345,
+            236
+          ],
+          "toSide": "right"
+        },
+        {
+          "box": 1,
+          "from": [
+            1590,
+            112
+          ],
+          "toSide": "left"
+        },
+        {
+          "box": 2,
+          "from": [
+            1510,
+            315
+          ],
+          "toSide": "left"
+        }
+      ],
+      "measurementNote": "Высота и положение пункта унаследованы из DOM-измерений исходного кадра; правый край рамки на 4 px внутри меню шириной 250 px. Повторный замер DOM не проводился."
+    }
+  ]
+}

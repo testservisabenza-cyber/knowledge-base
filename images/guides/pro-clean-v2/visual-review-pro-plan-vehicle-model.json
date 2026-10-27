@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "manifestHash": "aa5edab76e8853daa49eb3695a113b7521c88b486adf3aab5de19a14099bbe55",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-vehicle-model",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": false,
+    "backgroundModes": false,
+    "stepNavigation": false,
+    "imageZoom": false,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": false
+  },
+  "shots": [
+    {
+      "output": "transport-reader.svg",
+      "sourceHash": "182db18f85e881b320b345fd15cd063afe225849f68a408e071062d97dc9bf83",
+      "svgHash": "9eb43ae0025d34c61afcdfe58a783c70a6ef571c121f5a05e0f2060ed167df82",
+      "stepText": "RFID и получение номера карты\nДля транспорта используется RFID. Тип считывателя и номер карты должны соответствовать фактической карте; сохраняйте начальные нули и не используйте одну карту в нескольких записях.\nКнопка «Получить номер карты» работает с устройством, подключённым к этому компьютеру, и настроенной программой считывателя. Если программы нет, нажмите кнопку [Открыть инструкцию по установке считывателя](/articles/pro-card-reader-setup).",
+      "stepTextHash": "2b6d94696f366b637b8e513f01aa2533394cd2f0044204067f66ba7bbd2946d7",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "transport-limits.svg",
+      "sourceHash": "aa5b8a976f749384927e6b6e79a70a70c729731f991afd58f161ff863ecc88be",
+      "svgHash": "697d88d4ae078bef39c90f99584880b383e586b10b4bdf1c9eba6ce91b1337b2",
+      "stepText": "Лимиты транспорта\nНа вкладке «Лимиты» видны тип ограничения, объём, остаток и сигнальные пороги. «День и месяц» обновляет дневной объём каждый день, месячный — с началом календарного месяца. При двух ограничениях заправку ограничивает доступный остаток каждого.\nАбсолютный остаток уменьшается при выдаче и автоматически не обновляется. Безлимитный план не ограничивает выдачу личным объёмом ТС, но не отменяет лимиты пользователя, компании и срок обслуживания.\nСигнальный порог нужен для предупреждения о низком остатке. Его значение само по себе не включает отправку сообщений: настройте соответствующее событие в «Оповещениях».\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по настройке оповещений](/articles/pro-notifications).",
+      "stepTextHash": "d51ab819f7ee57cf76f5ae39fb0e9011c670236d39cad611c25d9dbb3643e70d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "transport-controllers.svg",
+      "sourceHash": "a9ec0dea247d1120e48c98ca506bfa3e5fe6bbf95c6838b2e56f3d2cbab85a64",
+      "svgHash": "a85b4261c4cc76df18d5a21f602922b27ae7eaba1fe8cd552bafb5470900569a",
+      "stepText": "Контроллеры, блокировка и применение\nВкладка «Контроллеры» показывает допуск ТС на устройства. Если карту не добавили при создании или нужен новый объект, её можно добавить позднее в настройках контроллера, в разделе транспорта.\nБлокировка временно прекращает обслуживание карты, разблокировка возвращает его. Удаление убирает запись. После добавления, изменения карты, лимита, блокировки или удаления данные необходимо записать в контроллер, чтобы состояние изменилось на ТРК.",
+      "stepTextHash": "25f91826fa3dce6cbe023d7c41a7449eb937d0f61d2cebd4e0a5029b58bf4d0b",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "transport-list.svg",
+      "sourceHash": "0086f9d30dff7d82d94a06095358960a0c9de759e1984fae414025e1ae83b16c",
+      "svgHash": "d5a7a871e5d31644bc09b6b21f67b6f98106b5ebbefec7f9101320f68bbc9ccc",
+      "stepText": "Список транспорта\nВ таблице показаны название ТС, компания, номер, RFID карты и тип лимита. Фильтры под заголовками позволяют искать нужную запись. Стрелка в строке открывает настройки, корзина удаляет запись.\nМеню «Добавить ТС» содержит добавление одной записи и «Импорт из excel» для массовой загрузки. Импорт добавляет записи по шаблону; это не выгрузка существующего списка.",
+      "stepTextHash": "81e62e31dc7489687a84c5c1ae0f6f4e55bcb85023bc7db233b1f8293dbd37d8",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "transport-info.svg",
+      "sourceHash": "a78db650cd840b938abd457d8bce653b790e02e696e9fbdb290fbd340963d709",
+      "svgHash": "4cd522a1b132774db8b2712b6039f8d5291fcaf8eaa1d7a584f9cf022a454087",
+      "stepText": "Когда нужна отдельная карта ТС\nПри «Авторизация ТС — Да» у пользователя заправка требует его карту и отдельную карту транспорта. Обе записи должны быть допущены в соответствующий контроллер.\nДля заправки одной картой часто создают пользователя с названием машины и оставляют «Авторизация ТС — Нет». Это обычная практика: в отчёте пользователь обозначает машину. Само создание записи в разделе «Транспорт» не заменяет карту пользователя в схеме двух карт.\n\nОсновные и дополнительные сведения\nНазвание различает транспорт в списке и отчётах. Компания выбирается при создании и затем не меняется. Контроллеры определяют устройства, где карта может обслуживаться; можно выбрать несколько.\nНомер и модель помогают идентифицировать автомобиль. «Договор» — дополнительное поле для удобной вам информации. «Обслуживать до» ограничивает срок действия карты; без указанной даты действует стандартный срок 10 лет, который можно изменить позднее.",
+      "stepTextHash": "6fab3bc24468e5b366b7023eaad1e5349ca54741a6295a8c99b9eb70f1d38867",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    }
+  ]
+}

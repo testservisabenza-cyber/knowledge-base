@@ -1,0 +1,239 @@
+{
+  "version": 1,
+  "manifestHash": "fe46228ae5283c439fb9c3357522b970393bab54d4b3affa64171a4a74d8cf54",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-vehicle-import",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "transport-nav.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "b850c28c4921527fb22fe415fc5a7b1987d494fab32e408642b560c81276459c",
+      "stepText": "Откройте раздел «Транспорт».",
+      "stepTextHash": "662b46938ffb4c962231376dae94900fbf3ea97b57d0426271cb6f7a0d820e1b",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Пункт Транспорт во всю ширину, прямая короткая стрелка."
+    },
+    {
+      "output": "transport-actions.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "ed25bbe63e7dcf6fabcb1f612b74b84ca4b45feced123d1dd8b54c9407acdac3",
+      "stepText": "Нажмите «Добавить ТС» над таблицей.",
+      "stepTextHash": "72a69c1a13e6d554f6ea83274f5cb9d27dec1e9ad63c5aedd44c992ee02615b1",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Кнопка Добавить ТС, стрелка слева без пересечений."
+    },
+    {
+      "output": "transport-import-menu.svg",
+      "sourceHash": "78a7772444a87e06d81ec3c014af8b08f06ea14ab61fe1816a53328f10ee89df",
+      "svgHash": "a9bdc41a68db7f4d72dd498851143075cdcf96f71ab6d03df1e9eee1ff4c0db2",
+      "stepText": "Выберите «Импорт из excel».",
+      "stepTextHash": "1f3db644f0eedb45bd4d4bb15322bea10ab777ca0d5ed9f79300983b4dd0504e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Импорт: диагональ точно в нижний правый угол, Действия не перекрыты."
+    },
+    {
+      "output": "transport-import-template.svg",
+      "sourceHash": "fb925dd8fd0af2dffc638f47ecaf4f9aad9a38940f35b238efcac7059f71eb38",
+      "svgHash": "7f32ed4cdc161746849919570373e1c67da415101a6a7c191587ab75b2714919",
+      "stepText": "В форме загрузки нажмите «Скачать шаблон» и заполните файл по подсказкам внутри. Поддерживаются .XLS и .XLSX.",
+      "stepTextHash": "759531a6506511226b73197a15c44c3994c6345630671d9d957f951134de0e5a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Скачать шаблон: отдельная рамка и прямая стрелка."
+    },
+    {
+      "output": "transport-import-company.svg",
+      "sourceHash": "fb925dd8fd0af2dffc638f47ecaf4f9aad9a38940f35b238efcac7059f71eb38",
+      "svgHash": "a6f64bc753f46f2172e1909025a533d9247f6f209d1fad6799ddd59fd886f611",
+      "stepText": "Выберите компанию, к которой относятся импортируемые машины.",
+      "stepTextHash": "7f811381426425edabba4ce2860746cf8fff7e74c62b79202420e110d114b6f4",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: Компания в рамке по ширине панели без стрелки."
+    },
+    {
+      "output": "transport-import-controls.svg",
+      "sourceHash": "fb925dd8fd0af2dffc638f47ecaf4f9aad9a38940f35b238efcac7059f71eb38",
+      "svgHash": "4db516596b24b738427e28a6aa185610f63194154fa90ee7a302f99595fb2212",
+      "stepText": "Укажите контроллеры и тип карты. Номера RFID в файле должны соответствовать выбранному типу.",
+      "stepTextHash": "372b011205f9a3b3d3a788aeca03f093cda14b6d6d961959e761579116811e92",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 6: Контроллеры и тип карты единым блоком без стрелок."
+    },
+    {
+      "output": "transport-import-file.svg",
+      "sourceHash": "fb925dd8fd0af2dffc638f47ecaf4f9aad9a38940f35b238efcac7059f71eb38",
+      "svgHash": "3d17eedd0583fb67ed574233346d505a643dbb5989f51b1fdb0cd9b0a2f43809",
+      "stepText": "Нажмите «Выберите файл» и укажите заполненный шаблон.",
+      "stepTextHash": "f5bd71b967a441eb02bc78c042d09f8cfb7e255c18f627f693d771058441d311",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 7: Выбор файла с собственной прямой стрелкой; кнопка и поле читаемы."
+    },
+    {
+      "output": "transport-import-save.svg",
+      "sourceHash": "fb925dd8fd0af2dffc638f47ecaf4f9aad9a38940f35b238efcac7059f71eb38",
+      "svgHash": "fc9d01ab521ba8fee99a972c50f6970437425ca8ccf4dd2c7d7435e7806c8c75",
+      "stepText": "Нажмите «Сохранить».",
+      "stepTextHash": "5e570b9e61506e20b46ab22a7060088d1efaa7ca24a88f570d91d59d51f225c4",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Шаг 8: СОСТОЯНИЕ НЕ ПРИНЯТО: файл не выбран; расширение запрещает доступ file URLs."
+    },
+    {
+      "output": "transport-list.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "37c03f2741bc353881a54c54918748c78b42ec33da7bcd16bc352b87f03efb8b",
+      "stepText": "Проверьте в списке названия, компании, номера RFID и лимиты загруженных ТС.",
+      "stepTextHash": "bb1a39b762f0093be510df0e6837b12cf26bf5b3f8e714a85be35c89f62f8fd3",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 9: Таблица как место сверки результата, без выдуманных импортированных строк."
+    },
+    {
+      "output": "controller-write.svg",
+      "sourceHash": "61b3ba344800fd41e75fab22c04f0e87896142124289cd627131fc4fba92354f",
+      "svgHash": "3b6a627d1af94bf40ef0364fe8a670b6446a0d4ab97a3e17bd45790516caf2ae",
+      "stepText": "Чтобы импортированные ТС обслуживались на ТРК, запишите список транспорта и его лимиты в соответствующие контроллеры.\nПри включённом автоопросе сервис автоматически записывает и считывает данные раз в 15 минут. При выключенном автоопросе потребуется записать данные вручную или включить автоопрос.\nНиже есть инструкция, описывающая все действия для записи данных в контроллер.",
+      "stepTextHash": "b1a2f847155242c1aae461bde1780c6942170237524cbcd647af7cbf15afa95b",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 10: Реальное общее окно записи списка транспорта и лимитов, текст операции импорта."
+    }
+  ]
+}

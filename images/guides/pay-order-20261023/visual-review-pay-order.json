@@ -1,0 +1,391 @@
+{
+  "version": 1,
+  "manifestHash": "a3c54d76b6bc1f5eb8db0f112cf78e83ae3509b432b8a523f127fbb451e4eb08",
+  "articleUrl": "http://127.0.0.1:5174/articles/pay-order",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "new-order.svg",
+      "sourceHash": "ad1e17a727f58f280198a9275fa31714c65c30d841a84f5e042cf449eb6fb536",
+      "svgHash": "98875478ee3f1d474fd1c0fe33542cf5107551248dc3881b1aeb68b4cb06f0f8",
+      "stepText": "Нажмите «Оформить новый заказ».",
+      "stepTextHash": "1b72f6b732d1b6379442a28b2ab3a66bee30127251741346542bbf954a0fb6e8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Новый заказ выделен отдельно от продления, стрелка не пересекает соседнюю кнопку; проверены SVG, статья и увеличение. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "select-service.svg",
+      "sourceHash": "169ff47005de5415d4aeee7d5a49788fb628bbd95f3b907bb367f75a98da145e",
+      "svgHash": "4ae6152b084cafff799ae0b759e700ce48ade4e721115c9417348bdc3f5bf71c",
+      "stepText": "Выберите компанию, для которой подключаете устройства. Для платного заказа оставьте «Не использовать» в списке тестового периода. В карточке нужной услуги нажмите «Выбрать услугу».\nКомпании: Организация, на которую будет выставлен счёт и к услуге которой будут добавлены устройства.\nТестовый период: «Не использовать» оформляет обычный платный заказ. «Использовать» предназначено для первого тестового подключения; его порядок описан в инструкции регистрации.",
+      "stepTextHash": "9a7f869937ba4fd685c58cadaa6561e0c0013cdefb06b773c39a98ad88036942",
+      "clickTargets": [
+        0,
+        1,
+        2
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Компания, вариант тестового периода и выбор услуги имеют отдельные стрелки; подписи и рамки не пересекаются, SVG и оба просмотра проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "quantity.svg",
+      "sourceHash": "a52386f4d048c0774642c6b72454c680c2aa260c151a2c3b079c55430c7f5f33",
+      "svgHash": "d9bb189dc9eea57d22d377543582a1f43d239107d9680858d59f1ccdadd570c2",
+      "stepText": "Выберите срок обслуживания, укажите количество новых устройств и нажмите «Добавить к заказу».\nКоличество месяцев — цена: Выберите 6 или 12 месяцев. Рядом показана месячная цена за одно устройство; итог учитывает весь срок.\nКоличество штук: Число новых контроллеров, для которых покупаете обслуживание.",
+      "stepTextHash": "1a4be182304a62186f1cf17e5e4a9df0fb82867ac92708c4180beb58f93e80de",
+      "clickTargets": [
+        0,
+        2
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Срок и добавление отмечены отдельными стрелками, количество отдельной рамкой; исходник чистый, SVG, статья и увеличение читаются. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "checkout.svg",
+      "sourceHash": "fe74e007fa007d40a8b0bbc6d71f513ecd428cb3960a4b311c2924c279ff5ccc",
+      "svgHash": "68f1bd04044fb7be30b14b4c23350b0fe73b7d7894a83f9cbbe939dc16743804",
+      "stepText": "Сверьте добавленную позицию и итоговую сумму справа. Если всё верно, нажмите «Перейти к оплате». Сервис сформирует счёт.",
+      "stepTextHash": "be73e66013609c31de2366614562def016ee184ea27825f8334dcdfee58aa5a9",
+      "clickTargets": [
+        1
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Состав и переход к счёту выделены отдельно; стрелка в свободном поле, итог читается, реальный состав заказа совпадает с текстом. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "invoice.svg",
+      "sourceHash": "cc29f95fe3fd809644931ca8a36e3bda6090831f89dd393cea381765fb1085ff",
+      "svgHash": "2579e42d5a933408920c0629efe3b571d06d708a470284489b756c1ac4784c78",
+      "stepText": "Проверьте компанию, услугу, количество устройств, срок и сумму. Нажмите «Скачать счёт» и при необходимости «Скачать оферту». Передайте счёт на оплату с расчётного счёта указанной организации или ИП. Используйте реквизиты и назначение платежа из своего счёта. Оплата означает принятие оферты, поэтому ознакомьтесь с ней заранее.",
+      "stepTextHash": "bf119c08637d22659c3332911366b570b76619a4dd4afe806441edda01a6cfca",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "После исправления стрелки стоят сверху над каждой кнопкой скачивания, не пересекают соседние подписи. Проверены актуальный SVG, статья и увеличение после сброса кеша изображения. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "confirm-open.svg",
+      "sourceHash": "cc29f95fe3fd809644931ca8a36e3bda6090831f89dd393cea381765fb1085ff",
+      "svgHash": "f698c90f92947c533f9700b244585fbe474a50717cc367a9cb2ee9681fbe3aa0",
+      "stepText": "Только после проведения банковского платежа нажмите «Подтвердить оплату». Эта кнопка сообщает сервису о переводе и сама деньги не перечисляет.",
+      "stepTextHash": "3f69742c2d28953e9adcb5da335ae070269ffb5227d25825b939cbb8dbd176c5",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Отдельная стрелка сверху к подтверждению оплаты, соседние кнопки и текст свободны. Статус остаётся реальным неоплаченным; проверены SVG, статья и увеличение. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "payment-form.svg",
+      "sourceHash": "f587ab8870a76360d3f6cb330d15d752929ebead05ebef1b7fa8d48dd9602e27",
+      "svgHash": "8312c40931a0009ef95e56d54be6b8a3978645ebd47eff660c220d78e1079640",
+      "stepText": "Перенесите сведения из платёжного поручения, проверьте основание и нажмите «Отправить на проверку». Дождитесь проверки поступления денег менеджером. Срок предоставления услуги указан в вашем счёте.\nНомер документа: Номер фактически проведённого платёжного поручения.\nОснование: Заполняется сервисом. Здесь должен быть именно тот счёт и заказ, который вы оплатили.\nДата оплаты: Дата и время проведения платежа по банковскому документу.",
+      "stepTextHash": "a740fac0eb36002759eb684ffa462e6a4624e5a10ff587355ef65d32a30a7cac",
+      "clickTargets": [
+        1
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Поля объединены рамкой по ширине панели, отправка отдельно со стрелкой снизу в свободной области; после исправления заново проверены SVG, статья и увеличение. Непроведённый платёж не отправлялся. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "service-open.svg",
+      "sourceHash": "86cefc9955c525f018697231e54da56c92d6d3d051c93537501b89187c124fb7",
+      "svgHash": "7bb7ff9be8b19ed1ecb71c7a059c0ea95015b5c8d2f8f5415b0379d5d5e20a13",
+      "stepText": "После подтверждения оплаты откройте «Услуги» в левом меню. Найдите нужную компанию и услугу и нажмите стрелку в её строке.",
+      "stepTextHash": "afc224995d0c4fadc64afb701f9377c48db1c61bd333e47dbdc29fb460580726",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Меню Услуги и переход в нужную строку отмечены по отдельности. Рамки не захватывают общую таблицу; SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "controller-open.svg",
+      "sourceHash": "f6c0ebf6debe91f830fc19672dd179f88d33ce9e09c2687b0976627f27b8ebee",
+      "svgHash": "db35bd9e7d6befbead74bfd90f47699f3e5581af988991459a8e50d818f43c0f",
+      "stepText": "Откройте вкладку «Контроллеры» и нажмите «Добавить контроллер».",
+      "stepTextHash": "98cef2a9e8d76d16382d5bf2fec35e75aa39574dea7214420f8083d9e96b9371",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Вкладка и добавление устройства выделены раздельно с точными стрелками, соседние вкладки не захвачены; проверены полный SVG, статья и увеличение. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "controller-fields.svg",
+      "sourceHash": "8d5ea8ec67d674bf60ef659d3e5c8038d869a0565849b5adcd7c9267a029156b",
+      "svgHash": "6bc2caddd38f38c187530cc3292cec3316993ef3dd591fab6902f7d1c64de2b5",
+      "stepText": "Заполните данные устройства, выберите позицию покупки и нажмите «Добавить». Перед сохранением внимательно сверьте полный ID: исправить сохранённый номер можно только через менеджера.\nНазвание контроллера: Понятное название, по которому вы узнаете устройство, до 500 символов.\nID контроллера: Полный номер устройства из ПРО, Офис или с маркировки платы. Используются цифры 0–9 и буквы A–F. Не вводите номер уже добавленного устройства.\nПоштучная покупка: Позиция покупки для этого устройства. Сверьте срок и доступное количество. Если нужной позиции нет, проверьте компанию, услугу и подтверждение оплаты.",
+      "stepTextHash": "b9af93a9f161527804ef021f8f27f8bc58ad7131f5974c523d5dda29fd516165",
+      "clickTargets": [
+        1
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Форма до заполнения соответствует действию, единая рамка полей отделена от Добавить, отдельная стрелка не пересекает текст; SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "controller-result.svg",
+      "sourceHash": "ffa5c4bb720fc5b71c48e122dc303963bedc935f04826ad09d32f9f82aa6a34f",
+      "svgHash": "81648e6172e0152f33f1a6b60046bb573bebc7bb561c0f7e80f4c3b505c94010",
+      "stepText": "В таблице «Контроллеры» найдите добавленный ID и сверьте дату окончания обслуживания. Для остальных новых устройств повторите добавление. Настройка связи самого оборудования выполняется в Офис или ПРО.",
+      "stepTextHash": "44e239a67f6b5f26cdf5927b0b7781cfc10d8b642e92755588f070e4103cda4a",
+      "clickTargets": [],
+      "clickExplanation": "Кадр поясняет поля или результат, нажимать кнопки не требуется.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Таблица показывает настоящее добавленное устройство; рамка охватывает ID и срок без кнопок. SVG, шаг и увеличение проверены; оплаченная активация не имитировалась. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "invoices.svg",
+      "sourceHash": "9e46609e559e2ad1fc4d0e0b2476fc0384cc59791d6c7d933d6de0e3d737de03",
+      "svgHash": "9515876c200324d32516a3d326cfdc76f4e1da73f7831dfb57a6de8f6fb76591",
+      "stepText": "После фактического перевода откройте «Счета». Найдите документ по номеру, заказу и компании и нажмите стрелку в его строке. Если счёт ещё открыт, переходите к следующему шагу.",
+      "stepTextHash": "936f544297e2dc6d8fea136ce6b430d1edabd2a8f4b4b2487ea38cd483665e6d",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Номер, заказ и компания читаются, стрелки отдельно к Счетам и открытию документа; корзина не задета. SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "login.svg",
+      "sourceHash": "239bb33a10b15ca425666763c56bb0610a54effe08da3c1aafe9ccb0e5429c0f",
+      "svgHash": "4b204a6c9d123e76087b87a917da097d65336a7a1472a68cd508a11be949219f",
+      "stepText": "Откройте [benzamat Оплата](https://pay.benza.online), введите email и пароль регистрации и нажмите «Войти в систему».",
+      "stepTextHash": "8ad22c45d68e251bedf76bd603e3828440b6e912dfca935f8c9a29d49f94fd61",
+      "clickTargets": [
+        1
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полная карточка входа, оба поля, кнопка и нижние ссылки сохранены; надписи крупнее, рамки и стрелка совпадают с целями. Проверены исходник, SVG, статья и увеличение."
+    },
+    {
+      "output": "orders-menu.svg",
+      "sourceHash": "805d3063e9bd538aa2fcff11eea1cc5869dbb89e70f6e14d87de2987407d8341",
+      "svgHash": "de7ab5e0c869063a00b3eead36a9e9c2435216dbfe6d3cb358bbb8c5be0d70ca",
+      "stepText": "В левом меню нажмите «Заказы».",
+      "stepTextHash": "8b4bf595776068430ce28ea569a426c83185b76a8f13649225b6245d1738ccdc",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Заказы выделены по ширине пункта меню, стрелка справа не перекрывает подпись. Повторно проверен использованный исходник, полный SVG, увеличение и шаг статьи. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "controller-close.svg",
+      "sourceHash": "8d5ea8ec67d674bf60ef659d3e5c8038d869a0565849b5adcd7c9267a029156b",
+      "svgHash": "eaf06bef1748d58f5d2f6249be0571ee733bf4f2ee68747aafb3977468d58fba",
+      "stepText": "После добавления закройте панель крестиком в правом верхнем углу.",
+      "stepTextHash": "141e91819467808af4b45979bc90fab7f9e2a6d1a3dbe5b4cba159bc58d0a41c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Все действия шага отмечены отдельными стрелками.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Повторно проверен кадр закрытия: собственная стрелка к крестику, панель целиком, тексты не перекрыты; SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "forgot-password.svg",
+      "sourceHash": "91cba5620c2ae87790a34635b082c482f9e850104a2427602b74e3731c5da8ee",
+      "svgHash": "30be717f32236bde94cba66f12bbd01e11618ad8215d6379e7cf34ea004f87a0",
+      "stepText": "Если забыли пароль, нажмите «Забыли пароль?». Для восстановления нужен доступ к электронной почте, указанной при регистрации. Если не помните этот адрес, напишите на help@benza.ru и укажите название компании и ИНН. После восстановления пароля войдите в кабинет. Если вы уже вошли, пропустите этот шаг.",
+      "stepTextHash": "621e7ca07bdfb457fd3946a9f2106067be4eced92299d4cb637d308ef71d7502",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Ссылка «Забыли пароль?» отмечена отдельной красной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "26.10.2026: чистая форма входа получена из настоящего сервиса в 1920×1080; ссылка измерена по DOM в том же состоянии. Исходник и SVG просмотрены отдельно, стрелка слева точно к ссылке, текст не перекрыт. Шаг 2 проверен в статье в светлой и тёмной темах, увеличение и кнопка копирования работают. Фактическое восстановление пароля не выполнялось."
+    }
+  ],
+  "reviewScope": "26.10.2026: проверен добавленный шаг 2, его чистый исходник, SVG и отображение в обеих статьях. Проверены обе темы, режимы фона, нумерация, переход к шагу, увеличение, кнопка копирования и атрибуты ссылок. Прежние записи индивидуального просмотра неизменённых снимков сохранены; их повторный просмотр в этом изменении не выполнялся."
+}

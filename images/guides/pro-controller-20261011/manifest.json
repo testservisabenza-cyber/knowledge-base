@@ -1,0 +1,3360 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/list.jpg",
+      "output": "nav.svg",
+      "title": "Контроллеры (ТРК)",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.63541793823242,
+          "selector": "#controllers",
+          "tag": "A",
+          "target": "Контроллеры (ТРК)",
+          "width": 246,
+          "x": 0,
+          "y": 295.26043701171875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            315.07814598083496
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-open.svg",
+      "title": "BUTTON",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.05208396911621,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(1) > button:nth-of-type(2)",
+          "tag": "BUTTON",
+          "target": "BUTTON",
+          "width": 35.333335876464844,
+          "x": 369.3333435058594,
+          "y": 365.75
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            469.6666793823242,
+            379.7760419845581
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-connection.svg",
+      "title": "list-connection",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2)",
+          "tag": "TD",
+          "target": "list-connection",
+          "width": 120,
+          "x": 466,
+          "y": 343.7708435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-license.svg",
+      "title": "list-license",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(3)",
+          "tag": "TD",
+          "target": "list-license",
+          "width": 180,
+          "x": 586,
+          "y": 343.7708435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-poll.svg",
+      "title": "list-poll",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(4)",
+          "tag": "TD",
+          "target": "list-poll",
+          "width": 180,
+          "x": 766,
+          "y": 343.7708435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-id.svg",
+      "title": "list-id",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(6)",
+          "tag": "TD",
+          "target": "list-id",
+          "width": 300,
+          "x": 1126,
+          "y": 343.7708435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-autopoll.svg",
+      "title": "list-autopoll",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(8)",
+          "tag": "TD",
+          "target": "list-autopoll",
+          "width": 180,
+          "x": 1606,
+          "y": 343.7708435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-new.svg",
+      "title": "Новый контроллер",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 271.0833435058594,
+          "width": 1500,
+          "height": 72.6875,
+          "target": "Новый контроллер",
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(2), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(3), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(4), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(5), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(6), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(7), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(8)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-working.svg",
+      "title": "Настроенный контроллер",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 343.7708435058594,
+          "width": 1500,
+          "height": 72.6875,
+          "target": "Настроенный контроллер",
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(1), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(3), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(4), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(5), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(6), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(7), #uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(8)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-no-arrow.svg",
+      "title": "У нового контроллера ещё нет кнопки открытия",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1)",
+          "tag": "TD",
+          "target": "У нового контроллера ещё нет кнопки открытия",
+          "width": 180,
+          "x": 286,
+          "y": 271.0833435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-new-id.svg",
+      "title": "list-new-id",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(6)",
+          "tag": "TD",
+          "target": "list-new-id",
+          "width": 300,
+          "x": 1126,
+          "y": 271.0833435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-new-license.svg",
+      "title": "list-new-license",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(3)",
+          "tag": "TD",
+          "target": "list-new-license",
+          "width": 180,
+          "x": 586,
+          "y": 271.0833435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "list-new-connection.svg",
+      "title": "list-new-connection",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 72.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(2)",
+          "tag": "TD",
+          "target": "list-new-connection",
+          "width": 120,
+          "x": 466,
+          "y": 271.0833435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/list.jpg",
+      "output": "menu-open.svg",
+      "title": "Действия с контроллерами",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Действия с контроллерами",
+          "width": 203.0416717529297,
+          "x": 1680.9583740234375,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1615.9583740234375,
+            111.92708396911621
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/menu.jpg",
+      "output": "menu-add.svg",
+      "title": "Добавить контроллер",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "tag": "A",
+          "target": "Добавить контроллер",
+          "width": 181.6666717529297,
+          "x": 1680.9583740234375,
+          "y": 137.8541717529297
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1615.9583740234375,
+            153.1979217529297
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/add.jpg",
+      "output": "add-name.svg",
+      "title": "Название *",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 65.44792175292969,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1)",
+          "tag": "DIV",
+          "target": "Название *",
+          "width": 388,
+          "x": 1526,
+          "y": 203.78125
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/add.jpg",
+      "output": "add-login.svg",
+      "title": "Логин *",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 65.44792175292969,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(2)",
+          "tag": "DIV",
+          "target": "Логин *",
+          "width": 388,
+          "x": 1526,
+          "y": 285.22918701171875
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/add.jpg",
+      "output": "add-password.svg",
+      "title": "Пароль *",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 65.44792175292969,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(3)",
+          "tag": "DIV",
+          "target": "Пароль *",
+          "width": 388,
+          "x": 1526,
+          "y": 366.6770935058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/add.jpg",
+      "output": "add-id.svg",
+      "title": "ID контроллера *",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 65.44792175292969,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(4)",
+          "tag": "DIV",
+          "target": "ID контроллера *",
+          "width": 388,
+          "x": 1526,
+          "y": 448.125
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/add.jpg",
+      "output": "add-station.svg",
+      "title": "Станция * Выберите значение",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(5)",
+          "tag": "DIV",
+          "target": "Станция * Выберите значение",
+          "width": 388,
+          "x": 1526,
+          "y": 529.5729370117188
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/add.jpg",
+      "output": "add-sections.svg",
+      "title": "Секции * Выберите значение",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(6)",
+          "tag": "DIV",
+          "target": "Секции * Выберите значение",
+          "width": 388,
+          "x": 1526,
+          "y": 613.1666870117188
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/add.jpg",
+      "output": "add-fuel.svg",
+      "title": "Топливо * ДТ",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(7)",
+          "tag": "DIV",
+          "target": "Топливо * ДТ",
+          "width": 388,
+          "x": 1526,
+          "y": 696.7604370117188
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/add.jpg",
+      "output": "add-group.svg",
+      "title": "Группы Выберите значение",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(8)",
+          "tag": "DIV",
+          "target": "Группы Выберите значение",
+          "width": 388,
+          "x": 1526,
+          "y": 780.3541870117188
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/add.jpg",
+      "output": "add-auth.svg",
+      "title": "Логин и пароль контроллера",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1526,
+          "y": 285.22918701171875,
+          "width": 388,
+          "height": 146.8958282470703,
+          "target": "Логин и пароль контроллера",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(2), body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(3)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/add.jpg",
+      "output": "add-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(9) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 1536.666748046875,
+          "y": 863.9479370117188
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1471.666748046875,
+            881.875020980835
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "main-name.svg",
+      "title": "Название*",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 65.44792175292969,
+          "selector": "#react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "tag": "DIV",
+          "target": "Название*",
+          "width": 478.0833435058594,
+          "x": 687.6666870117188,
+          "y": 258.6145935058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "main-id.svg",
+      "title": "ID контроллера *",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 65.44792175292969,
+          "selector": "#react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+          "tag": "DIV",
+          "target": "ID контроллера *",
+          "width": 478.0833435058594,
+          "x": 687.6666870117188,
+          "y": 340.0625
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "main-receipt.svg",
+      "title": "Прием топлива Нет",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "#react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+          "tag": "DIV",
+          "target": "Прием топлива Нет",
+          "width": 478.0833435058594,
+          "x": 1189.75,
+          "y": 258.6145935058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "main-reader.svg",
+      "title": "Считыватель Benza-NFC",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "#react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+          "tag": "DIV",
+          "target": "Считыватель Benza-NFC",
+          "width": 478.0833435058594,
+          "x": 1189.75,
+          "y": 342.2083435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "main-mode.svg",
+      "title": "Режим работы Автономный налив",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "#react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+          "tag": "DIV",
+          "target": "Режим работы Автономный налив",
+          "width": 478.0833435058594,
+          "x": 1189.75,
+          "y": 425.8020935058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "main-autopoll.svg",
+      "title": "Автоопрос включен Нет",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "#react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4)",
+          "tag": "DIV",
+          "target": "Автоопрос включен Нет",
+          "width": 478.0833435058594,
+          "x": 1189.75,
+          "y": 509.3958435058594
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "main-second-indicator.svg",
+      "title": "2-ой индикатор и клавиатура Нет",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "#react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(5)",
+          "tag": "DIV",
+          "target": "2-ой индикатор и клавиатура Нет",
+          "width": 478.0833435058594,
+          "x": 1189.75,
+          "y": 592.9896240234375
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "main-version.svg",
+      "title": "Версия ПО",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 65.44792175292969,
+          "selector": "#react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4)",
+          "tag": "DIV",
+          "target": "Версия ПО",
+          "width": 478.0833435058594,
+          "x": 687.6666870117188,
+          "y": 505.1041870117187
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "main.svg",
+      "title": "Основное",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-main",
+          "tag": "A",
+          "target": "Основное",
+          "width": 377.6666870117187,
+          "x": 286,
+          "y": 204.02084350585935
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            683.6666870117188,
+            277.9479293823242
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/main-save-current.jpg",
+      "output": "main-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 687.75,
+          "y": 983.65625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            844.03125,
+            1001.921875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "card-header.svg",
+      "title": "Контроллер - 33481F76 03373931 5235364C Электромеханическая Действие лицензии: 01.05.2024 00:00 - 31.12.2029 00:00",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 29,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+          "tag": "H2",
+          "target": "Контроллер - 33481F76 03373931 5235364C Электромеханическая Действие лицензии: 01.05.2024 00:00 - 31.12.2029 00:00",
+          "width": 941.5833740234376,
+          "x": 286,
+          "y": 97.42708587646484
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "card-tabs.svg",
+      "title": "Вкладки контроллера",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "x": 274,
+          "y": 137.8541717529297,
+          "width": 871.2812957763672,
+          "height": 41.16666793823242,
+          "target": "Вкладки контроллера",
+          "selector": "#uncontrolled-tab-example-tab-maininfo, #uncontrolled-tab-example-tab-levelmeter, #uncontrolled-tab-example-tab-users, #uncontrolled-tab-example-tab-ts, #uncontrolled-tab-example-tab-companies, #uncontrolled-tab-example-tab-journal"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "settings-menu.svg",
+      "title": "Настройки оборудования",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 204.02084350585935,
+          "width": 377.66668701171875,
+          "height": 467.12499237060547,
+          "target": "Настройки оборудования",
+          "selector": "#left-tabs-example-tab-main, #left-tabs-example-tab-sections, #left-tabs-example-tab-nasos, #left-tabs-example-tab-valve, #left-tabs-example-tab-flow-sensor, #left-tabs-example-tab-external-input, #left-tabs-example-tab-metrolog, #left-tabs-example-tab-doze, #left-tabs-example-tab-button-start-stop, #left-tabs-example-tab-printer, #left-tabs-example-tab-gsm_modem, #left-tabs-example-tab-auth"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/operations.jpg",
+      "output": "operations-button.svg",
+      "title": "Действия с контроллерами",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Действия с контроллерами",
+          "width": 203.0416717529297,
+          "x": 1665.625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1600.625,
+            111.92708396911621
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/operations.jpg",
+      "output": "operations-read.svg",
+      "title": "Чтение данных с контроллера",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "tag": "A",
+          "target": "Чтение данных с контроллера",
+          "width": 251.71875,
+          "x": 1616.947998046875,
+          "y": 137.8541717529297
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1551.947998046875,
+            153.1979217529297
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/operations.jpg",
+      "output": "operations-write.svg",
+      "title": "Запись настроек в контроллер",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "tag": "A",
+          "target": "Запись настроек в контроллер",
+          "width": 251.71875,
+          "x": 1616.947998046875,
+          "y": 168.5416717529297
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1551.947998046875,
+            183.8854217529297
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/operations.jpg",
+      "output": "operations-config.svg",
+      "title": "Установка конфигурации",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "tag": "A",
+          "target": "Установка конфигурации",
+          "width": 251.71875,
+          "x": 1616.947998046875,
+          "y": 199.2291717529297
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1551.947998046875,
+            214.5729217529297
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/configuration.jpg",
+      "output": "config-dialog.svg",
+      "title": "Конфигурация * Электромеханическая",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "tag": "DIV",
+          "target": "Конфигурация * Электромеханическая",
+          "width": 490.6666870117187,
+          "x": 707.1666870117188,
+          "y": 194.8541717529297
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/configuration.jpg",
+      "output": "config-apply.svg",
+      "title": "Установить конфигурацию",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Установить конфигурацию",
+          "width": 191.84375,
+          "x": 719.1666870117188,
+          "y": 286.44793701171875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            976.0104370117188,
+            304.37502098083496
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/read-dialog.jpg",
+      "output": "read-journal.svg",
+      "title": "Считать журнал событий",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 719.1666870117188,
+          "y": 142.58334350585938,
+          "width": 194.1354217529297,
+          "height": 21.59375,
+          "target": "Считать журнал событий",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), #checkbox-read-journal"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/read-dialog.jpg",
+      "output": "read-start.svg",
+      "title": "Чтение данных",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > button:nth-of-type(2)",
+          "tag": "BUTTON",
+          "target": "Чтение данных",
+          "width": 119.52083587646484,
+          "x": 1066.3125,
+          "y": 198.84375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1126.0729179382324,
+            299.6979179382324
+          ],
+          "toSide": "bottom"
+        }
+      ]
+    },
+    {
+      "source": "source/write-dialog.jpg",
+      "output": "write-settings.svg",
+      "title": "Записать настройки контроллера",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 719.1666870117188,
+          "y": 114.58333587646484,
+          "width": 251.7916717529297,
+          "height": 21.59375,
+          "target": "Записать настройки контроллера",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1), #checkbox-write-data"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/write-dialog.jpg",
+      "output": "write-time.svg",
+      "title": "Синхронизировать время на контроллере",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 719.1666870117188,
+          "y": 146.17709350585938,
+          "width": 309.29168701171875,
+          "height": 21.59375,
+          "target": "Синхронизировать время на контроллере",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > label:nth-of-type(1), #checkbox-time"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/write-dialog.jpg",
+      "output": "write-users.svg",
+      "title": "Записать список пользователей, транспорта, компании и их лимиты",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 719.1666870117188,
+          "y": 177.77084350585938,
+          "width": 466.66668701171875,
+          "height": 43.1875,
+          "target": "Записать список пользователей, транспорта, компании и их лимиты",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1), #checkbox-users-limits"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/write-dialog.jpg",
+      "output": "write-gauges.svg",
+      "title": "Записать градуировочные таблицы для уровнемеров",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 719.1666870117188,
+          "y": 230.95834350585935,
+          "width": 387.6458435058594,
+          "height": 21.59375,
+          "target": "Записать градуировочные таблицы для уровнемеров",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > label:nth-of-type(1), #checkbox-level-meter-data"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/write-dialog.jpg",
+      "output": "write-start.svg",
+      "title": "Записать данные",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > button:nth-of-type(2)",
+          "tag": "BUTTON",
+          "target": "Записать данные",
+          "width": 131.52084350585938,
+          "x": 1054.3125,
+          "y": 287.21875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1120.0729217529297,
+            388.0729179382324
+          ],
+          "toSide": "bottom"
+        }
+      ]
+    },
+    {
+      "source": "source/sections.jpg",
+      "output": "sections-tab.svg",
+      "title": "Секции",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-sections",
+          "tag": "A",
+          "target": "Секции",
+          "width": 381.5,
+          "x": 286,
+          "y": 242.9479217529297
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            687.5,
+            316.87500762939453
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/pump.jpg",
+      "output": "pump-tab.svg",
+      "title": "Насос",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-nasos",
+          "tag": "A",
+          "target": "Насос",
+          "width": 381.5,
+          "x": 286,
+          "y": 281.875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            687.5,
+            355.80208587646484
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/pump.jpg",
+      "output": "pump-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#left-tabs-example-tabpane-nasos > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 691.5,
+          "y": 371.2083435058594
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            847.1145858764648,
+            389.1354274749756
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/valves.jpg",
+      "output": "valves-tab.svg",
+      "title": "Клапаны",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-valve",
+          "tag": "A",
+          "target": "Клапаны",
+          "width": 381.5,
+          "x": 286,
+          "y": 320.8020935058594
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            687.5,
+            394.7291793823242
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/valves.jpg",
+      "output": "valves-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#left-tabs-example-tabpane-valve > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 691.5,
+          "y": 287.6145935058594
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            847.1145858764648,
+            305.5416774749756
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/flow.jpg",
+      "output": "flow-tab.svg",
+      "title": "Датчик расхода",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-flow-sensor",
+          "tag": "A",
+          "target": "Датчик расхода",
+          "width": 381.5,
+          "x": 286,
+          "y": 359.72918701171875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            687.5,
+            433.6562728881836
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/flow.jpg",
+      "output": "flow-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#left-tabs-example-tabpane-flow-sensor > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 691.5,
+          "y": 371.2083435058594
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            847.1145858764648,
+            389.1354274749756
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/inputs.jpg",
+      "output": "inputs-tab.svg",
+      "title": "Внешние входы",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-external-input",
+          "tag": "A",
+          "target": "Внешние входы",
+          "width": 381.5,
+          "x": 286,
+          "y": 398.65625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            687.5,
+            472.58333587646484
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/inputs.jpg",
+      "output": "inputs-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#left-tabs-example-tabpane-external-input > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 691.5,
+          "y": 536.25
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            847.1145858764648,
+            554.1770839691162
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-tab.svg",
+      "title": "Заполнение",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-doze",
+          "tag": "A",
+          "target": "Заполнение",
+          "width": 381.5,
+          "x": 286,
+          "y": 476.5104370117187
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            687.5,
+            550.4375228881836
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 691.5,
+          "y": 531.9583740234375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            847.1145858764648,
+            549.8854579925537
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/startstop.jpg",
+      "output": "startstop-tab.svg",
+      "title": "Кнопка старт/стоп",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-button-start-stop",
+          "tag": "A",
+          "target": "Кнопка старт/стоп",
+          "width": 381.5,
+          "x": 286,
+          "y": 515.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            687.5,
+            589.3645858764648
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/printer.jpg",
+      "output": "printer-tab.svg",
+      "title": "Принтер чеков",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-printer",
+          "tag": "A",
+          "target": "Принтер чеков",
+          "width": 381.5,
+          "x": 286,
+          "y": 554.3646240234375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            687.5,
+            628.2917098999023
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/printer.jpg",
+      "output": "printer-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#left-tabs-example-tabpane-printer > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 691.5,
+          "y": 287.6145935058594
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            847.1145858764648,
+            305.5416774749756
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/modem.jpg",
+      "output": "modem-tab.svg",
+      "title": "Модем",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-gsm_modem",
+          "tag": "A",
+          "target": "Модем",
+          "width": 381.5,
+          "x": 286,
+          "y": 593.2916870117188
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            687.5,
+            667.2187728881836
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/modem.jpg",
+      "output": "modem-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 691.5,
+          "y": 531.9583740234375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            847.1145858764648,
+            549.8854579925537
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/metrology.jpg",
+      "output": "metrology-tab.svg",
+      "title": "Метрология",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-metrolog",
+          "tag": "A",
+          "target": "Метрология",
+          "width": 381.5,
+          "x": 286,
+          "y": 437.5833435058594
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            687.5,
+            511.5104293823242
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/metrology.jpg",
+      "output": "metrology-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#left-tabs-example-tabpane-metrolog > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 691.5,
+          "y": 418.7708435058594
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            847.1145858764648,
+            436.6979274749756
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/sections.jpg",
+      "output": "sections-add.svg",
+      "title": "Добавить секцию",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#left-tabs-example-tabpane-sections > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Добавить секцию",
+          "width": 131.8229217529297,
+          "x": 691.5,
+          "y": 204.02084350585935
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            888.3229217529297,
+            221.94792747497556
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/section-add.jpg",
+      "output": "sections-select.svg",
+      "title": "Секции * Выберите значение",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1)",
+          "tag": "DIV",
+          "target": "Секции * Выберите значение",
+          "width": 388,
+          "x": 1526,
+          "y": 97.66667175292967
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/section-add.jpg",
+      "output": "sections-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 1536.666748046875,
+          "y": 181.2604217529297
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1471.666748046875,
+            199.1875057220459
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/pump.jpg",
+      "output": "pump-fields.svg",
+      "title": "Управление насосом Реле 1; Задержка включения насоса, с. 1",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 204.02084350585935,
+          "width": 482.875,
+          "height": 151.18750000000003,
+          "target": "Управление насосом Реле 1; Задержка включения насоса, с. 1",
+          "selector": "#left-tabs-example-tabpane-nasos > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1), #left-tabs-example-tabpane-nasos > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/valves.jpg",
+      "output": "valves-fields.svg",
+      "title": "Отсечной клапан Подключен; Клапан снижения Подключен",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 204.02084350585935,
+          "width": 989.75,
+          "height": 67.59375000000003,
+          "target": "Отсечной клапан Подключен; Клапан снижения Подключен",
+          "selector": "#left-tabs-example-tabpane-valve > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1), #left-tabs-example-tabpane-valve > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/flow.jpg",
+      "output": "flow-type.svg",
+      "title": "Датчик расхода Импульсный одноканальный",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 204.02084350585935,
+          "width": 482.875,
+          "height": 67.59375000000003,
+          "target": "Датчик расхода Импульсный одноканальный",
+          "selector": "#left-tabs-example-tabpane-flow-sensor > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/flow.jpg",
+      "output": "flow-transition.svg",
+      "title": "Счет импульсов при Переход из замкнуто в разамкнуто",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 287.6145935058594,
+          "width": 482.875,
+          "height": 67.59375,
+          "target": "Счет импульсов при Переход из замкнуто в разамкнуто",
+          "selector": "#left-tabs-example-tabpane-flow-sensor > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/flow.jpg",
+      "output": "flow-first-pulse.svg",
+      "title": "Время ожидания первого импульса (расход), с.",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1198.375,
+          "y": 204.02084350585935,
+          "width": 685.6146240234375,
+          "height": 65.44792175292972,
+          "target": "Время ожидания первого импульса (расход), с.",
+          "selector": "#left-tabs-example-tabpane-flow-sensor > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/flow.jpg",
+      "output": "flow-next-pulse.svg",
+      "title": "Время ожидания следующих импульсов (расход), с.",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1198.375,
+          "y": 285.46875,
+          "width": 685.6146240234375,
+          "height": 65.44792175292969,
+          "target": "Время ожидания следующих импульсов (расход), с.",
+          "selector": "#left-tabs-example-tabpane-flow-sensor > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/flow.jpg",
+      "output": "flow-times.svg",
+      "title": "Время ожидания первого импульса (расход), с.; Время ожидания следующих импульсов (расход), с.",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1198.375,
+          "y": 204.02084350585935,
+          "width": 685.6146240234375,
+          "height": 146.89582824707034,
+          "target": "Время ожидания первого импульса (расход), с.; Время ожидания следующих импульсов (расход), с.",
+          "selector": "#left-tabs-example-tabpane-flow-sensor > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1), #left-tabs-example-tabpane-flow-sensor > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/inputs.jpg",
+      "output": "inputs-fields.svg",
+      "title": "Вход IN1; Вход IN2 Не задано; Вход IN3 Не задано; Вход IN4 Не задано",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 204.02084350585935,
+          "width": 482.875,
+          "height": 316.2291564941406,
+          "target": "Вход IN1; Вход IN2 Не задано; Вход IN3 Не задано; Вход IN4 Не задано",
+          "selector": "#left-tabs-example-tabpane-external-input > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1), #left-tabs-example-tabpane-external-input > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2), #left-tabs-example-tabpane-external-input > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3), #left-tabs-example-tabpane-external-input > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-fuel.svg",
+      "title": "Топливо АИ-100",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 204.02084350585935,
+          "width": 482.875,
+          "height": 67.59375000000003,
+          "target": "Топливо АИ-100",
+          "selector": "#left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-dose.svg",
+      "title": "Минимальная доза, л (кг); Максимальная доза, л (кг)",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 287.6145935058594,
+          "width": 482.875,
+          "height": 146.8958282470703,
+          "target": "Минимальная доза, л (кг); Максимальная доза, л (кг)",
+          "selector": "#left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2), #left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-min-dose.svg",
+      "title": "Минимальная доза, л (кг)",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 287.6145935058594,
+          "width": 482.875,
+          "height": 65.44792175292969,
+          "target": "Минимальная доза, л (кг)",
+          "selector": "#left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-max-dose.svg",
+      "title": "Максимальная доза, л (кг)",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 369.0625,
+          "width": 482.875,
+          "height": 65.44792175292969,
+          "target": "Максимальная доза, л (кг)",
+          "selector": "#left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-low-flow.svg",
+      "title": "Снижение расхода в конце налива, л (кг)",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 450.5104370117187,
+          "width": 482.875,
+          "height": 65.44792175292974,
+          "target": "Снижение расхода в конце налива, л (кг)",
+          "selector": "#left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-after-volume.svg",
+      "title": "Полный расход после отпуска, л (кг)",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1198.375,
+          "y": 204.02084350585935,
+          "width": 685.6146240234375,
+          "height": 65.44792175292972,
+          "target": "Полный расход после отпуска, л (кг)",
+          "selector": "#left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-stop-delay.svg",
+      "title": "Завершение налива после выкл. насоса через, с.",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1198.375,
+          "y": 285.46875,
+          "width": 685.6146240234375,
+          "height": 65.44792175292969,
+          "target": "Завершение налива после выкл. насоса через, с.",
+          "selector": "#left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-sensor-error.svg",
+      "title": "Остановка налива при ошибке от датчиков расхода Да",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1198.375,
+          "y": 366.9166870117187,
+          "width": 685.6146240234375,
+          "height": 67.59375,
+          "target": "Остановка налива при ошибке от датчиков расхода Да",
+          "selector": "#left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-last-display.svg",
+      "title": "Время индикации последнего налива, с.",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1198.375,
+          "y": 450.5104370117187,
+          "width": 685.6146240234375,
+          "height": 65.44792175292974,
+          "target": "Время индикации последнего налива, с.",
+          "selector": "#left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/filling.jpg",
+      "output": "filling-finish.svg",
+      "title": "Полный расход после отпуска, л (кг); Завершение налива после выкл. насоса через, с.; Остановка налива при ошибке от датчиков расхода Да; Время индикации последнего налива, с.",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1198.375,
+          "y": 204.02084350585935,
+          "width": 685.6146240234375,
+          "height": 311.93751525878906,
+          "target": "Полный расход после отпуска, л (кг); Завершение налива после выкл. насоса через, с.; Остановка налива при ошибке от датчиков расхода Да; Время индикации последнего налива, с.",
+          "selector": "#left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1), #left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2), #left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3), #left-tabs-example-tabpane-doze > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/printer.jpg",
+      "output": "printer-type.svg",
+      "title": "Тип принтера Не подключен",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 204.02084350585935,
+          "width": 482.875,
+          "height": 67.59375000000003,
+          "target": "Тип принтера Не подключен",
+          "selector": "#left-tabs-example-tabpane-printer > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/modem.jpg",
+      "output": "modem-network.svg",
+      "title": "Выбор режима типа сети Только 2G",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 448.3645935058594,
+          "width": 482.875,
+          "height": 67.59375,
+          "target": "Выбор режима типа сети Только 2G",
+          "selector": "#left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/modem.jpg",
+      "output": "modem-fields.svg",
+      "title": "Точка доступа (APN); Пользователь; Пароль; Сервер; Порт",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 204.02084350585935,
+          "width": 989.75,
+          "height": 228.34376525878903,
+          "target": "Точка доступа (APN); Пользователь; Пароль; Сервер; Порт",
+          "selector": "#left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1), #left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2), #left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3), #left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1), #left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/metrology.jpg",
+      "output": "metrology-coefficient.svg",
+      "title": "Юстировочный коэффицент",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 685.5,
+          "y": 337.32293701171875,
+          "width": 488.875,
+          "height": 65.44792175292969,
+          "target": "Юстировочный коэффицент",
+          "selector": "#left-tabs-example-tabpane-metrolog > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/metrology.jpg",
+      "output": "metrology-calc.svg",
+      "title": "Расчет юстировочного коэффициента",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#left-tabs-example-tabpane-metrolog > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Расчет юстировочного коэффициента",
+          "width": 263.76043701171875,
+          "x": 691.5,
+          "y": 204.02084350585935
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1020.2604370117188,
+            221.94792747497556
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/calculation.jpg",
+      "output": "calc-inputs.svg",
+      "title": "№ налива Литры по мернику Литры по контроллеру 1 2 3",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 228.48959350585935,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1)",
+          "tag": "TABLE",
+          "target": "№ налива Литры по мернику Литры по контроллеру 1 2 3",
+          "width": 766.6666870117188,
+          "x": 576.6666870117188,
+          "y": 106.58333587646484
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/calculation.jpg",
+      "output": "calc-result.svg",
+      "title": "Результат расчета",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > input:nth-of-type(1)",
+          "tag": "INPUT",
+          "target": "Результат расчета",
+          "width": 675.09375,
+          "x": 668.2396240234375,
+          "y": 359.07293701171875
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/calculation-actions.jpg",
+      "output": "calc-actions.svg",
+      "title": "Действия",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Действия",
+          "width": 92.57292175292967,
+          "x": 576.6666870117188,
+          "y": 359.07293701171875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            511.66668701171875,
+            377.00002098083496
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/calculation-actions.jpg",
+      "output": "calc-calculate.svg",
+      "title": "Рассчитать новое значение",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Рассчитать новое значение",
+          "width": 219.09375,
+          "x": 576.6666870117188,
+          "y": 287.5520935058594
+        },
+        {
+          "height": 35.85416793823242,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Действия",
+          "width": 92.57292175292967,
+          "x": 576.6666870117188,
+          "y": 359.07293701171875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            511.66668701171875,
+            302.8958435058594
+          ],
+          "toSide": "left"
+        },
+        {
+          "box": 1,
+          "from": [
+            511.66668701171875,
+            377.00002098083496
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/calculation-actions.jpg",
+      "output": "calc-apply.svg",
+      "title": "Применить новое значение",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > button:nth-of-type(2)",
+          "tag": "BUTTON",
+          "target": "Применить новое значение",
+          "width": 219.09375,
+          "x": 576.6666870117188,
+          "y": 318.2395935058594
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            511.66668701171875,
+            333.5833435058594
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/gauges.jpg",
+      "output": "gauge-tab.svg",
+      "title": "Уровнемеры",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 41.16666793823242,
+          "selector": "#uncontrolled-tab-example-tab-levelmeter",
+          "tag": "BUTTON",
+          "target": "Уровнемеры",
+          "width": 120.875,
+          "x": 382.59375,
+          "y": 137.8541717529297
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            538.46875,
+            204.0208396911621
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/gauges.jpg",
+      "output": "gauge-type.svg",
+      "title": "Тип уровнемера",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 255.875,
+          "width": 511.5520935058594,
+          "height": 67.59375,
+          "target": "Тип уровнемера",
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1), #uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gauges.jpg",
+      "output": "gauge-menu.svg",
+      "title": "Настройки на контроллере",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Настройки на контроллере",
+          "width": 203.45834350585935,
+          "x": 286,
+          "y": 204.02084350585935
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            554.4583435058594,
+            221.94792747497556
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gauges.jpg",
+      "output": "gauge-readings.svg",
+      "title": "Показания уровнемеров",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Показания уровнемеров",
+          "width": 176.4791717529297,
+          "x": 687.6666870117188,
+          "y": 204.02084350585935
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            929.1458587646484,
+            221.94792747497556
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gauge-menu.jpg",
+      "output": "gauge-critical-menu.svg",
+      "title": "Настройки критических уровней",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+          "tag": "A",
+          "target": "Настройки критических уровней",
+          "width": 324.16668701171875,
+          "x": 286,
+          "y": 247.875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            630.1666870117188,
+            313.5625
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/gauge-menu.jpg",
+      "output": "gauge-period-menu.svg",
+      "title": "Период сохранения показаний уровнемеров",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+          "tag": "A",
+          "target": "Период сохранения показаний уровнемеров",
+          "width": 324.16668701171875,
+          "x": 286,
+          "y": 309.25
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            630.1666870117188,
+            374.9375
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/gauge-menu.jpg",
+      "output": "gauge-residual-menu.svg",
+      "title": "Контроль остатка топлива",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+          "tag": "A",
+          "target": "Контроль остатка топлива",
+          "width": 324.16668701171875,
+          "x": 286,
+          "y": 278.5625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            630.1666870117188,
+            344.25
+          ],
+          "toCorner": "bottom-right"
+        }
+      ]
+    },
+    {
+      "source": "source/period-selected-current.jpg",
+      "output": "period-value.svg",
+      "title": "Период, мин * option 15, selected. 15",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1)",
+          "tag": "DIV",
+          "target": "Период, мин * option 15, selected. 15",
+          "width": 388,
+          "x": 1526,
+          "y": 131
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/period-selected-current.jpg",
+      "output": "period-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 214.609375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1472,
+            232.875
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/level-residual.jpg",
+      "output": "residual-value.svg",
+      "title": "Не контроллировать",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+          "tag": "DIV",
+          "target": "Не контроллировать",
+          "width": 466.6666870117187,
+          "x": 719.1666870117188,
+          "y": 143.33334350585938
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/level-residual.jpg",
+      "output": "residual-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 719.1666870117188,
+          "y": 197.33334350585935
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            874.7812728881836,
+            215.26042747497556
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/critical-current.jpg",
+      "output": "critical-choice.svg",
+      "title": "Уровень; Общий объем",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 719.5,
+          "y": 144,
+          "width": 77.640625,
+          "height": 21.609375,
+          "target": "Уровень",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1), #checkbox-level"
+        },
+        {
+          "x": 719.5,
+          "y": 220.140625,
+          "width": 115.046875,
+          "height": 21.609375,
+          "target": "Общий объем",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1), #checkbox-volume"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/critical-current.jpg",
+      "output": "critical-volume.svg",
+      "title": "Порог общего объёма",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 719.5,
+          "y": 220.140625,
+          "width": 466,
+          "height": 60.140625,
+          "target": "Порог общего объёма",
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1), #checkbox-volume, body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > input:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/critical-current.jpg",
+      "output": "critical-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 719.5,
+          "y": 296.28125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            875.78125,
+            314.546875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/journal.jpg",
+      "output": "journal-tab.svg",
+      "title": "Журнал всех сообщений",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.16666793823242,
+          "selector": "#uncontrolled-tab-example-tab-journal",
+          "tag": "BUTTON",
+          "target": "Журнал всех сообщений",
+          "width": 204.3854217529297,
+          "x": 940.8958740234376,
+          "y": 137.8541717529297
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1043.0885848999023,
+            244.0208396911621
+          ],
+          "toSide": "bottom"
+        }
+      ]
+    },
+    {
+      "source": "source/journal.jpg",
+      "output": "journal-filter.svg",
+      "title": "Фильтр отчета",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#uncontrolled-tab-example-tabpane-journal > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Фильтр отчета",
+          "width": 115.3125,
+          "x": 1768.6875,
+          "y": 204.02084350585935
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.6875,
+            221.94792747497556
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/main-configuration-current.jpg",
+      "output": "card-configuration.svg",
+      "title": "Электромеханическая",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 21,
+          "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1) > span:nth-of-type(2)",
+          "tag": "SPAN",
+          "target": "Электромеханическая",
+          "width": 158.36459350585938,
+          "x": 672.5208740234375,
+          "y": 105.42708587646484
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/workmodes-current.jpg",
+      "output": "workmodes.svg",
+      "title": "Режим работы и раскрытый список",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "x": 1189.75,
+          "y": 425.8020935058594,
+          "width": 478.0833435058594,
+          "height": 233.96875,
+          "target": "Режим работы и раскрытый список",
+          "selector": "#react-aria1248458590-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3), #react-select-13-listbox"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/configuration-options-current.jpg",
+      "output": "config-options.svg",
+      "title": "Электромеханическая Ливенка АЗT 2.0 (Топаз. Квант) Гилбарко Токхейм Индия SmartGO Benza Топливный склад",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 271.15625,
+          "selector": "#react-select-114-listbox",
+          "tag": "DIV",
+          "target": "Электромеханическая Ливенка АЗT 2.0 (Топаз. Квант) Гилбарко Токхейм Индия SmartGO Benza Топливный склад",
+          "width": 451.3333435058594,
+          "x": 719.1666870117188,
+          "y": 88.70833587646484
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gauge-types-current.jpg",
+      "output": "gauge-types.svg",
+      "title": "Тип уровнемера и раскрытый список",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 255.875,
+          "width": 511.5520935058594,
+          "height": 346.75,
+          "target": "Тип уровнемера и раскрытый список",
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1), #react-select-18-listbox"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gauge-omnicomm-current.jpg",
+      "output": "gauge-omnicomm.svg",
+      "title": "Тип Omnicomm",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 255.875,
+          "width": 516.65625,
+          "height": 67.59375,
+          "target": "Тип Omnicomm",
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1), #uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gauge-enabled-current.jpg",
+      "output": "gauge-slot.svg",
+      "title": "Первый канал уровнемера: включение и адрес",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "x": 306.66668701171875,
+          "y": 352.13543701171875,
+          "width": 336.3333435058594,
+          "height": 186.6875,
+          "target": "Первый канал уровнемера: включение и адрес",
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h5:nth-of-type(1), #uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1), #uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/printer-current.jpg",
+      "output": "printer-header.svg",
+      "title": "Заголовок чека",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1198.375,
+          "y": 204.02084350585935,
+          "width": 584.25,
+          "height": 178.29167175292972,
+          "target": "Заголовок чека",
+          "selector": "#left-tabs-example-tabpane-printer > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(1), #left-tabs-example-tabpane-printer > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1), #left-tabs-example-tabpane-printer > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/printer-current.jpg",
+      "output": "printer-footer.svg",
+      "title": "Итог чека",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1198.375,
+          "y": 398.3125,
+          "width": 584.25,
+          "height": 96.84376525878906,
+          "target": "Итог чека",
+          "selector": "#left-tabs-example-tabpane-printer > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h4:nth-of-type(2), #left-tabs-example-tabpane-printer > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gauge-enabled-current.jpg",
+      "output": "gauge-enable.svg",
+      "title": "Вкл/Выкл Включен",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+          "tag": "DIV",
+          "target": "Вкл/Выкл Включен",
+          "width": 336.3333435058594,
+          "x": 306.66668701171875,
+          "y": 387.6354370117187
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gauge-enabled-current.jpg",
+      "output": "gauge-address.svg",
+      "title": "Адрес 0",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 67.59375,
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+          "tag": "DIV",
+          "target": "Адрес 0",
+          "width": 336.3333435058594,
+          "x": 306.66668701171875,
+          "y": 471.2291870117187
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gauge-enabled-current.jpg",
+      "output": "gauge-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 35.85416793823242,
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 90.61458587646484,
+          "x": 306.66668701171875,
+          "y": 554.8229370117188
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            462.2812728881836,
+            572.750020980835
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/startstop.jpg",
+      "output": "startstop-auth.svg",
+      "title": "Пуск заправки кнопкой Старт на панели контроллера без идентификации пользователя или ТС Нет",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 89.1875,
+          "selector": "#left-tabs-example-tabpane-button-start-stop > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+          "tag": "DIV",
+          "target": "Пуск заправки кнопкой Старт на панели контроллера без идентификации пользователя или ТС Нет",
+          "width": 584.25,
+          "x": 691.5,
+          "y": 243.4166717529297
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/startstop-enabled-current.jpg",
+      "output": "startstop-type.svg",
+      "title": "Тип заправки по кнопке старт Без набора дозы",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.609375,
+          "selector": "#left-tabs-example-tabpane-button-start-stop > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+          "tag": "DIV",
+          "target": "Тип заправки по кнопке старт Без набора дозы",
+          "width": 584.25,
+          "x": 691.5,
+          "y": 349.640625
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/startstop-dose-current.jpg",
+      "output": "startstop-level.svg",
+      "title": "Активация просмотра показаний уровнемеров на кнопку 0 Да",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.609375,
+          "selector": "#left-tabs-example-tabpane-button-start-stop > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)",
+          "tag": "DIV",
+          "target": "Активация просмотра показаний уровнемеров на кнопку 0 Да",
+          "width": 584.25,
+          "x": 691.5,
+          "y": 433.25
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/startstop-dose-current.jpg",
+      "output": "startstop-fields.svg",
+      "title": "Условия запуска и просмотра уровнемеров",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 244.421875,
+          "width": 584.25,
+          "height": 256.4375,
+          "target": "Условия запуска и просмотра уровнемеров",
+          "selector": "#left-tabs-example-tabpane-button-start-stop > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1), #left-tabs-example-tabpane-button-start-stop > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2), #left-tabs-example-tabpane-button-start-stop > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/startstop-dose-current.jpg",
+      "output": "startstop-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#left-tabs-example-tabpane-button-start-stop > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 691.5,
+          "y": 516.859375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            847.78125,
+            535.125
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/main.jpg",
+      "output": "main-overview.svg",
+      "title": "Основное; Основные параметры контроллера",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 38.92708587646485,
+          "selector": "#left-tabs-example-tab-main",
+          "tag": "A",
+          "target": "Основное",
+          "width": 377.6666870117187,
+          "x": 286,
+          "y": 204.02084350585935
+        },
+        {
+          "x": 687.6666870117188,
+          "y": 258.6145935058594,
+          "width": 980.1666564941406,
+          "height": 800.6250152587891,
+          "target": "Основные параметры контроллера",
+          "selector": "#react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(5), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(6), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(7), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(8), #react-aria2390243602-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(9)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gauge-omnicomm-current.jpg",
+      "output": "gauge-omnicomm-overview.svg",
+      "title": "Тип Omnicomm; Включение и адрес первого канала",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 255.875,
+          "width": 516.65625,
+          "height": 67.59375,
+          "target": "Тип Omnicomm",
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1), #uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)"
+        },
+        {
+          "x": 306.66668701171875,
+          "y": 352.13543701171875,
+          "width": 340.16668701171875,
+          "height": 186.6875,
+          "target": "Включение и адрес первого канала",
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h5:nth-of-type(1), #uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1), #uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/modem.jpg",
+      "output": "modem-overview.svg",
+      "title": "Параметры модема",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 691.5,
+          "y": 204.02084350585935,
+          "width": 989.75,
+          "height": 311.9375,
+          "target": "Параметры модема",
+          "selector": "#left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4), #left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1), #left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2), #left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3), #left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1), #left-tabs-example-tabpane-gsm_modem > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)"
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gauge-address-one-current.jpg",
+      "output": "gauge-address-one.svg",
+      "title": "Адрес option 1, selected. 1",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.609375,
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+          "tag": "DIV",
+          "target": "Адрес option 1, selected. 1",
+          "width": 339.5,
+          "x": 307,
+          "y": 473.28125
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/gauges.jpg",
+      "output": "gauge-type-open.svg",
+      "title": "Тип уровнемера",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "x": 286,
+          "y": 255.875,
+          "width": 511.5520935058594,
+          "height": 67.59375,
+          "target": "Тип уровнемера",
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1), #uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            862.5520935058594,
+            289.671875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/gauge-address-one-current.jpg",
+      "output": "gauge-save-one.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 307,
+          "y": 556.890625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            463.28125,
+            575.15625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/receipt-yes-current.jpg",
+      "output": "receipt-yes.svg",
+      "title": "Прием топлива option Да, selected. Да",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 67.609375,
+          "selector": "#react-aria1087390508-\\:r4a\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+          "tag": "DIV",
+          "target": "Прием топлива option Да, selected. Да",
+          "width": 478.1875,
+          "x": 1189.9375,
+          "y": 260.640625
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/receipt-save-yes-current.jpg",
+      "output": "receipt-save-yes.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#react-aria1087390508-\\:r4a\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 687.75,
+          "y": 983.65625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            844.03125,
+            1001.921875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/section-selected-current.jpg",
+      "output": "sections-selected.svg",
+      "title": "Секции * option Секция 1, selected. Секция 1",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.609375,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1)",
+          "tag": "DIV",
+          "target": "Секции * option Секция 1, selected. Секция 1",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/section-selected-current.jpg",
+      "output": "sections-selected-save.svg",
+      "title": "Сохранить",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+          "tag": "BUTTON",
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 181.609375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1472,
+            199.875
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/section-result-current.jpg",
+      "output": "sections-result.svg",
+      "title": "Название Действие Секция 1",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 102.609375,
+          "selector": "#left-tabs-example-tabpane-sections > div:nth-of-type(1) > div:nth-of-type(2) > table:nth-of-type(1)",
+          "tag": "TABLE",
+          "target": "Название Действие Секция 1",
+          "width": 1192.5,
+          "x": 691.5,
+          "y": 257.5625
+        }
+      ],
+      "arrows": []
+    }
+  ]
+}

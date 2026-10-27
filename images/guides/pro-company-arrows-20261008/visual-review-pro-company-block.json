@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "status": "pending-full-article-acceptance",
+  "manifestHash": "c70ee4c27e38da9b823571f6b334699e7112e536df9e32de46433b8dfe95c907",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-company-block",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": true,
+    "backgroundModes": false,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "company-open-penza.svg",
+      "sourceHash": "2745f80c446228ec5541f6067be188c704110c8770e94ecd28d369f6dc332794",
+      "svgHash": "5eba1b01745f873446aeefcea3f5114db8aa31c67b3de954b9da355bcf46e564",
+      "stepText": "Нажмите стрелку в строке этой компании.",
+      "stepTextHash": "6db1798294444ff9f71485431efa4db19127cc18793520fcdaa39ab03ba191f3",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка слева к кнопке перехода в строке Пенза; корзина и название не перекрыты. Просмотрены исходник, SVG, увеличение и шаг 3 в настоящей статье. Координаты унаследованы из прежнего манифеста; новое измерение DOM не проводилось."
+    },
+    {
+      "output": "company-nav.svg",
+      "sourceHash": "2745f80c446228ec5541f6067be188c704110c8770e94ecd28d369f6dc332794",
+      "svgHash": "d16f3ad39fab84b25565a609dcaf6a0933b10ed994f689aba512e9d55d8acb5a",
+      "stepText": "В левом меню откройте раздел «Компании».",
+      "stepTextHash": "27f263a196038e7d4b17ecfeeba7f7d81d1e65ea47d9c083640db692adac3bb8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка выбранного пункта по ширине левого меню: слева у края, справа отступ 4 px, высота пункта сохранена; стрелка сбоку. Просмотрены исходник, полный SVG, увеличение и шаг 1 в светлой и тёмной темах; копирование проверено. Новый замер DOM не выполнялся."
+    }
+  ],
+  "pending": [
+    {
+      "step": 2,
+      "image": "/images/guides/pro-repairs-20261008/company-find-penza.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 4,
+      "image": "/images/guides/pro-repairs-20261008/company-block-button.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 5,
+      "image": "/images/guides/pro-company-step-blocked-result.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 6,
+      "reason": "Общий шаг записи в контроллер содержит illustration и controllerWrite, но не image; screenshots:accept останавливается на этом шаге."
+    }
+  ]
+}

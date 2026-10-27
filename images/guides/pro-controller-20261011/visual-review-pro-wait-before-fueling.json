@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-wait-before-fueling",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Меню целиком по ширине, стрелка справа горизонтально. Исходник, полный SVG, кадр в статье и увеличение просмотрены индивидуально. Нет курсора, водяного знака и незагруженных данных."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка открытия второй строки отдельно от корзины. Исходник, полный SVG, кадр в статье и увеличение просмотрены индивидуально. Нет курсора, водяного знака и незагруженных данных."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи контроллер будет ждать импульсы датчика расхода в течение указанных интервалов.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "18bcde1ee982fa05ed8a82857fd5a9d3835887d4110140a056e6f7a4fe28903a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Настоящее окно записи, стрелка вверх. Запись не выполнялась. Исходник, полный SVG, кадр в статье и увеличение просмотрены индивидуально. Нет курсора, водяного знака и незагруженных данных."
+    },
+    {
+      "output": "flow-tab.svg",
+      "sourceHash": "0b6a1a93771e1d0b6bf981d0bc59c5120412a0fd1e486845cd3e79ff3e1790e2",
+      "svgHash": "289c427d011dc10167f4f35ed05bb2d0e706c6efac9c62dea9703ee5b121c854",
+      "stepText": "В «Настройки» откройте «Датчик расхода».",
+      "stepTextHash": "45f497470d79e64bde9242f9972529ac92de61e10eb073a747ea76e8d6e8d3dc",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Датчик расхода: стрелка точно к нижнему правому углу, не перекрывает Сохранить. Исходник, полный SVG, кадр в статье и увеличение просмотрены индивидуально. Нет курсора, водяного знака и незагруженных данных."
+    },
+    {
+      "output": "flow-save.svg",
+      "sourceHash": "0b6a1a93771e1d0b6bf981d0bc59c5120412a0fd1e486845cd3e79ff3e1790e2",
+      "svgHash": "030d362fc57737bd7e6d5b54a697ea742af16848378d09233b4085eb1d9c797d",
+      "stepText": "Нажмите «Сохранить».",
+      "stepTextHash": "5e570b9e61506e20b46ab22a7060088d1efaa7ca24a88f570d91d59d51f225c4",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить: горизонтальная стрелка справа. Исходник, полный SVG, кадр в статье и увеличение просмотрены индивидуально. Нет курсора, водяного знака и незагруженных данных."
+    },
+    {
+      "output": "flow-type.svg",
+      "sourceHash": "0b6a1a93771e1d0b6bf981d0bc59c5120412a0fd1e486845cd3e79ff3e1790e2",
+      "svgHash": "2d6c3ccef3242bd6a541d353bfecd60f9f199d813223cd8634f02757fe4316b0",
+      "stepText": "Сверьте поле «Датчик расхода» с установленным типом датчика. На снимке выбран импульсный одноканальный датчик.",
+      "stepTextHash": "c87a3a7e470205aadfc9eb754ce910ba6b6026fd3af343956b4e5ef1468464df",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Тип датчика выделен вместе с подписью, без касания текста. Исходник, полный SVG, кадр в статье и увеличение просмотрены индивидуально. Нет курсора, водяного знака и незагруженных данных."
+    },
+    {
+      "output": "flow-transition.svg",
+      "sourceHash": "0b6a1a93771e1d0b6bf981d0bc59c5120412a0fd1e486845cd3e79ff3e1790e2",
+      "svgHash": "9f09392f3e8d50e36316f81df28526aa4dd140b8b1eed43d977c5e22a1b99ac0",
+      "stepText": "Сверьте «Счет импульсов при» с электрической схемой датчика: фронт сигнала должен соответствовать подключению.",
+      "stepTextHash": "7e3d5e8314ef115e3ac76a4120b43d3e17dcf75aeb7e3089bb7bda598f6da2ff",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Условие подсчета импульсов отдельно от типа и сохранения. Исходник, полный SVG, кадр в статье и увеличение просмотрены индивидуально. Нет курсора, водяного знака и незагруженных данных."
+    },
+    {
+      "output": "flow-first-pulse.svg",
+      "sourceHash": "0b6a1a93771e1d0b6bf981d0bc59c5120412a0fd1e486845cd3e79ff3e1790e2",
+      "svgHash": "8c6c5120ffa6eb6a6f441a9fb3895ff1fead6181c45df2897cb591f37c1a21ef",
+      "stepText": "В поле «Время ожидания первого импульса (расход), с.» задайте допустимое время до начала фактического потока.",
+      "stepTextHash": "957706f48cfc23a44ebe5a3f286db1531dc1537085954ef2d57d1532f1daeb66",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Первый импульс: подпись и поле 30 с в одной рамке. Исходник, полный SVG, кадр в статье и увеличение просмотрены индивидуально. Нет курсора, водяного знака и незагруженных данных."
+    },
+    {
+      "output": "flow-next-pulse.svg",
+      "sourceHash": "0b6a1a93771e1d0b6bf981d0bc59c5120412a0fd1e486845cd3e79ff3e1790e2",
+      "svgHash": "776b0b3272374fdc2db28edbdd85cc3bb1d385e481f7b66b5848a50c83cf7596",
+      "stepText": "В поле «Время ожидания следующих импульсов (расход), с.» задайте допустимую паузу уже во время налива.",
+      "stepTextHash": "19637321305d1cbdec4725069eee7f15a07de61aa5092f263a598382516641a3",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Следующие импульсы: подпись и поле 30 с в одной рамке. Исходник, полный SVG, кадр в статье и увеличение просмотрены индивидуально. Нет курсора, водяного знака и незагруженных данных."
+    }
+  ]
+}

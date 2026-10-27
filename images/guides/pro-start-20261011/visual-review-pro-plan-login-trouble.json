@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "manifestHash": "25687762d34e1d5314273ea0b727cd3d0a58d80fc613298e53c3d95dcc684c4d",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-login-trouble",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": false,
+    "backgroundModes": false,
+    "stepNavigation": false,
+    "imageZoom": false,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": false
+  },
+  "shots": [
+    {
+      "output": "login-fields.svg",
+      "sourceHash": "21bef235369aa44279d9867ddabcbe4ee23f5d72c5f11c4c2e7e83f9aced3b10",
+      "svgHash": "4b19091822da1da36f622c12a9a0cfadd4297c6b396808e5a934696d16f35c7e",
+      "stepText": "Откройте https://pro.benza.online/ и проверьте Email и пароль в двух полях. Учитывайте регистр букв и уберите случайные пробелы перед или после значения.",
+      "stepTextHash": "5c4caa6edc88109015e88ac57ca86e073373f7c928d536bec6b34863e0f0026d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "login-submit.svg",
+      "sourceHash": "21bef235369aa44279d9867ddabcbe4ee23f5d72c5f11c4c2e7e83f9aced3b10",
+      "svgHash": "9e443f0cf9bd64cb854919eff0b3a3138bc11513a63179d3d42d824241403ffb",
+      "stepText": "Нажмите «Войти в систему» и проверьте сообщение сервиса. Если вход снова не удался, переходите к проверке пароля и блокировки.",
+      "stepTextHash": "2eb4829035774a8d5d390a8dbf28460aaa1d9d9434076037bb034b1ef4ae5ace",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "account-access-tab.svg",
+      "sourceHash": "66ff5056b8ee1a8f89edb7176f538091df3efcce05d2035849a52c0f949fb935",
+      "svgHash": "dd1b1441f5548f322c6c1da4ee91a7cca1e186b712db9d33b60e1f11ec290b3c",
+      "stepText": "В карточке «Параметры» откройте «Доступ к ЛК».",
+      "stepTextHash": "9a81c2c9534e183dd2744867be3371df06a185896f7b53013ecdcfdaa8c9e929",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "account-password.svg",
+      "sourceHash": "66ff5056b8ee1a8f89edb7176f538091df3efcce05d2035849a52c0f949fb935",
+      "svgHash": "4dbf1ab926d7764598c21b91dc1c1f5f547badd4ef4dc48d2f556dc17ee2fbeb",
+      "stepText": "Попросите администратора ввести новый пароль в поле «Новый пароль». Действующий пароль посмотреть нельзя.",
+      "stepTextHash": "87467cf104325e52a1c68f1f58a3e81be150ceaf28fd16a7e10862b2436797b8",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "account-password-save.svg",
+      "sourceHash": "66ff5056b8ee1a8f89edb7176f538091df3efcce05d2035849a52c0f949fb935",
+      "svgHash": "a04e71a9c663d4dc2745847852d05e0fa30ae3bfbe5c93bb9fe1e60ea3ce4b36",
+      "stepText": "Попросите администратора нажать «Сохранить» под полем нового пароля. Затем попробуйте войти с новым паролем.",
+      "stepTextHash": "eefc330fd6cdf8c7accb0fca139de8b05cd3884e6907a8721bc70520e5220ce5",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "support-contact.svg",
+      "sourceHash": "de8d76bddd7a2032b3a12bd139dd9801e3d807c37907f94cc56c7bddd6fe2d22",
+      "svgHash": "3349ac6a72e2ddcd69e29c13822c33bf17f1802d748833e3ddf523cb0a60b634",
+      "stepText": "Если другого администратора нет, напишите в техподдержку на help@benza.ru. Укажите компанию, свой логин и причину обращения: восстановление доступа или разблокировка.",
+      "stepTextHash": "b6966315708cc1722d85bce2dde86ac00b9db5456365df2d87a7d0080191ed57",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "users-v4--users-nav.svg",
+      "sourceHash": "49d1f9ba84c94d0ebe13d00d53311dd52c0f127ac590b49be3e995d8bbfe7839",
+      "svgHash": "b9fe0fa8a7452b195b128af8a1144eea614479d911822e12c41068713dab9e36",
+      "stepText": "Если пароль забыли, попросите другого администратора войти в ПРО и открыть «Пользователи» в левом меню.",
+      "stepTextHash": "b0668bae512c43fcaad9bd91f2fc43d668c2ab93ce8b022765503ca18b62e12d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "users-v4--users-open.svg",
+      "sourceHash": "49d1f9ba84c94d0ebe13d00d53311dd52c0f127ac590b49be3e995d8bbfe7839",
+      "svgHash": "f5a81c48d346f61d69275f7f08a06fbb8e6ad4a389790b87fbfcdaffae3e24e8",
+      "stepText": "В списке пользователей найдите вашу запись и нажмите стрелку в её строке.",
+      "stepTextHash": "3e6ee1e0639dcd54b20dccb09982f0377a7011b349690856da6df2fc1d402b99",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "users-v4--user-card-unblock.svg",
+      "sourceHash": "03f3ea79bdbe75b7c6f6b1455d2a45f542693b4ee13425ff4d849961a33e0d40",
+      "svgHash": "15b921f66622f8e1f3859a305dd38fcb16239462ad984763ac10d7a235cdde0b",
+      "stepText": "Если учётная запись заблокирована, попросите другого администратора открыть вашу карточку и нажать «Разблокировать». После этого войдите с правильным паролем.",
+      "stepTextHash": "8168d6a5d0659ddc963087396527307cebbf34f30e0250a2f56a39797114f076",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    }
+  ]
+}

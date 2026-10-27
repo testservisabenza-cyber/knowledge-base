@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "manifestHash": "84b3caa989787bf16345122d1744d646e243cfb2f2a82618c4893ef4ba9b9767",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-fuel-receipt",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "step-01.svg",
+      "sourceHash": "17d11bc6cadf2eec941ce759877b9dab111eff2a12ea62d9e44935d3fcd61097",
+      "svgHash": "424f9dff8dd644d960d84f13e204dfe0449a9eed5b232b73d4078488988bd04b",
+      "stepText": "В меню «Поступление ГСМ» откройте «Журнал поступления топлива».",
+      "stepTextHash": "d151f8a1d90b4bd20ee2453498a788e9a6f267e24eb4a31bbed0039ce84eda6a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Меню выделено по ширине, стрелка справа в свободной области. Просмотрены в обычной ширине статьи и в увеличении, цель читаема."
+    },
+    {
+      "output": "step-02.svg",
+      "sourceHash": "17d11bc6cadf2eec941ce759877b9dab111eff2a12ea62d9e44935d3fcd61097",
+      "svgHash": "181fceacfb450bd0003929223475359d7f1c2fc126b4daa7825ad50e22b7f4b5",
+      "stepText": "Нажмите «Добавить поступление».",
+      "stepTextHash": "15eea25c8be60632fcd33fe7ae4e76e741d648980b5e3153d0b9b4768af9b4bc",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка добавления справа сверху, стрелка слева не закрывает надпись. Просмотрены в обычной ширине статьи и в увеличении, цель читаема."
+    },
+    {
+      "output": "step-03.svg",
+      "sourceHash": "e6bef948f02419e2123731299cd8ce8c05e617f4c1d7d3ffc79536129677b2d5",
+      "svgHash": "374244a5afcfedfc8ff38f8a63b104eab5277dee0187853eedad1c12cf22fc69",
+      "stepText": "Выберите компанию, затем станцию и секцию, в которую поступает топливо.",
+      "stepTextHash": "86b5cc5dd315dbd6b87495de7b0ed74ad0244f4ffaadfff17c8e0dfa009ac8f7",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только три пустых селектора; накладной ещё нет. Просмотрены в обычной ширине статьи и в увеличении, цель читаема."
+    },
+    {
+      "output": "step-04.svg",
+      "sourceHash": "500ebd95d77d8869e286c3766350f7f7c019d61fdd050ac2f72a870fc4cb9d6f",
+      "svgHash": "1987447f18e0525597cc7133d47f1dcf5baae5ae85ab4061d926263665dc7bbe",
+      "stepText": "Заполните блок «Накладная» по документу поставщика. Поля со звёздочкой обязательны.\nНомер: Введите номер накладной поставщика, до 20 символов.\nОбъем, л: Введите объём поставленного топлива по накладной, в литрах.\nПлотность, кг/м3: Введите плотность топлива из накладной в килограммах на кубический метр. По ней и объёму сервис рассчитает массу.\nТемпература: Введите температуру топлива из накладной.\nМасса, кг: Рассчитывается автоматически по объёму и плотности.\nДата: Укажите дату и время поступления топлива. Если оформляете уже состоявшуюся поставку, можно выбрать прошедшую дату.",
+      "stepTextHash": "c65c2735841ac13353b32c61fd5153834d710d38ce5471bfd6a2c8cc3017273e",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выбрана Секция 1, накладная пока пустая; рамка охватывает её поля. В статье и увеличении поля различимы, рамка не касается подписей."
+    },
+    {
+      "output": "step-05.svg",
+      "sourceHash": "a745dea14d4347af448f7f608322dc2658b4680a68b54f97d80b8a1412fb470a",
+      "svgHash": "3548426ff8085d520ae6ddcec6e30fc02503d59c933dc65c70d40bb334d7a513",
+      "stepText": "Если перед сливом измеряете топливо в бензовозе, заполните «Замер бензовоза»: уровень, объём, плотность, температуру и дату измерения. Если не измеряете, можете пропустить этот блок.",
+      "stepTextHash": "33102c88df47941785aa2af70260ae7c0e83693de5a8bbe45e6d375e4de464a7",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Накладная заполнена, замер бензовоза пустой; выделен только нужный блок. В статье и увеличении поля различимы, рамка не касается подписей."
+    },
+    {
+      "output": "step-06.svg",
+      "sourceHash": "a745dea14d4347af448f7f608322dc2658b4680a68b54f97d80b8a1412fb470a",
+      "svgHash": "46eb06a456641c03f6ffde819dffc130d1e40003f162dcd1a03d96f138dd0be1",
+      "stepText": "Перед началом слива нажмите «Уровнемер» в блоке «Начало слива». С уровнемера, установленного в этой секции, считываются показания до слива. Чтобы получить данные, контроллер должен быть на связи.",
+      "stepTextHash": "8ac65d8d7b04d1131f7863ed386c3c0070de4669f41ed0a39611dc50332cd8ad",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Показания до слива пустые, стрелка у левой кнопки Уровнемер. В статье и увеличении видно нужную кнопку или показания; конец слива остаётся пустым."
+    },
+    {
+      "output": "step-07.svg",
+      "sourceHash": "d2a78c4f968c85c0c7f6f320e77bfc3323c2e0e789d77c7d03b3ee237af4dcbe",
+      "svgHash": "59c88b1508fe5254eaa8f9aed25054d546290c95b0ff24366efbade2797f1600",
+      "stepText": "В блоке «Начало слива» проверьте полученные показания. Дата и время должны соответствовать замеру до слива. Поля со звёздочкой обязательны.\nУровень, см: Высота топлива в секции в момент замера, в сантиметрах.\nОбъем, л: Весь объём топлива в секции на момент замера.\nПлотность, кг/м3 и Температура: Плотность и температура топлива в секции на момент замера.\nМасса, кг: Рассчитывается автоматически по объёму и плотности.\nДата: Дата и время получения показаний.",
+      "stepTextHash": "b2dd1d6407106ed2bd86e123ddf4bf1c3ca8bca1f66eb5b81cae982553b5119d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "До слива учебные 2000 л, 100 см; после слива ещё пусто. Значения введены вручную по запросу пользователя. В статье и увеличении видно нужную кнопку или показания; конец слива остаётся пустым."
+    },
+    {
+      "output": "step-08.svg",
+      "sourceHash": "d2a78c4f968c85c0c7f6f320e77bfc3323c2e0e789d77c7d03b3ee237af4dcbe",
+      "svgHash": "1440319fd673a208d3294550e633638b3bd2fe8a781a9d4696ca59c210552c40",
+      "stepText": "После окончания слива нажмите «Уровнемер» в блоке «Конец слива». С уровнемера, установленного в этой секции, считываются показания после слива. Чтобы получить данные, контроллер должен быть на связи.",
+      "stepTextHash": "f33b89bc50cdc6531bde49b7d3804551f1e4574b7801143864d58ca33e1b3a1c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка у правой кнопки Уровнемер; начало заполнено, конец ещё пустой. В статье и увеличении правая кнопка и колонка конца слива различимы."
+    },
+    {
+      "output": "step-09.svg",
+      "sourceHash": "76fdcc344d25a1e9972f369e1fecfe825f3a502b228a5b366f0c7bdeba1444a6",
+      "svgHash": "c0f356b9c3e1ffc3bbbbe5d82ca9c29247d1b3fa81c18d688d4db92f489e4ed3",
+      "stepText": "В блоке «Конец слива» проверьте полученные показания. Дата и время должны соответствовать замеру после слива.",
+      "stepTextHash": "34b7d52ae3d483b41671fab6e89291b7766bb4cb81435116d84bf96098a51128",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "После слива учебные 3000 л, 150 см, время 09:35. Значения введены вручную по запросу пользователя. В статье и увеличении правая кнопка и колонка конца слива различимы."
+    },
+    {
+      "output": "step-10.svg",
+      "sourceHash": "76fdcc344d25a1e9972f369e1fecfe825f3a502b228a5b366f0c7bdeba1444a6",
+      "svgHash": "df1ad0685d970c0025c521ded33b661933a0f5c598acb20798d982348d18dde1",
+      "stepText": "Сравните объём в блоке «Изменение» с объёмом по накладной. Здесь показан прирост топлива в секции. Если значения расходятся, проверьте данные документа и замеров до сохранения.",
+      "stepTextHash": "3feabcf4c737705ba7ef46184efd8b405778e5d031429efd918d8b8e2df062ad",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделена разница: 1000 л и 50 см; совпадает с накладной. В статье и увеличении выделение соответствует тексту, значения и подписи читаемы."
+    },
+    {
+      "output": "step-11.svg",
+      "sourceHash": "fb3ba0d3a743b28256cef6238a67d2c9742c08915679381027fc8178f273976c",
+      "svgHash": "e11c31558a108f721acbc77927e260dd63787f7f147de6d1368d99d56e622888",
+      "stepText": "Прокрутите форму ниже. При необходимости укажите вместимость бензовоза в поле «Полный объем», сведения о водителе и машине, а также цену за литр.",
+      "stepTextHash": "d1aa0fbe9d8f2bd6186d05779d091e7df14de0f58ad97860ef427925afb9f8b1",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Дополнительные поля и цена ещё пустые; сохранение вне рамок. В статье и увеличении выделение соответствует тексту, значения и подписи читаемы."
+    },
+    {
+      "output": "step-12.svg",
+      "sourceHash": "23f55424d10bead1f773dfc2ab60e569c545127c6d73315bf24a78c12f3f6195",
+      "svgHash": "5733f69a6a2b52295eb348f084563203acb3253675c1234beecf658dd8f3e58a",
+      "stepText": "Если измеряете уровень метроштоком, введите показания до и после слива в сантиметрах. Если такой замер не проводите, пропустите этот и следующий шаги.",
+      "stepTextHash": "75c00f97867756e2c593851e6a2cb27d8b364fbf5250d1a04819c769ade41657",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Два поля метроштока пустые, расчёт и сохранение вне рамки. В статье и увеличении метрошток и кнопка пересчёта читаемы, сохранение отдельно."
+    },
+    {
+      "output": "step-13.svg",
+      "sourceHash": "ada658adfa102ae544f4c0ad502314db7a55df324d0e633ca35f4452b1eee25c",
+      "svgHash": "f4d61962afd45057dcb3da5ab432427a5bdfb873d67c4f7be9ce522c3470834d",
+      "stepText": "Нажмите «Пересчитать», чтобы рассчитать изменение уровня по замерам метроштоком.",
+      "stepTextHash": "2072d33ddbb1c9eb6e3802cefc4450453f1aca84fa3508b33545e271048ad2e8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Метрошток 100/150, изменение ещё 0; стрелка справа к Пересчитать. В статье и увеличении метрошток и кнопка пересчёта читаемы, сохранение отдельно."
+    },
+    {
+      "output": "step-14.svg",
+      "sourceHash": "1a98f9d07e52de267e25c4b436bea361833aff497e42e9631d175d7784084c04",
+      "svgHash": "7213a6b563265f4cc1cf76f8407a86a28a347591d45be4be76d06d89756ec838",
+      "stepText": "Нажмите «Сохранить».",
+      "stepTextHash": "5e570b9e61506e20b46ab22a7060088d1efaa7ca24a88f570d91d59d51f225c4",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Расчёт метроштока 50, стрелка справа к Сохранить. В статье и увеличении кнопка сохранения и итоговая строка читаемы."
+    },
+    {
+      "output": "step-15.svg",
+      "sourceHash": "cd77e3a69102a39ab848cabfa1a3d11f7800f97e02b0093defb1bf932d0d9d36",
+      "svgHash": "a8397ce39a87600119d0408106eae34ad9a70a275d3ac83ff62c588676fbf9ba",
+      "stepText": "Найдите оформленное поступление в журнале. В его строке указаны секция, фактический приход и объём по накладной.",
+      "stepTextHash": "5cabffd4094f3c644ce346c06e1ed7563d21df4eaeeeba97d56ec915685e2714",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Реально сохранённая учебная строка: Секция 1, оба объёма 1000 л. В статье и увеличении кнопка сохранения и итоговая строка читаемы."
+    }
+  ],
+  "articleNote": "Все 15 кадров просмотрены отдельно в статье и увеличении. Пройдены следующий/предыдущий шаг. Светлая и тёмная темы, три фона, копирование с видимым Скопировано. В тексте этой процедуры нет ссылок на другие инструкции. Исходное оформление: тёмная тема и фон под инструкцией восстановлено."
+}

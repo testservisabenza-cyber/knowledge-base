@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "manifestHash": "cb366863cd3e470d6887e0523e140701705bba7703969bb780c322b6cf73ac9d",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-receipt-math-setup",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "step-01.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "bd5d9c30ab8b3b7ee8d00312e71975f4365ac4c7c0a3063c5ff0553d57da4fa5",
+      "stepText": "В левом меню откройте «Станции».",
+      "stepTextHash": "0053e378135866c5b6233f48dd089d9198b24c7a2f58eb09f8a9ba85a4cf0802",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Чистый полный экран; рамка охватывает пункт Станции, горизонтальная стрелка приходит справа и не касается названия. Использованы сохранённые измерения исходной съёмки. Просмотрены отдельно в светлой статье и её окне увеличения: рамки и стрелки различимы."
+    },
+    {
+      "output": "step-02.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "c738fbf64465b0dd3b162a1770097eb4b3fc5790fb284b8b3f43179fb625258f",
+      "stepText": "Найдите нужную станцию. Для поиска можно использовать фильтр под заголовком «Название».",
+      "stepTextHash": "696d35b20be1d47db1d95089fc13b214b1d55232b3b06d5e7389f50d4a650858",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пустой фильтр Название и строка Учебного резервуара выделены отдельно, названия читаются; команды нажатия нет. Использованы сохранённые измерения исходной съёмки. Просмотрены отдельно в светлой статье и её окне увеличения: рамки и стрелки различимы."
+    },
+    {
+      "output": "step-03.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "10303858a21bba12d77fa737f1fce7e65b95afd98bc0baa6f97b2b94344b3075",
+      "stepText": "В строке станции нажмите кнопку со стрелкой для перехода в настройки.",
+      "stepTextHash": "eed9ebe477f23529cde236a56ef5cc40b33237764d59a5c80f56978a536e61c4",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка приходит к нижнему правому углу кнопки перехода первой строки, не перекрывает корзину. Использованы сохранённые измерения исходной съёмки. Просмотрены отдельно в светлой статье и её окне увеличения: рамки и стрелки различимы."
+    },
+    {
+      "output": "step-04.svg",
+      "sourceHash": "2d9a331314b71d155a8efb438456370714d305fff534281e5d479eb894c66d9e",
+      "svgHash": "efe390c174fe2df9fab2182d39b305d8c9069d275f7eb8ab5a9a7f7e4f5a1d21",
+      "stepText": "На вкладке «Основная информация» найдите поле «Математический остаток».",
+      "stepTextHash": "8e780dc8ead382e74db1ee95b18c80856d1d0f99020da4f3bc329d0082fc4a9e",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Основная информация открыта; рамка охватывает подпись и список Математический остаток. Сохранены измерения исходной съёмки. В светлой статье и увеличении подпись, выбранное значение и раскрытые варианты читаются, рамки не перекрывают буквы."
+    },
+    {
+      "output": "step-05.svg",
+      "sourceHash": "623b95ff949239cdd9fe6a1c29730f47fad159397ce73ecf278fc950f393d175",
+      "svgHash": "ad470e2eb94bb79eccb3f8b1dcaad5a6e83a2d879ec7c4ff34bf38a8d0971fbd",
+      "stepText": "Раскройте список «Математический остаток» и выберите «Используется».",
+      "stepTextHash": "315185cf76cb8bc0072422d8b90e00a6802dc846b653f4ef44f13b0d577980d7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Поле и раскрытый список объединены одной рамкой; горизонтальная стрелка указывает на Используется. Сохранены измерения исходной съёмки. В светлой статье и увеличении подпись, выбранное значение и раскрытые варианты читаются, рамки не перекрывают буквы."
+    },
+    {
+      "output": "step-06.svg",
+      "sourceHash": "49961de7b20e2d7f101d04dc124bf43c1eb01b1843d6bfc38fc77aeb538f44f0",
+      "svgHash": "420971adb40606d2549b5e95563e88c7bbe268992f38d7bee242ba2fe3a2e6f0",
+      "stepText": "В поле «Остаток топлива» введите фактический объём топлива, который сейчас находится на станции. Если секций несколько, укажите сумму их объёмов. Если станция пустая, оставьте 0. На снимке для примера введено 2500 л.",
+      "stepTextHash": "5e18dbc1002e32cf9e501fd100c391586f00e4d6254128c12b6616496d666464",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка отдельно охватывает подпись Остаток топлива и значение 2500, не задевает соседние поля. Сохранены измерения исходной съёмки. В статье и увеличении отдельно просмотрены: значение 2500 и кнопка сохранения соответствуют шагам и различимы."
+    },
+    {
+      "output": "step-07.svg",
+      "sourceHash": "49961de7b20e2d7f101d04dc124bf43c1eb01b1843d6bfc38fc77aeb538f44f0",
+      "svgHash": "f8092f347f238a600529248db5f059c1030a08b1eec48c673214612bb78cb735",
+      "stepText": "Нажмите «Сохранить изменения».",
+      "stepTextHash": "d29c6f2e4e64d9de44d4132672452b319f1aa76a07ac3b9ec6ca0404be434c3c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделена только Сохранить изменения; прямая стрелка справа проходит по свободному месту. Использованы исходные измерения соответствующего кадра. В статье и увеличении отдельно просмотрены: значение 2500 и кнопка сохранения соответствуют шагам и различимы."
+    },
+    {
+      "output": "step-08.svg",
+      "sourceHash": "a7ecd03a8d33253b8d2a56956163867fad8666fadd54e694982dea4351805cda",
+      "svgHash": "1da8db52d432f2f0215708963a509baaa858be7b28219f1487e511f280a8536b",
+      "stepText": "После настройки оформляйте каждую новую поставку по накладной. В поступлении выбирают компанию, станцию и секцию, затем заполняют данные документа поставщика. После сохранения объём по накладной прибавляется к общему остатку станции.\nДля оформления поставки используйте [Открыть инструкцию по поступлению при математическом остатке](/articles/pro-fuel-receipt-math).\nНомер: Введите номер накладной поставщика, до 20 символов.\nОбъем, л: Введите объём поставленного топлива по накладной, в литрах.\nПлотность, кг/м3: Введите плотность топлива из накладной в килограммах на кубический метр. По ней и объёму сервис рассчитает массу.\nТемпература: Введите температуру топлива из накладной.\nМасса, кг: Рассчитывается автоматически по объёму и плотности.\nДата: Укажите дату и время поступления топлива. Если оформляете уже состоявшуюся поставку, можно выбрать прошедшую дату.",
+      "stepTextHash": "9a1aa64d326b9b787a5c45db2dbaaf4a0c04cac2825d0d6a0018fefaca9fc3a8",
+      "clickTargets": [],
+      "clickExplanation": "Ссылка-кнопка находится в тексте статьи и открывает подробную процедуру в новой вкладке. Основная статья остаётся на шаге 8; прокрутка при автоматическом нажатии сдвинута инструментом к ссылке, SPA-перехода нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Чистая форма математического поступления, обведена только Накладная со всеми шестью полями, тексты не перекрыты. Использованы исходные измерения соответствующего кадра. Отдельно просмотрены текст, описание шести полей, весь кадр в статье и в увеличении; накладная читается, кнопка ссылки компактна. Копирование показало Скопировано."
+    }
+  ]
+}

@@ -1,0 +1,993 @@
+{
+  "rightScrollbarWidth": 15,
+  "targets": [
+    {
+      "height": 70,
+      "selector": "#navbar-brand-box-hide > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria4690075136-\\:r0\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1691,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria4690075136-\\:r1\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1741,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria4690075136-\\:r2\\:",
+      "tag": "BUTTON",
+      "target": "5",
+      "width": 42,
+      "x": 1791,
+      "y": 24.65625
+    },
+    {
+      "height": 14.625,
+      "selector": "#notificationCount",
+      "tag": "SPAN",
+      "target": "5",
+      "width": 17.34375,
+      "x": 1813.65625,
+      "y": 29.65625
+    },
+    {
+      "height": 36.671875,
+      "selector": "#react-aria4690075136-\\:r3\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 44,
+      "x": 1841,
+      "y": 24.65625
+    },
+    {
+      "height": 70,
+      "selector": "#page-topbar > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 39.03125,
+      "selector": "#button-hide-menu",
+      "tag": "BUTTON",
+      "target": "Свернуть меню",
+      "width": 150.09375,
+      "x": 49.953125,
+      "y": 80
+    },
+    {
+      "height": 39.640625,
+      "selector": "#main-point > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Главная",
+      "width": 250,
+      "x": 0,
+      "y": 135.03125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#company",
+      "tag": "A",
+      "target": "Компании",
+      "width": 250,
+      "x": 0,
+      "y": 216.671875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#stations",
+      "tag": "A",
+      "target": "Станции",
+      "width": 250,
+      "x": 0,
+      "y": 256.3125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#controllers",
+      "tag": "A",
+      "target": "Контроллеры (ТРК)",
+      "width": 250,
+      "x": 0,
+      "y": 295.953125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#users",
+      "tag": "A",
+      "target": "Пользователи",
+      "width": 250,
+      "x": 0,
+      "y": 335.59375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#transports",
+      "tag": "A",
+      "target": "Транспорт",
+      "width": 250,
+      "x": 0,
+      "y": 375.234375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#alrts",
+      "tag": "A",
+      "target": "Оповещения",
+      "width": 250,
+      "x": 0,
+      "y": 414.875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Поступление ГСМ",
+      "width": 250,
+      "x": 0,
+      "y": 454.515625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Автоотчеты",
+      "width": 250,
+      "x": 0,
+      "y": 494.15625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Аналитика",
+      "width": 250,
+      "x": 0,
+      "y": 533.796875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(13) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление доступом",
+      "width": 250,
+      "x": 0,
+      "y": 615.4375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(14) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление входом",
+      "width": 250,
+      "x": 0,
+      "y": 655.078125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(15) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "benzamat Оплата",
+      "width": 250,
+      "x": 0,
+      "y": 694.71875
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-main",
+      "tag": "A",
+      "target": "Основное",
+      "width": 377.75,
+      "x": 286,
+      "y": 23.03125
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-sections",
+      "tag": "A",
+      "target": "Секции",
+      "width": 377.75,
+      "x": 286,
+      "y": 62.640625
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-nasos",
+      "tag": "A",
+      "target": "Насос",
+      "width": 377.75,
+      "x": 286,
+      "y": 102.25
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-valve",
+      "tag": "A",
+      "target": "Клапаны",
+      "width": 377.75,
+      "x": 286,
+      "y": 141.859375
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-flow-sensor",
+      "tag": "A",
+      "target": "Датчик расхода",
+      "width": 377.75,
+      "x": 286,
+      "y": 181.46875
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-external-input",
+      "tag": "A",
+      "target": "Внешние входы",
+      "width": 377.75,
+      "x": 286,
+      "y": 221.078125
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-metrolog",
+      "tag": "A",
+      "target": "Метрология",
+      "width": 377.75,
+      "x": 286,
+      "y": 260.6875
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-doze",
+      "tag": "A",
+      "target": "Заполнение",
+      "width": 377.75,
+      "x": 286,
+      "y": 300.296875
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-button-start-stop",
+      "tag": "A",
+      "target": "Кнопка старт/стоп",
+      "width": 377.75,
+      "x": 286,
+      "y": 339.90625
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-printer",
+      "tag": "A",
+      "target": "Принтер чеков",
+      "width": 377.75,
+      "x": 286,
+      "y": 379.515625
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-gsm_modem",
+      "tag": "A",
+      "target": "Модем",
+      "width": 377.75,
+      "x": 286,
+      "y": 419.125
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-auth",
+      "tag": "A",
+      "target": "Логин и пароль",
+      "width": 377.75,
+      "x": 286,
+      "y": 458.734375
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tabpane-main > ul:nth-of-type(1)",
+      "tag": "UL",
+      "target": "Основная форма Расширенные параметры Внешние модули расширения",
+      "width": 1181.25,
+      "x": 687.75,
+      "y": 23.03125
+    },
+    {
+      "height": 39.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tab-form",
+      "tag": "BUTTON",
+      "target": "Основная форма",
+      "width": 151.078125,
+      "x": 687.75,
+      "y": 23.03125
+    },
+    {
+      "height": 39.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tab-tab2",
+      "tag": "BUTTON",
+      "target": "Расширенные параметры",
+      "width": 208.1875,
+      "x": 838.828125,
+      "y": 23.03125
+    },
+    {
+      "height": 39.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tab-tab3",
+      "tag": "BUTTON",
+      "target": "Внешние модули расширения",
+      "width": 236.140625,
+      "x": 1047.015625,
+      "y": 23.03125
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Название*",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 78.640625
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Название*",
+      "width": 70.9375,
+      "x": 687.75,
+      "y": 78.640625
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "Введите значение до 100 символов",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 108.25
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "ID контроллера *",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 160.78125
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "ID контроллера *",
+      "width": 115.90625,
+      "x": 687.75,
+      "y": 160.78125
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "Введите ID содержащий цифры 0-9 и буквы A-F",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 190.390625
+    },
+    {
+      "height": 67.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Станция* Резервуар №2",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 242.921875
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Станция*",
+      "width": 62.734375,
+      "x": 687.75,
+      "y": 242.921875
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-select-10-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.328125,
+      "x": 698.75,
+      "y": 280.71875
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4)",
+      "tag": "DIV",
+      "target": "Версия ПО",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 326.53125
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Версия ПО",
+      "width": 73.421875,
+      "x": 687.75,
+      "y": 326.53125
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "VersionSoftware",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 356.140625
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5)",
+      "tag": "DIV",
+      "target": "Версия протокола",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 408.671875
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Версия протокола",
+      "width": 124.359375,
+      "x": 687.75,
+      "y": 408.671875
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "VersionProtocol",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 438.28125
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6)",
+      "tag": "DIV",
+      "target": "Тип контроллера",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 490.8125
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Тип контроллера",
+      "width": 116.078125,
+      "x": 687.75,
+      "y": 490.8125
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "EnumControllerType",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 520.421875
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7)",
+      "tag": "DIV",
+      "target": "Версия загрузчика",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 572.953125
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Версия загрузчика",
+      "width": 128.515625,
+      "x": 687.75,
+      "y": 572.953125
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "VersionLoader",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 602.5625
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8)",
+      "tag": "DIV",
+      "target": "Напряжение питания",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 655.09375
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Напряжение питания",
+      "width": 145.15625,
+      "x": 687.75,
+      "y": 655.09375
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "Voltage",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 684.703125
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9)",
+      "tag": "DIV",
+      "target": "Максимальное кол-во пользователей",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 737.234375
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Максимальное кол-во пользователей",
+      "width": 257.578125,
+      "x": 687.75,
+      "y": 737.234375
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "MaxUsers",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 766.84375
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10)",
+      "tag": "DIV",
+      "target": "Максимальное кол-во сообщений журнала",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 819.375
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Максимальное кол-во сообщений журнала",
+      "width": 293.609375,
+      "x": 687.75,
+      "y": 819.375
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "MaxMessages",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 848.984375
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(11)",
+      "tag": "DIV",
+      "target": "IP адрес",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 901.515625
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(11) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "IP адрес",
+      "width": 55.8125,
+      "x": 687.75,
+      "y": 901.515625
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(11) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "IpAddress",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 931.125
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12)",
+      "tag": "DIV",
+      "target": "Сохранить",
+      "width": 478.1875,
+      "x": 687.75,
+      "y": 983.65625
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 91.28125,
+      "x": 687.75,
+      "y": 983.65625
+    },
+    {
+      "height": 67.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Прием топлива Нет",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 78.640625
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Прием топлива",
+      "width": 105.0625,
+      "x": 1189.9375,
+      "y": 78.640625
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-select-11-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.328125,
+      "x": 1200.9375,
+      "y": 116.4375
+    },
+    {
+      "height": 67.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "Считыватель Benza-NFC",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 162.25
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Считыватель",
+      "width": 89.265625,
+      "x": 1189.9375,
+      "y": 162.25
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-select-12-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.328125,
+      "x": 1200.9375,
+      "y": 200.046875
+    },
+    {
+      "height": 67.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Режим работы Автономный налив",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 245.859375
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Режим работы",
+      "width": 99.375,
+      "x": 1189.9375,
+      "y": 245.859375
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-select-13-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.328125,
+      "x": 1200.9375,
+      "y": 283.65625
+    },
+    {
+      "height": 67.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4)",
+      "tag": "DIV",
+      "target": "Автоопрос включен Нет",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 329.46875
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Автоопрос включен",
+      "width": 134.46875,
+      "x": 1189.9375,
+      "y": 329.46875
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-select-14-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.328125,
+      "x": 1200.9375,
+      "y": 367.265625
+    },
+    {
+      "height": 67.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(5)",
+      "tag": "DIV",
+      "target": "2-ой индикатор и клавиатура Нет",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 413.078125
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(5) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "2-ой индикатор и клавиатура",
+      "width": 204.03125,
+      "x": 1189.9375,
+      "y": 413.078125
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-select-15-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.328125,
+      "x": 1200.9375,
+      "y": 450.875
+    },
+    {
+      "height": 67.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(6)",
+      "tag": "DIV",
+      "target": "Поддержка системы мониторинга транспорта Нет",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 496.6875
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(6) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Поддержка системы мониторинга транспорта",
+      "width": 315.5625,
+      "x": 1189.9375,
+      "y": 496.6875
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-select-16-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.328125,
+      "x": 1200.9375,
+      "y": 534.484375
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(7)",
+      "tag": "DIV",
+      "target": "Версия Hardware",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 580.296875
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(7) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Версия Hardware",
+      "width": 116.953125,
+      "x": 1189.9375,
+      "y": 580.296875
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(7) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "VersionHardware",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 609.90625
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(8)",
+      "tag": "DIV",
+      "target": "Максимальное кол-во организаций",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 662.4375
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(8) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Максимальное кол-во организаций",
+      "width": 243.53125,
+      "x": 1189.9375,
+      "y": 662.4375
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(8) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "MaxOrgs",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 692.046875
+    },
+    {
+      "height": 66.140625,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(9)",
+      "tag": "DIV",
+      "target": "Версия структуры конфигурации",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 744.578125
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(9) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Версия структуры конфигурации",
+      "width": 230.03125,
+      "x": 1189.9375,
+      "y": 744.578125
+    },
+    {
+      "height": 36.53125,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(9) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "VersionStructConfigaration",
+      "width": 478.1875,
+      "x": 1189.9375,
+      "y": 774.1875
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Политика обработки персональных данных.",
+      "width": 304.296875,
+      "x": 683.25,
+      "y": 1042.1875
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "Свидетельство на ПО.",
+      "width": 150.671875,
+      "x": 991.875,
+      "y": 1042.1875
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "tag": "A",
+      "target": "Свидетельство на ТЗ",
+      "width": 142.15625,
+      "x": 1146.875,
+      "y": 1042.1875
+    },
+    {
+      "height": 25.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 419.1875,
+      "x": 698.75,
+      "y": 278.71875
+    },
+    {
+      "height": 25.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 419.1875,
+      "x": 1200.9375,
+      "y": 114.4375
+    },
+    {
+      "height": 25.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 419.1875,
+      "x": 1200.9375,
+      "y": 198.046875
+    },
+    {
+      "height": 25.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 419.1875,
+      "x": 1200.9375,
+      "y": 281.65625
+    },
+    {
+      "height": 25.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 419.1875,
+      "x": 1200.9375,
+      "y": 365.265625
+    },
+    {
+      "height": 25.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 419.1875,
+      "x": 1200.9375,
+      "y": 448.875
+    },
+    {
+      "height": 25.609375,
+      "selector": "#react-aria4690075136-\\:r41\\:-tabpane-form > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 419.1875,
+      "x": 1200.9375,
+      "y": 532.484375
+    }
+  ],
+  "viewport": {
+    "height": 1080,
+    "width": 1920
+  },
+  "source": "source/main-save-current.jpg",
+  "url": "https://pro.benza.online/controller/1556",
+  "dom": "- region \"Notifications Alt+T\"\n- banner:\n  - banner:\n    - link:\n      - /url: /\n    - generic: По всем возникающим вопросам и неполадкам сообщайте нашей технической поддержке тел. (8412) 45-41-14\n    - button:\n    - button:\n    - button \"5\":\n      - generic: \"5\"\n    - button:\n  - link:\n    - /url: /\n- button \"Свернуть меню\":\n  - text: Свернуть меню\n- list:\n  - link \"Главная\":\n    - /url: /dashboard\n    - text: Главная\n  - listitem: ОБЩИЙ ФУНКЦИОНАЛ\n  - link \"Компании\":\n    - /url: /companies\n    - text: Компании\n  - link \"Станции\":\n    - /url: /stations\n    - text: Станции\n  - link \"Контроллеры (ТРК)\":\n    - /url: /controllers\n    - text: Контроллеры (ТРК)\n  - link \"Пользователи\":\n    - /url: /users\n    - text: Пользователи\n  - link \"Транспорт\":\n    - /url: /transports\n    - text: Транспорт\n  - link \"Оповещения\":\n    - /url: /alerts\n    - text: Оповещения\n  - link \"Поступление ГСМ 󰅀\":\n    - /url: /fuel-intake\n    - text: Поступление ГСМ 󰅀\n  - link \"Автоотчеты 󰅀\":\n    - /url: /\n    - text: Автоотчеты 󰅀\n  - link \"Аналитика 󰅀\":\n    - /url: /\n    - text: Аналитика 󰅀\n  - listitem: АДМИНИСТРИРОВАНИЕ\n  - link \"Управление доступом 󰅀\":\n    - /url: /\n    - text: Управление доступом 󰅀\n  - link \"Управление входом\":\n    - /url: /security/tokens\n    - text: Управление входом\n  - link \"benzamat Оплата\":\n    - /url: https://pay.benza.online\n    - text: benzamat Оплата\n- 'heading \"Контроллер - 33481F76 03373931 5235364C Электромеханическая Действие лицензии: 01.05.2024 00:00 - 31.12.2029 00:00\" [level=2]':\n  - generic: Контроллер - 33481F76 03373931 5235364C\n  - generic: Электромеханическая\n  - generic: \"Действие лицензии: 01.05.2024 00:00 - 31.12.2029 00:00\"\n- button \"Действия с контроллерами\"\n- tablist:\n  - tab \"Настройки\" [selected]\n  - tab \"Уровнемеры\"\n  - tab \"Пользователи\"\n  - tab \"Транспортные средства\"\n  - tab \"Компании\"\n  - tab \"Журнал всех сообщений\"\n- tabpanel \"Настройки\":\n  - tablist:\n    - tab \"Основное\" [selected]\n    - tab \"Секции\"\n    - tab \"Насос\"\n    - tab \"Клапаны\"\n    - tab \"Датчик расхода\"\n    - tab \"Внешние входы\"\n    - tab \"Метрология\"\n    - tab \"Заполнение\"\n    - tab \"Кнопка старт/стоп\"\n    - tab \"Принтер чеков\"\n    - tab \"Модем\"\n    - tab \"Логин и пароль\"\n  - tabpanel \"Основное\":\n    - tablist:\n      - tab \"Основная форма\" [selected]\n      - tab \"Расширенные параметры\"\n      - tab \"Внешние модули расширения\"\n    - tabpanel \"Основная форма\":\n      - text: Название\n      - superscript: \"*\"\n      - textbox \"Введите значение до 100 символов\": Пенза\n      - text: ID контроллера\n      - superscript: \"*\"\n      - textbox \"Введите ID содержащий цифры 0-9 и буквы A-F\" [disabled]: 33481F76 03373931 5235364C\n      - text: Станция\n      - superscript: \"*\"\n      - log\n      - generic: Резервуар №2\n      - generic: Версия ПО\n      - textbox: 3.14.35\n      - generic: Версия протокола\n      - textbox: \"19\"\n      - generic: Тип контроллера\n      - textbox: BS-02/2\n      - generic: Версия загрузчика\n      - textbox: 3.1.2\n      - generic: Напряжение питания\n      - textbox: 220 B\n      - generic: Максимальное кол-во пользователей\n      - textbox: \"5000\"\n      - generic: Максимальное кол-во сообщений журнала\n      - textbox: \"0\"\n      - generic: IP адрес\n      - textbox: 100.84.156.105\n      - button \"Сохранить\" [active]\n      - generic: Прием топлива\n      - log\n      - generic: Нет\n      - combobox\n      - generic: Считыватель\n      - log\n      - generic: Benza-NFC\n      - combobox\n      - generic: Режим работы\n      - log\n      - generic: Автономный налив\n      - combobox\n      - generic: Автоопрос включен\n      - log\n      - generic: Нет\n      - combobox\n      - generic: 2-ой индикатор и клавиатура\n      - log\n      - generic: Нет\n      - combobox\n      - generic: Поддержка системы мониторинга транспорта\n      - log\n      - generic: Нет\n      - combobox\n      - generic: Версия Hardware\n      - textbox: \"4\"\n      - generic: Максимальное кол-во организаций\n      - textbox: \"256\"\n      - generic: Версия структуры конфигурации\n      - textbox: \"1.9\"\n- contentinfo:\n  - text: Онлайн сервис для управления топливом benzamat ПРО..\n  - link \"Политика обработки персональных данных.\":\n    - /url: /files/personal_data_pro.pdf\n  - link \"Свидетельство на ПО.\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610388&TypeFile=html\n  - link \"Свидетельство на ТЗ\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=RUTM&DocNumber=770581&TypeFile=html"
+}

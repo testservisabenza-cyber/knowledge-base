@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "manifestHash": "fe4c99c2f272eeb3934283744f118ea9bbb98fbd4416275d7c09098c7ce96e00",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-widgets",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": false,
+    "backgroundModes": false,
+    "stepNavigation": false,
+    "imageZoom": false,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": false
+  },
+  "shots": [
+    {
+      "output": "home-nav.svg",
+      "sourceHash": "b0d6708b75437c05576c60715c919ddfe193859a2c9bf41e85efaf661095944a",
+      "svgHash": "98fa78832276d2eef31c7eb80db43fece1858912fd24fbbf32412914c3721884",
+      "stepText": "В левом меню откройте раздел «Главная».",
+      "stepTextHash": "ef9906d733bc5ccaca126996d5d3ce8c8edd91429b2be86261a23251fc04ed71",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "widgets-open.svg",
+      "sourceHash": "b0d6708b75437c05576c60715c919ddfe193859a2c9bf41e85efaf661095944a",
+      "svgHash": "f6405497d1841af4300e2c70b73651dc8971bb4e04522324bdad76c699458468",
+      "stepText": "Вверху страницы нажмите «Показать управление виджетами». Появится строка кнопок для настройки раскладки.",
+      "stepTextHash": "a554c13566b8ab336b28d0de4e1c5f675177f0c194fad6c655926c5a098a737d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "widgets-chooser-button.svg",
+      "sourceHash": "5de674bc53705b179464846c5ca5592a7c31f5d968f9b98cf35c209f42d6007a",
+      "svgHash": "999fdf417983da717506cbe19d6698b1d6c21e28d2314dc9fb45fbf68dd1bb54",
+      "stepText": "В строке управления нажмите «Показать выбор виджетов». Откроется список доступных блоков.",
+      "stepTextHash": "b55e4dbb1498164a5a0329d505b4b2b9d488e73c8302a8bf293e20f19725370d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "widgets-unlock.svg",
+      "sourceHash": "5de674bc53705b179464846c5ca5592a7c31f5d968f9b98cf35c209f42d6007a",
+      "svgHash": "1e3f3995573fb7ccd76ace641189f2fa3f82a3f6a7e7c43be59702225f5e26d2",
+      "stepText": "Если в строке есть кнопка «Разблокировать перемещение виджетов», нажмите её. Когда появится «Заблокировать перемещение виджетов», перенос разрешён. Если эта кнопка уже видна, сразу переходите к следующему шагу.",
+      "stepTextHash": "966612cbce9a4eba1adcd762f3032d849e6a7f1285e408cfc1bcc18197ae3cd5",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "widgets-hide.svg",
+      "sourceHash": "5de674bc53705b179464846c5ca5592a7c31f5d968f9b98cf35c209f42d6007a",
+      "svgHash": "dcae84175a1da450bb645bd3e5cb8a1929f73ead062be194092e603bf271b838",
+      "stepText": "Нажмите «Скрыть управление виджетами». Строка настроек исчезнет, а выбранные блоки останутся на главной.",
+      "stepTextHash": "43ef9d235ee5cf94a76e30df1d060b8e2cf23d0acf7a3eb6adbd70b824af6c71",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "widgets-choice.svg",
+      "sourceHash": "f6d41db49de0d51d05ed3b159a105d2b75832c3c0035d636385f9a1a7a442368",
+      "svgHash": "85a9223cf1b9869df253bcfd76d853f57ea7e1172e3ad88eb2667c6d80f4e55c",
+      "stepText": "В списке нажмите карточку нужного виджета. В этом примере включим «Прием топлива». Карточка без галочки означает, что блок ещё не включён.",
+      "stepTextHash": "e679eb765279033998ec4812243bfc14f4d80bb519eed98663456a625edc332b",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "widgets-selected.svg",
+      "sourceHash": "bbe28cf7bd0be64259ec35be83a9abcecfb20aad3a9eabf9c300ddfb9b7614fa",
+      "svgHash": "709a85bda4395ddf931d00b624f16d4fff6f12747f9484a472514e073d13a688",
+      "stepText": "Убедитесь, что выбранная карточка получила галочку. Это подтверждает, что виджет включён.",
+      "stepTextHash": "1e21e1426c0cdcc0982f768c35c615e908cfa767c5f9e90f3e55d48483e1c2fd",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "widgets-choice-close.svg",
+      "sourceHash": "bbe28cf7bd0be64259ec35be83a9abcecfb20aad3a9eabf9c300ddfb9b7614fa",
+      "svgHash": "1ff9b0c0246c9a71bdb075d5827498bcdbe3b9df487d9515b8431251b292277d",
+      "stepText": "Нажмите «Скрыть выбор виджетов». Останется строка управления, а основной экран снова будет виден целиком.",
+      "stepTextHash": "8e886098d63928ca86b1e96ca4da6544cb48d3b801c38f3613ec98de28084b8f",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "widgets-lock.svg",
+      "sourceHash": "c114f919b8242e18baefbd3e9947fae57f461cc8d4cb52bb6e4afaa8832593fb",
+      "svgHash": "e1009a7e72cf6411fa4cf75a6189f8618e811e4040aabdefcb1e76d57b88f826",
+      "stepText": "Нажмите «Заблокировать перемещение виджетов», чтобы случайно не менять порядок при обычной работе.",
+      "stepTextHash": "54dd31e8587c9d4615798401bde375cfeb0d9cbcb25a341c4790e129daf869a4",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "widgets-move.svg",
+      "sourceHash": "c114f919b8242e18baefbd3e9947fae57f461cc8d4cb52bb6e4afaa8832593fb",
+      "svgHash": "fe1305e5d23d4c6416f958ac5567d997046cfa0862058ed9afc051147f2a8d94",
+      "stepText": "Перетащите нужный виджет в новое место за значок руки в его правом верхнем углу. Следите за тем, как меняется порядок блоков на странице.",
+      "stepTextHash": "94a3532c5e912a80c48a4f380ce8dd96aa998528561f9ec109f07ebc888b727a",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    }
+  ]
+}

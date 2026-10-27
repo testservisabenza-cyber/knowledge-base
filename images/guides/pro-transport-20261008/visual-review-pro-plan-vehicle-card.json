@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "manifestHash": "fe46228ae5283c439fb9c3357522b970393bab54d4b3affa64171a4a74d8cf54",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-vehicle-card",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "transport-row.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "5542d4594a19ad18758c322160e3df07e76684058a3ace57449ee6570cb8087d",
+      "stepText": "В списке «Транспорт» найдите нужное ТС и сравните RFID с предъявляемой картой.",
+      "stepTextHash": "bacf34789368b38ad66c3451e5fc83ac498a380e4a68b39063591a09eaa4c855",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Строка ТС Пенза, RFID читается в выделенной строке."
+    },
+    {
+      "output": "transport-open.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "ff0e7d0d5007db9bc9c8a57fd00ea5b4b84c265024ca8c8c479edae01703c25b",
+      "stepText": "Откройте его карточку стрелкой.",
+      "stepTextHash": "56053a74563f167a76dc824e8f7cd59ac52cd2fe0f333b806d39c0ee80f30fef",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Открытие нужной строки: диагональ точно в нижний правый угол."
+    },
+    {
+      "output": "transport-card-check-save.svg",
+      "sourceHash": "c24e908d505070a6b58308d2518b7ba8d560028c4a5b0198e0ad548547a0292f",
+      "svgHash": "e8ad724f62dece11afaa123006240d693d03fdecfe7345072248cb0bc3c96203",
+      "stepText": "На вкладке «Основная информация» проверьте тип считывателя и полный номер RFID. При исправлении нажмите «Сохранить».",
+      "stepTextHash": "61da48dc86adba42791e1aa6c0a241c7184e912c61b49da0ca38dce715b4d044",
+      "clickTargets": [
+        0,
+        3
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Основная информация и два блока отдельно; Сохранить имеет прямую стрелку, вкладка диагональ в угол."
+    },
+    {
+      "output": "transport-controllers-row.svg",
+      "sourceHash": "d5680d4616606cff81dc3761680df81f2e2154d8ba40f018ea50e72a7148f8c9",
+      "svgHash": "df2734bf86fa286febb3ad56667c673bbdbf25c8765d540e8fb1f00c20234ab5",
+      "stepText": "Перейдите на вкладку «Контроллеры» и проверьте, есть ли ТРК, на которой произошёл отказ.",
+      "stepTextHash": "8c4af40f48278d50b97d6ec0b13b92981cbc82fc002e6d00ff41bddb6ee6f2a1",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Контроллеры отдельно от таблицы, стрелка в угол вкладки."
+    },
+    {
+      "output": "user-ts-auth.svg",
+      "sourceHash": "2cbc467f8010aaac567d9c5af62c5c572e9d0d723a837591ac2233c689e67826",
+      "svgHash": "d8199b8193f004152e2120dfc2027d0b488de5798af67f1f7478b68ba10384ee",
+      "stepText": "Если для заправки нужны две карты, проверьте в параметрах соответствующего пользователя поле «Авторизация ТС»: должно быть выбрано «Да». При заправке одной картой оставляют «Нет». Для порядка изменения нажмите кнопку [Открыть инструкцию по изменению пользователя](/articles/pro-user-settings).",
+      "stepTextHash": "f529e2304a8e0125e72dd9242be62537eb7b4a05c48202366409db874a09e34d",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: Авторизация ТС Да без стрелки; компактная ссылка на изменение пользователя."
+    },
+    {
+      "output": "transport-controllers-state.svg",
+      "sourceHash": "d5680d4616606cff81dc3761680df81f2e2154d8ba40f018ea50e72a7148f8c9",
+      "svgHash": "39fbe74d98690e6dae39772f705ecff9b127adbce564ff2cc4b7233ece625f01",
+      "stepText": "После исправления проверьте связь контроллера и передачу ему настроек, затем повторите выдачу.",
+      "stepTextHash": "56c15adf44cb6dec6e1e50a90f3b90fcd60cc142e6ecd333851503efba9426af",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 6: Строка показывает GSM, Считаны и отключённый автоопрос; нет выдуманного успешного результата."
+    }
+  ]
+}

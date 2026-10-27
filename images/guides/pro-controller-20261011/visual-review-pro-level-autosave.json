@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-level-autosave",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка по ширине левого меню, горизонтальная стрелка справа. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка открытия второй строки отдельно от корзины. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи контроллер будет сохранять показания уровнемеров с заданным интервалом.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "063b7dbc38017040eeb63f8f36daa78696a5d68379eddb953d0270a183a7db78",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Существующее окно записи; стрелка вверх к Записать данные. Запись не запускалась. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "gauge-tab.svg",
+      "sourceHash": "fc148a228117cf8ecf213857d8aed73cb55f3864c1687cec49b4c2053302fb75",
+      "svgHash": "cd06b205dc10f8ffabf39e862553910e8688cbe2393a6142e01e2316fc575a6e",
+      "stepText": "Откройте вкладку «Уровнемеры».",
+      "stepTextHash": "1cc202df8c0e7b2aa6bac94c5aaaacf7dd2fc4bddc9dee933491ea61142af233",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Вкладка Уровнемеры, диагональ точно в нижний правый угол; другие кнопки свободны. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "gauge-menu.svg",
+      "sourceHash": "fc148a228117cf8ecf213857d8aed73cb55f3864c1687cec49b4c2053302fb75",
+      "svgHash": "690b440c1b25dd77a86cbc0e27cdd744fbd2b2531079acea226b9e9fd85bef95",
+      "stepText": "Нажмите «Настройки на контроллере».",
+      "stepTextHash": "a36d363ea96eae615fbc6e5972fe8905fd375e0bd42b48a7494cf735d7bdbd72",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка настроек, горизонтальная стрелка справа не касается поля Тип. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "gauge-period-menu.svg",
+      "sourceHash": "56acfe3c970ce52ef3e8d7816a426099e323a7144994566d8727f064f88d5be7",
+      "svgHash": "9f7264beec70b8fed66b779366d30e85d41a3aa7ecb10daf1feb30a72c541684",
+      "stepText": "Выберите «Период сохранения показаний уровнемеров».",
+      "stepTextHash": "e17d385c5b95216142a2be9acfff21fe7298b6cf459933accdd3a53190fb0861",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только пункт периода, диагональная стрелка к нижнему правому углу. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "period-value.svg",
+      "sourceHash": "f702fa8daec0309051cd9b33fab9f9064f5d8f16f11cbc1be3aa6de34fb072ec",
+      "svgHash": "31d85e4ad5554f6c271cc08a3273d9d45807e116504e4acdaabd748173fef541",
+      "stepText": "В поле «Период, мин» выберите требуемый интервал.",
+      "stepTextHash": "4f3ea8e5a50215fa44f48f976fda03767ef69ef6ddaa0a0af9a7af15a6966c79",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Реальная несохранённая форма с выбранными 15 минутами; рамка по ширине белой панели с отступами, только высота поля и подписи. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "period-save.svg",
+      "sourceHash": "f702fa8daec0309051cd9b33fab9f9064f5d8f16f11cbc1be3aa6de34fb072ec",
+      "svgHash": "31851fbf14d5fb2b6418a0d4ab93feb1f3cedba1cd934a8ccf0f4edbfdf939b7",
+      "stepText": "Нажмите «Сохранить» в открытом окне.",
+      "stepTextHash": "3d22fd595ae6ca8f6cffe509ee5ae3cd2f4746d514b5c526cb3c465a0534819a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить в белой панели после выбора 15; прямая стрелка слева. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    }
+  ]
+}

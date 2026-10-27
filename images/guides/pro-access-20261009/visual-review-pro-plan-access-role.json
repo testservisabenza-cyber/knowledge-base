@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "manifestHash": "d9c0cf0abf6f37852c9d58596236bf3b765bba690c93dafc6cecee383e0c1344",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-access-role",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "articleInspectionNote": "Каждый шаг просмотрен в статье; обе темы, режимы фона, увеличение, подтверждение копирования и переходы проверены. Ссылки открывают новую вкладку. Тёмная тема и фон под инструкцией восстановлены; временный размер окна сброшен.",
+  "shots": [
+    {
+      "output": "role-nav.svg",
+      "sourceHash": "9e41c0399c732a6214ee7f2fe097a7d205a1b1b7e232a75f7a1bbf654a3ac027",
+      "svgHash": "5cf16a4222117baa6a0e17d82d0515a36ef87bc431533e50ec696ed680285898",
+      "stepText": "В раскрытом разделе «Управление доступом» откройте «Роли в системе».",
+      "stepTextHash": "7d4d37719d2296c8d52638dc5d7bc4b60643db25d8c3e4fdfa27f8aa52357b38",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полная ширина меню, справа 4 px; горизонтальная стрелка в пустом промежутке. Шаг 1: Меню и текст соответствуют, кадр целиком и разметка читается."
+    },
+    {
+      "output": "role-add.svg",
+      "sourceHash": "9e41c0399c732a6214ee7f2fe097a7d205a1b1b7e232a75f7a1bbf654a3ac027",
+      "svgHash": "cef2dbdbfab79ce604335d9142d6c00567c965e2a6578a960f7768a4075c94ab",
+      "stepText": "Нажмите «Добавить» над таблицей ролей.",
+      "stepTextHash": "836e957d0fd76521da48dd11b0ef73054c88fd31005a6dcb318106ac5742cc51",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Горизонтальная стрелка слева проходит по пустому месту, рамка только кнопки. Шаг 2: Добавить над таблицей точно отмечено, стрелка видна."
+    },
+    {
+      "output": "role-name.svg",
+      "sourceHash": "31d54d37d7aba8b46ba1757e0e115b520b0b5d12c802ea476d18f122a8da6a27",
+      "svgHash": "0f620fe3c2e6d82d0a37e549583a39c35e0061beed7398a15738c047d8af287b",
+      "stepText": "Введите понятное «Название» до 100 символов. В примере — «Диспетчер — просмотр».",
+      "stepTextHash": "b45df1b22dda14f203306dc858df1efd05cfdb0d919cb8776a6039a4366a8d12",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка поля по ширине белой панели с отступом 4 px, без стрелки. Шаг 3: Поле Название по ширине панели, текст примера совпадает."
+    },
+    {
+      "output": "role-submit.svg",
+      "sourceHash": "31d54d37d7aba8b46ba1757e0e115b520b0b5d12c802ea476d18f122a8da6a27",
+      "svgHash": "6e454e147b4ad005f279d9d006c71f0d6462a305a32bf6e700a840dbe9d19df3",
+      "stepText": "Нажмите «Добавить» в правой панели. Дождитесь появления новой роли в таблице; после успешного добавления поле названия очищается.",
+      "stepTextHash": "634efb8e1d464acbe88e6b30b2c210191e664889c8d6e6837ac2c658160ba070",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка перенесена внутрь белой панели справа, фоновые фильтры не пересекает. Шаг 4: Добавить внутри панели отдельно со стрелкой; кадр до действия соответствует шагу."
+    },
+    {
+      "output": "role-close.svg",
+      "sourceHash": "d5592317f92db0aad2f63ff1b5d96a0ded7f292ab956c1eaea3e1571de5fec7d",
+      "svgHash": "afc83e47b02e56d20ae3014babf0afe07bb123b0d497b219bd696bba212fec4d",
+      "stepText": "Закройте панель крестиком в её правом верхнем углу.",
+      "stepTextHash": "fabd3a0844a3e4278aa680dce69c1278d7a54a5b86feb69b5ae2887b31bd3f52",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Крестик панели выделен отдельно; горизонтальная стрелка справа от заголовка. Шаг 5: Пустое название и новая роль в фоне подтверждают добавление; крестик выделен."
+    },
+    {
+      "output": "role-open.svg",
+      "sourceHash": "e4c0ecc3d7a227320c9b2fc720bbab197fb99835d1642f5f1aac4a61de2f320e",
+      "svgHash": "b2d54170081721c200aa797a863872594729f8086197ed1efc2b47aa3ed40414",
+      "stepText": "Найдите созданную роль «Диспетчер — просмотр» и нажмите кнопку со стрелкой в её строке. Для своей роли ищите заданное вами название.",
+      "stepTextHash": "9424384d698710f247240e63781772ee2115e0ff27dba822cdb6dc945c3e071d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка первой строки новой роли; прямая стрелка справа по пустой ячейке. Шаг 6: Открытие той же новой роли; стрелка в первой строке."
+    },
+    {
+      "output": "module-tab.svg",
+      "sourceHash": "415af275e1aaefdd5d30fc826757c78050cf1b29f975d51ea80c80cd520df64b",
+      "svgHash": "5101ba16de8a99c81275f56d739d63b211f14136739c13da4d5fc225527cbd0c",
+      "stepText": "Откройте вкладку «Права доступа к модулям».",
+      "stepTextHash": "80d28cea83cc35fcaa9798a318b29e9e6e42e35da89b153a1136ada1e56e59b2",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Вертикальная стрелка сверху точно к рамке вкладки, справа от текста заголовка. Шаг 7: Вкладка отмечена, роль та же, кадр без пустых данных."
+    },
+    {
+      "output": "module-pencil.svg",
+      "sourceHash": "415af275e1aaefdd5d30fc826757c78050cf1b29f975d51ea80c80cd520df64b",
+      "svgHash": "cf15c6e3e485201b195880094807986df41f0780cd072aef04fa45e91ed15ea1",
+      "stepText": "Найдите нужный модуль и нажмите карандаш в его строке. В примере настраиваем «Компании».",
+      "stepTextHash": "ce11c542b621a6ba107bea6e97cf466ad39914f5de95d009beb1d7dd1b63201f",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Карандаш строки Компании; горизонтальная стрелка справа внутри пустой части ячейки. Шаг 8: Карандаш Компании со своей стрелкой, соседние строки свободны."
+    },
+    {
+      "output": "module-fields.svg",
+      "sourceHash": "929181151bae05d6fd050adf3aa7f64beb4e4962a3a9b459d602d0b9f1e3e13a",
+      "svgHash": "2504fd051e5aad34bf84e39cd5ac789d74bab4f9fce02553200c48a710739951",
+      "stepText": "Проверьте разрешения модуля. Для просмотра без редактирования оставьте «Просмотр — Используется», а остальные действия и «Полный доступ — Не используется». Для другой задачи выберите необходимые права.\nМодуль: Раздел, для которого меняются права. В этой форме название нельзя изменить: для другого модуля откройте его строку.\nПросмотр: «Используется» позволяет читать информацию и видеть модуль в левом меню. «Не используется» отключает отдельное право просмотра.\nДобавление: «Используется» разрешает создавать записи; «Не используется» отключает это отдельное разрешение.\nОбновление: «Используется» разрешает редактировать информацию; «Не используется» отключает отдельное право редактирования.\nБлокировка/Удаление: «Используется» разрешает блокировку и удаление данных модуля. Для обычного просмотра эти действия не нужны.\nПолный доступ: «Используется» разрешает все перечисленные действия, даже если отдельные разрешения выключены. При «Не используется» действуют отдельно выбранные права.",
+      "stepTextHash": "558985472b53ff0f5be39dbd3e5d333ace21a2407f89a9cb1b0ab7c4d0ccc1f3",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Одно выделение всех подписей и полей по ширине белой панели, Сохранить исключено. Шаг 9: Поля и значения соответствуют примеру просмотра; рамка панели читается."
+    },
+    {
+      "output": "module-save.svg",
+      "sourceHash": "929181151bae05d6fd050adf3aa7f64beb4e4962a3a9b459d602d0b9f1e3e13a",
+      "svgHash": "1db6e172a25089b77fffc1019429b367931b04fd77bcce68090f4efdb61b24bf",
+      "stepText": "Нажмите «Сохранить». Проверьте результат в строке модуля и повторите настройку для остальных нужных модулей. Перед назначением роли проверьте также разделы, которые пользователю не нужны.",
+      "stepTextHash": "0ef254e4c21f36e5cf1a2b4db0223bfb470c763fb22285101436ce440eff3445",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить отдельно, прямая стрелка справа внутри панели. Шаг 10: Сохранить отдельно со стрелкой внутри панели, значения те же."
+    },
+    {
+      "output": "overview-user-role.svg",
+      "sourceHash": "1fe31f705864633476e870a3cf3aeb0340ea44495b2fb6029477a1cad0283586",
+      "svgHash": "3806b5fc200c62448c3fc886f6704c90c0504c15a0f45a8ec5c80bb5f60c0bfe",
+      "stepText": "Создание роли не меняет назначение в карточках пользователей. Поле «Роль в системе» находится в «Основной информации» пользователя; на примере у «Тест Тест» пока назначен «Старший оператор». Чтобы назначить подготовленную роль при добавлении пользователя, используйте кнопку [Открыть инструкцию по добавлению пользователя](/articles/pro-users).",
+      "stepTextHash": "22e6185e636abf543a12a35b32b7c83ed9e6459a81babc27738962e74cb15564",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Информационный кадр: вкладка и назначенный Старший оператор раздельными рамками, без стрелок. Шаг 11: Текущая роль Старший оператор честно описана, ссылка компактная в строке."
+    }
+  ]
+}

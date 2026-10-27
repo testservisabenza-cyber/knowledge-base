@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "manifestHash": "fe46228ae5283c439fb9c3357522b970393bab54d4b3affa64171a4a74d8cf54",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-transport-create",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "transport-nav.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "b850c28c4921527fb22fe415fc5a7b1987d494fab32e408642b560c81276459c",
+      "stepText": "В левом меню откройте «Транспорт».",
+      "stepTextHash": "2ff563fb5db3b2abab22299cc3e6d8b57945ec5d3d8fd0ffb8af62211a0bc47d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Меню во всю ширину с короткой прямой стрелкой, текст таблицы свободен; статья и увеличение."
+    },
+    {
+      "output": "transport-actions.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "ed25bbe63e7dcf6fabcb1f612b74b84ca4b45feced123d1dd8b54c9407acdac3",
+      "stepText": "Над списком откройте меню «Добавить ТС».",
+      "stepTextHash": "20109fb24d8168faccd3b38c823a788d2e733cc5a25e4608de0cca7d4e0a9a79",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Добавить ТС: прямая стрелка слева в центре рамки; статья и увеличение."
+    },
+    {
+      "output": "transport-add-menu.svg",
+      "sourceHash": "78a7772444a87e06d81ec3c014af8b08f06ea14ab61fe1816a53328f10ee89df",
+      "svgHash": "6e06fb2714f1b95056acb403bf42336ce63b2f8a52f2b81c162b2a1fef5b4a3e",
+      "stepText": "Выберите команду «Добавить ТС». Справа откроется форма.",
+      "stepTextHash": "3f92a9df846202ffdf9f3c7c109f66b88d8fbd0d2970ca0ad2a17644649c9b3e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Команда меню Добавить ТС, стрелка не пересекает заголовки таблицы; обычный и увеличенный вид."
+    },
+    {
+      "output": "transport-add-main.svg",
+      "sourceHash": "2cd63ad96d40ffa096aa4188d9f41cc974f543619d6fe97fbffa430ceee6eb9d",
+      "svgHash": "b264366aed29b9bae7405e92e2fa9f02888a1af6b35056999ba07838d6ededf9",
+      "stepText": "Введите понятное название ТС и выберите его компанию и контроллеры. Все три поля обязательны.\nНазвание: Имя, по которому транспорт легко найти в списке, например «КамАЗ А123АА 58».\nКомпания: Организация, к которой относится автомобиль.\nКонтроллеры: ТРК, на которых этому автомобилю разрешено обслуживаться.",
+      "stepTextHash": "363e0df7048c5948375c2d518018105795b01eb6f327aa8413824c39624adceb",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Три обязательных поля в одной рамке по ширине панели с отступом; обычный и увеличенный вид."
+    },
+    {
+      "output": "transport-add-auth.svg",
+      "sourceHash": "2cd63ad96d40ffa096aa4188d9f41cc974f543619d6fe97fbffa430ceee6eb9d",
+      "svgHash": "ff8a82ef7a3987ee85000a03c668d61241aa545b97cdfae1847a2ac06ef2d624",
+      "stepText": "Выберите тип авторизации «RFID», затем укажите тип считывателя и номер карты автомобиля. Номер можно внести вручную либо получить кнопкой «Получить номер карты».\nДля кнопки «Получить номер карты» нужны подключённый к этому компьютеру USB-считыватель и программа «benzamat ПРО. Считыватель карт». Если программы нет, откройте [инструкцию по установке и настройке](/articles/pro-card-reader-setup).\nТип считывателя: Выбирайте в соответствии с оборудованием на объекте.\nНомер RFID: Номер карты, которую будет предъявлять именно это ТС.",
+      "stepTextHash": "ca8512abeacc4cdda9fc6ade182f6ebc812de2b3e72f4ddf85390e97d8c9c5e1",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: Авторизация RFID, считыватель и номер объединены, кнопка чтения вне рамки; обычный и увеличенный вид."
+    },
+    {
+      "output": "transport-add-limit.svg",
+      "sourceHash": "375164ca683b0fcb73f674c60e8c74b3b73d5f1b6c1b41d389e06c454570a2ee",
+      "svgHash": "132d4763dae3b19065443640d5b62d16ac5420c9fe9eb4b1ed4fa2aa5c9b5d5e",
+      "stepText": "Выберите тип лимита для транспорта. Если выбран план с ограничением, заполните появившиеся поля объёма.",
+      "stepTextHash": "1736779136c2c1fff7770b83a4ffa7e4c4343dd10e7d4a7ff07aee795b1959fe",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 6: День и месяц, оба объёма и порога в рамке панели; обычный и увеличенный вид."
+    },
+    {
+      "output": "transport-add-optional.svg",
+      "sourceHash": "375164ca683b0fcb73f674c60e8c74b3b73d5f1b6c1b41d389e06c454570a2ee",
+      "svgHash": "0859bb2c7a7b178d35b62dd1eae799ba06c4c15a4640ff0b8645a54c78c4fc43",
+      "stepText": "При необходимости внесите срок обслуживания, номер автомобиля, модель и договор. Необязательные поля можно оставить пустыми.\nОбслуживать до: Дата окончания обслуживания, если нужно ограничить срок.\nНомер, модель: Регистрационный номер и модель для поиска машины.\nДоговор: Номер или название договора, если используется.",
+      "stepTextHash": "1f0a0bf6f93e5db7ca2d1ce83fd30d2619d636d54e32b3ce19c38d7481299ac4",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 7: Срок, номер, модель, договор вместе; Save вне рамки; обычный и увеличенный вид."
+    },
+    {
+      "output": "transport-add-save.svg",
+      "sourceHash": "375164ca683b0fcb73f674c60e8c74b3b73d5f1b6c1b41d389e06c454570a2ee",
+      "svgHash": "cfb85adb2ca1c7b23e5fc98f0bdffa73330a947ceb19e072cf6232b68838b90a",
+      "stepText": "Проверьте данные и нажмите «Сохранить».",
+      "stepTextHash": "991da9714d0187c2c17e76ad128c3830aad004bf2c6c4833b0dfbcd02b660a66",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 8: Только Save с прямой стрелкой, обязательные поля заполнены выше; обычный и увеличенный вид."
+    },
+    {
+      "output": "transport-list.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "37c03f2741bc353881a54c54918748c78b42ec33da7bcd16bc352b87f03efb8b",
+      "stepText": "После сохранения найдите созданное ТС в списке и сверьте его компанию, RFID и тип лимита.",
+      "stepTextHash": "6438e8f22919370c5541876e622e108b3e9c024e377389a6c2355108c92f42ce",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 9: Показана таблица, где искать и сверять результат, без подставленной новой записи; статья и увеличение."
+    },
+    {
+      "output": "controller-write.svg",
+      "sourceHash": "61b3ba344800fd41e75fab22c04f0e87896142124289cd627131fc4fba92354f",
+      "svgHash": "3b6a627d1af94bf40ef0364fe8a670b6446a0d4ab97a3e17bd45790516caf2ae",
+      "stepText": "Чтобы добавленное ТС обслуживалось на выбранных ТРК, запишите транспорт и его лимиты в соответствующие контроллеры.\nПри включённом автоопросе сервис автоматически записывает и считывает данные раз в 15 минут. При выключенном автоопросе потребуется записать данные вручную или включить автоопрос.\nНиже есть инструкция, описывающая все действия для записи данных в контроллер.",
+      "stepTextHash": "6c338cae6fefa90519ba0506acfd2cbddf89ec6d8fe77453900915bc15477b4a",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 10: Общее реальное окно записи, выделен список транспорта и лимитов; инструкция использует общий помощник; статья и увеличение."
+    }
+  ]
+}

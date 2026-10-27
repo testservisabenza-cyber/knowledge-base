@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "manifestHash": "862ad05e9bfdf9438706a7585c61af003e8998472bf77959f696d6e113a1d70b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-station-settings",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "station-nav.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "bd5d9c30ab8b3b7ee8d00312e71975f4365ac4c7c0a3063c5ff0553d57da4fa5",
+      "stepText": "В левом меню откройте раздел «Станции».",
+      "stepTextHash": "afbef995451875c8acc71a8fb1aae10d94f25aa877480e7435aa92c3b181894a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Раздел Станции (0, 256, 246x40). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-find-training.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "c738fbf64465b0dd3b162a1770097eb4b3fc5790fb284b8b3f43179fb625258f",
+      "stepText": "Найдите в списке станцию, данные которой хотите изменить. Для поиска можно воспользоваться фильтром под заголовком «Название». В этом примере мы изменяем «Учебный резервуар №1».",
+      "stepTextHash": "63b9fb7b80ab9b34d35b163b9e4afdf5cf9439fa0e73494dae67dc208eeb7b08",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Учебный резервуар №1 (286, 230, 1574x61); 1: Пустой фильтр по названию (300, 191, 287x32). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "station-open-training.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "10303858a21bba12d77fa737f1fce7e65b95afd98bc0baa6f97b2b94344b3075",
+      "stepText": "В той же строке нажмите кнопку со стрелкой в столбце «Действия».",
+      "stepTextHash": "612402629cd234ceea92cf58a8431ab67340cd3850a8ee4f423411ff0f595c51",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Настройки учебного резервуара (1613, 246, 36x28). Стрелки: к рамке 0: точно в угол bottom-right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-info-tab.svg",
+      "sourceHash": "2d9a331314b71d155a8efb438456370714d305fff534281e5d479eb894c66d9e",
+      "svgHash": "578968dbc81083925d6f443d8077b1217033513b55b4e869adec2031d6ec9964",
+      "stepText": "Откройте вкладку «Основная информация».",
+      "stepTextHash": "197cdf392498f39dd2d23d0de247346c15a4a6286cbc1cfb2302f966d39ad25a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Основная информация (274, 140, 198x42). Стрелки: к рамке 0: точно в угол bottom-left; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-info-save.svg",
+      "sourceHash": "2d9a331314b71d155a8efb438456370714d305fff534281e5d479eb894c66d9e",
+      "svgHash": "ea4830d81126eec045052c892b140a88754050c945b95c349e14357c105f8e95",
+      "stepText": "Внизу формы нажмите «Сохранить изменения». После сохранения проверьте значения в карточке.",
+      "stepTextHash": "bc0595ad152bb44972de8c9a6677e58cd5bb10328eb5695d1f5f95ce589f1e22",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Сохранить изменения (286, 618, 163x37). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-coordinates.svg",
+      "sourceHash": "2d9a331314b71d155a8efb438456370714d305fff534281e5d479eb894c66d9e",
+      "svgHash": "4454365f997582cc82a01fcc58078b977bd72133930ab874841de54bee535ff4",
+      "stepText": "Если нужно уточнить положение станции на карте, заполните поля «Долгота» и «Широта» фактическими координатами объекта. Разделяйте целую и дробную части точкой.\nДолгота: Пример формата: 45.123456.\nШирота: Пример формата: 53.123456.",
+      "stepTextHash": "986a78f8f11f57abdf0687cd8ffbc3f6b8b0398a8c25f3747a7aacf65ec9f45e",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Долгота и широта (819, 288, 509x148). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "station-info-fields.svg",
+      "sourceHash": "2d9a331314b71d155a8efb438456370714d305fff534281e5d479eb894c66d9e",
+      "svgHash": "85d188d73c5adaa555b81dd7322624efd656e37ad20c274317993a0b388f89b9",
+      "stepText": "Измените нужные поля: название, часовой пояс, описание, серийный номер или наряд-заказ. Часовой пояс задайте относительно Москвы. Компания показана в отдельном поле; на снимке она недоступна для изменения.\nНазвание: Название станции в списках benzamat ПРО.\nЧасовой пояс (по МСК): 0 — время как в Москве; 1 — на час позже Москвы; -1 — на час раньше Москвы. Например, когда в Москве 12:00, на объекте при значении 1 будет 13:00, а при -1 — 11:00.\nОписание, серийный номер, наряд заказ: Дополнительные сведения для идентификации объекта.",
+      "stepTextHash": "cf9a27d05d391a48b88faea52ca8a3875b4ff3f3af8ea6f5422cd5af15409d3c",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Название, часовой пояс, описание и серийный номер (286, 206, 509x396); 1: Наряд заказ (819, 206, 509x66). Стрелок нет, состояние и поля показаны рамками."
+    }
+  ],
+  "inspectedAt": "2026-10-08",
+  "inspectionEnvironment": "Individual clean sources and complete SVGs: 1920x1080. Article viewport: 1920x889; both themes, background choices, step navigation, 125% image zoom and PNG clipboard inspected. Original dark theme and background restored."
+}

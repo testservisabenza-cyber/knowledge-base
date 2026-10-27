@@ -1,0 +1,315 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-model",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "list-connection.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "77e1c0bb52ae792aeae154447fa1e6ef4b19105990187a65dcf273880deb9eaa",
+      "stepText": "В столбце «GSM» значок показывает связь по мобильной сети, а «ETH» — подключение через Ethernet. Если связи нет, новые данные не поступят в сервис.",
+      "stepTextHash": "29d22beae053287b970352eda6c42b3a3ac587ef075018eb2848dd72d051f7f5",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Индикатор GSM второй строки выделен отдельно. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "list-license.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "01a013ce65b3de20a23574301899e54f7bb4529f52c63b6908cb6a7714afa2f1",
+      "stepText": "В столбце «Лицензия до» указан срок услуги. У нового контроллера до первого чтения может стоять «Неизвестно»; срок услуги можно сверить в benzamat Оплата.",
+      "stepTextHash": "5f5a85c8f78df1e10df89533e15e1edf9dbe314a1143af14135ddffe4fe9755f",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Срок услуги второй строки читается полностью. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "list-poll.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "b7f232159947c4e37d4d00551509be9c71dc4e3edf205a10691ea08e0a0731a6",
+      "stepText": "«Успешный опрос» показывает, когда контроллер последний раз передал данные. Если время старое, новые операции могли ещё не попасть в ПРО.\n\nПосле сохранения на сайте проверьте время «Успешный опрос»: по нему видно, когда контроллер снова обменивался данными с ПРО.",
+      "stepTextHash": "6d1d2e29e87249bed0ad032a008e24e331ead6e6b24b5245a9ee9d1c6150a5ee",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Время успешного опроса второй строки читается; оба использования просмотрены. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "list-autopoll.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d505d7aac7b4c2a745b3d42decf9b14b01e84466ac0f2ade2e743aca12869185",
+      "stepText": "Столбец «Автоопрос» показывает, включён ли автоматический обмен. При включённом автоопросе ПРО обычно запрашивает данные примерно раз в 15 минут.",
+      "stepTextHash": "c455e62b87d1316971d96079fe12ca3cb016a9df1a25a626d4de983091af24f7",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Статус Отключено выделен отдельно. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "list-working.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "9de8edee0ad558864fc0499afce7be39ca58c537f2d882a77247885335a2a0cb",
+      "stepText": "Каждая строка таблицы — отдельный контроллер. В ней видны название, ID, связь, срок услуги и время последнего успешного опроса. Поля под заголовками помогают найти устройство.",
+      "stepTextHash": "41518ad3fbacf239c3638e99474061923528f4e2dca222be1ce3db8fe013d2b2",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Работающий контроллер выделен одной строкой до автоопроса, текст описывает видимые столбцы. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "card-tabs.svg",
+      "sourceHash": "7a33687948df0718d9707fa149cec7f752f5fecd00df9d86a464838e4ed27198",
+      "svgHash": "a73c74b1328c9906f29b2d9352b4d5a7561c0ff5834ace77c386a7c191ce3aaf",
+      "stepText": "Вкладки карточки разделяют настройки оборудования, уровнемеры, пользователей, транспорт, компании и журнал сообщений.",
+      "stepTextHash": "c8ca6910bc6e072f623794fc305d6c0dca80e252f13826c9ab6bf3d3a29f5372",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Вкладки карточки в общей рамке, без стрелок в обзорном блоке. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "settings-menu.svg",
+      "sourceHash": "7a33687948df0718d9707fa149cec7f752f5fecd00df9d86a464838e4ed27198",
+      "svgHash": "8806dae9ea845ff44245dd781cac8b1313bd3ea2ed3dc4145bf8d7af57bb618e",
+      "stepText": "Меню настроек содержит параметры подключённого оборудования: насоса, клапанов, датчика расхода, внешних входов, налива и связи. Меняйте только разделы для устройств, которые установлены на объекте.",
+      "stepTextHash": "b386f5a9703d205bbfaed623607d923e34d3e52a756322fb52680aa227aee7f9",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Аппаратные настройки обведены целиком, названия не перекрыты. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "operations-button.svg",
+      "sourceHash": "8243b7289e1b670096b12adea8d438d285f58935bf20c99a40232d790fd6d938",
+      "svgHash": "4ee615bf280c90ed186a1a92e29438c55007de4401c8faf772665e8b2f9c1448",
+      "stepText": "Переключатель «Автоопрос включен» находится в основной форме. Если автоопрос выключен, чтение данных и запись настроек запускают вручную из меню «Действия с контроллерами».",
+      "stepTextHash": "d30f3bd14971ea92e207e85cde53833d836c64e3e755e4273f7aebfa9cb7f002",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Меню ручных операций открыто, у кнопки собственная горизонтальная стрелка. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "sections-tab.svg",
+      "sourceHash": "37963413e7ea510ebb9872a8c06b678f930bd63008bee732d0d4da638258e5b4",
+      "svgHash": "005046319bdd0a1fb77cf58b87c51edc57bbeaa73fb295d596fd0f3c6150c535",
+      "stepText": "В «Настройки» → «Секции» свяжите контроллер с нужными секциями станции. Так для каждой части резервуара можно выбрать свой уровнемер и рукав.",
+      "stepTextHash": "2f6ffe21a97992a0d13a544df7b74b2d8e16994c792bd4f672204e7c7d15234d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Секции с диагональю к углу; пустая таблица реального состояния видна. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "gauge-types.svg",
+      "sourceHash": "dd3be14427cef13d2555ef82f9fc948d88cf50849e0b2c6cf62577f3bad2f201",
+      "svgHash": "85ad45483cc50e1dca67a5f48bbd869eeb906b1c8a593c5c2870274f10bb47b2",
+      "stepText": "На вкладке «Уровнемеры» выберите тип подключённого прибора: «201», Omnicomm, ППП Струна+, Veeder-Root TLS, ПМП 118 или ПМП201 Modbus.",
+      "stepTextHash": "811fa7b8abb7e8798b264777169effb1e809d23d07c310ff0942c9f439bbdae0",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Поле и раскрытый список в одной рамке. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "gauge-slot.svg",
+      "sourceHash": "53c2a7e0e31b8808fad053f7144f9863a0638dc886248dd5a750606a09090f46",
+      "svgHash": "c8a22b0319d321fcd62e1cd9304b4b44f4027dc322c95329b6a03876d2309f32",
+      "stepText": "Для прибора «201» включите используемый канал и задайте его адрес. На снимке включён первый канал; остальные не используются.",
+      "stepTextHash": "0edf3ffb81e7fe340dc9ef57b964142e57eadcc1c5ff147e498dc67f1ed1af81",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Первый канал включён, адрес 0 виден; текст не обещает настроенное значение 1. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "main-overview.svg",
+      "sourceHash": "7a33687948df0718d9707fa149cec7f752f5fecd00df9d86a464838e4ed27198",
+      "svgHash": "c98f15dab3be6910e7d87b5cf2d6ba213d5d48197a94290c82de1d615d112f34",
+      "stepText": "В разделе «Основное» находятся станция, считыватель, режим работы и автоопрос. ID, модель и версии помогают сверить устройство.",
+      "stepTextHash": "9fce6d638320598fe5b1785126a9f898e83c8a3b375f0bbf51d57426b3f2984d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Раздел Основное и видимая форма в отдельных рамках, соседние поля не пересечены. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "gauge-omnicomm-overview.svg",
+      "sourceHash": "7a11e87f74f5c2f691dab2ed4bcebfcd5f426761a4ff362c825d4ba3845fca28",
+      "svgHash": "fa22d3a56467c5ee239e68ebbde3cb95b795a93ee35827a5c6c9dbd427dbe0cb",
+      "stepText": "Для Omnicomm выберите тип прибора, включите используемые каналы и укажите адрес каждого подключённого датчика. Адрес берите из настроек самого прибора.",
+      "stepTextHash": "d7c3c5ada0e42bd48e485c33dda228ac227a76069f05d81516cd52bc3e939da6",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Тип Omnicomm и первый канал в отдельных рамках, сохранение исключено. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "modem-overview.svg",
+      "sourceHash": "f476e6a0b900758a69de5860f0cd3f5c6dd423b5c9b67af21d71b57e39c8369a",
+      "svgHash": "2460e329a3541723bfb3455a0d591314dfad15acad3b0a6fa1599a74dd286e48",
+      "stepText": "В разделе «Модем» задаются режим сети, точка доступа APN, пользователь, пароль, сервер и порт. APN и данные доступа берите у оператора связи, сервер и порт — из схемы подключения оборудования.",
+      "stepTextHash": "880a368d758e94f21c4df9633583e07e5d099f793733335ba2f2634418bf133b",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Все описанные поля модема выделены без кнопки Сохранить; APN содержит реальную ошибку интерфейса. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    }
+  ]
+}

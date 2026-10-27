@@ -1,0 +1,1137 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.640625,
+          "selector": "a#transports",
+          "target": "Меню Транспорт",
+          "width": 246,
+          "x": 0,
+          "y": 375.234375
+        }
+      ],
+      "output": "transport-nav.svg",
+      "title": "transport-nav",
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            284,
+            395.0546875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 319.640625,
+          "selector": "table",
+          "target": "Таблица транспорта",
+          "width": 1574,
+          "x": 286,
+          "y": 154.53125
+        }
+      ],
+      "output": "transport-list.svg",
+      "title": "transport-list",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 61.0625,
+          "selector": "tbody tr:nth-child(1)",
+          "target": "ТС Пенза",
+          "width": 1574,
+          "x": 286,
+          "y": 229.921875
+        }
+      ],
+      "output": "transport-row.svg",
+      "title": "transport-row",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr:nth-child(1) td:last-child button:nth-child(1)",
+          "target": "Открыть ТС",
+          "width": 36,
+          "x": 1613.671875,
+          "y": 245.921875
+        }
+      ],
+      "output": "transport-open.svg",
+      "title": "transport-open",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "bottom-right",
+          "from": [
+            1694.671875,
+            301.984375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr:nth-child(1) td:last-child button:nth-child(2)",
+          "target": "Удалить ТС",
+          "width": 36,
+          "x": 1665.671875,
+          "y": 245.921875
+        }
+      ],
+      "output": "transport-delete.svg",
+      "title": "transport-delete",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1786.671875,
+            259.953125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 61.0625,
+          "selector": "tbody tr:nth-child(4)",
+          "target": "Камаз",
+          "width": 1574,
+          "x": 286,
+          "y": 413.109375
+        }
+      ],
+      "output": "transport-limits-row.svg",
+      "title": "transport-limits-row",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr:nth-child(4) td:last-child button:nth-child(1)",
+          "target": "Открыть Камаз",
+          "width": 36,
+          "x": 1613.671875,
+          "y": 429.109375
+        }
+      ],
+      "output": "transport-limits-open.svg",
+      "title": "transport-limits-open",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "bottom-right",
+          "from": [
+            1694.671875,
+            485.171875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "button.dropdown-toggle",
+          "target": "Добавить ТС",
+          "width": 111.46875,
+          "x": 1772.53125,
+          "y": 94
+        }
+      ],
+      "output": "transport-actions.svg",
+      "title": "transport-actions",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1687.53125,
+            112.265625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/menu.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": ".dropdown-menu a:nth-child(1)",
+          "target": "Добавить ТС",
+          "width": 160,
+          "x": 1724,
+          "y": 138.53125
+        }
+      ],
+      "output": "transport-add-menu.svg",
+      "title": "transport-add-menu",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1639,
+            153.875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/menu.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 30.6875,
+          "selector": ".dropdown-menu a:nth-child(2)",
+          "target": "Импорт из excel",
+          "width": 160,
+          "x": 1724,
+          "y": 169.21875
+        }
+      ],
+      "output": "transport-import-menu.svg",
+      "title": "transport-import-menu",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "bottom-right",
+          "from": [
+            1908,
+            224.90625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/delete-dialog.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "index": 0,
+          "selector": "[role=\"dialog\"] .modal-footer button",
+          "target": "Подтвердить удаление",
+          "width": 105.421875,
+          "x": 1007.21875,
+          "y": 171.640625
+        }
+      ],
+      "output": "transport-delete-submit.svg",
+      "title": "transport-delete-submit",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            922.21875,
+            189.90625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/add-top.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 233.359375,
+          "selector": "[role=\"dialog\"] form > div:nth-child(-n+2)",
+          "target": "Название, компания, контроллеры",
+          "width": 380,
+          "x": 1524,
+          "y": 98,
+          "measurement": "Field labels and controls in the same captured drawer; 4 px inset from left and scrollbar edge"
+        }
+      ],
+      "output": "transport-add-main.svg",
+      "title": "transport-add-main",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/add-top.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 233.359375,
+          "selector": "[role=\"dialog\"] form > div:nth-child(n+3):nth-child(-n+5)",
+          "target": "Авторизация и карта",
+          "width": 380,
+          "x": 1524,
+          "y": 347.359375,
+          "measurement": "Field labels and controls in the same captured drawer; 4 px inset from left and scrollbar edge"
+        }
+      ],
+      "output": "transport-add-auth.svg",
+      "title": "transport-add-auth",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/add-bottom.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 396.171875,
+          "selector": "[role=\"dialog\"] form > div:nth-of-type(n+6):nth-of-type(-n+8) label, [role=\"dialog\"] form > div:nth-of-type(n+6):nth-of-type(-n+8) input, [role=\"dialog\"] form > div:nth-of-type(n+6):nth-of-type(-n+8) .select__control",
+          "width": 380,
+          "x": 1524,
+          "y": 294.25,
+          "target": "План, месячный и дневной лимиты",
+          "measurement": "Field labels and controls in the same captured drawer; 4 px inset from left and scrollbar edge"
+        }
+      ],
+      "output": "transport-add-limit.svg",
+      "title": "transport-add-limit",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/add-bottom.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 304.5625,
+          "selector": "[role=\"dialog\"] form > div:nth-of-type(n+9):nth-of-type(-n+12) label, [role=\"dialog\"] form > div:nth-of-type(n+9):nth-of-type(-n+12) input",
+          "width": 380,
+          "x": 1524,
+          "y": 706.421875,
+          "target": "Дополнительные сведения транспорта",
+          "measurement": "Field labels and controls in the same captured drawer; 4 px inset from left and scrollbar edge"
+        }
+      ],
+      "output": "transport-add-optional.svg",
+      "title": "transport-add-optional",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/add-bottom.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "[role=\"dialog\"] form > div:last-child button",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 1026.984375,
+          "target": "Сохранить транспорт"
+        }
+      ],
+      "output": "transport-add-save.svg",
+      "title": "transport-add-save",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1452,
+            1045.25
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/import.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 27.0625,
+          "selector": "[role=\"dialog\"] a",
+          "target": "Скачать шаблон",
+          "width": 104.203125,
+          "x": 1537,
+          "y": 396.875
+        }
+      ],
+      "output": "transport-import-template.svg",
+      "title": "transport-import-template",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1452,
+            410.40625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/import.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.609375,
+          "selector": "[role=\"dialog\"] form > div:nth-child(1)",
+          "target": "Компания",
+          "width": 380,
+          "x": 1524,
+          "y": 471.328125,
+          "measurement": "Field labels and controls in the same captured drawer; 4 px inset from left and scrollbar edge"
+        }
+      ],
+      "output": "transport-import-company.svg",
+      "title": "transport-import-company",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/import.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 151.21875,
+          "selector": "[role=\"dialog\"] form > div:nth-child(2),[role=\"dialog\"] form > div:nth-child(3)",
+          "target": "Контроллеры и тип карты",
+          "width": 380,
+          "x": 1524,
+          "y": 554.9375,
+          "measurement": "Field labels and controls in the same captured drawer; 4 px inset from left and scrollbar edge"
+        }
+      ],
+      "output": "transport-import-controls.svg",
+      "title": "transport-import-controls",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/import.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "[role=\"dialog\"] input[type=\"file\"]",
+          "target": "Выбрать файл",
+          "width": 367,
+          "x": 1537,
+          "y": 722.15625
+        }
+      ],
+      "output": "transport-import-file.svg",
+      "title": "transport-import-file",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1452,
+            740.421875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/import.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "[role=\"dialog\"] button[type=\"submit\"]",
+          "target": "Сохранить импорт",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 774.6875
+        }
+      ],
+      "output": "transport-import-save.svg",
+      "title": "transport-import-save",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1452,
+            792.953125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/card.png",
+      "sourceUrl": "https://pro.benza.online/transport/9455",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"][data-rr-ui-event-key=\"maininfo\"]",
+          "target": "Основная информация",
+          "width": 197.640625,
+          "x": 274,
+          "y": 119.59375
+        },
+        {
+          "height": 312.5625,
+          "selector": "form .row > div:nth-child(1) label,form .row > div:nth-child(1) input:not([type=\"hidden\"])",
+          "target": "Название, номер, модель, договор",
+          "width": 516.65625,
+          "x": 286,
+          "y": 178.09375
+        },
+        {
+          "height": 443.640625,
+          "selector": "form .row > div:nth-child(2) label,form .row > div:nth-child(2) input,form .row > div:nth-child(2) .select__control",
+          "target": "Карта, срок, компания",
+          "width": 516.65625,
+          "x": 826.65625,
+          "y": 178.09375
+        }
+      ],
+      "output": "transport-card-info.svg",
+      "title": "transport-card-info",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "top-right",
+          "from": [
+            513.640625,
+            84.59375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/card.png",
+      "sourceUrl": "https://pro.benza.online/transport/9455",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"][data-rr-ui-event-key=\"maininfo\"]",
+          "target": "Основная информация",
+          "width": 197.640625,
+          "x": 274,
+          "y": 119.59375
+        },
+        {
+          "height": 312.5625,
+          "selector": "form .row > div:nth-child(1) label,form .row > div:nth-child(1) input:not([type=\"hidden\"])",
+          "target": "Название, номер, модель, договор",
+          "width": 516.65625,
+          "x": 286,
+          "y": 178.09375
+        },
+        {
+          "height": 443.640625,
+          "selector": "form .row > div:nth-child(2) label,form .row > div:nth-child(2) input,form .row > div:nth-child(2) .select__control",
+          "target": "Карта, срок, компания",
+          "width": 516.65625,
+          "x": 826.65625,
+          "y": 178.09375
+        },
+        {
+          "height": 36.53125,
+          "selector": "form button:not(.mb-2)",
+          "target": "Сохранить ТС",
+          "width": 91.28125,
+          "x": 286,
+          "y": 506.65625
+        }
+      ],
+      "output": "transport-card-check-save.svg",
+      "title": "transport-card-check-save",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "top-right",
+          "from": [
+            513.640625,
+            84.59375
+          ]
+        },
+        {
+          "box": 3,
+          "toSide": "right",
+          "from": [
+            462.28125,
+            524.921875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/card.png",
+      "sourceUrl": "https://pro.benza.online/transport/9455",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "form button:not(.mb-2)",
+          "target": "Сохранить ТС",
+          "width": 91.28125,
+          "x": 286,
+          "y": 506.65625
+        }
+      ],
+      "output": "transport-card-save.svg",
+      "title": "transport-card-save",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            462.28125,
+            524.921875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/limits.png",
+      "sourceUrl": "https://pro.benza.online/transport/430",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"][data-rr-ui-event-key=\"limit\"]",
+          "target": "Вкладка Лимиты",
+          "width": 89.5,
+          "x": 471.640625,
+          "y": 119.59375
+        }
+      ],
+      "output": "transport-limits-tab.svg",
+      "title": "transport-limits-tab",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "top-right",
+          "from": [
+            603.140625,
+            84.59375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/limits.png",
+      "sourceUrl": "https://pro.benza.online/transport/430",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"][data-rr-ui-event-key=\"limit\"]",
+          "target": "Вкладка Лимиты",
+          "width": 89.5,
+          "x": 471.640625,
+          "y": 119.59375
+        }
+      ],
+      "output": "transport-limits-tab-day.svg",
+      "title": "transport-limits-tab-day",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "top-right",
+          "from": [
+            603.140625,
+            84.59375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/limits.png",
+      "sourceUrl": "https://pro.benza.online/transport/430",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 397.953125,
+          "selector": "#uncontrolled-tab-example-tabpane-limit .col-lg-9",
+          "target": "Лимитный план и карточки",
+          "width": 1216.5,
+          "x": 679.5,
+          "y": 186.09375
+        }
+      ],
+      "output": "transport-limits-plan-day.svg",
+      "title": "transport-limits-plan-day",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/limits.png",
+      "sourceUrl": "https://pro.benza.online/transport/430",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "index": 0,
+          "selector": "button:has(svg.lucide-pencil)",
+          "target": "Дневной карандаш",
+          "width": 36,
+          "x": 1218.75,
+          "y": 290.703125
+        }
+      ],
+      "output": "transport-limits-pencil-day.svg",
+      "title": "transport-limits-pencil-day",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "bottom-right",
+          "from": [
+            1299.75,
+            346.765625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/limit-edit.png",
+      "sourceUrl": "https://pro.benza.online/transport/430",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 231.890625,
+          "selector": "[role=\"dialog\"] form label,[role=\"dialog\"] form input,[role=\"dialog\"] form .select__control",
+          "target": "Поля изменения лимита",
+          "width": 380,
+          "x": 1524,
+          "y": 98,
+          "measurement": "Field labels and controls in the same captured drawer; 4 px inset from left and scrollbar edge"
+        }
+      ],
+      "output": "transport-limits-edit-form.svg",
+      "title": "transport-limits-edit-form",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/limit-edit.png",
+      "sourceUrl": "https://pro.benza.online/transport/430",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "[role=\"dialog\"] button[type=\"submit\"]",
+          "target": "Сохранить лимит",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 345.890625
+        }
+      ],
+      "output": "transport-limits-edit-save.svg",
+      "title": "transport-limits-edit-save",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1452,
+            364.15625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/controllers.png",
+      "sourceUrl": "https://pro.benza.online/transport/9455",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"][data-rr-ui-event-key=\"controllers\"]",
+          "target": "Вкладка Контроллеры",
+          "width": 128.125,
+          "x": 561.140625,
+          "y": 119.59375
+        },
+        {
+          "height": 128.40625,
+          "selector": "table",
+          "target": "Таблица контроллеров",
+          "width": 1598,
+          "x": 286,
+          "y": 178.09375
+        }
+      ],
+      "output": "transport-controllers-row.svg",
+      "title": "transport-controllers-row",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "top-right",
+          "from": [
+            731.265625,
+            84.59375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/controllers.png",
+      "sourceUrl": "https://pro.benza.online/transport/9455",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 53.015625,
+          "selector": "tbody tr",
+          "target": "Связь и автоопрос",
+          "width": 1598,
+          "x": 286,
+          "y": 253.484375
+        }
+      ],
+      "output": "transport-controllers-state.svg",
+      "title": "transport-controllers-state",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/transports",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.640625,
+          "selector": "a#transports",
+          "target": "Меню Транспорт",
+          "width": 246,
+          "x": 0,
+          "y": 375.234375
+        },
+        {
+          "height": 319.640625,
+          "selector": "table",
+          "target": "Таблица транспорта",
+          "width": 1574,
+          "x": 286,
+          "y": 154.53125
+        }
+      ],
+      "output": "overview-list.svg",
+      "title": "overview-list",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/card.png",
+      "sourceUrl": "https://pro.benza.online/transport/9455",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"][data-rr-ui-event-key=\"maininfo\"]",
+          "target": "Основная информация",
+          "width": 197.640625,
+          "x": 274,
+          "y": 119.59375
+        },
+        {
+          "height": 312.5625,
+          "selector": "form .row > div:nth-child(1) label,form .row > div:nth-child(1) input:not([type=\"hidden\"])",
+          "target": "Название, номер, модель, договор",
+          "width": 516.65625,
+          "x": 286,
+          "y": 178.09375
+        },
+        {
+          "height": 443.640625,
+          "selector": "form .row > div:nth-child(2) label,form .row > div:nth-child(2) input,form .row > div:nth-child(2) .select__control",
+          "target": "Карта, срок, компания",
+          "width": 516.65625,
+          "x": 826.65625,
+          "y": 178.09375
+        }
+      ],
+      "output": "overview-info.svg",
+      "title": "overview-info",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/card.png",
+      "sourceUrl": "https://pro.benza.online/transport/9455",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"][data-rr-ui-event-key=\"maininfo\"]",
+          "target": "Основная информация",
+          "width": 197.640625,
+          "x": 274,
+          "y": 119.59375
+        },
+        {
+          "height": 443.640625,
+          "selector": "form .row > div:nth-child(2) label,form .row > div:nth-child(2) input,form .row > div:nth-child(2) .select__control",
+          "target": "Карта, срок, компания",
+          "width": 516.65625,
+          "x": 826.65625,
+          "y": 178.09375
+        }
+      ],
+      "output": "overview-reader.svg",
+      "title": "overview-reader",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/limits.png",
+      "sourceUrl": "https://pro.benza.online/transport/430",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"][data-rr-ui-event-key=\"limit\"]",
+          "target": "Вкладка Лимиты",
+          "width": 89.5,
+          "x": 471.640625,
+          "y": 119.59375
+        },
+        {
+          "height": 397.953125,
+          "selector": "#uncontrolled-tab-example-tabpane-limit .col-lg-9",
+          "target": "Лимитный план и карточки",
+          "width": 1216.5,
+          "x": 679.5,
+          "y": 186.09375
+        }
+      ],
+      "output": "overview-limits.svg",
+      "title": "overview-limits",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/controllers.png",
+      "sourceUrl": "https://pro.benza.online/transport/9455",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"][data-rr-ui-event-key=\"controllers\"]",
+          "target": "Вкладка Контроллеры",
+          "width": 128.125,
+          "x": 561.140625,
+          "y": 119.59375
+        },
+        {
+          "height": 128.40625,
+          "selector": "table",
+          "target": "Таблица контроллеров",
+          "width": 1598,
+          "x": 286,
+          "y": 178.09375
+        }
+      ],
+      "output": "overview-controllers.svg",
+      "title": "overview-controllers",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/history.png",
+      "sourceUrl": "https://pro.benza.online/transport/9455",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"][data-rr-ui-event-key=\"historyСhanges\"]",
+          "target": "История изменений",
+          "width": 174.984375,
+          "x": 689.265625,
+          "y": 119.59375
+        },
+        {
+          "height": 175.390625,
+          "selector": "table",
+          "target": "Журнал изменений",
+          "width": 1598,
+          "x": 286,
+          "y": 230.625
+        }
+      ],
+      "output": "overview-history.svg",
+      "title": "overview-history",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/user-ts.png",
+      "sourceUrl": "https://pro.benza.online/user/52651",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 67.609375,
+          "selector": "div.mb-3:has(#react-select-19-input) label,div.mb-3:has(#react-select-19-input) .select__control",
+          "target": "Авторизация ТС — Да",
+          "width": 575.25,
+          "x": 1284.75,
+          "y": 300.640625
+        }
+      ],
+      "output": "user-ts-auth.svg",
+      "title": "user-ts-auth",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/controller-write.png",
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 43.21875,
+          "index": 2,
+          "selector": "[role=\"dialog\"] .form-check:has(input[type=\"checkbox\"])",
+          "target": "Запись списка транспорта и лимитов",
+          "width": 466,
+          "x": 719.5,
+          "y": 178.46875
+        }
+      ],
+      "output": "controller-write.svg",
+      "title": "controller-write",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/user-as-vehicle.jpg",
+      "output": "user-as-vehicle.svg",
+      "title": "Заправка машины по карте пользователя",
+      "sourceUrl": "https://pro.benza.online/users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 148.28125,
+          "width": 388,
+          "x": 1526,
+          "y": 98,
+          "target": "Модель и номер машины в полях Фамилия и Имя",
+          "selector": "input[name=\"Lastname\"], input[name=\"Firstname\"]"
+        },
+        {
+          "height": 67.609375,
+          "width": 388,
+          "x": 1526,
+          "y": 595.25,
+          "target": "Авторизация ТС: Нет",
+          "selector": "input[name=\"AuthTransport\"]"
+        }
+      ]
+    }
+  ]
+}

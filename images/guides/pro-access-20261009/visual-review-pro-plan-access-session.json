@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "manifestHash": "d9c0cf0abf6f37852c9d58596236bf3b765bba690c93dafc6cecee383e0c1344",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-access-session",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "articleInspectionNote": "Каждый шаг просмотрен в статье; обе темы, режимы фона, увеличение, подтверждение копирования и переходы проверены. Ссылки открывают новую вкладку. Тёмная тема и фон под инструкцией восстановлены; временный размер окна сброшен.",
+  "shots": [
+    {
+      "output": "sessions-nav.svg",
+      "sourceHash": "0158421c56f8bbf6e2ea4e5971203b3721782356d3be5996e0a414be4303f652",
+      "svgHash": "76d1e343f8d06cf7837b232880b4d0e1182ee37812a92b61fc49745481510b30",
+      "stepText": "В левом меню откройте «Управление входом».",
+      "stepTextHash": "aa211bd456db9b09d29c64bb93b782ddd1dae3ab7d0a53a224b29e12bb9eacf8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделение Управление входом по ширине меню, справа малый отступ, стрелка горизонтально. Шаг 1: Управление входом по ширине меню, прямая стрелка."
+    },
+    {
+      "output": "sessions-row.svg",
+      "sourceHash": "0158421c56f8bbf6e2ea4e5971203b3721782356d3be5996e0a414be4303f652",
+      "svgHash": "5716d062c41744085dff8edec4776f57777fad9e62fc11c2965dc091d3fc04ab",
+      "stepText": "Найдите сессию по пользователю, источнику, IP и времени создания. Сверьте срок «Истекает». В примере показан вход учебного аккаунта через веб-приложение; в своей таблице выбирайте именно нужную запись.",
+      "stepTextHash": "19fe11b2295ef67e48b1417419f3a0352f524adba239428686d3191b2086d00d",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Целая строка учебной веб-сессии; срок и источник видны, рамка не касается текста. Шаг 2: Первая строка реальной сессии и все её колонки, срок виден."
+    },
+    {
+      "output": "sessions-delete.svg",
+      "sourceHash": "0158421c56f8bbf6e2ea4e5971203b3721782356d3be5996e0a414be4303f652",
+      "svgHash": "54448803b876b59a18eace93af145316fba9bc3604c0a928388270e068fafcd9",
+      "stepText": "Нажмите красную корзину в строке нужной сессии. Проверьте исчезновение записи. Завершается именно этот вход; другие сессии пользователя нужно проверять отдельно. Следующий вход потребует новой авторизации.",
+      "stepTextHash": "bfae6078d55240174e7616e4d20774bf25847279dae91ecedf6712329dd87d83",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только корзина действующей учебной сессии; стрелка справа в пустом месте. Шаг 3: Только корзина первой сессии со стрелкой справа."
+    }
+  ]
+}

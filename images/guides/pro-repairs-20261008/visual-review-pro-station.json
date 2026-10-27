@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "manifestHash": "c8e260613d7ac0ffc4276d110d9a376362b1be6fe7c894643d27728f6ec56241",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-station",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "station-nav.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "55813cc2a705b818b84342abc61f6e24db890d3bdb6d0eadfbdf5e6a3d92708f",
+      "stepText": "В левом меню откройте раздел «Станции».",
+      "stepTextHash": "afbef995451875c8acc71a8fb1aae10d94f25aa877480e7435aa92c3b181894a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт «Станции» виден целиком в левом меню. Стрелка проходит в свободном промежутке перед строкой таблицы. Проверен в статье и увеличении при 1920×1080."
+    },
+    {
+      "output": "station-add-button.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "0a5da166b5879a14d9db3e220cfb69a1c2803c34b1d71acf702bc28601fa12dd",
+      "stepText": "Над списком станций нажмите «Добавить». Справа откроется форма «Добавление станции».",
+      "stepTextHash": "a3fbf9b68866c78d28654b937e95a9d8acea7a3e8ffcfc7a7c5d9a653c2007c9",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка «Добавить» над таблицей выделена отдельно; стрелка слева не пересекает заголовки. Обычный размер статьи и увеличение проверены."
+    },
+    {
+      "output": "station-result-row.svg",
+      "sourceHash": "eeda4d50377dd06e2bfbe8215aea95d82bc54b32ca7a6ff387c57bbf9b3e604b",
+      "svgHash": "797af34414e45e5ffd2a7efdaa091badb0b9d0c847d28842001ad668fe4b638d",
+      "stepText": "Убедитесь, что станция появилась в списке и привязана к нужной компании. На снимке — «Учебный резервуар №1» компании ООО «Пенза-Топливо».",
+      "stepTextHash": "8594c23e85e6d31c877981d0bfa093a746dcaed68e669e121ace15f55cb97639",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Вся строка учебной станции и компании обведена одной рамкой. Лишняя рамка фильтра удалена. Отдельно проверены исходник, полный SVG, статья и увеличенный просмотр."
+    },
+    {
+      "output": "station-add-required.svg",
+      "sourceHash": "ce8936fc67d6427016b85e1c482d5b39ae77efb7ecc3647982558eb5048f7233",
+      "svgHash": "9fa87270de1bf9c6a2f676c1899f14316f0f651d11b0cdf06f9340b668e7eb3c",
+      "stepText": "Заполните три поля со звёздочкой. Часовой пояс указывается как разница с московским временем: на снимке стоит 0, то есть время объекта совпадает с московским.\nНазвание: Укажите понятное название резервуара или объекта, по которому его можно найти в списке.\nКомпания: Выберите организацию, которой принадлежит станция.\nЧасовой пояс (по МСК): 0 — время как в Москве; 1 — на час позже Москвы; -1 — на час раньше Москвы. Например, если в Москве 12:00, на объекте будет соответственно 12:00, 13:00 или 11:00.",
+      "stepTextHash": "0a8019a941d224d3bb11bd047a81581e6b4337c7db72d7a456ff188bef6c7ea4",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Единая рамка включает название, компанию и часовой пояс со значением 0. Подписи и значения читаются, кнопка добавления вне рамки."
+    },
+    {
+      "output": "station-add-optional.svg",
+      "sourceHash": "ce8936fc67d6427016b85e1c482d5b39ae77efb7ecc3647982558eb5048f7233",
+      "svgHash": "b07d7427332a147a793600af7d00d090ac76beeb769af9f69ecfa82bf29a40b9",
+      "stepText": "При необходимости внесите описание, серийный номер, наряд-заказ и координаты. Поля без звёздочки можно оставить пустыми. На снимке показан формат координат: долгота 45.123456, широта 53.123456. Это условный пример — укажите координаты своего объекта.\nОписание, серийный номер, наряд заказ: Заполните, если эти сведения нужны для поиска и учёта объекта.\nДолгота, широта: Введите два отдельных десятичных числа с точкой: например, «Долгота» — 45.123456, «Широта» — 53.123456. Используйте фактические координаты станции, чтобы она отображалась на карте в нужном месте.",
+      "stepTextHash": "959f4019473342de0fc27133fee7919b3584ddf51877f4e3daf8ab09bd12fe54",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка включает необязательные поля и реальные введённые координаты 45.123456/53.123456. Нижняя кнопка исключена; значения совпадают с текстом."
+    },
+    {
+      "output": "station-add-submit.svg",
+      "sourceHash": "ce8936fc67d6427016b85e1c482d5b39ae77efb7ecc3647982558eb5048f7233",
+      "svgHash": "b918ad1c221e9608d1d6c3ddeb1ecc74ed42939c002c7f74dc72e52ff86fbfe8",
+      "stepText": "Проверьте введённое и нажмите «Добавить» внизу формы.",
+      "stepTextHash": "b42bd242f90efc5640e9b40df76def3d4a7309d7af9c22f599f939e7da8f993c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка направлена к нижней кнопке «Добавить», проходит по затемнённой свободной области. Проверено копирование: показан статус «Скопировано»."
+    }
+  ]
+}

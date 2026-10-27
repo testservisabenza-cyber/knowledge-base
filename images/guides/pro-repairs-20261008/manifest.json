@@ -1,0 +1,4257 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/home-top.jpg",
+      "output": "home-nav.svg",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "padding": 2,
+          "selector": "a[href=\"/dashboard\"]",
+          "target": "Главная",
+          "width": 250,
+          "x": 0,
+          "y": 135.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            320,
+            155
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Главная",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/home-top.jpg",
+      "output": "widgets-open.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Показать управление виджетами",
+          "target": "Показать управление виджетами",
+          "width": 231.296875,
+          "x": 1637.703125,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1550,
+            112
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Показать управление виджетами",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/home-top.jpg",
+      "output": "home-map-refresh.svg",
+      "boxes": [
+        {
+          "height": 27.0625,
+          "padding": 2,
+          "selector": ".card:has(h4) button:has(svg.lucide-refresh-ccw)",
+          "target": "Обновить карту",
+          "width": 34,
+          "x": 1804,
+          "y": 161.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            1821,
+            125
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Обновить карту",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/widgets-toolbar.jpg",
+      "output": "widgets-chooser-button.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Показать выбор виджетов",
+          "target": "Показать выбор виджетов",
+          "width": 187.65625,
+          "x": 286,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            309.828125,
+            60
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Показать выбор виджетов",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/widgets-toolbar.jpg",
+      "output": "widgets-unlock.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Разблокировать перемещение виджетов",
+          "target": "Разблокировать перемещение виджетов",
+          "width": 275.671875,
+          "x": 481.65625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            549.4921875,
+            60
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Разблокировать перемещение виджетов",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/widgets-toolbar.jpg",
+      "output": "widgets-reset.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Сбросить расположение виджетов",
+          "target": "Сбросить расположение виджетов",
+          "width": 238.5625,
+          "x": 765.328125,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            814.609375,
+            60
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сбросить расположение виджетов",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/widgets-toolbar.jpg",
+      "output": "widgets-hide.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Скрыть управление виджетами",
+          "target": "Скрыть управление виджетами",
+          "width": 219.6875,
+          "x": 1649.3125,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            1689.15625,
+            60
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Скрыть управление виджетами",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/widgets-choice-off.jpg",
+      "output": "widgets-choice.svg",
+      "boxes": [
+        {
+          "height": 121.1875,
+          "padding": 2,
+          "selector": "h4: Прием топлива",
+          "target": "Карточка Прием топлива",
+          "width": 296.609375,
+          "x": 929.1875,
+          "y": 317.984375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1147,
+            473
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Карточка Прием топлива",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/widgets-choice-on.jpg",
+      "output": "widgets-selected.svg",
+      "boxes": [
+        {
+          "height": 121.1875,
+          "padding": 2,
+          "selector": "h4: Прием топлива",
+          "target": "Включённый виджет Прием топлива",
+          "width": 296.609375,
+          "x": 929.1875,
+          "y": 319.984375
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Включённый виджет Прием топлива",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/widgets-choice-on.jpg",
+      "output": "widgets-choice-close.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Скрыть выбор виджетов",
+          "target": "Скрыть выбор виджетов",
+          "width": 176.03125,
+          "x": 286,
+          "y": 481.171875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            444,
+            447
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Скрыть выбор виджетов",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/widgets-moving.jpg",
+      "output": "widgets-lock.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Заблокировать перемещение виджетов",
+          "target": "Заблокировать перемещение виджетов",
+          "width": 268.78125,
+          "x": 481.65625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            546.046875,
+            60
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Заблокировать перемещение виджетов",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/widgets-moving.jpg",
+      "output": "widgets-move.svg",
+      "boxes": [
+        {
+          "height": 27.0625,
+          "padding": 2,
+          "selector": ".card:has(h4) button:has(svg.lucide-hand)",
+          "target": "Ручка перемещения виджета",
+          "width": 34,
+          "x": 1762,
+          "y": 161.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1670,
+            175
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Ручка перемещения виджета",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/home-reservoirs.jpg",
+      "output": "home-map-panel.svg",
+      "boxes": [
+        {
+          "height": 350,
+          "padding": 2,
+          "selector": ".card:has(h4) .col-md-4",
+          "target": "Список резервуаров и секций",
+          "width": 514.984375,
+          "x": 1335,
+          "y": 212.59375
+        },
+        {
+          "height": 39.640625,
+          "padding": 2,
+          "selector": "a[href=\"/dashboard\"]",
+          "target": "Главная",
+          "width": 250,
+          "x": 0,
+          "y": 135.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "toSide": "right",
+          "from": [
+            320,
+            155
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Список резервуаров и секций, Главная",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/home-reservoirs.jpg",
+      "output": "home-section-header.svg",
+      "boxes": [
+        {
+          "height": 48,
+          "padding": 2,
+          "selector": "button: Тестсекция (ДТ)",
+          "target": "Тестсекция",
+          "width": 431.984375,
+          "x": 1369,
+          "y": 266.59375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1310,
+            289
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Тестсекция",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/home-reservoirs.jpg",
+      "output": "home-section-time.svg",
+      "boxes": [
+        {
+          "height": 64.828125,
+          "padding": 3,
+          "selector": ".accordion-item:first-child .form-group span:last-child",
+          "target": "Дата показаний с уровнемера",
+          "width": 391.984375,
+          "x": 1389,
+          "y": 417.03125
+        },
+        {
+          "height": 48,
+          "padding": 2,
+          "selector": "button: Тестсекция (ДТ)",
+          "target": "Тестсекция",
+          "width": 431.984375,
+          "x": 1369,
+          "y": 266.59375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "toSide": "left",
+          "from": [
+            1310,
+            289
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Дата показаний с уровнемера, Тестсекция",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/home-reservoirs.jpg",
+      "output": "home-section-details.svg",
+      "boxes": [
+        {
+          "height": 183.265625,
+          "padding": 2,
+          "selector": ".accordion-item:first-child .accordion-body",
+          "target": "Показания секции",
+          "width": 431.984375,
+          "x": 1369,
+          "y": 314.59375
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/dashboard",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Показания секции",
+      "sourceUrl": "https://pro.benza.online/dashboard",
+      "background": "application"
+    },
+    {
+      "source": "source/stations-list.jpg",
+      "output": "station-nav.svg",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "padding": 2,
+          "selector": "a[href=\"/stations\"]",
+          "target": "Раздел Станции",
+          "width": 250,
+          "x": 0,
+          "y": 256.3125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            320,
+            276
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Раздел Станции",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/stations-list.jpg",
+      "output": "station-add-button.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Добавить",
+          "target": "Добавить станцию",
+          "width": 83.5,
+          "x": 1800.5,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1690,
+            112
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавить станцию",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/stations-list.jpg",
+      "output": "station-row.svg",
+      "boxes": [
+        {
+          "height": 61.0625,
+          "padding": 2,
+          "selector": "tbody tr:last-child",
+          "target": "Резервуар №1",
+          "width": 1574,
+          "x": 286,
+          "y": 474.171875
+        },
+        {
+          "height": 32,
+          "padding": 2,
+          "selector": "input[aria-label=\"Filter by Название\"]",
+          "target": "Пустой фильтр по названию",
+          "width": 286.796875,
+          "x": 300,
+          "y": 190.53125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Резервуар №1, Пустой фильтр по названию",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/stations-list.jpg",
+      "output": "station-find-training.svg",
+      "boxes": [
+        {
+          "height": 61.0625,
+          "padding": 2,
+          "selector": "tbody tr:first-child",
+          "target": "Учебный резервуар №1",
+          "width": 1574,
+          "x": 286,
+          "y": 229.921875
+        },
+        {
+          "height": 32,
+          "padding": 2,
+          "selector": "input[aria-label=\"Filter by Название\"]",
+          "target": "Пустой фильтр по названию",
+          "width": 286.796875,
+          "x": 300,
+          "y": 190.53125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Учебный резервуар №1, Пустой фильтр по названию",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/stations-list.jpg",
+      "output": "station-open.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:last-child button:has(svg.lucide-arrow-right)",
+          "target": "Настройки Резервуар №1",
+          "width": 36,
+          "x": 1613.203125,
+          "y": 490.171875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1721.203125,
+            534.234375
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Настройки Резервуар №1",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/stations-list.jpg",
+      "output": "station-open-training.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:first-child button:has(svg.lucide-arrow-right)",
+          "target": "Настройки учебного резервуара",
+          "width": 36,
+          "x": 1613.203125,
+          "y": 245.921875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1721.203125,
+            289.984375
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Настройки учебного резервуара",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/stations-list.jpg",
+      "output": "station-view-sections.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:first-child button:has(svg.lucide-chart-column-big)",
+          "target": "Данные по секциям",
+          "width": 36,
+          "x": 1561.203125,
+          "y": 245.921875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1669.203125,
+            289.984375
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Данные по секциям",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/stations-list.jpg",
+      "output": "station-delete-button.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:first-child button:has(svg.lucide-trash-2)",
+          "target": "Удаление станции",
+          "width": 36,
+          "x": 1681.203125,
+          "y": 245.921875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1789.203125,
+            289.984375
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Удаление станции",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/station-info.jpg",
+      "output": "station-info-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Основная информация",
+          "target": "Основная информация",
+          "width": 197.640625,
+          "x": 274,
+          "y": 139.59375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            520,
+            195
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Основная информация",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-info.jpg",
+      "output": "station-info-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Сохранить изменения",
+          "target": "Сохранить изменения",
+          "width": 162.5,
+          "x": 286,
+          "y": 618.265625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            540,
+            637
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить изменения",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-info.jpg",
+      "output": "station-coordinates.svg",
+      "boxes": [
+        {
+          "height": 148.28125,
+          "padding": 2,
+          "selector": "input[name=\"Longtitude\"] UNION input[name=\"Lantitude\"]",
+          "target": "Долгота и широта",
+          "width": 508.65625,
+          "x": 818.65625,
+          "y": 288.234375
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Долгота и широта",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/station-info.jpg",
+      "output": "station-math-field.svg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "padding": 2,
+          "selector": "[role=\"combobox\"]:not([disabled])",
+          "target": "Математический остаток",
+          "width": 508.65625,
+          "x": 818.65625,
+          "y": 452.515625
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Математический остаток",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-sections.jpg",
+      "output": "station-sections-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Секции",
+          "target": "Секции",
+          "width": 83.96875,
+          "x": 471.640625,
+          "y": 139.59375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            635,
+            195
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Секции",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-sections.jpg",
+      "output": "station-sections-add.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Добавление секции",
+          "target": "Добавление секции",
+          "width": 146.953125,
+          "x": 286,
+          "y": 198.09375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            530,
+            216
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавление секции",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-sections.jpg",
+      "output": "station-sections-row.svg",
+      "boxes": [
+        {
+          "height": 61.0625,
+          "padding": 2,
+          "selector": "tbody tr",
+          "target": "Секция 1",
+          "width": 1574,
+          "x": 286,
+          "y": 297.21875
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Секция 1",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-sections.jpg",
+      "output": "station-sections-edit.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr button",
+          "target": "Карандаш секции",
+          "width": 36,
+          "x": 1613.671875,
+          "y": 313.21875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1770,
+            357
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Карандаш секции",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-section-edit.jpg",
+      "output": "station-section-edit-fields.svg",
+      "boxes": [
+        {
+          "height": 149.75,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[name=\"Name\"] UNION [role=\"dialog\"] [role=\"combobox\"]",
+          "target": "Название и топливо секции",
+          "width": 352,
+          "x": 1537,
+          "y": 98
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Название и топливо секции",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-section-edit.jpg",
+      "output": "station-section-edit-levels.svg",
+      "boxes": [
+        {
+          "height": 558.984375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[name=\"Height\"] UNION [role=\"dialog\"] input[name=\"SignalThreshold\"]",
+          "target": "Размеры, объёмы и сигнальный порог",
+          "width": 352,
+          "x": 1537,
+          "y": 456.578125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Размеры, объёмы и сигнальный порог",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-section-edit.jpg",
+      "output": "station-section-form.svg",
+      "boxes": [
+        {
+          "height": 917.5625,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[name=\"Name\"] UNION [role=\"dialog\"] input[name=\"SignalThreshold\"]",
+          "target": "Заполняемые поля секции",
+          "width": 352,
+          "x": 1537,
+          "y": 98
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Заполняемые поля секции",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-section-save.jpg",
+      "output": "station-section-edit-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Сохранить",
+          "target": "Сохранить секцию",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 1027.5625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1440,
+            1046
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 15,
+      "capture": {
+        "rightScrollbarWidth": 15,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить секцию",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-add-form.jpg",
+      "output": "station-add-required.svg",
+      "boxes": [
+        {
+          "height": 231.890625,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[name=\"Name\"] UNION [role=\"dialog\"] input[name=\"Timezone\"]",
+          "target": "Обязательные поля станции",
+          "width": 367,
+          "x": 1537,
+          "y": 98
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Обязательные поля станции",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/station-add-form.jpg",
+      "output": "station-add-optional.svg",
+      "boxes": [
+        {
+          "height": 394.703125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[name=\"Description\"] UNION [role=\"dialog\"] input[name=\"Lantitude\"]",
+          "target": "Необязательные сведения станции",
+          "width": 367,
+          "x": 1537,
+          "y": 345.890625
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Необязательные сведения станции",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/station-add-form.jpg",
+      "output": "station-add-submit.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button[type=\"submit\"]",
+          "target": "Добавить станцию",
+          "width": 83.5,
+          "x": 1537,
+          "y": 756.59375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            810
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавить станцию",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/station-readings.jpg",
+      "output": "station-readings-dialog.svg",
+      "boxes": [
+        {
+          "height": 94.21875,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] table",
+          "target": "Сводка по секциям",
+          "width": 766,
+          "x": 577,
+          "y": 107.25
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сводка по секциям",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/station-readings.jpg",
+      "output": "station-readings-current.svg",
+      "boxes": [
+        {
+          "height": 93.21875,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] th:nth-child(5) UNION [role=\"dialog\"] td:nth-child(5)",
+          "target": "Текущий объём",
+          "width": 145.390625,
+          "x": 1053.53125,
+          "y": 107.75
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Текущий объём",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/station-delete-dialog.jpg",
+      "output": "station-delete-warning.svg",
+      "boxes": [
+        {
+          "height": 140.34375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] h4",
+          "target": "Предупреждение удаления",
+          "width": 466,
+          "x": 727,
+          "y": 107.25
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Предупреждение удаления",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/station-delete-dialog.jpg",
+      "output": "station-delete-confirm.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Подтвердить",
+          "target": "Подтвердить удаление",
+          "width": 105.421875,
+          "x": 993.140625,
+          "y": 288.59375
+        },
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Отменить",
+          "target": "Отменить удаление",
+          "width": 86.4375,
+          "x": 1106.5625,
+          "y": 288.59375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            903.140625,
+            306.859375
+          ]
+        },
+        {
+          "box": 1,
+          "toSide": "right",
+          "from": [
+            1283,
+            306.859375
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Подтвердить удаление, Отменить удаление",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/station-math-options.jpg",
+      "output": "station-math-options.svg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "padding": 2,
+          "selector": "[role=\"tabpanel\"] [role=\"combobox\"]:not([disabled])",
+          "target": "Математический остаток",
+          "width": 508.65625,
+          "x": 818.65625,
+          "y": 452.515625
+        },
+        {
+          "height": 37.609375,
+          "padding": 2,
+          "selector": "[role=\"option\"]",
+          "target": "Используется",
+          "width": 508.65625,
+          "x": 818.65625,
+          "y": 532.125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "toSide": "left",
+          "from": [
+            735,
+            553
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Математический остаток, Используется",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-result-row.jpg",
+      "output": "station-result-row.svg",
+      "boxes": [
+        {
+          "height": 61.0625,
+          "padding": 2,
+          "selector": "tbody tr:first-child",
+          "target": "Учебный резервуар №1 в списке",
+          "width": 1574,
+          "x": 286,
+          "y": 229.921875
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Учебный резервуар №1 в списке",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/station-result-row.jpg",
+      "output": "station-math-list.svg",
+      "boxes": [
+        {
+          "height": 61.0625,
+          "padding": 2,
+          "selector": "tbody tr:nth-child(2) td:nth-child(4)",
+          "target": "Используется у Резервуара №4",
+          "width": 314.796875,
+          "x": 1230.40625,
+          "y": 290.984375
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Используется у Резервуара №4",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/station-section-add.jpg",
+      "output": "station-section-name-fuel.svg",
+      "boxes": [
+        {
+          "height": 149.75,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[name=\"Name\"] UNION [role=\"dialog\"] [role=\"combobox\"]",
+          "target": "Название и топливо",
+          "width": 367,
+          "x": 1537,
+          "y": 98
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Название и топливо",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-section-add.jpg",
+      "output": "station-section-levels.svg",
+      "boxes": [
+        {
+          "height": 558.984375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[name=\"Height\"] UNION [role=\"dialog\"] input[name=\"SignalThreshold\"]",
+          "target": "Размеры, объёмы, сигнальный порог",
+          "width": 367,
+          "x": 1537,
+          "y": 263.75
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Размеры, объёмы, сигнальный порог",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-section-add.jpg",
+      "output": "station-section-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Сохранить",
+          "target": "Сохранить новую секцию",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 838.734375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1440,
+            864
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить новую секцию",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-math-balance.jpg",
+      "output": "station-math-balance.svg",
+      "boxes": [
+        {
+          "height": 66.140625,
+          "padding": 2,
+          "selector": "label: Остаток топлива",
+          "target": "Остаток топлива",
+          "width": 508.65625,
+          "x": 818.65625,
+          "y": 536.125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Остаток топлива",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-math-balance.jpg",
+      "output": "station-math-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Сохранить изменения",
+          "target": "Сохранить изменения",
+          "width": 162.5,
+          "x": 286,
+          "y": 700.40625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            550,
+            716
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить изменения",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/station-existing-info.jpg",
+      "output": "station-existing-coordinates.svg",
+      "boxes": [
+        {
+          "height": 148.28125,
+          "padding": 2,
+          "selector": "input[name=\"Longtitude\"] UNION input[name=\"Lantitude\"]",
+          "target": "Координаты Резервуара №1",
+          "width": 508.65625,
+          "x": 818.65625,
+          "y": 288.234375
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Координаты Резервуара №1",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/station-existing-info.jpg",
+      "output": "station-existing-timezone.svg",
+      "boxes": [
+        {
+          "height": 66.140625,
+          "padding": 2,
+          "selector": "input[name=\"Timezone\"]",
+          "target": "Часовой пояс станции",
+          "width": 508.65625,
+          "x": 286,
+          "y": 371.84375
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Часовой пояс станции",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/station-existing-sections.jpg",
+      "output": "station-sections-tab-existing.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Секции",
+          "target": "Секции",
+          "width": 83.96875,
+          "x": 471.640625,
+          "y": 139.59375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            625,
+            195
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Секции",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application"
+    },
+    {
+      "source": "source/station-existing-sections.jpg",
+      "output": "station-sections-edit-existing.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:last-child button",
+          "target": "Карандаш Тестсекция",
+          "width": 36,
+          "x": 1613.671875,
+          "y": 435.34375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1750,
+            500
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Карандаш Тестсекция",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application"
+    },
+    {
+      "source": "source/station-existing-sections.jpg",
+      "output": "station-sections-table-existing.svg",
+      "boxes": [
+        {
+          "height": 229.78125,
+          "padding": 2,
+          "selector": "table",
+          "target": "Секции резервуара и их объёмы",
+          "width": 1574,
+          "x": 286,
+          "y": 250.625
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Секции резервуара и их объёмы",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application"
+    },
+    {
+      "source": "source/station-section-gauge.jpg",
+      "output": "station-section-gauge-selected.svg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] label: Уровнемер",
+          "target": "Уровнемер",
+          "width": 367,
+          "x": 1537,
+          "y": 263.75
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            298
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Уровнемер",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/station-section-gauge.jpg",
+      "output": "station-section-hose-field.svg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] label: Рукав",
+          "target": "Рукав",
+          "width": 367,
+          "x": 1537,
+          "y": 347.359375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            381
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Рукав",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/station-section-hose-options.jpg",
+      "output": "station-section-hose-options.svg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] label: Рукав",
+          "target": "Рукав",
+          "width": 367,
+          "x": 1537,
+          "y": 347.359375
+        },
+        {
+          "height": 37.609375,
+          "padding": 2,
+          "selector": "[role=\"option\"]",
+          "target": "ТРК 1 - Рукав 1",
+          "width": 367,
+          "x": 1537,
+          "y": 426.96875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            381
+          ]
+        },
+        {
+          "box": 1,
+          "toSide": "left",
+          "from": [
+            1430,
+            449
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Рукав, ТРК 1 - Рукав 1",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/station-section-hose-selected.jpg",
+      "output": "station-section-hose-selected.svg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] label: Рукав",
+          "target": "Выбранный рукав",
+          "width": 367,
+          "x": 1537,
+          "y": 347.359375
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Выбранный рукав",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/station-section-hose-selected.jpg",
+      "output": "station-section-existing-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Сохранить",
+          "target": "Сохранить привязку секции",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 1005.953125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            1023
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/8",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить привязку секции",
+      "sourceUrl": "https://pro.benza.online/station/8",
+      "background": "application"
+    },
+    {
+      "source": "source/station-info.jpg",
+      "output": "station-info-fields.svg",
+      "boxes": [
+        {
+          "height": 396.171875,
+          "padding": 2,
+          "selector": "input[name=\"Name\"] UNION input[name=\"Timezone\"] UNION input[name=\"Description\"] UNION input[name=\"SerialNumber\"]",
+          "target": "Название, часовой пояс, описание и серийный номер",
+          "width": 508.65625,
+          "x": 286,
+          "y": 206.09375
+        },
+        {
+          "height": 66.140625,
+          "padding": 2,
+          "selector": "input[name=\"OrderNumber\"]",
+          "target": "Наряд заказ",
+          "width": 508.65625,
+          "x": 818.65625,
+          "y": 206.09375
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Название, часовой пояс, описание и серийный номер, Наряд заказ",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/company-list.jpg",
+      "output": "company-nav.svg",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "padding": 2,
+          "selector": "a[href=\"/companies\"]",
+          "target": "Раздел Компании",
+          "width": 250,
+          "x": 0,
+          "y": 216.671875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            320,
+            236
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Раздел Компании",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-list.jpg",
+      "output": "company-add-button.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Добавить компанию",
+          "target": "Добавить компанию",
+          "width": 149.546875,
+          "x": 1726.453125,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1630,
+            112
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавить компанию",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-list.jpg",
+      "output": "company-find-penza.svg",
+      "boxes": [
+        {
+          "height": 61.0625,
+          "padding": 2,
+          "selector": "tbody tr:nth-child(9)",
+          "target": "Полная строка Пенза",
+          "width": 1598,
+          "x": 286,
+          "y": 718.421875
+        },
+        {
+          "height": 32,
+          "padding": 2,
+          "selector": "input[placeholder=\"Filter by Название\"]",
+          "target": "Пустой фильтр Название",
+          "width": 251.59375,
+          "x": 300,
+          "y": 190.53125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Полная строка Пенза, Пустой фильтр Название",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-list.jpg",
+      "output": "company-open-penza.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:nth-child(9) button:first-child",
+          "target": "Открыть Пенза",
+          "width": 36,
+          "x": 1580.40625,
+          "y": 734.421875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1688,
+            778
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Открыть Пенза",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-list.jpg",
+      "output": "company-delete-button.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:nth-child(9) button:last-child",
+          "target": "Корзина Пенза",
+          "width": 36,
+          "x": 1632.40625,
+          "y": 734.421875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1740,
+            778
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Корзина Пенза",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-list.jpg",
+      "output": "company-after-create.svg",
+      "boxes": [
+        {
+          "height": 61.0625,
+          "padding": 2,
+          "selector": "tbody tr:nth-child(2)",
+          "target": "Полная строка учебной компании",
+          "width": 1598,
+          "x": 286,
+          "y": 290.984375
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Полная строка учебной компании",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-type.jpg",
+      "output": "company-add-type.svg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "padding": 2,
+          "selector": "label: Тип*",
+          "target": "Поле Тип",
+          "width": 367,
+          "x": 1537,
+          "y": 219.53125
+        },
+        {
+          "height": 83.21875,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] [role=\"listbox\"]",
+          "target": "Два варианта типа",
+          "width": 367,
+          "x": 1537,
+          "y": 295.140625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            268
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Поле Тип, Два варианта типа",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-add-form.jpg",
+      "output": "company-add-fields.svg",
+      "boxes": [
+        {
+          "height": 560.453125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[name=\"Name\"] UNION [role=\"dialog\"] input[name=\"Type\"] UNION [role=\"dialog\"] input[name=\"INN\"] UNION [role=\"dialog\"] input[name=\"OGRN\"] UNION [role=\"dialog\"] input[name=\"KPP\"] UNION [role=\"dialog\"] input[name=\"Address\"] UNION [role=\"dialog\"] input[name=\"MailAddress\"]",
+          "target": "Все заполняемые поля без кнопки",
+          "width": 367,
+          "x": 1537,
+          "y": 137.390625
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Все заполняемые поля без кнопки",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/company-add-form.jpg",
+      "output": "company-add-submit.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Добавить компанию внизу формы",
+          "width": 149.546875,
+          "x": 1537,
+          "y": 713.84375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            732
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавить компанию внизу формы",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-info.jpg",
+      "output": "company-info-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Информация",
+          "target": "Вкладка Информация",
+          "width": 126.40625,
+          "x": 274,
+          "y": 154.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            440,
+            210
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Вкладка Информация",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-info.jpg",
+      "output": "company-info-fields.svg",
+      "boxes": [
+        {
+          "height": 312.5625,
+          "padding": 2,
+          "selector": "[role=\"tabpanel\"] input[name=\"Name\"] UNION [role=\"tabpanel\"] input[name=\"INN\"] UNION [role=\"tabpanel\"] input[name=\"OGRN\"] UNION [role=\"tabpanel\"] input[name=\"KPP\"] UNION [role=\"tabpanel\"] input[name=\"Address\"] UNION [role=\"tabpanel\"] input[name=\"MailAddress\"] UNION [role=\"tabpanel\"] input[placeholder=\"Введите литры\"]",
+          "target": "Реквизиты и сигнальный порог",
+          "width": 1057.3125,
+          "x": 286,
+          "y": 221.03125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Реквизиты и сигнальный порог",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/company-info.jpg",
+      "output": "company-info-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Сохранить изменения",
+          "target": "Сохранить изменения",
+          "width": 162.5,
+          "x": 286,
+          "y": 549.59375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            550,
+            584
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить изменения",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-info.jpg",
+      "output": "company-block-button.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Заблокировать",
+          "target": "Заблокировать компанию",
+          "width": 146.59375,
+          "x": 1737.40625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1630,
+            122
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Заблокировать компанию",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-balance.jpg",
+      "output": "company-balance-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Баланс",
+          "target": "Вкладка Баланс",
+          "width": 81.90625,
+          "x": 400.40625,
+          "y": 154.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            550,
+            210
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Вкладка Баланс",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-balance.jpg",
+      "output": "company-limit-edit.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "#left-tabs-example-tabpane-first .card button",
+          "target": "Карандаш лимита",
+          "width": 36,
+          "x": 1218.75,
+          "y": 318.171875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            1160,
+            300
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Карандаш лимита",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-balance.jpg",
+      "output": "company-balance-refresh.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Обновить лимит и счет",
+          "target": "Обновить лимит и счёт",
+          "width": 170.46875,
+          "x": 691.5,
+          "y": 252.640625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            965,
+            270
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Обновить лимит и счёт",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-balance.jpg",
+      "output": "company-money-toggle.svg",
+      "boxes": [
+        {
+          "height": 21.609375,
+          "padding": 2,
+          "selector": "#left-tabs-example-tabpane-first .form-check input UNION #left-tabs-example-tabpane-first .form-check label",
+          "target": "Флажок денежного расчёта",
+          "width": 387.15625,
+          "x": 691.5,
+          "y": 221.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            605,
+            232
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Флажок денежного расчёта",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/company-limit-options.jpg",
+      "output": "company-limit-type.svg",
+      "boxes": [
+        {
+          "height": 75.609375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] form > div:first-child",
+          "target": "Тип лимита",
+          "width": 367,
+          "x": 1537,
+          "y": 98
+        },
+        {
+          "height": 83.21875,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] [role=\"listbox\"]",
+          "target": "Варианты Абсолютный и Безлимитный",
+          "width": 367,
+          "x": 1537,
+          "y": 181.609375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            155
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Тип лимита, Варианты Абсолютный и Безлимитный",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 2
+    },
+    {
+      "source": "source/company-limit-form.jpg",
+      "output": "company-limit-liters.svg",
+      "boxes": [
+        {
+          "height": 157.75,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] form > div:nth-child(1) UNION [role=\"dialog\"] form > div:nth-child(2)",
+          "target": "Тип лимита и литры, без Сохранить",
+          "width": 367,
+          "x": 1537,
+          "y": 98
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Тип лимита и литры, без Сохранить",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/company-limit-form.jpg",
+      "output": "company-limit-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Сохранить лимит",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 271.75
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            290
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить лимит",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-account.jpg",
+      "output": "company-account-table.svg",
+      "boxes": [
+        {
+          "height": 175.390625,
+          "padding": 2,
+          "selector": "#left-tabs-example-tabpane-second table",
+          "target": "Журнал счёта",
+          "width": 1177.5,
+          "x": 691.5,
+          "y": 265.5625
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Журнал счёта",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-account-form.jpg",
+      "output": "company-account-amount.svg",
+      "boxes": [
+        {
+          "height": 66.140625,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[placeholder=\"Введиту сумму\"]",
+          "target": "Сумма с подписью",
+          "width": 367,
+          "x": 1537,
+          "y": 98
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сумма с подписью",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/company-account-form.jpg",
+      "output": "company-account-comment.svg",
+      "boxes": [
+        {
+          "height": 66.140625,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[placeholder=\"Введите комментарий\"]",
+          "target": "Комментарий с подписью",
+          "width": 367,
+          "x": 1537,
+          "y": 180.140625
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Комментарий с подписью",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/company-account-form.jpg",
+      "output": "company-account-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Сохранить пополнение",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 262.28125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            275
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить пополнение",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-fuels.jpg",
+      "output": "company-fuel-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Виды топлива",
+          "target": "Вкладка Виды топлива",
+          "width": 132.65625,
+          "x": 856.046875,
+          "y": 154.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1050,
+            207
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Вкладка Виды топлива",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-fuels.jpg",
+      "output": "company-fuel-table.svg",
+      "boxes": [
+        {
+          "height": 258.578125,
+          "padding": 2,
+          "selector": "#uncontrolled-tab-example-tabpane-fuels table",
+          "target": "Таблица видов топлива и цен",
+          "width": 1192.5,
+          "x": 691.5,
+          "y": 265.5625
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Таблица видов топлива и цен",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-fuels.jpg",
+      "output": "company-fuel-after-edit.svg",
+      "boxes": [
+        {
+          "height": 61.0625,
+          "padding": 2,
+          "selector": "#uncontrolled-tab-example-tabpane-fuels tbody tr:nth-child(3)",
+          "target": "АИ-95 и цена 66",
+          "width": 1192.5,
+          "x": 691.5,
+          "y": 463.078125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "АИ-95 и цена 66",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-fuels.jpg",
+      "output": "company-fuel-edit.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "#uncontrolled-tab-example-tabpane-fuels tbody tr:nth-child(3) button",
+          "target": "Карандаш АИ-95",
+          "width": 36,
+          "x": 1502.5,
+          "y": 479.078125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1630,
+            493
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Карандаш АИ-95",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-fuels.jpg",
+      "output": "company-fuel-add.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Добавить топливо",
+          "target": "Добавить топливо",
+          "width": 138.265625,
+          "x": 691.5,
+          "y": 221.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            945,
+            239
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавить топливо",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-fuel-kind.jpg",
+      "output": "company-fuel-kind.svg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] form > div:first-child",
+          "target": "Вид топлива",
+          "width": 367,
+          "x": 1537,
+          "y": 98
+        },
+        {
+          "height": 300,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] [role=\"listbox\"]",
+          "target": "Доступные виды топлива",
+          "width": 367,
+          "x": 1537,
+          "y": 173.609375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            145
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Вид топлива, Доступные виды топлива",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 2
+    },
+    {
+      "source": "source/company-fuel-form.jpg",
+      "output": "company-fuel-price.svg",
+      "boxes": [
+        {
+          "height": 149.75,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] form > div:first-child UNION [role=\"dialog\"] input[placeholder=\"Введите цену\"]",
+          "target": "Вид топлива и цена за литр без кнопки",
+          "width": 367,
+          "x": 1537,
+          "y": 98
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Вид топлива и цена за литр без кнопки",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/company-fuel-form.jpg",
+      "output": "company-fuel-submit.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Добавить топливо внизу формы",
+          "width": 138.265625,
+          "x": 1537,
+          "y": 263.75
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            285
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавить топливо внизу формы",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-fuel-edit-form.jpg",
+      "output": "company-fuel-edit-price.svg",
+      "boxes": [
+        {
+          "height": 66.140625,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[placeholder=\"Введите цену\"]",
+          "target": "Новая цена за литр с подписью",
+          "width": 367,
+          "x": 1537,
+          "y": 180.140625
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Новая цена за литр с подписью",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/company-fuel-edit-form.jpg",
+      "output": "company-fuel-edit-save.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Сохранить цену",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 262.28125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            280
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить цену",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-main-list.jpg",
+      "output": "company-find-main.svg",
+      "boxes": [
+        {
+          "height": 61.0625,
+          "padding": 2,
+          "selector": "tbody tr:nth-child(3)",
+          "target": "Главная компания Тестируем сервис (ГК)",
+          "width": 1598,
+          "x": 286,
+          "y": 352.046875
+        },
+        {
+          "height": 32,
+          "padding": 2,
+          "selector": "input[placeholder=\"Filter by Название\"]",
+          "target": "Пустой фильтр Название",
+          "width": 251.59375,
+          "x": 300,
+          "y": 190.53125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Главная компания Тестируем сервис (ГК), Пустой фильтр Название",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-main-list.jpg",
+      "output": "company-open-main.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:nth-child(3) button:first-child",
+          "target": "Открыть главную компанию",
+          "width": 36,
+          "x": 1580.40625,
+          "y": 368.046875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1690,
+            414
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Открыть главную компанию",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application"
+    },
+    {
+      "source": "source/company-clients.jpg",
+      "output": "company-clients-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Клиентские компании",
+          "target": "Клиентские компании",
+          "width": 190.328125,
+          "x": 988.703125,
+          "y": 154.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            1240,
+            210
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Клиентские компании",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application"
+    },
+    {
+      "source": "source/company-clients.jpg",
+      "output": "company-clients-add.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Добавить компанию",
+          "target": "Добавить компанию",
+          "width": 149.546875,
+          "x": 286,
+          "y": 213.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            550,
+            231
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавить компанию",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application"
+    },
+    {
+      "source": "source/company-clients.jpg",
+      "output": "company-clients-table.svg",
+      "boxes": [
+        {
+          "height": 234.4375,
+          "padding": 2,
+          "selector": "[role=\"tabpanel\"] table",
+          "target": "Клиентские компании",
+          "width": 1598,
+          "x": 286,
+          "y": 337.171875
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Клиентские компании",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application"
+    },
+    {
+      "source": "source/company-client-form.jpg",
+      "output": "company-client-fields.svg",
+      "boxes": [
+        {
+          "height": 476.84375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] input[name=\"Name\"] UNION [role=\"dialog\"] input[name=\"MailAddress\"]",
+          "target": "Реквизиты клиентской компании",
+          "width": 367,
+          "x": 1537,
+          "y": 137.390625
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Реквизиты клиентской компании",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/company-client-form.jpg",
+      "output": "company-client-submit.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] button.btn-primary",
+          "target": "Добавить компанию",
+          "width": 149.546875,
+          "x": 1537,
+          "y": 630.234375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            660
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Добавить компанию",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application"
+    },
+    {
+      "source": "source/company-stations.jpg",
+      "output": "company-stations-tab.svg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Станции",
+          "target": "Станции компании",
+          "width": 92.1875,
+          "x": 614.9375,
+          "y": 154.53125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            710,
+            210
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Станции компании",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application"
+    },
+    {
+      "source": "source/company-stations.jpg",
+      "output": "company-stations-table.svg",
+      "boxes": [
+        {
+          "height": 287.453125,
+          "padding": 2,
+          "selector": "[role=\"tabpanel\"] table",
+          "target": "Станции компании",
+          "width": 1598,
+          "x": 286,
+          "y": 221.03125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Станции компании",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application"
+    },
+    {
+      "source": "source/company-account-record.jpg",
+      "output": "company-account-record.svg",
+      "boxes": [
+        {
+          "height": 53.015625,
+          "padding": 2,
+          "selector": "[role=\"tabpanel\"] table tbody tr",
+          "target": "Пример операции пополнения на 10 000 рублей",
+          "width": 1192.5,
+          "x": 691.5,
+          "y": 340.953125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/9",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Пример операции пополнения на 10 000 рублей",
+      "sourceUrl": "https://pro.benza.online/company/9",
+      "background": "application"
+    },
+    {
+      "source": "source/company-delete-dialog.jpg",
+      "output": "company-delete-confirm.svg",
+      "boxes": [
+        {
+          "height": 163.734375,
+          "padding": 2,
+          "selector": "[role=\"dialog\"] h4",
+          "target": "Предупреждение об удалении связанных данных",
+          "width": 466,
+          "x": 727,
+          "y": 107.25
+        },
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Подтвердить",
+          "target": "Подтвердить",
+          "width": 105.421875,
+          "x": 993.140625,
+          "y": 311.984375
+        },
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Отменить",
+          "target": "Отменить",
+          "width": 86.4375,
+          "x": 1106.5625,
+          "y": 311.984375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "toSide": "left",
+          "from": [
+            900,
+            330
+          ]
+        },
+        {
+          "box": 2,
+          "toSide": "right",
+          "from": [
+            1260,
+            330
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Предупреждение об удалении связанных данных, Подтвердить, Отменить",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/company-balance-fixed.jpg",
+      "output": "company-limit-plan.svg",
+      "boxes": [
+        {
+          "height": 39.609375,
+          "padding": 2,
+          "selector": "#left-tabs-example-tab-first",
+          "target": "Лимитный план",
+          "width": 381.5,
+          "x": 286,
+          "y": 221.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            600,
+            208
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Лимитный план",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-balance-fixed.jpg",
+      "output": "company-balance-values.svg",
+      "boxes": [
+        {
+          "height": 204.203125,
+          "padding": 2,
+          "selector": ".row > div:nth-child(3) .card UNION .row > div:nth-child(4) .card",
+          "target": "Лимит и денежный счёт",
+          "width": 1192.5,
+          "x": 691.5,
+          "y": 297.171875
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Лимит и денежный счёт",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-account-clean.jpg",
+      "output": "company-account-tab.svg",
+      "boxes": [
+        {
+          "height": 39.609375,
+          "padding": 2,
+          "selector": "[role=\"tab\"]: Счет",
+          "target": "Счет",
+          "width": 381.5,
+          "x": 286,
+          "y": 300.25
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "bottom",
+          "from": [
+            570,
+            355
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Счет",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-account-clean.jpg",
+      "output": "company-account-add.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Пополнение счета",
+          "target": "Пополнение счета",
+          "width": 139.6875,
+          "x": 691.5,
+          "y": 221.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            940,
+            239
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Пополнение счета",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application"
+    },
+    {
+      "source": "source/company-money-result.jpg",
+      "output": "company-money-result.svg",
+      "boxes": [
+        {
+          "height": 21.609375,
+          "padding": 2,
+          "selector": "#checkbox-read-users-limits UNION label[for=\"checkbox-read-users-limits\"]",
+          "target": "Включён денежный расчёт",
+          "width": 387.15625,
+          "x": 691.5,
+          "y": 221.03125
+        },
+        {
+          "height": 69.21875,
+          "padding": 2,
+          "selector": "[role=\"tabpanel\"] .alert",
+          "target": "Пояснение денежного расчёта",
+          "width": 1192.5,
+          "x": 691.5,
+          "y": 260.640625
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/866",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Включён денежный расчёт, Пояснение денежного расчёта",
+      "sourceUrl": "https://pro.benza.online/company/866",
+      "background": "application",
+      "padding": 6
+    },
+    {
+      "source": "source/home-controller-diagnostic.jpg",
+      "output": "home-no-data-controllers-nav.svg",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "padding": 2,
+          "selector": "a[href=\"/controllers\"]",
+          "target": "Раздел Контроллеры (ТРК)",
+          "width": 250,
+          "x": 0,
+          "y": 295.953125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            325,
+            316
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/controllers",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Раздел Контроллеры (ТРК)",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application"
+    },
+    {
+      "source": "source/home-controller-diagnostic.jpg",
+      "output": "home-no-data-controller-status.svg",
+      "boxes": [
+        {
+          "height": 73.03125,
+          "padding": 2,
+          "selector": "table tbody tr:nth-child(1) td:nth-child(2)",
+          "target": "Индикатор GSM контроллера Пенза 2",
+          "width": 120,
+          "x": 466,
+          "y": 272.421875
+        },
+        {
+          "height": 73.03125,
+          "padding": 2,
+          "selector": "table tbody tr:nth-child(1) td:nth-child(4)",
+          "target": "Успешный опрос контроллера Пенза 2",
+          "width": 180,
+          "x": 766,
+          "y": 272.421875
+        },
+        {
+          "height": 73.03125,
+          "padding": 2,
+          "selector": "table tbody tr:nth-child(1) td:nth-child(5)",
+          "target": "Название контроллера Пенза 2",
+          "width": 180,
+          "x": 946,
+          "y": 272.421875
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/controllers",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Индикатор GSM контроллера Пенза 2, Успешный опрос контроллера Пенза 2, Название контроллера Пенза 2",
+      "sourceUrl": "https://pro.benza.online/controllers",
+      "background": "application"
+    }
+  ]
+}

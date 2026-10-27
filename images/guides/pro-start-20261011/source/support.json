@@ -1,0 +1,556 @@
+{
+  "rightScrollbarWidth": 0,
+  "targets": [
+    {
+      "height": 70,
+      "selector": "#navbar-brand-box-hide > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria1087390508-\\:r0\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1706,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria1087390508-\\:r1\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1756,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria1087390508-\\:r2\\:",
+      "tag": "BUTTON",
+      "target": "8",
+      "width": 42,
+      "x": 1806,
+      "y": 24.65625
+    },
+    {
+      "height": 14.625,
+      "selector": "#notificationCount",
+      "tag": "SPAN",
+      "target": "8",
+      "width": 17.34375,
+      "x": 1828.65625,
+      "y": 29.65625
+    },
+    {
+      "height": 36.671875,
+      "selector": "#react-aria1087390508-\\:r3\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 44,
+      "x": 1856,
+      "y": 24.65625
+    },
+    {
+      "height": 70,
+      "selector": "#page-topbar > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 39.03125,
+      "selector": "#button-hide-menu",
+      "tag": "BUTTON",
+      "target": "Свернуть меню",
+      "width": 150.09375,
+      "x": 49.953125,
+      "y": 80
+    },
+    {
+      "height": 39.640625,
+      "selector": "#main-point > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Главная",
+      "width": 250,
+      "x": 0,
+      "y": 135.03125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#company",
+      "tag": "A",
+      "target": "Компании",
+      "width": 250,
+      "x": 0,
+      "y": 216.671875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#stations",
+      "tag": "A",
+      "target": "Станции",
+      "width": 250,
+      "x": 0,
+      "y": 256.3125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#controllers",
+      "tag": "A",
+      "target": "Контроллеры (ТРК)",
+      "width": 250,
+      "x": 0,
+      "y": 295.953125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#users",
+      "tag": "A",
+      "target": "Пользователи",
+      "width": 250,
+      "x": 0,
+      "y": 335.59375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#transports",
+      "tag": "A",
+      "target": "Транспорт",
+      "width": 250,
+      "x": 0,
+      "y": 375.234375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#alrts",
+      "tag": "A",
+      "target": "Оповещения",
+      "width": 250,
+      "x": 0,
+      "y": 414.875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Поступление ГСМ",
+      "width": 250,
+      "x": 0,
+      "y": 454.515625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Автоотчеты",
+      "width": 250,
+      "x": 0,
+      "y": 494.15625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Аналитика",
+      "width": 250,
+      "x": 0,
+      "y": 533.796875
+    },
+    {
+      "height": 39.5,
+      "selector": "#fillings",
+      "tag": "A",
+      "target": "Последние заправки",
+      "width": 250,
+      "x": 0,
+      "y": 573.4375
+    },
+    {
+      "height": 39.5,
+      "selector": "#level-meter",
+      "tag": "A",
+      "target": "Показания уровнемеров",
+      "width": 250,
+      "x": 0,
+      "y": 612.9375
+    },
+    {
+      "height": 39.5,
+      "selector": "#change-prices",
+      "tag": "A",
+      "target": "Изменение цен",
+      "width": 250,
+      "x": 0,
+      "y": 652.4375
+    },
+    {
+      "height": 39.5,
+      "selector": "#prices",
+      "tag": "A",
+      "target": "Приход и расход денег",
+      "width": 250,
+      "x": 0,
+      "y": 691.9375
+    },
+    {
+      "height": 39.5,
+      "selector": "#messages",
+      "tag": "A",
+      "target": "Журнал всех сообщений",
+      "width": 250,
+      "x": 0,
+      "y": 731.4375
+    },
+    {
+      "height": 39.5,
+      "selector": "#connects",
+      "tag": "A",
+      "target": "Журнал качества связи",
+      "width": 250,
+      "x": 0,
+      "y": 770.9375
+    },
+    {
+      "height": 59,
+      "selector": "#actions",
+      "tag": "A",
+      "target": "Журнал всех действий пользователей",
+      "width": 250,
+      "x": 0,
+      "y": 810.4375
+    },
+    {
+      "height": 59,
+      "selector": "#pouring-controllers",
+      "tag": "A",
+      "target": "Прием топлива на контроллере",
+      "width": 250,
+      "x": 0,
+      "y": 869.4375
+    },
+    {
+      "height": 59,
+      "selector": "#open-close",
+      "tag": "A",
+      "target": "Показания датчика крышки резервуара",
+      "width": 250,
+      "x": 0,
+      "y": 928.4375
+    },
+    {
+      "height": 39.5,
+      "selector": "#mass",
+      "tag": "A",
+      "target": "Отпуск ГСМ по массе",
+      "width": 250,
+      "x": 0,
+      "y": 987.4375
+    },
+    {
+      "height": 21.59375,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "tag": "H2",
+      "target": "Пользователь - Техподдержка Артем",
+      "width": 315.390625,
+      "x": 286,
+      "y": 101.46875
+    },
+    {
+      "height": 36.53125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 91.28125,
+      "x": 1658.125,
+      "y": 94
+    },
+    {
+      "height": 36.53125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "Заблокировать",
+      "width": 118.59375,
+      "x": 1757.40625,
+      "y": 94
+    },
+    {
+      "height": 41.5,
+      "selector": "#uncontrolled-tab-example-tab-maininfo",
+      "tag": "BUTTON",
+      "target": "Параметры",
+      "width": 113.234375,
+      "x": 274,
+      "y": 134.53125
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-limits",
+      "tag": "BUTTON",
+      "target": "Лимиты",
+      "width": 89.5,
+      "x": 387.234375,
+      "y": 134.53125
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-controllers",
+      "tag": "BUTTON",
+      "target": "Контроллеры",
+      "width": 128.125,
+      "x": 476.734375,
+      "y": 134.53125
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-historyСhanges",
+      "tag": "BUTTON",
+      "target": "История изменений",
+      "width": 174.984375,
+      "x": 604.859375,
+      "y": 134.53125
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-first",
+      "tag": "A",
+      "target": "Основная информация",
+      "width": 375.5,
+      "x": 286,
+      "y": 201.03125
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-secure_controller",
+      "tag": "A",
+      "target": "Права на контроллерах",
+      "width": 375.5,
+      "x": 286,
+      "y": 240.640625
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-auth",
+      "tag": "A",
+      "target": "Доступ к ЛК",
+      "width": 375.5,
+      "x": 286,
+      "y": 280.25
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-history-auth",
+      "tag": "A",
+      "target": "История авторизаций",
+      "width": 375.5,
+      "x": 286,
+      "y": 319.859375
+    },
+    {
+      "height": 67.609375,
+      "selector": "#left-tabs-example-tabpane-auth > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Доступ к ЛК Да",
+      "width": 587.25,
+      "x": 685.5,
+      "y": 280.640625
+    },
+    {
+      "height": 21.609375,
+      "selector": "#left-tabs-example-tabpane-auth > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Доступ к ЛК",
+      "width": 82.203125,
+      "x": 685.5,
+      "y": 280.640625
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-select-102-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.328125,
+      "x": 696.5,
+      "y": 318.4375
+    },
+    {
+      "height": 66.140625,
+      "selector": "#left-tabs-example-tabpane-auth > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "Логин",
+      "width": 587.25,
+      "x": 685.5,
+      "y": 364.25
+    },
+    {
+      "height": 21.609375,
+      "selector": "#left-tabs-example-tabpane-auth > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Логин",
+      "width": 41.796875,
+      "x": 685.5,
+      "y": 364.25
+    },
+    {
+      "height": 36.53125,
+      "selector": "#left-tabs-example-tabpane-auth > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(2) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "Введите значение до 150 символов",
+      "width": 587.25,
+      "x": 685.5,
+      "y": 393.859375
+    },
+    {
+      "height": 66.140625,
+      "selector": "#left-tabs-example-tabpane-auth > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Новый пароль",
+      "width": 587.25,
+      "x": 685.5,
+      "y": 446.390625
+    },
+    {
+      "height": 21.609375,
+      "selector": "#left-tabs-example-tabpane-auth > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(3) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Новый пароль",
+      "width": 98.046875,
+      "x": 685.5,
+      "y": 446.390625
+    },
+    {
+      "height": 36.53125,
+      "selector": "#left-tabs-example-tabpane-auth > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(3) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "Введите значение до 20 символов",
+      "width": 587.25,
+      "x": 685.5,
+      "y": 476
+    },
+    {
+      "height": 36.53125,
+      "selector": "#left-tabs-example-tabpane-auth > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(4)",
+      "tag": "DIV",
+      "target": "Сохранить",
+      "width": 587.25,
+      "x": 685.5,
+      "y": 528.53125
+    },
+    {
+      "height": 36.53125,
+      "selector": "#left-tabs-example-tabpane-auth > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(4) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 91.28125,
+      "x": 685.5,
+      "y": 528.53125
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Политика обработки персональных данных.",
+      "width": 304.296875,
+      "x": 683.25,
+      "y": 1042
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "Свидетельство на ПО.",
+      "width": 150.671875,
+      "x": 991.875,
+      "y": 1042
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "tag": "A",
+      "target": "Свидетельство на ТЗ",
+      "width": 142.15625,
+      "x": 1146.875,
+      "y": 1042
+    },
+    {
+      "height": 485.5,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Связаться с техподдержкой Режим работы По рабочим дням с 17:00 до 8:30. Вне рабочего времени с 21:00 до 17:00. Выходные и праздничные дни с 17:00 до 9:00 Указано Московское время. Обращения вне рабочего времени фиксируются и переносятся на рабочие часы и отрабатываются в приоритетном порядке. В случае если обращение не требует дополнительной информ",
+      "width": 500,
+      "x": 710,
+      "y": 28
+    },
+    {
+      "height": 30.390625,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Close",
+      "width": 30.390625,
+      "x": 1170.609375,
+      "y": 44.421875
+    },
+    {
+      "height": 21.609375,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Евгений",
+      "width": 490,
+      "x": 715,
+      "y": 400.75
+    },
+    {
+      "height": 21.609375,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "Артем",
+      "width": 490,
+      "x": 715,
+      "y": 422.359375
+    },
+    {
+      "height": 36.53125,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "tag": "A",
+      "target": "Оставить отзыв о работе benzamatPRO",
+      "width": 490,
+      "x": 715,
+      "y": 459.96875
+    },
+    {
+      "height": 348.03125,
+      "selector": "#uncontrolled-tab-example-tabpane-maininfo > div:nth-of-type(1) > div:nth-of-type(2) > form:nth-of-type(1)",
+      "tag": "FORM",
+      "target": "Вывод пароля пользователя не предусмотрен в системе, так как все пароли хранятся в зашифрованном виде Доступ к ЛК Да Логин Новый пароль Сохранить",
+      "width": 1174.5,
+      "x": 685.5,
+      "y": 217.03125
+    },
+    {
+      "height": 25.609375,
+      "selector": "#left-tabs-example-tabpane-auth > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 528.25,
+      "x": 696.5,
+      "y": 316.4375
+    }
+  ],
+  "viewport": {
+    "height": 1080,
+    "width": 1920
+  },
+  "bitmap": {
+    "height": 1080,
+    "width": 1920
+  },
+  "source": "source/support.jpg",
+  "url": "https://pro.benza.online/user/42328",
+  "dom": "- region \"Notifications Alt+T\"\n- banner:\n  - banner:\n    - link:\n      - /url: /\n    - generic: По всем возникающим вопросам и неполадкам сообщайте нашей технической поддержке тел. (8412) 45-41-14\n    - button:\n    - button [expanded]:\n    - button \"8\":\n      - generic: \"8\"\n    - button:\n  - link:\n    - /url: /\n- button \"Свернуть меню\":\n  - text: Свернуть меню\n- list:\n  - link \"Главная\":\n    - /url: /dashboard\n    - text: Главная\n  - listitem: ОБЩИЙ ФУНКЦИОНАЛ\n  - link \"Компании\":\n    - /url: /companies\n    - text: Компании\n  - link \"Станции\":\n    - /url: /stations\n    - text: Станции\n  - link \"Контроллеры (ТРК)\":\n    - /url: /controllers\n    - text: Контроллеры (ТРК)\n  - link \"Пользователи\":\n    - /url: /users\n    - text: Пользователи\n  - link \"Транспорт\":\n    - /url: /transports\n    - text: Транспорт\n  - link \"Оповещения\":\n    - /url: /alerts\n    - text: Оповещения\n  - link \"Поступление ГСМ 󰅀\":\n    - /url: /fuel-intake\n    - text: Поступление ГСМ 󰅀\n  - link \"Автоотчеты 󰅀\":\n    - /url: /\n    - text: Автоотчеты 󰅀\n  - link \"Аналитика 󰅀\" [expanded]:\n    - /url: /\n    - text: Аналитика 󰅀\n  - list:\n    - link \"Последние заправки\":\n      - /url: /reports/fillings\n    - link \"Показания уровнемеров\":\n      - /url: /reports/level-meter\n    - link \"Изменение цен\":\n      - /url: /reports/change-prices\n    - link \"Приход и расход денег\":\n      - /url: /reports/prices\n    - link \"Журнал всех сообщений\":\n      - /url: /reports/messages\n    - link \"Журнал качества связи\":\n      - /url: /reports/gsm-connects\n    - link \"Журнал всех действий пользователей\":\n      - /url: /reports/actions\n    - link \"Прием топлива на контроллере\":\n      - /url: /reports/gsm-pouring-controllers\n    - link \"Показания датчика крышки резервуара\":\n      - /url: /reports/event-hatch-open-close\n    - link \"Отпуск ГСМ по массе\":\n      - /url: /reports/gsm-mass\n    - link \"Отпуск ГСМ по контроллерам\":\n      - /url: /reports/gsm-controllers\n    - link \"Отпуск ГСМ по пользователям\":\n      - /url: /reports/gsm-users\n    - link \"Отпуск ГСМ по контроллерам (без группировки)\":\n      - /url: /reports/gsm-not-grouping\n    - link \"Суммарный отпуск ГСМ по контроллерам\":\n      - /url: /reports/gsm-sum-controllers\n    - link \"Суммарный отпуск ГСМ по пользователям\":\n      - /url: /reports/gsm-sum-users\n    - link \"Суммарный отпуск ГСМ по транспорту\":\n      - /url: /reports/gsm-sum-transports\n    - link \"Суммарный отпуск ГСМ по компаниям\":\n      - /url: /reports/gsm-sum-companies\n    - link \"Поступление топлива\":\n      - /url: /reports/fuel-intake\n    - link:\n      - /url: /user/42328\n  - listitem: АДМИНИСТРИРОВАНИЕ\n  - link \"Управление доступом 󰅀\":\n    - /url: /\n    - text: Управление доступом 󰅀\n  - link \"Управление входом\":\n    - /url: /security/tokens\n    - text: Управление входом\n  - link \"benzamat Оплата\":\n    - /url: https://pay.benza.online\n    - text: benzamat Оплата\n- heading \"Пользователь - Техподдержка Артем\" [level=2]:\n  - generic: Пользователь - Техподдержка Артем\n- button \"Сохранить\"\n- button \"Заблокировать\"\n- tablist:\n  - tab \"Параметры\" [selected]\n  - tab \"Лимиты\"\n  - tab \"Контроллеры\"\n  - tab \"История изменений\"\n- tabpanel \"Параметры\":\n  - tablist:\n    - tab \"Основная информация\"\n    - tab \"Права на контроллерах\"\n    - tab \"Доступ к ЛК\" [selected]\n    - tab \"История авторизаций\"\n  - tabpanel \"Доступ к ЛК\":\n    - generic: Вывод пароля пользователя не предусмотрен в системе, так как все пароли хранятся в зашифрованном виде\n    - generic: Доступ к ЛК\n    - log\n    - generic: Да\n    - combobox\n    - generic: Логин\n    - textbox \"Введите значение до 150 символов\": Artem2026@yandex.ru\n    - generic: Новый пароль\n    - textbox \"Введите значение до 20 символов\"\n    - button \"Сохранить\"\n- contentinfo:\n  - text: Онлайн сервис для управления топливом benzamat ПРО..\n  - link \"Политика обработки персональных данных.\":\n    - /url: /files/personal_data_pro.pdf\n  - link \"Свидетельство на ПО.\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610388&TypeFile=html\n  - link \"Свидетельство на ТЗ\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=RUTM&DocNumber=770581&TypeFile=html\n- dialog [active]:\n  - generic: Связаться с техподдержкой\n  - button \"Close\"\n  - strong: Режим работы\n  - paragraph:\n    - text: По рабочим дням\n    - strong: с 17:00 до 8:30\n    - text: . Вне рабочего времени\n    - strong: с 21:00 до 17:00.\n    - text: Выходные и праздничные дни\n    - strong: с 17:00 до 9:00\n    - text: Указано Московское время.\n    - text: Обращения вне рабочего времени фиксируются и переносятся на рабочие часы и отрабатываются в приоритетном порядке. В случае если обращение не требует дополнительной информации, обращение решается сразу.\n  - generic: \"Позвонить: +7 (8412) 45-41-14\"\n  - generic: \"Написать: help@benza.ru\"\n  - strong: Написать в MAX\n  - link \"Евгений\":\n    - /url: https://max.ru/u/f9LHodD0cOJFtOBT4p1xrS08xZ6YYsRbyW2p4ARqM3hEzSNAjPF9gbN0-oA\n  - link \"Артем\":\n    - /url: https://max.ru/u/f9LHodD0cOL0E4n5VtR3hv9qeHZLqjTdi-CeaEQd0s49dbBINoScm9WiJXw\n  - link \"Оставить отзыв о работе benzamatPRO\":\n    - /url: https://benzamat.com/help/benzamat_pro_feedback"
+}

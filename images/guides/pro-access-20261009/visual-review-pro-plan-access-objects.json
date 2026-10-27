@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "manifestHash": "d9c0cf0abf6f37852c9d58596236bf3b765bba690c93dafc6cecee383e0c1344",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-access-objects",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "articleInspectionNote": "Каждый шаг просмотрен в статье; обе темы, режимы фона, увеличение, подтверждение копирования и переходы проверены. Ссылки открывают новую вкладку. Тёмная тема и фон под инструкцией восстановлены; временный размер окна сброшен.",
+  "shots": [
+    {
+      "output": "object-nav.svg",
+      "sourceHash": "4fd65c45eab29268a67af5db5866c1115d07f93ab990d98fdc582803f0917080",
+      "svgHash": "15252f120d1430ba0ac8aeff01cbf388fc8c632b747ff776d06e8e46f7339409",
+      "stepText": "В раскрытом разделе «Управление доступом» откройте «Права к объектам».",
+      "stepTextHash": "2d70745a68f004d8f6fad859d51e38058775afccff1619809ab5bfa76142a7e6",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полная ширина пункта меню, справа 4 px; короткая горизонтальная стрелка. Шаг 1: Права к объектам по ширине меню с прямой стрелкой."
+    },
+    {
+      "output": "object-add.svg",
+      "sourceHash": "4fd65c45eab29268a67af5db5866c1115d07f93ab990d98fdc582803f0917080",
+      "svgHash": "4044ea43efdcc341a5cc93cd519c79fa36fb902c387d06eb14702037104e8e67",
+      "stepText": "Нажмите «Добавить» над таблицей правил.",
+      "stepTextHash": "4a9b00840266484b8b248385461a25fe3f2439e833a9fb3a1c8e55110464ad91",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Отдельная кнопка Добавить над таблицей, стрелка слева в пустом месте. Шаг 2: Добавить отдельно над таблицей, стрелка горизонтальная."
+    },
+    {
+      "output": "object-name.svg",
+      "sourceHash": "00fdfc9134cdff1c742588c0a1831ced672e35fb8ab4c297455149f8e659de05",
+      "svgHash": "6d769e93ccddaf5a9376f5c752365233c69bce8701890901b3d3d4293614bce5",
+      "stepText": "В «Описание» введите понятное название до 500 символов. В примере — «Просмотр станции для диспетчера».",
+      "stepTextHash": "8f8816323b70f94d5e8e5a38bb721e78c3ee706e045820c44602f06aa4ad5833",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Описание с подписью по ширине панели, высота только нужного поля, без стрелки. Шаг 3: Описание соответствует примеру и рамка по ширине белой панели."
+    },
+    {
+      "output": "object-user.svg",
+      "sourceHash": "00fdfc9134cdff1c742588c0a1831ced672e35fb8ab4c297455149f8e659de05",
+      "svgHash": "1cc47900a2676f69a6f7ffa28df37010665260807962194d0c41e8b532fe18dd",
+      "stepText": "В «Пользователи» выберите нужные учётные записи по имени и логину. В примере — «Тест Тест (testtest)». Не включайте в правило лишних получателей.",
+      "stepTextHash": "b40777cbd8899b49d7a2e41e30557dcf6ce9067a916471cf5547fc0cdfba7d12",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Подпись и выбранный пользователь в одной рамке по ширине панели. Шаг 4: Выбран testtest, поле выделено по ширине панели."
+    },
+    {
+      "output": "object-choice.svg",
+      "sourceHash": "00fdfc9134cdff1c742588c0a1831ced672e35fb8ab4c297455149f8e659de05",
+      "svgHash": "cecdb7a193dcef364581af4dbd38f5df6f50a397080c65e41752e159fab7cd3b",
+      "stepText": "В «Объекты» выберите конкретные записи. В примере — «Учебный резервуар №1». Если нужны несколько станций, добавьте каждую отдельной меткой и проверьте названия.",
+      "stepTextHash": "26315a40217f259f879464d7f18f3e17f8f31ca8285d67b88d691022f949745e",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Объекты вместе с подписью, рамка по ширине белой панели, без стрелки. Шаг 6: Учебный резервуар №1 выделен без стрелки."
+    },
+    {
+      "output": "object-type.svg",
+      "sourceHash": "09b502f7afb9ff95565f5cf4d0f9db4eef6edd4e26803e8c9a3840c70920043b",
+      "svgHash": "3d5d042d2e406b74559a36728b9be0b091514fcb5b4324fda08e4f429932b0d0",
+      "stepText": "В «Тип объекта» выберите «Компании», «Станции» или «Контроллеры». В примере выбраны «Станции».",
+      "stepTextHash": "4fe2f05a56f54e6d0485a9cd271b3673465080934feeca529ce122d237dbe557",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Поле типа и раскрытый список Компании/Станции/Контроллеры в одной рамке, без стрелки. Шаг 5: Поле и раскрытый список Компании/Станции/Контроллеры единым контуром."
+    },
+    {
+      "output": "object-save.svg",
+      "sourceHash": "00fdfc9134cdff1c742588c0a1831ced672e35fb8ab4c297455149f8e659de05",
+      "svgHash": "f1f24f43ea33a2392120b0666857b5a381a0e2215e52b52d377bc1a39f1643fd",
+      "stepText": "Сверьте получателей и объекты, затем нажмите «Сохранить». Проверьте появление правила в списке. Для объектов другого типа добавьте отдельное правило.",
+      "stepTextHash": "4bacc0c92d61dee2958d4fc69b2531c6ab49dd45f56c33bc308e40e811348b9a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только Сохранить; прямая стрелка справа не пересекает другие поля. Шаг 7: Сохранить отдельно со стрелкой справа внутри панели."
+    }
+  ]
+}

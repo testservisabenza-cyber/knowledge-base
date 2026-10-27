@@ -1,0 +1,29 @@
+{
+  "sourceUrl": "https://pro.benza.online/reports/fillings",
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "measurementMethod": "getBoundingClientRect in each capture state",
+  "exportButton": {
+    "bottom": 711.140625,
+    "height": 36.53125,
+    "left": 1537,
+    "right": 1621.765625,
+    "top": 674.609375,
+    "width": 84.765625,
+    "x": 1537,
+    "y": 674.609375
+  },
+  "excelOption": {
+    "bottom": 749.828125,
+    "height": 30.6875,
+    "left": 1537,
+    "right": 1697,
+    "top": 719.140625,
+    "width": 160,
+    "x": 1537,
+    "y": 719.140625
+  },
+  "downloadVerified": "fillings.xls"
+}

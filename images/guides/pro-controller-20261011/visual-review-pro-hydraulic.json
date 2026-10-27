@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-hydraulic",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Контроллеры по ширине меню с прямой стрелкой; статья и увеличение просмотрены. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Открытие второй строки отдельно от корзины, прямая стрелка. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи выбранная секция появится в настройках контроллера и станет доступна для привязки уровнемера и рукава.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "e79430f70573022d980c008dddc0695e4170c2168081afbd612948eb39910d54",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Общее окно записи; выделена только Записать данные. Запись на оборудование не выполнялась. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "sections-tab.svg",
+      "sourceHash": "37963413e7ea510ebb9872a8c06b678f930bd63008bee732d0d4da638258e5b4",
+      "svgHash": "005046319bdd0a1fb77cf58b87c51edc57bbeaa73fb295d596fd0f3c6150c535",
+      "stepText": "На вкладке «Настройки» откройте раздел «Секции».",
+      "stepTextHash": "e254a9c84f63da32ab93d61f3f1ac098d15ea4c3c9228160409e1589242c0571",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Секции по ширине внутреннего меню, диагональ точно к углу. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "sections-add.svg",
+      "sourceHash": "37963413e7ea510ebb9872a8c06b678f930bd63008bee732d0d4da638258e5b4",
+      "svgHash": "41f2b3962abf2baa13e24aee8f2fe2be75964c329599d9410906e44c63a2ed5b",
+      "stepText": "Нажмите «Добавить секцию».",
+      "stepTextHash": "90610cb1ad5fe303be7a40abbea7739efb70c860465c6bc5bc2e51ad7a5dc91a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Добавить секцию с собственной горизонтальной стрелкой."
+    },
+    {
+      "output": "sections-selected.svg",
+      "sourceHash": "ca33bc37133905059dc8835df61ca5ea8d3fab70df33c6c5864536bea1d45b92",
+      "svgHash": "c1efa77fbd15ce8425497eae8bca558d1106f428ec7db69acd5fd39207f8923c",
+      "stepText": "В форме «Добавление секций» выберите нужную секцию станции.",
+      "stepTextHash": "c9455d33c46ff0311f77e680b9aa4452a90ce2ea745560202b2d5921e1492cd9",
+      "clickTargets": [],
+      "clickExplanation": "Шаг объясняет поле, выбор или результат; отдельного нажатия кнопки не требует.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Настоящая выбранная Секция 1. Белая форма по ширине с отступом; без стрелки к полю."
+    },
+    {
+      "output": "sections-selected-save.svg",
+      "sourceHash": "ca33bc37133905059dc8835df61ca5ea8d3fab70df33c6c5864536bea1d45b92",
+      "svgHash": "7b7ea0bbd646f5d94dd87c423af380076b883d404668e8ac27babe1752ffd2ee",
+      "stepText": "Нажмите «Сохранить» в форме.",
+      "stepTextHash": "3627b371f2e9dcec9b6a1be132963ac19e09bc8c679dda9142b4ea6af46b9927",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить отдельно, прямая стрелка слева, подписи не пересечены."
+    },
+    {
+      "output": "sections-result.svg",
+      "sourceHash": "c7a2c087039a29ca25d98c1a5f1206cb3a9ea3be14c1c7ac6263c2441471a0e6",
+      "svgHash": "f23974f5b5d048ccdd8f1d3373dffe94aa34bca42a19b663191c082ea8c294ab",
+      "stepText": "Выбранная секция появится в таблице «Секции» контроллера.",
+      "stepTextHash": "115fd162e507940dc6a86f7e06f07d720f808ff7e587bf85c9b8880d9f8b531e",
+      "clickTargets": [],
+      "clickExplanation": "Шаг объясняет поле, выбор или результат; отдельного нажатия кнопки не требует.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Настоящий сохранённый результат: Секция 1 в таблице. Исходник, полный SVG, статья и увеличение просмотрены."
+    }
+  ],
+  "articleInspectionNote": "Каждый кадр просмотрен в статье и увеличении; светлая и тёмная темы, режимы фона, масштаб 125%, копирование (Скопировано), следующий/предыдущий шаг, ссылка в новой вкладке проверены. Прежние тема и фон восстановлены."
+}

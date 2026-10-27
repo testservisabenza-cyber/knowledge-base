@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-filling",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Левое меню по ширине с правым отступом; прямая стрелка справа. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка второй строки отдельно от корзины; горизонтальная стрелка. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи ТРК будет использовать заданные топливо, дозы и условия завершения налива.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "d829133a6e73f30fd4158478338f0e34f9660ff5c0a2782f6df6e865908480e5",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Настоящее окно ручной записи, стрелка вверх к кнопке; запись не запускалась. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    },
+    {
+      "output": "filling-tab.svg",
+      "sourceHash": "1feaae626462b73004bcfd5b522e91b8ddc9bad3793a6eb08883a1dc45d68dc1",
+      "svgHash": "4dbc71fd9b65a19f52a28f2a236b3c96fe05ce85edb9942c79acceac50af2bbc",
+      "stepText": "В «Настройки» откройте «Заполнение».",
+      "stepTextHash": "cd1a0f2bafc18f6bcf7ceaceef70da97cf6a0375bc8e4f03094fac3f7c4c7751",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Заполнение, диагональ точно в нижний правый угол. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    },
+    {
+      "output": "filling-save.svg",
+      "sourceHash": "1feaae626462b73004bcfd5b522e91b8ddc9bad3793a6eb08883a1dc45d68dc1",
+      "svgHash": "471eedd278ed7f7c9d8af1142554f4141f38b0723f0d339a15ede9e9f81baf04",
+      "stepText": "Нажмите «Сохранить».",
+      "stepTextHash": "5e570b9e61506e20b46ab22a7060088d1efaa7ca24a88f570d91d59d51f225c4",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить полностью видна, собственная горизонтальная стрелка справа. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    },
+    {
+      "output": "filling-fuel.svg",
+      "sourceHash": "1feaae626462b73004bcfd5b522e91b8ddc9bad3793a6eb08883a1dc45d68dc1",
+      "svgHash": "4d83d3d02c44b6057e34aab0b56bb63de20bdcdf0f73185c5490f6ef8edc06ed",
+      "stepText": "В поле «Топливо» выберите вид топлива, который выдаёт эта ТРК. Он будет указан в отчётах о заправках.",
+      "stepTextHash": "e239d16bc3e6600478c620307ab0e4c397986b6625d4c0b702e04bcbb63353dd",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка вокруг подписи и выбранного топлива АИ-100. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    },
+    {
+      "output": "filling-min-dose.svg",
+      "sourceHash": "1feaae626462b73004bcfd5b522e91b8ddc9bad3793a6eb08883a1dc45d68dc1",
+      "svgHash": "bafe0ebaa43b5de8a38bb80ca524844803aa06a232dcf012e93e2b03ac8af9f7",
+      "stepText": "Задайте «Минимальная доза, л (кг)» — минимальный объём заправки. Если доступный остаток лимита меньше этого значения, заправка не начнётся.",
+      "stepTextHash": "7d2ff438bb58ce96d5e8b041a5b38128897c546abec0b9708ef7ac4b7305ac2f",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Минимальная доза 5; подпись и поле внутри рамки. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    },
+    {
+      "output": "filling-max-dose.svg",
+      "sourceHash": "1feaae626462b73004bcfd5b522e91b8ddc9bad3793a6eb08883a1dc45d68dc1",
+      "svgHash": "5a57a5fd21da18fe28a7747c6853379a9922a124c8bd2520ac6871b9e6610796",
+      "stepText": "Задайте «Максимальная доза, л (кг)» по принятому на объекте ограничению на один налив.",
+      "stepTextHash": "f17421de240f670da5c0d47186550d71d0a95b4b57af8f5a9ff5bdf2bafec100",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Максимальная доза 999; соседние поля свободны. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    },
+    {
+      "output": "filling-low-flow.svg",
+      "sourceHash": "1feaae626462b73004bcfd5b522e91b8ddc9bad3793a6eb08883a1dc45d68dc1",
+      "svgHash": "9047bda003785f50dad15bde974bc10d25ec818e85ea8ab389f1e8ab6ff86f12",
+      "stepText": "В поле «Снижение расхода в конце налива, л (кг)» задайте, за сколько литров до окончания выдачи должен включиться клапан снижения расхода.",
+      "stepTextHash": "309f6180be7b3a5651e5b7d75091d09799c2bf8de7f4b0a617c9cb6efc2c2b4a",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Снижение расхода 1; рамка не касается текста. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    },
+    {
+      "output": "filling-stop-delay.svg",
+      "sourceHash": "1feaae626462b73004bcfd5b522e91b8ddc9bad3793a6eb08883a1dc45d68dc1",
+      "svgHash": "7766d2fc3aebf297c0cd71ba82e865c3491336c4975a9fd8fdefd32893185020",
+      "stepText": "В поле «Завершение налива после выкл. насоса через, с.» оставьте стандартное значение — 1 секунду.",
+      "stepTextHash": "1d8c22a361a41c79f40df7791c5e20d5b01f3da863dae35518a534346f97d1b2",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Завершение после выключения насоса 1 секунда, рамка подписи и поля. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    },
+    {
+      "output": "filling-sensor-error.svg",
+      "sourceHash": "1feaae626462b73004bcfd5b522e91b8ddc9bad3793a6eb08883a1dc45d68dc1",
+      "svgHash": "89dc87805ef43f650b578acebf797a5d2640fc52c19b83946ecaa641bd604d09",
+      "stepText": "В поле «Остановка налива при ошибке от датчиков расхода» оставьте «Да». Тогда при ошибке датчика контроллер остановит выдачу.",
+      "stepTextHash": "2d5c622fe4405fecdf0d66cfb392b373d5c5aa5111e3d36aa327a70ccb31c39c",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Остановка при ошибке датчиков расхода Да; точное название совпадает с текстом. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    },
+    {
+      "output": "filling-last-display.svg",
+      "sourceHash": "1feaae626462b73004bcfd5b522e91b8ddc9bad3793a6eb08883a1dc45d68dc1",
+      "svgHash": "54a38fae5ce9b81e0f025c805e18a1304ed7babc6262cad173539db0f0a9ee46",
+      "stepText": "Укажите, сколько секунд показывать последний налив на индикаторе.",
+      "stepTextHash": "71623f80e9638d9055613c153f483e198ac4d98cd08217dc8c7eba9afb8677bb",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Время индикации 30 секунд; только соответствующее поле. Исходник и полный SVG просмотрены индивидуально; проверено в статье и увеличении. Курсора, водяного знака, заглушек и наложений нет."
+    }
+  ]
+}

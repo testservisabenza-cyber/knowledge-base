@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-no-arrow",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "После первого успешного чтения в строке появятся время опроса и стрелка в карточку. На снимке показан пример такой строки; стрелка выделена отдельно.",
+      "stepTextHash": "8d53a683a385609532f1aff504875e45bcefc5351383da39d94a507426301a2a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пример успешного чтения во второй строке, стрелка отдельно от корзины. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    },
+    {
+      "output": "list-no-arrow.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "65fbfa1c0b15083e8c735e4f9e5070d9b1ba2c3da09945ca3f2603b10c65f776",
+      "stepText": "В списке найдите строку только что добавленного контроллера и убедитесь, что в столбце «Действия» действительно нет стрелки.",
+      "stepTextHash": "5b914603c67fadcb8960f22f692794849bc2ee35ba61e524b749004528ae3743",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Ячейка Действия первой строки без стрелки; отсутствие кнопки видно. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    },
+    {
+      "output": "list-new-id.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "e05bab5b8d9480f67732f8f450e37faaee85944bc38888424af486c101f7affd",
+      "stepText": "Сверьте ID строки с ID устройства. Ошибка в одном символе помешает подключиться к нужному контроллеру.",
+      "stepTextHash": "a10c195d4bdd1c39706cd383dde8d5be3b5424501662fd1cbbc22c51773a2bd5",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полный ID именно первой строки новой записи. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    },
+    {
+      "output": "list-new-license.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "fd8bbff69a007740246a2db9501a4468c390a024bb457f730abb292011e6c235",
+      "stepText": "Проверьте срок лицензии в benzamat Оплата. Значение «Неизвестно» в ПРО до первого чтения не показывает реальный срок услуги.",
+      "stepTextHash": "440dd532c6b88a333903eb62419484c0e74230e4259093fa32e32a3961620250",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Неизвестно в поле лицензии первой строки; рамка не касается текста. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    },
+    {
+      "output": "list-new-connection.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "4b8000883778cf61870ddda07214f1c342032c2314b1f2465f03e87c814755dd",
+      "stepText": "Проверьте питание и сетевую связь оборудования. После восстановления связи дождитесь очередного автоопроса — обычный цикл занимает около 15 минут.",
+      "stepTextHash": "7ea94be354bd060c68f07de885816f9b8a2ef8f0ccadf47fd718de783a3c9f06",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Значок отсутствия связи первой строки выделен отдельно. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "rightScrollbarWidth": 0,
+  "targets": [
+    {
+      "height": 70,
+      "selector": "#navbar-brand-box-hide > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria2918317304-\\:r0\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1706,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria2918317304-\\:r1\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1756,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria2918317304-\\:r2\\:",
+      "tag": "BUTTON",
+      "target": "5",
+      "width": 42,
+      "x": 1806,
+      "y": 24.65625
+    },
+    {
+      "height": 14.625,
+      "selector": "#notificationCount",
+      "tag": "SPAN",
+      "target": "5",
+      "width": 17.34375,
+      "x": 1828.65625,
+      "y": 29.65625
+    },
+    {
+      "height": 36.671875,
+      "selector": "#react-aria2918317304-\\:r3\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 44,
+      "x": 1856,
+      "y": 24.65625
+    },
+    {
+      "height": 70,
+      "selector": "#page-topbar > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 39.03125,
+      "selector": "#button-hide-menu",
+      "tag": "BUTTON",
+      "target": "Свернуть меню",
+      "width": 150.09375,
+      "x": 49.953125,
+      "y": 80
+    },
+    {
+      "height": 39.640625,
+      "selector": "#main-point > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Главная",
+      "width": 250,
+      "x": 0,
+      "y": 135.03125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#company",
+      "tag": "A",
+      "target": "Компании",
+      "width": 250,
+      "x": 0,
+      "y": 216.671875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#stations",
+      "tag": "A",
+      "target": "Станции",
+      "width": 250,
+      "x": 0,
+      "y": 256.3125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#controllers",
+      "tag": "A",
+      "target": "Контроллеры (ТРК)",
+      "width": 250,
+      "x": 0,
+      "y": 295.953125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#users",
+      "tag": "A",
+      "target": "Пользователи",
+      "width": 250,
+      "x": 0,
+      "y": 335.59375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#transports",
+      "tag": "A",
+      "target": "Транспорт",
+      "width": 250,
+      "x": 0,
+      "y": 375.234375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#alrts",
+      "tag": "A",
+      "target": "Оповещения",
+      "width": 250,
+      "x": 0,
+      "y": 414.875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Поступление ГСМ",
+      "width": 250,
+      "x": 0,
+      "y": 454.515625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Автоотчеты",
+      "width": 250,
+      "x": 0,
+      "y": 494.15625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Аналитика",
+      "width": 250,
+      "x": 0,
+      "y": 533.796875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(13) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление доступом",
+      "width": 250,
+      "x": 0,
+      "y": 615.4375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(14) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление входом",
+      "width": 250,
+      "x": 0,
+      "y": 655.078125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(15) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "benzamat Оплата",
+      "width": 250,
+      "x": 0,
+      "y": 694.71875
+    },
+    {
+      "height": 29,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "tag": "H2",
+      "target": "Контроллер - 33481F76 03373931 5235364C Электромеханическая Действие лицензии: 01.05.2024 00:00 - 31.12.2029 00:00",
+      "width": 941.609375,
+      "x": 286,
+      "y": 97.765625
+    },
+    {
+      "height": 21,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1) > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "target": "Электромеханическая",
+      "width": 158.359375,
+      "x": 672.53125,
+      "y": 105.765625
+    },
+    {
+      "height": 21,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1) > span:nth-of-type(3)",
+      "tag": "SPAN",
+      "target": "Действие лицензии: 01.05.2024 00:00 - 31.12.2029 00:00",
+      "width": 391.3125,
+      "x": 836.296875,
+      "y": 105.765625
+    },
+    {
+      "height": 36.53125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Действия с контроллерами",
+      "width": 203.046875,
+      "x": 1680.953125,
+      "y": 94
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-maininfo",
+      "tag": "BUTTON",
+      "target": "Настройки",
+      "width": 108.59375,
+      "x": 274,
+      "y": 138.53125
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-levelmeter",
+      "tag": "BUTTON",
+      "target": "Уровнемеры",
+      "width": 120.875,
+      "x": 382.59375,
+      "y": 138.53125
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-users",
+      "tag": "BUTTON",
+      "target": "Пользователи",
+      "width": 132.625,
+      "x": 503.46875,
+      "y": 138.53125
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-ts",
+      "tag": "BUTTON",
+      "target": "Транспортные средства",
+      "width": 201.4375,
+      "x": 636.09375,
+      "y": 138.53125
+    },
+    {
+      "height": 41.5,
+      "selector": "#uncontrolled-tab-example-tab-companies",
+      "tag": "BUTTON",
+      "target": "Компании",
+      "width": 103.375,
+      "x": 837.53125,
+      "y": 138.53125
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-journal",
+      "tag": "BUTTON",
+      "target": "Журнал всех сообщений",
+      "width": 204.390625,
+      "x": 940.90625,
+      "y": 138.53125
+    },
+    {
+      "height": 36.53125,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Добавить компанию",
+      "width": 149.546875,
+      "x": 286,
+      "y": 197.03125
+    },
+    {
+      "height": 319.640625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1)",
+      "tag": "TABLE",
+      "target": "Название 0 Действия 0 Тестируем сервис (ГК) 04733B6A926784 51666666 Пенза",
+      "width": 1598,
+      "x": 286,
+      "y": 249.5625
+    },
+    {
+      "height": 75.390625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1)",
+      "tag": "TR",
+      "target": "Название 0 Действия 0",
+      "width": 1598,
+      "x": 286,
+      "y": 249.5625
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 386.78125,
+      "y": 258.9375
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r74\\:",
+      "tag": "INPUT",
+      "target": "Filter by Название",
+      "width": 731,
+      "x": 300,
+      "y": 285.5625
+    },
+    {
+      "height": 28.79998779296875,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 1040.5999755859375,
+      "y": 287.1625061035156
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1184.21875,
+      "y": 258.9375
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r7a\\:",
+      "tag": "INPUT",
+      "target": "Filter by Действия",
+      "width": 731,
+      "x": 1099,
+      "y": 285.5625
+    },
+    {
+      "height": 28.79998779296875,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 1839.5999755859375,
+      "y": 287.1625061035156
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1)",
+      "tag": "TR",
+      "target": "Тестируем сервис (ГК)",
+      "width": 1598,
+      "x": 286,
+      "y": 324.953125
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "Тестируем сервис (ГК)",
+      "width": 799,
+      "x": 286,
+      "y": 324.953125
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 799,
+      "x": 1085,
+      "y": 324.953125
+    },
+    {
+      "height": 28.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1101,
+      "y": 340.953125
+    },
+    {
+      "height": 28.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(2) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1157,
+      "y": 340.953125
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2)",
+      "tag": "TR",
+      "target": "04733B6A926784",
+      "width": 1598,
+      "x": 286,
+      "y": 386.015625
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "04733B6A926784",
+      "width": 799,
+      "x": 286,
+      "y": 386.015625
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 799,
+      "x": 1085,
+      "y": 386.015625
+    },
+    {
+      "height": 28.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1101,
+      "y": 402.015625
+    },
+    {
+      "height": 28.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1157,
+      "y": 402.015625
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3)",
+      "tag": "TR",
+      "target": "51666666",
+      "width": 1598,
+      "x": 286,
+      "y": 447.078125
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "51666666",
+      "width": 799,
+      "x": 286,
+      "y": 447.078125
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 799,
+      "x": 1085,
+      "y": 447.078125
+    },
+    {
+      "height": 28.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1101,
+      "y": 463.078125
+    },
+    {
+      "height": 28.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(2) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1157,
+      "y": 463.078125
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4)",
+      "tag": "TR",
+      "target": "Пенза",
+      "width": 1598,
+      "x": 286,
+      "y": 508.140625
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "Пенза",
+      "width": 799,
+      "x": 286,
+      "y": 508.140625
+    },
+    {
+      "height": 61.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 799,
+      "x": 1085,
+      "y": 508.140625
+    },
+    {
+      "height": 28.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1101,
+      "y": 524.140625
+    },
+    {
+      "height": 28.0625,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(2) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1157,
+      "y": 524.140625
+    },
+    {
+      "height": 23,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Rows per page",
+      "width": 109.578125,
+      "x": 1562.03125,
+      "y": 586.703125
+    },
+    {
+      "height": 29,
+      "selector": "#mrt-rows-per-page-\\:r70\\:",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 42.109375,
+      "x": 1679.609375,
+      "y": 585.203125
+    },
+    {
+      "height": 34,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Go to previous page",
+      "width": 34,
+      "x": 1808,
+      "y": 581.203125
+    },
+    {
+      "height": 34,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Go to next page",
+      "width": 34,
+      "x": 1842,
+      "y": 581.203125
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Политика обработки персональных данных.",
+      "width": 304.296875,
+      "x": 683.25,
+      "y": 1042
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "Свидетельство на ПО.",
+      "width": 150.671875,
+      "x": 991.875,
+      "y": 1042
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "tag": "A",
+      "target": "Свидетельство на ТЗ",
+      "width": 142.15625,
+      "x": 1146.875,
+      "y": 1042
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 771,
+      "x": 300,
+      "y": 285.5625
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 771,
+      "x": 1099,
+      "y": 285.5625
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-companies > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "10",
+      "width": 42.109375,
+      "x": 1679.609375,
+      "y": 582.203125
+    }
+  ],
+  "viewport": {
+    "height": 1080,
+    "width": 1920
+  },
+  "bitmap": {
+    "height": 1080,
+    "width": 1920
+  },
+  "source": "source/controller-companies.jpg",
+  "url": "https://pro.benza.online/controller/1556",
+  "dom": "- region \"Notifications Alt+T\"\n- banner:\n  - banner:\n    - link:\n      - /url: /\n    - generic: По всем возникающим вопросам и неполадкам сообщайте нашей технической поддержке тел. (8412) 45-41-14\n    - button:\n    - button:\n    - button \"5\":\n      - generic: \"5\"\n    - button:\n  - link:\n    - /url: /\n- button \"Свернуть меню\":\n  - text: Свернуть меню\n- list:\n  - link \"Главная\":\n    - /url: /dashboard\n    - text: Главная\n  - listitem: ОБЩИЙ ФУНКЦИОНАЛ\n  - link \"Компании\":\n    - /url: /companies\n    - text: Компании\n  - link \"Станции\":\n    - /url: /stations\n    - text: Станции\n  - link \"Контроллеры (ТРК)\":\n    - /url: /controllers\n    - text: Контроллеры (ТРК)\n  - link \"Пользователи\":\n    - /url: /users\n    - text: Пользователи\n  - link \"Транспорт\":\n    - /url: /transports\n    - text: Транспорт\n  - link \"Оповещения\":\n    - /url: /alerts\n    - text: Оповещения\n  - link \"Поступление ГСМ 󰅀\":\n    - /url: /fuel-intake\n    - text: Поступление ГСМ 󰅀\n  - link \"Автоотчеты 󰅀\":\n    - /url: /\n    - text: Автоотчеты 󰅀\n  - link \"Аналитика 󰅀\":\n    - /url: /\n    - text: Аналитика 󰅀\n  - listitem: АДМИНИСТРИРОВАНИЕ\n  - link \"Управление доступом 󰅀\":\n    - /url: /\n    - text: Управление доступом 󰅀\n  - link \"Управление входом\":\n    - /url: /security/tokens\n    - text: Управление входом\n  - link \"benzamat Оплата\":\n    - /url: https://pay.benza.online\n    - text: benzamat Оплата\n- 'heading \"Контроллер - 33481F76 03373931 5235364C Электромеханическая Действие лицензии: 01.05.2024 00:00 - 31.12.2029 00:00\" [level=2]':\n  - generic: Контроллер - 33481F76 03373931 5235364C\n  - generic: Электромеханическая\n  - generic: \"Действие лицензии: 01.05.2024 00:00 - 31.12.2029 00:00\"\n- button \"Действия с контроллерами\"\n- tablist:\n  - tab \"Настройки\"\n  - tab \"Уровнемеры\"\n  - tab \"Пользователи\"\n  - tab \"Транспортные средства\"\n  - tab \"Компании\" [active] [selected]\n  - tab \"Журнал всех сообщений\"\n- tabpanel \"Компании\":\n  - button \"Добавить компанию\"\n  - table:\n    - rowgroup:\n      - row \"Название Sort by Название ascending Column Actions Действия Sort by Действия descending Column Actions\":\n        - columnheader \"Название Sort by Название ascending Column Actions\":\n          - generic: Название\n          - generic \"Sort by Название ascending\":\n            - button \"Sort by Название ascending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by Название\"\n        - columnheader \"Действия Sort by Действия descending Column Actions\":\n          - generic: Действия\n          - generic \"Sort by Действия descending\":\n            - button \"Sort by Действия descending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by Действия\"\n    - rowgroup:\n      - row \"Тестируем сервис (ГК)\":\n        - cell \"Тестируем сервис (ГК)\"\n        - cell:\n          - button:\n          - button:\n      - row \"04733B6A926784\":\n        - cell \"04733B6A926784\"\n        - cell:\n          - button:\n          - button:\n      - row \"51666666\":\n        - cell \"51666666\"\n        - cell:\n          - button:\n          - button:\n      - row \"Пенза\":\n        - cell \"Пенза\"\n        - cell:\n          - button:\n          - button:\n  - generic: Rows per page\n  - combobox \"Rows per page\": \"10\"\n  - textbox: \"10\"\n  - generic: 1-4 of 4\n  - generic \"Go to previous page\":\n    - button \"Go to previous page\" [disabled]:\n  - generic \"Go to next page\":\n    - button \"Go to next page\" [disabled]:\n- contentinfo:\n  - text: Онлайн сервис для управления топливом benzamat ПРО..\n  - link \"Политика обработки персональных данных.\":\n    - /url: /files/personal_data_pro.pdf\n  - link \"Свидетельство на ПО.\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610388&TypeFile=html\n  - link \"Свидетельство на ТЗ\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=RUTM&DocNumber=770581&TypeFile=html"
+}

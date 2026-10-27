@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "manifestHash": "99a317fff0d9504aa0ec314970326dd6a39e219ed52a0e2f497e794edf1d943b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-alert-edit",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "alerts-row.svg",
+      "sourceHash": "3a9c29483d8fbe41310e364f71554b140dd505879d52fa8609f4fdd5471e3463",
+      "svgHash": "113aaf4b4d46d278efbecf34ecd2f7a3847633ad1c409e81dc3f36b2d747d958",
+      "stepText": "В таблице раздела «Оповещения» найдите нужное правило по описанию.",
+      "stepTextHash": "766cf82b5d7fbf669b58729f1cd2308fdf7ccc60359525e8aed614266cbea469",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Реальная строка правила"
+    },
+    {
+      "output": "alerts-edit.svg",
+      "sourceHash": "3a9c29483d8fbe41310e364f71554b140dd505879d52fa8609f4fdd5471e3463",
+      "svgHash": "be1f66efa113e644ca0212995e0cf1c7382ee3373f618d132cba95e100ddb877",
+      "stepText": "Нажмите карандаш в его строке.",
+      "stepTextHash": "2835ab0d6c703492c1f69205604988a68f75785d041b8fb70d45a785a0f465d5",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Карандаш: диагональ в нижний правый угол"
+    },
+    {
+      "output": "alerts-fields.svg",
+      "sourceHash": "f8d8181fea5d2ed5a463c18b594bc16c61c91a9eb1792f8a8b060cf226c846a0",
+      "svgHash": "b5725954d83b2a838a402a08c5e04a59aab1a6fba6ae27c63f2e95e88ea985ee",
+      "stepText": "В форме измените описание, события или адреса. Убедитесь, что оставлен канал «Электронная почта» и получатели введены без опечаток.",
+      "stepTextHash": "f16eb03c9adf2fbc992557b603f55f3b3e118dd9207ca31fd3edcf30f369c4ec",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Поля в ширину панели, без Save"
+    },
+    {
+      "output": "alerts-edit-save.svg",
+      "sourceHash": "f8d8181fea5d2ed5a463c18b594bc16c61c91a9eb1792f8a8b060cf226c846a0",
+      "svgHash": "2f334932a510ea007338cbf596a211619ae58aec68d07483e034d6ad4ccc596f",
+      "stepText": "Нажмите «Сохранить» в форме редактирования.",
+      "stepTextHash": "c3696995c330c6796eb2f5aad7420e65a7526a8114ffa648ff5977fbf509527d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Save отдельно со стрелкой"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/journal-clean.jpg",
+      "output": "step-01.svg",
+      "boxes": [
+        {
+          "x": 0,
+          "y": 494.15625,
+          "width": 246,
+          "height": 59,
+          "target": "Журнал поступления топлива",
+          "selector": "#pourings"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            285,
+            523.65625
+          ]
+        }
+      ],
+      "padding": 0,
+      "rightScrollbarWidth": 0,
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-14T05:59:56.471Z",
+      "title": "step-01.svg",
+      "background": "application"
+    },
+    {
+      "source": "source/journal-clean.jpg",
+      "output": "step-02.svg",
+      "boxes": [
+        {
+          "x": 1693.3125,
+          "y": 94,
+          "width": 190.6875,
+          "height": 36.53125,
+          "target": "Добавить поступление",
+          "selector": "button: Добавить поступление"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1648.3125,
+            112.265625
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-14T05:59:56.471Z",
+      "title": "step-02.svg",
+      "background": "application"
+    },
+    {
+      "source": "source/select-clean.jpg",
+      "output": "step-03.svg",
+      "boxes": [
+        {
+          "x": 395,
+          "y": 111,
+          "width": 1129.96875,
+          "height": 75.609375,
+          "target": "Компания, станция и секция",
+          "selector": ".modal .col-md-4 union"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-14T05:59:56.471Z",
+      "title": "step-03.svg",
+      "background": "application"
+    },
+    {
+      "source": "source/invoice-empty-clean.jpg",
+      "output": "step-04.svg",
+      "boxes": [
+        {
+          "x": 582.5,
+          "y": 282.21875,
+          "width": 363,
+          "height": 487.84375,
+          "target": "Накладная",
+          "selector": ".modal invoice column"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-14T05:59:56.471Z",
+      "title": "step-04.svg",
+      "background": "application"
+    },
+    {
+      "source": "source/tanker-empty-clean.jpg",
+      "output": "step-05.svg",
+      "boxes": [
+        {
+          "x": 965.5,
+          "y": 282.21875,
+          "width": 363,
+          "height": 487.84375,
+          "target": "Замер бензовоза",
+          "selector": ".modal tanker column"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-14T05:59:56.471Z",
+      "title": "step-05.svg",
+      "background": "application"
+    },
+    {
+      "source": "source/extra-empty-clean.jpg",
+      "output": "step-06.svg",
+      "boxes": [
+        {
+          "x": 582.5,
+          "y": 584.0625,
+          "width": 375,
+          "height": 265.421875,
+          "target": "Сведения о бензовозе, водителе и машине",
+          "selector": "[name=TruckDriver] closest(.col-md-6)"
+        },
+        {
+          "x": 979.5,
+          "y": 587.0625,
+          "width": 371,
+          "height": 106.140625,
+          "target": "Цена за литр",
+          "selector": "cost span,label,input union"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-14T05:59:56.471Z",
+      "title": "step-06.svg",
+      "background": "application"
+    },
+    {
+      "source": "source/save-filled-clean.jpg",
+      "output": "step-07.svg",
+      "boxes": [
+        {
+          "x": 584.5,
+          "y": 998.625,
+          "width": 91.28125,
+          "height": 36.53125,
+          "target": "Сохранить",
+          "selector": ".modal button: Сохранить"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            730.78125,
+            1016.890625
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-14T05:59:56.471Z",
+      "title": "step-07.svg",
+      "background": "application"
+    }
+  ]
+}

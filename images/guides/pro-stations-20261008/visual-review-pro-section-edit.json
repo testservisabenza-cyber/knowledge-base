@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "manifestHash": "862ad05e9bfdf9438706a7585c61af003e8998472bf77959f696d6e113a1d70b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-section-edit",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "station-nav.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "bd5d9c30ab8b3b7ee8d00312e71975f4365ac4c7c0a3063c5ff0553d57da4fa5",
+      "stepText": "В левом меню откройте раздел «Станции».",
+      "stepTextHash": "afbef995451875c8acc71a8fb1aae10d94f25aa877480e7435aa92c3b181894a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Раздел Станции (0, 256, 246x40). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-find-training.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "c738fbf64465b0dd3b162a1770097eb4b3fc5790fb284b8b3f43179fb625258f",
+      "stepText": "Найдите нужный резервуар в списке. Для поиска можно воспользоваться фильтром под заголовком «Название». В этом примере — «Учебный резервуар №1».",
+      "stepTextHash": "f3914f28fde97fbbed9acde13ff82d672ad6642fde46dff11e3ed7aff82f60a0",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Учебный резервуар №1 (286, 230, 1574x61); 1: Пустой фильтр по названию (300, 191, 287x32). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "station-open-training.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "10303858a21bba12d77fa737f1fce7e65b95afd98bc0baa6f97b2b94344b3075",
+      "stepText": "Нажмите стрелку в строке резервуара.",
+      "stepTextHash": "8a8aab5d9a1801dc7fa1cf7e6a0b1c196d2cbf9244a2529902f55cffbc4ff6d8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Настройки учебного резервуара (1613, 246, 36x28). Стрелки: к рамке 0: точно в угол bottom-right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-sections-tab.svg",
+      "sourceHash": "58f8a0845dd341bc3e90275d82a46bcb7270cad43fe457ca7799ed78a268e88f",
+      "svgHash": "5589e6381bf4789048515218c3eb3448ee457bc8835f2a6a172760924319af07",
+      "stepText": "Перейдите на вкладку «Секции».",
+      "stepTextHash": "74c9783c53c9b9f7aa4af21864b9fdb1e1c4e1bb2647135b3c41250c131d6219",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Секции (472, 140, 84x42). Стрелки: к рамке 0: точно в угол bottom-right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-sections-edit.svg",
+      "sourceHash": "58f8a0845dd341bc3e90275d82a46bcb7270cad43fe457ca7799ed78a268e88f",
+      "svgHash": "d374df4f8372dbf04d810d86388889d016cd25d7720a29ae0b403ae7602e17b1",
+      "stepText": "В строке нужной секции нажмите кнопку с карандашом.",
+      "stepTextHash": "5e8b304f09421914da89c2513973e5a9155902dde4c42057c84ecda2f2fda2c5",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Карандаш секции (1614, 313, 36x28). Стрелки: к рамке 0: точно в угол bottom-right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-section-edit-fields.svg",
+      "sourceHash": "cfb385f5625a86fefd5afd2d9b55af0c110a4a36740085e663e7c52c415e6872",
+      "svgHash": "9c6f249088dbb1fc10ef5f59ad6a9be5f7ad628c0b80e1be6dd57de58fbd33dd",
+      "stepText": "В форме «Изменение данных» исправьте название или топливо, если это требуется.",
+      "stepTextHash": "56f3dabd9b5e7312dea7873ea8e9e20a97f3e032604afad5b42fa74fd23cdf3d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Название и топливо секции (1524, 98, 377x150). Стрелок нет, состояние и поля показаны рамками. Белая форма: рамка по ширине панели с отступом от её границ; кнопка сохранения вне рамки полей."
+    },
+    {
+      "output": "station-section-edit-levels.svg",
+      "sourceHash": "cfb385f5625a86fefd5afd2d9b55af0c110a4a36740085e663e7c52c415e6872",
+      "svgHash": "67921307720ba8052a36267d755b02fb4245d249b2e82086179fa056624b1f6a",
+      "stepText": "Прокрутите форму и исправьте необходимые высоты, объёмы или сигнальный порог. Значения берите из данных именно этой секции.",
+      "stepTextHash": "1cd824164e3056619302a1be7f1006a351d7f7a94a4493f95332bdd96aa9a345",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Размеры, объёмы и сигнальный порог (1524, 457, 377x559). Стрелок нет, состояние и поля показаны рамками. Белая форма: рамка по ширине панели с отступом от её границ; кнопка сохранения вне рамки полей."
+    },
+    {
+      "output": "station-section-edit-save.svg",
+      "sourceHash": "745343a354a05e2500e2e919c7c1349dc379532aa7e859a8f83aba9e052c1e29",
+      "svgHash": "6521a2dbef92f926b8ef7790caf114ecd7c5e0f22242d3f42a5f68cf5d53783c",
+      "stepText": "Внизу формы нажмите «Сохранить». Затем проверьте изменённые сведения в строке секции.",
+      "stepTextHash": "695cb9cc3e08120ad90e633c449af9524c3513d43f3f59febb7cd224b2efb91b",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Сохранить секцию (1537, 1028, 91x37). Стрелки: к рамке 0: прямая к стороне left; проходят вне подписей и соседних кнопок."
+    }
+  ],
+  "inspectedAt": "2026-10-08",
+  "inspectionEnvironment": "Individual clean sources and complete SVGs: 1920x1080. Article viewport: 1920x889; both themes, background choices, step navigation, 125% image zoom and PNG clipboard inspected. Original dark theme and background restored."
+}

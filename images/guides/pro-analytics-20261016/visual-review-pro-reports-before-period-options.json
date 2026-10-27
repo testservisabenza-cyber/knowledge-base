@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "manifestHash": "6d69d75f925a7d8d65dd870433d9e93186307439a69727458a1252144708ceed",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-reports",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "menu-open.svg",
+      "sourceHash": "06780a2f112a78ce5006767154d660a6b0ad9e0fd628b82ba871c76124abeed9",
+      "svgHash": "46a35255ba8ece683d6f19f9705ea42e43ceab894ebff962c6e2a1b1e1f3969e",
+      "stepText": "Откройте «Аналитика»\nВ левом меню раскройте «Аналитика».",
+      "stepTextHash": "a6330709805d66d0104514c43e6dd7a89efd48284e9be927424e71a08da023ed",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт «Аналитика» обведён по ширине меню, горизонтальная стрелка справа проходит по свободному месту. В статье и увеличении пункт и стрелка различимы."
+    },
+    {
+      "output": "report-select.svg",
+      "sourceHash": "aa7e5d90337b0d9f42a2afe32eb75375f9cac9dd9e1a801063f19f66087f9c7f",
+      "svgHash": "12f94cc7821d8b2eab0011de4b90be3c333e15739409f2db1104ba92cb2ef5b1",
+      "stepText": "Выберите отчёт\nНажмите «Последние заправки». Откроется страница отчёта.",
+      "stepTextHash": "920c4936ddfe4571d0fafc45a787795cdbf51349f665fa1bbac615ac4fd792a7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка охватывает только «Последние заправки», стрелка справа не пересекает подписи меню. Проверены обычный размер, увеличение и переход 1→2."
+    },
+    {
+      "output": "filter-open.svg",
+      "sourceHash": "aa7e5d90337b0d9f42a2afe32eb75375f9cac9dd9e1a801063f19f66087f9c7f",
+      "svgHash": "b32da9486d3d65e45f884c5981aa7b0c87b7518a6075b06b725d320c9ef66d43",
+      "stepText": "Откройте фильтр\nНажмите «Фильтр отчета» в правом верхнем углу страницы. Справа откроется форма без выбранной компании, контроллеров и пользователей.",
+      "stepTextHash": "1ade9f589a51ce4ce9216a720397a79cdb0f183401af244a08082ac678feb5d7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка слева указывает на «Фильтр отчета», исходная страница ещё без сформированных данных. В статье и увеличении состояние совпадает с текстом шага."
+    },
+    {
+      "output": "company-select.svg",
+      "sourceHash": "1723850ff50d1424f90efeacee8011e44d33f26bca6fe25fc022bd1a33134c5d",
+      "svgHash": "24c377d9437759f3bd401f130b2e6e61bd57236c5df64dfa760727e5336e7233",
+      "stepText": "Выберите компанию\nВ поле «Компания» найдите и выберите организацию, чьи заправки нужны. Для поиска начните вводить название. В примере выбрана «Тестируем сервис (ГК)».",
+      "stepTextHash": "970bce6094d0fc72accd70660029579712a1ebafd5f9fcd15c88ccf0aa24b5fe",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Компания показана до выбора, поле поиска и единственный найденный вариант объединены одной рамкой. В статье и увеличении состояние совпадает с текстом шага."
+    },
+    {
+      "output": "controllers.svg",
+      "sourceHash": "e9db0e25f774f06e71fe95a0008b7ac379fc4885a3982e8537b269618d1e8e5e",
+      "svgHash": "fee4ed3c62bb8dd6fc3e17f7e1d260c6ea8ae9c44582dddc877f43c7fd4b2b68",
+      "stepText": "Выберите контроллеры\nОтметьте «Выбрать все контроллеры», чтобы получить заправки со всех доступных устройств компании. Если нужны отдельные устройства, оставьте флажок снятым и выберите их в поле «Контроллер (ТРК)».",
+      "stepTextHash": "0f13ffd2152592209ee59c49ed7ec66bb6e1eca7199b13bc2a3c0ca842562b7a",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "После выбора компании остальные поля пусты, рамка включает флажок и поле контроллеров без соседних настроек. Поле и флажки читаются в статье, увеличение соответствует шагу."
+    },
+    {
+      "output": "users.svg",
+      "sourceHash": "e1bae1ad78ce0d9c0a2dc19951ad9fd22d8c4c0fe268c0d4d433d562728a174f",
+      "svgHash": "8f063961ac1b99589fcb3235eee8df14b340bc2f8f9aed75d57d9b648b408a08",
+      "stepText": "Выберите пользователей\nОтметьте «Выбрать всех пользователей», чтобы включить заправки всех доступных карточек компании. Если нужны отдельные карточки, оставьте флажок снятым и выберите их в поле «Пользователи». Пользователь может обозначать человека или транспорт, который заправляют одной картой.\nУчитывать удаленных: Включите, если нужны заправки карточек, которые уже удалены. В этом примере флажок снят.\nПоказать группы пользователей: Включите для выбора пользователей по группам. Для отчёта по всем пользователям, как в примере, этот флажок не нужен.",
+      "stepTextHash": "3678bced6cea0e85815d2d8d0768a4bfc0c3a49b210810f054fd2ed3cee66427",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Все контроллеры уже отмечены, пользователи ещё не выбраны. Рамка охватывает настройки и поле пользователей. Поле и флажки читаются в статье, увеличение соответствует шагу."
+    },
+    {
+      "output": "period.svg",
+      "sourceHash": "b45d8374d16f6b5d42d01820f26c88787e4e3fe2ffc7d2b6c88084034969c27e",
+      "svgHash": "da5303d8952fbd25790c6d1ee7f493ca3d17084cea3dbec860298cfae9caf8f4",
+      "stepText": "Задайте период\nДля отчёта за текущий месяц нажмите «Месяц». Начальная и конечная даты подставятся автоматически. Для другого периода задайте нужные дату и время в полях «Начальная дата» и «Конечная дата». В отчёт попадут только операции внутри этого интервала.",
+      "stepTextHash": "2bba1e58d6b5e93175b5d590015f279fee3dbe90b17d44e73a2ab51c189b5cf5",
+      "clickTargets": [
+        1
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Все пользователи и контроллеры отмечены, даты ещё исходные. Диагональная стрелка приходит в верхний левый угол «Месяц» по промежутку между полями. Проверены обычный размер, 125% и возврат к 100%; изображение отображается."
+    },
+    {
+      "output": "submit.svg",
+      "sourceHash": "3510ee057fb364a60677148419053f1f2f249033dc97cd755cb73fb0dbe6319c",
+      "svgHash": "60cf3af9e6b41055183c445be3f170e5145940eff5090b54c2cdd4c658ff5b89",
+      "stepText": "Сформируйте отчёт\nНажмите «Сформировать». Дождитесь завершения загрузки данных. В примере задан период с 1 по 31 октября 2026 года.",
+      "stepTextHash": "eab78c6e5fbad92aac02612099dc68872eda865a5d80b7d45741b2de0d3333a7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Месяц уже выбран, даты 1–31 октября. Собственная стрелка у «Сформировать» не закрывает текст. Кнопка и стрелка читаются в статье и увеличении."
+    },
+    {
+      "output": "close-filter.svg",
+      "sourceHash": "ad2d773b5034b9199b88c8d378e104ba5534ccc00c1ea43cb0dfb065294188ea",
+      "svgHash": "c44ffb01a1c34a436f19ea70dd9080aeccbb2e1d1f317614a87714e54a2d1110",
+      "stepText": "Закройте фильтр\nПосле формирования нажмите крестик в правом верхнем углу фильтра, чтобы увидеть результат целиком.",
+      "stepTextHash": "a17881dabc032169e51aacd3c8f583d30356caac9a8d4c63e2d16614d5644fac",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "За фильтром видны реальные графики и строки результата. Стрелка у крестика проходит справа от заголовка формы. Проверены в статье и увеличении, переход к последнему шагу работает."
+    },
+    {
+      "output": "result.svg",
+      "sourceHash": "c345d657b352a643eb3ed42d056a933a3cc1279621f102986ad2ea606440c8c4",
+      "svgHash": "85ebba550ca9f5d049f83e23dd54e5b5c57d7ad48fcd18560a4f5b59551d5bfd",
+      "stepText": "Посмотрите результат\nОтчёт сформирован. Над таблицей находятся графики, а каждая строка таблицы показывает отдельную выдачу топлива. В примере найдены пять заправок. Для столбцов, которые не помещаются на экране, используйте горизонтальную полосу прокрутки под таблицей.",
+      "stepTextHash": "05d0b536a21cf89a24f37abebfef3618d8c899841d3d7e236b4e11624570a2b9",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Вся таблица из пяти строк видна с горизонтальной прокруткой. Рамка не касается текста, внешняя вертикальная полоса удалена. Проверены в статье и увеличении, переход к последнему шагу работает."
+    }
+  ],
+  "inspectionNote": "Проверены все десять шагов в обычном размере и увеличении, оба направления навигации, копирование, светлая и тёмная темы и три режима фона. Внутренних ссылок в инструкции нет. Исходные тёмная тема и полный фон восстановлены."
+}

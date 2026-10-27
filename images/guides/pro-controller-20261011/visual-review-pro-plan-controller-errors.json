@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-errors",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт левого меню выделен по ширине, горизонтальная стрелка справа. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка открытия второй строки выделена отдельно от корзины. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    },
+    {
+      "output": "card-header.svg",
+      "sourceHash": "7a33687948df0718d9707fa149cec7f752f5fecd00df9d86a464838e4ed27198",
+      "svgHash": "90c6a41e30d55a7078362875148e6459ca60e05435e765d7941bc8a415604a2d",
+      "stepText": "Сверьте ID в заголовке карточки с ID контроллера, на табло которого появился код.",
+      "stepTextHash": "17e236995c7599a0ed94675200683c8747737de8ee99cde76edf514b48a67e35",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "В заголовке читается полный ID контроллера; рамка не касается букв. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    },
+    {
+      "output": "journal-tab.svg",
+      "sourceHash": "2b9e6131f5b996455f2c400f9ef4f1831fe179473d877875469fad4ae48b3767",
+      "svgHash": "423761e31dc7f477c64c70f7a18964ff95e693c501742b5e8495bae7e8c6a205",
+      "stepText": "При необходимости откройте «Журнал всех сообщений» этого контроллера.",
+      "stepTextHash": "589bd5ef3f89f086d8d365d9cfa33f8d14f7544ca2f8f496b30dfbf20ceb9198",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Отдельная рамка вкладки Журнал всех сообщений и вертикальная стрелка. Настоящее начальное состояние журнала до выбора фильтра. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    }
+  ]
+}

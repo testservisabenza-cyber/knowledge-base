@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "manifestHash": "fb1bb9a6e1e74bb780465e748891a2b60d90bccecbf71afcac053a5bb60ce3c1",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-auto-template-delete",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "template-nav.svg",
+      "sourceHash": "a8eb87818ff43ecc604cd8248c39308e5bf94c55d81f1eeb8176a394f38a96c2",
+      "svgHash": "ec014a70de874628f8905e873f73a09887d63d3788dd23c4c920020c405691da",
+      "stepText": "Откройте в разделе «Автоотчеты» пункт «Шаблоны отчетов» и найдите шаблон по названию.",
+      "stepTextHash": "678650bb22a820a5a63235c50c33ddc62228ca0fc8641706d3e1c37b5981a1de",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Полная ширина пункта меню с отступом справа."
+    },
+    {
+      "output": "template-delete.svg",
+      "sourceHash": "a8eb87818ff43ecc604cd8248c39308e5bf94c55d81f1eeb8176a394f38a96c2",
+      "svgHash": "60bc5137d4f61f78c81852b15aa04e9aa318b432a10750b68db367bf148e5591",
+      "stepText": "Нажмите красную корзину в строке выбранного шаблона.",
+      "stepTextHash": "02de594176bb16f3fb0279410576756705c8787c5f810f73bf2a2a2f3bd2c6e9",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Только корзина, горизонтальная стрелка; карандаш без выделения."
+    }
+  ]
+}

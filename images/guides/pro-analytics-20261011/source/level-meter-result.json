@@ -1,0 +1,691 @@
+{
+  "rightScrollbarWidth": 0,
+  "targets": [
+    {
+      "height": 70,
+      "selector": "#navbar-brand-box-hide > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria1087390508-\\:r0\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1706,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria1087390508-\\:r1\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1756,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria1087390508-\\:r2\\:",
+      "tag": "BUTTON",
+      "target": "5",
+      "width": 42,
+      "x": 1806,
+      "y": 24.65625
+    },
+    {
+      "height": 14.625,
+      "selector": "#notificationCount",
+      "tag": "SPAN",
+      "target": "5",
+      "width": 17.34375,
+      "x": 1828.65625,
+      "y": 29.65625
+    },
+    {
+      "height": 36.671875,
+      "selector": "#react-aria1087390508-\\:r3\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 44,
+      "x": 1856,
+      "y": 24.65625
+    },
+    {
+      "height": 70,
+      "selector": "#page-topbar > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 39.03125,
+      "selector": "#button-hide-menu",
+      "tag": "BUTTON",
+      "target": "Свернуть меню",
+      "width": 150.09375,
+      "x": 49.953125,
+      "y": 22
+    },
+    {
+      "height": 39.640625,
+      "selector": "#main-point > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Главная",
+      "width": 250,
+      "x": 0,
+      "y": 77.03125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#company",
+      "tag": "A",
+      "target": "Компании",
+      "width": 250,
+      "x": 0,
+      "y": 158.671875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#stations",
+      "tag": "A",
+      "target": "Станции",
+      "width": 250,
+      "x": 0,
+      "y": 198.3125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#controllers",
+      "tag": "A",
+      "target": "Контроллеры (ТРК)",
+      "width": 250,
+      "x": 0,
+      "y": 237.953125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#users",
+      "tag": "A",
+      "target": "Пользователи",
+      "width": 250,
+      "x": 0,
+      "y": 277.59375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#transports",
+      "tag": "A",
+      "target": "Транспорт",
+      "width": 250,
+      "x": 0,
+      "y": 317.234375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#alrts",
+      "tag": "A",
+      "target": "Оповещения",
+      "width": 250,
+      "x": 0,
+      "y": 356.875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Поступление ГСМ",
+      "width": 250,
+      "x": 0,
+      "y": 396.515625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Автоотчеты",
+      "width": 250,
+      "x": 0,
+      "y": 436.15625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Аналитика",
+      "width": 250,
+      "x": 0,
+      "y": 475.796875
+    },
+    {
+      "height": 39.5,
+      "selector": "#fillings",
+      "tag": "A",
+      "target": "Последние заправки",
+      "width": 250,
+      "x": 0,
+      "y": 515.4375
+    },
+    {
+      "height": 39.5,
+      "selector": "#level-meter",
+      "tag": "A",
+      "target": "Показания уровнемеров",
+      "width": 250,
+      "x": 0,
+      "y": 554.9375
+    },
+    {
+      "height": 39.5,
+      "selector": "#change-prices",
+      "tag": "A",
+      "target": "Изменение цен",
+      "width": 250,
+      "x": 0,
+      "y": 594.4375
+    },
+    {
+      "height": 39.5,
+      "selector": "#prices",
+      "tag": "A",
+      "target": "Приход и расход денег",
+      "width": 250,
+      "x": 0,
+      "y": 633.9375
+    },
+    {
+      "height": 39.5,
+      "selector": "#messages",
+      "tag": "A",
+      "target": "Журнал всех сообщений",
+      "width": 250,
+      "x": 0,
+      "y": 673.4375
+    },
+    {
+      "height": 39.5,
+      "selector": "#connects",
+      "tag": "A",
+      "target": "Журнал качества связи",
+      "width": 250,
+      "x": 0,
+      "y": 712.9375
+    },
+    {
+      "height": 59,
+      "selector": "#actions",
+      "tag": "A",
+      "target": "Журнал всех действий пользователей",
+      "width": 250,
+      "x": 0,
+      "y": 752.4375
+    },
+    {
+      "height": 59,
+      "selector": "#pouring-controllers",
+      "tag": "A",
+      "target": "Прием топлива на контроллере",
+      "width": 250,
+      "x": 0,
+      "y": 811.4375
+    },
+    {
+      "height": 59,
+      "selector": "#open-close",
+      "tag": "A",
+      "target": "Показания датчика крышки резервуара",
+      "width": 250,
+      "x": 0,
+      "y": 870.4375
+    },
+    {
+      "height": 39.5,
+      "selector": "#mass",
+      "tag": "A",
+      "target": "Отпуск ГСМ по массе",
+      "width": 250,
+      "x": 0,
+      "y": 929.4375
+    },
+    {
+      "height": 59,
+      "selector": "#gsm-controllers",
+      "tag": "A",
+      "target": "Отпуск ГСМ по контроллерам",
+      "width": 250,
+      "x": 0,
+      "y": 968.9375
+    },
+    {
+      "height": 21.59375,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "tag": "H2",
+      "target": "Аналитика - Показания уровнемеров",
+      "width": 319.046875,
+      "x": 286,
+      "y": 101.46875
+    },
+    {
+      "height": 36.53125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Фильтр отчета",
+      "width": 115.984375,
+      "x": 1768.015625,
+      "y": 94
+    },
+    {
+      "height": 175.390625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1)",
+      "tag": "TABLE",
+      "target": "Дата 0 Уровнемер 0 Уровень, см 0 Температура 0 Заполненность 0 Объем, л 0 Масса, кг 0 Плотность, кг/м3 0 No records to display",
+      "width": 1574,
+      "x": 286,
+      "y": 578.53125
+    },
+    {
+      "height": 75.390625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1)",
+      "tag": "TR",
+      "target": "Дата 0 Уровнемер 0 Уровень, см 0 Температура 0 Заполненность 0 Объем, л 0 Масса, кг 0 Плотность, кг/м3 0",
+      "width": 1574,
+      "x": 286,
+      "y": 578.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 354.828125,
+      "y": 587.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:ra5\\:",
+      "tag": "INPUT",
+      "target": "Filter by Дата",
+      "width": 227.125,
+      "x": 300,
+      "y": 614.53125
+    },
+    {
+      "height": 28.800048828125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 536.7249755859375,
+      "y": 616.1312255859375
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 691.3125,
+      "y": 587.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:rab\\:",
+      "tag": "INPUT",
+      "target": "Filter by Уровнемер",
+      "width": 227.140625,
+      "x": 595.125,
+      "y": 614.53125
+    },
+    {
+      "height": 28.800048828125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 831.8656005859375,
+      "y": 616.1312255859375
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 993.78125,
+      "y": 587.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:rah\\:",
+      "tag": "INPUT",
+      "target": "Filter by Уровень, см",
+      "width": 95.953125,
+      "x": 890.265625,
+      "y": 614.53125
+    },
+    {
+      "height": 28.800048828125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 995.8187255859376,
+      "y": 616.1312255859375
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1160.1875,
+      "y": 587.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:ran\\:",
+      "tag": "INPUT",
+      "target": "Filter by Температура",
+      "width": 95.96875,
+      "x": 1054.21875,
+      "y": 614.53125
+    },
+    {
+      "height": 28.800048828125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 1159.7874755859375,
+      "y": 616.1312255859375
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1324.140625,
+      "y": 587.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:rat\\:",
+      "tag": "INPUT",
+      "target": "Filter by Заполненность",
+      "width": 95.953125,
+      "x": 1218.1875,
+      "y": 614.53125
+    },
+    {
+      "height": 28.800048828125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 1323.7406005859375,
+      "y": 616.1312255859375
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1465.90625,
+      "y": 587.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:rb3\\:",
+      "tag": "INPUT",
+      "target": "Filter by Объем, л",
+      "width": 95.953125,
+      "x": 1382.140625,
+      "y": 614.53125
+    },
+    {
+      "height": 28.800048828125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 1487.6937255859375,
+      "y": 616.1312255859375
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1632.375,
+      "y": 587.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:rb9\\:",
+      "tag": "INPUT",
+      "target": "Filter by Масса, кг",
+      "width": 95.953125,
+      "x": 1546.09375,
+      "y": 614.53125
+    },
+    {
+      "height": 28.800048828125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(7) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 1651.6468505859375,
+      "y": 616.1312255859375
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1816,
+      "y": 587.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:rbf\\:",
+      "tag": "INPUT",
+      "target": "Filter by Плотность, кг/м3",
+      "width": 95.953125,
+      "x": 1710.046875,
+      "y": 614.53125
+    },
+    {
+      "height": 28.800048828125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(8) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 1815.5999755859375,
+      "y": 616.1312255859375
+    },
+    {
+      "height": 100,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1)",
+      "tag": "TR",
+      "target": "No records to display",
+      "width": 1574,
+      "x": 286,
+      "y": 653.921875
+    },
+    {
+      "height": 100,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "No records to display",
+      "width": 1574,
+      "x": 286,
+      "y": 653.921875
+    },
+    {
+      "height": 23,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Rows per page",
+      "width": 109.578125,
+      "x": 1538.03125,
+      "y": 771.421875
+    },
+    {
+      "height": 29,
+      "selector": "#mrt-rows-per-page-\\:ra1\\:",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 42.109375,
+      "x": 1655.609375,
+      "y": 769.921875
+    },
+    {
+      "height": 34,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Go to previous page",
+      "width": 34,
+      "x": 1784,
+      "y": 765.921875
+    },
+    {
+      "height": 34,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Go to next page",
+      "width": 34,
+      "x": 1818,
+      "y": 765.921875
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Политика обработки персональных данных.",
+      "width": 304.296875,
+      "x": 683.25,
+      "y": 1042
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "Свидетельство на ПО.",
+      "width": 150.671875,
+      "x": 991.875,
+      "y": 1042
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "tag": "A",
+      "target": "Свидетельство на ТЗ",
+      "width": 142.15625,
+      "x": 1146.875,
+      "y": 1042
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 267.125,
+      "x": 300,
+      "y": 614.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 267.140625,
+      "x": 595.125,
+      "y": 614.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 135.953125,
+      "x": 890.265625,
+      "y": 614.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 135.96875,
+      "x": 1054.21875,
+      "y": 614.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 135.953125,
+      "x": 1218.1875,
+      "y": 614.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 135.953125,
+      "x": 1382.140625,
+      "y": 614.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(7) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 135.953125,
+      "x": 1546.09375,
+      "y": 614.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(8) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 135.953125,
+      "x": 1710.046875,
+      "y": 614.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "10",
+      "width": 42.109375,
+      "x": 1655.609375,
+      "y": 766.921875
+    }
+  ],
+  "viewport": {
+    "height": 1080,
+    "width": 1920
+  },
+  "bitmap": {
+    "height": 1080,
+    "width": 1920
+  },
+  "source": "source/level-meter-result.jpg",
+  "url": "https://pro.benza.online/reports/level-meter",
+  "dom": "- region \"Notifications Alt+T\":\n  - text: По данному фильтру отчета данные не найдены\n  - button \"close\":\n  - progressbar \"notification timer\"\n- banner:\n  - banner:\n    - link:\n      - /url: /\n    - generic: По всем возникающим вопросам и неполадкам сообщайте нашей технической поддержке тел. (8412) 45-41-14\n    - button:\n    - button:\n    - button \"5\":\n      - generic: \"5\"\n    - button:\n  - link:\n    - /url: /\n- button \"Свернуть меню\":\n  - text: Свернуть меню\n- list:\n  - link \"Главная\":\n    - /url: /dashboard\n    - text: Главная\n  - listitem: ОБЩИЙ ФУНКЦИОНАЛ\n  - link \"Компании\":\n    - /url: /companies\n    - text: Компании\n  - link \"Станции\":\n    - /url: /stations\n    - text: Станции\n  - link \"Контроллеры (ТРК)\":\n    - /url: /controllers\n    - text: Контроллеры (ТРК)\n  - link \"Пользователи\":\n    - /url: /users\n    - text: Пользователи\n  - link \"Транспорт\":\n    - /url: /transports\n    - text: Транспорт\n  - link \"Оповещения\":\n    - /url: /alerts\n    - text: Оповещения\n  - link \"Поступление ГСМ 󰅀\":\n    - /url: /fuel-intake\n    - text: Поступление ГСМ 󰅀\n  - link \"Автоотчеты 󰅀\":\n    - /url: /\n    - text: Автоотчеты 󰅀\n  - link \"Аналитика 󰅀\" [expanded]:\n    - /url: /\n    - text: Аналитика 󰅀\n  - list:\n    - link \"Последние заправки\":\n      - /url: /reports/fillings\n    - link \"Показания уровнемеров\":\n      - /url: /reports/level-meter\n    - link \"Изменение цен\":\n      - /url: /reports/change-prices\n    - link \"Приход и расход денег\":\n      - /url: /reports/prices\n    - link \"Журнал всех сообщений\":\n      - /url: /reports/messages\n    - link \"Журнал качества связи\":\n      - /url: /reports/gsm-connects\n    - link \"Журнал всех действий пользователей\":\n      - /url: /reports/actions\n    - link \"Прием топлива на контроллере\":\n      - /url: /reports/gsm-pouring-controllers\n    - link \"Показания датчика крышки резервуара\":\n      - /url: /reports/event-hatch-open-close\n    - link \"Отпуск ГСМ по массе\":\n      - /url: /reports/gsm-mass\n    - link \"Отпуск ГСМ по контроллерам\":\n      - /url: /reports/gsm-controllers\n    - link \"Отпуск ГСМ по пользователям\":\n      - /url: /reports/gsm-users\n    - link \"Отпуск ГСМ по контроллерам (без группировки)\":\n      - /url: /reports/gsm-not-grouping\n    - link \"Суммарный отпуск ГСМ по контроллерам\":\n      - /url: /reports/gsm-sum-controllers\n    - link \"Суммарный отпуск ГСМ по пользователям\":\n      - /url: /reports/gsm-sum-users\n    - link \"Суммарный отпуск ГСМ по транспорту\":\n      - /url: /reports/gsm-sum-transports\n    - link \"Суммарный отпуск ГСМ по компаниям\":\n      - /url: /reports/gsm-sum-companies\n    - link \"Поступление топлива\":\n      - /url: /reports/fuel-intake\n    - link:\n      - /url: /reports/level-meter\n  - listitem: АДМИНИСТРИРОВАНИЕ\n  - link \"Управление доступом 󰅀\":\n    - /url: /\n    - text: Управление доступом 󰅀\n  - link \"Управление входом\":\n    - /url: /security/tokens\n    - text: Управление входом\n  - link \"benzamat Оплата\":\n    - /url: https://pay.benza.online\n    - text: benzamat Оплата\n- heading \"Аналитика - Показания уровнемеров\" [level=2]\n- button \"Фильтр отчета\" [active]\n- table:\n  - rowgroup:\n    - row \"Дата Sort by Дата descending Column Actions Уровнемер Sort by Уровнемер descending Column Actions Уровень, см Sort by Уровень, см descending Column Actions Температура Sort by Температура descending Column Actions Заполненность Sort by Заполненность descending Column Actions Объем, л Sort by Объем, л descending Column Actions Масса, кг Sort by Масса, кг descending Column Actions Плотность, кг/м3 Sort by Плотность, кг/м3 descending Column Actions\":\n      - columnheader \"Дата Sort by Дата descending Column Actions\":\n        - generic: Дата\n        - generic \"Sort by Дата descending\":\n          - button \"Sort by Дата descending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Дата\"\n      - columnheader \"Уровнемер Sort by Уровнемер descending Column Actions\":\n        - generic: Уровнемер\n        - generic \"Sort by Уровнемер descending\":\n          - button \"Sort by Уровнемер descending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Уровнемер\"\n      - columnheader \"Уровень, см Sort by Уровень, см descending Column Actions\":\n        - generic: Уровень, см\n        - generic \"Sort by Уровень, см descending\":\n          - button \"Sort by Уровень, см descending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Уровень, см\"\n      - columnheader \"Температура Sort by Температура descending Column Actions\":\n        - generic: Температура\n        - generic \"Sort by Температура descending\":\n          - button \"Sort by Температура descending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Температура\"\n      - columnheader \"Заполненность Sort by Заполненность descending Column Actions\":\n        - generic: Заполненность\n        - generic \"Sort by Заполненность descending\":\n          - button \"Sort by Заполненность descending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Заполненность\"\n      - columnheader \"Объем, л Sort by Объем, л descending Column Actions\":\n        - generic: Объем, л\n        - generic \"Sort by Объем, л descending\":\n          - button \"Sort by Объем, л descending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Объем, л\"\n      - columnheader \"Масса, кг Sort by Масса, кг descending Column Actions\":\n        - generic: Масса, кг\n        - generic \"Sort by Масса, кг descending\":\n          - button \"Sort by Масса, кг descending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Масса, кг\"\n      - columnheader \"Плотность, кг/м3 Sort by Плотность, кг/м3 descending Column Actions\":\n        - generic: Плотность, кг/м3\n        - generic \"Sort by Плотность, кг/м3 descending\":\n          - button \"Sort by Плотность, кг/м3 descending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Плотность, кг/м3\"\n  - rowgroup:\n    - row \"No records to display\":\n      - cell \"No records to display\":\n        - paragraph: No records to display\n- generic: Rows per page\n- combobox \"Rows per page\": \"10\"\n- textbox: \"10\"\n- generic: 0-0 of 0\n- generic \"Go to previous page\":\n  - button \"Go to previous page\" [disabled]:\n- generic \"Go to next page\":\n  - button \"Go to next page\" [disabled]:\n- contentinfo:\n  - text: Онлайн сервис для управления топливом benzamat ПРО..\n  - link \"Политика обработки персональных данных.\":\n    - /url: /files/personal_data_pro.pdf\n  - link \"Свидетельство на ПО.\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610388&TypeFile=html\n  - link \"Свидетельство на ТЗ\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=RUTM&DocNumber=770581&TypeFile=html"
+}

@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "manifestHash": "fe46228ae5283c439fb9c3357522b970393bab54d4b3affa64171a4a74d8cf54",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-transport-delete",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "transport-row.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "5542d4594a19ad18758c322160e3df07e76684058a3ace57449ee6570cb8087d",
+      "stepText": "В разделе «Транспорт» найдите нужное ТС и сверьте название, компанию и RFID.",
+      "stepTextHash": "25935c864d7a9adbfca068fd37ad393fb4ce1986ac77d43b73aee132465cf286",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Одна строка ТС Пенза целиком; данные для сверки читаются."
+    },
+    {
+      "output": "transport-delete.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "bf39d37a6554205abdfbd8f0cc27f1577669da517c91afedb3eb9dc630ca129c",
+      "stepText": "Нажмите красную кнопку с корзиной в строке этой машины.",
+      "stepTextHash": "601cc8b64697fed4a0b6baa6facbea81f2b8bc528fdc5cf9955d0e49d1ebc2ba",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Только корзина этой строки, прямая стрелка справа."
+    },
+    {
+      "output": "transport-delete-submit.svg",
+      "sourceHash": "31979575138ddc03788f76ead17581f7c93931e0bef36e4ee0656671fbd04b78",
+      "svgHash": "9444003634aaee2844b092d572c96f8f500e6b381ff2823370baeebf6e59218e",
+      "stepText": "В окне «Удаление транспорта» нажмите «Подтвердить». Подтверждение удаляет выбранное ТС. Если строка выбрана ошибочно, закройте окно без подтверждения.",
+      "stepTextHash": "e99011e30531d3d30d44b6457ea7be4a70340f181392d9de54ff2e70f69ad893",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Только Подтвердить, горизонтальная стрелка слева; Отмена не выделена."
+    },
+    {
+      "output": "controller-write.svg",
+      "sourceHash": "61b3ba344800fd41e75fab22c04f0e87896142124289cd627131fc4fba92354f",
+      "svgHash": "3b6a627d1af94bf40ef0364fe8a670b6446a0d4ab97a3e17bd45790516caf2ae",
+      "stepText": "Чтобы удалённая карта ТС перестала обслуживаться на ТРК, запишите обновлённый список транспорта в соответствующие контроллеры.\nПри включённом автоопросе сервис автоматически записывает и считывает данные раз в 15 минут. При выключенном автоопросе потребуется записать данные вручную или включить автоопрос.\nНиже есть инструкция, описывающая все действия для записи данных в контроллер.",
+      "stepTextHash": "b27fff152e91521e42e4db5e821998e471e081a129fd3bb107d9e634966bcb4b",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Общее окно записи с группой транспорта; текст про удаление карты."
+    }
+  ]
+}

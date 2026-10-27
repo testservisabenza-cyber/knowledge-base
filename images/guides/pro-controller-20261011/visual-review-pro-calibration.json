@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-calibration",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт меню по ширине, прямая стрелка. Исходник и полный SVG просмотрены индивидуально; все 11 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка открытия во второй строке, корзина не затронута. Исходник и полный SVG просмотрены индивидуально; все 11 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи контроллер будет использовать новый юстировочный коэффициент при расчёте выданного объёма.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "abf7d5ce9bd6b232b2595f7c3984b1c5545972b6e28beba41a0613cca17ad572",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только Записать данные; вертикальная стрелка снизу. Реальная запись на оборудование не выполнялась. Исходник и полный SVG просмотрены индивидуально; все 11 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "metrology-tab.svg",
+      "sourceHash": "618c9408347e582593b4b12065e9cb006ba82251fe4cd391a7460400dad67ff3",
+      "svgHash": "9cdc55af85e05d85612631a866c4c8a314735ced3ca30df51ced6063f8234a48",
+      "stepText": "В «Настройки» откройте «Метрология».",
+      "stepTextHash": "a879cca46c8ffc16bb5c694215b9631c0a79194986ceff80505f615816c81538",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка точно к нижнему правому углу пункта Метрология. Исходник и полный SVG просмотрены индивидуально; все 11 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "metrology-save.svg",
+      "sourceHash": "618c9408347e582593b4b12065e9cb006ba82251fe4cd391a7460400dad67ff3",
+      "svgHash": "c31995d5f146aec19cb6942ef86ee525d73f49144b29c3fcafba18a29a3456c2",
+      "stepText": "Нажмите «Сохранить».",
+      "stepTextHash": "5e570b9e61506e20b46ab22a7060088d1efaa7ca24a88f570d91d59d51f225c4",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить с прямой стрелкой; поле коэффициента не перекрыто. Исходник и полный SVG просмотрены индивидуально; все 11 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "metrology-coefficient.svg",
+      "sourceHash": "618c9408347e582593b4b12065e9cb006ba82251fe4cd391a7460400dad67ff3",
+      "svgHash": "116edb47a8920bdc969313a5085d76523bfab8e0d7790d4d3fd25967fc20d1a0",
+      "stepText": "В разделе «Метрология» проверьте поле «Юстировочный коэффициент».",
+      "stepTextHash": "a69d378bcb47853a8358d0e803066eb35b5fa67b1454a81283956db69c978e39",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "После индивидуального просмотра рамка отодвинута от первой буквы подписи; повторно просмотрены полный SVG и шаг 9. Исходник и полный SVG просмотрены индивидуально; все 11 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "metrology-calc.svg",
+      "sourceHash": "618c9408347e582593b4b12065e9cb006ba82251fe4cd391a7460400dad67ff3",
+      "svgHash": "15b9b0b71947e23b01efc7d962b1356b93b8bca99759ec4fdca3846e326a3ae9",
+      "stepText": "Нажмите «Расчет юстировочного коэффициента».",
+      "stepTextHash": "82d88383dff702c3664eb5de1e16400f3aa17ad84ec5c416dfaeed83e8138099",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка расчёта с прямой стрелкой справа. Исходник и полный SVG просмотрены индивидуально; все 11 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "calc-inputs.svg",
+      "sourceHash": "2412539642ae417c7b7188a69103e763d934409f230c8bea5cfbdb5706e30e95",
+      "svgHash": "3c2cfb67686073504b16e965ca957fbd9e8238d7a0564555c72ba7e0356a3cf8",
+      "stepText": "Для каждого из трёх наливов введите «Литры по мернику» и «Литры по контроллеру». Значения должны относиться к одному и тому же наливу.\nЛитры по мернику: Фактический объём в поверенной мере.\nЛитры по контроллеру: Объём, показанный контроллером за тот же налив.",
+      "stepTextHash": "ab15f744a3d01863bf03a4d6edf49d0d554a00f653ac19dda1aedaba894c28e4",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Таблица шести полей контрольных наливов; показано состояние перед вводом собственных измерений. Исходник и полный SVG просмотрены индивидуально; все 11 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "calc-calculate.svg",
+      "sourceHash": "385aafcdaa1da6c06765cf51a770af73eb7d7e6f91598cc3d6af4cb9719d1904",
+      "svgHash": "58588b492f4466cdd725a16d302b9f04532fab969ba21b06c8ad2270fe9aa18f",
+      "stepText": "Откройте «Действия» и выберите «Рассчитать новое значение». Проверьте результат вычисления.",
+      "stepTextHash": "e0161b23084b43af6e1195ac0c1022d663ded57932a7ddbf794dbb695b5cd46c",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Действия и команда расчёта имеют отдельные прямые стрелки; подписи на фоне не перекрыты. Исходник и полный SVG просмотрены индивидуально; все 11 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "calc-apply.svg",
+      "sourceHash": "385aafcdaa1da6c06765cf51a770af73eb7d7e6f91598cc3d6af4cb9719d1904",
+      "svgHash": "daf14899b42fa92845d5e5e08fd590faf9983a8db5ef882b40812ecd0887074e",
+      "stepText": "Если результат соответствует измерениям, в том же меню выберите «Применить новое значение».",
+      "stepTextHash": "cd680791ae8cd43be50c6c956057dedfbd994682a11c1af4f59a02b7ce113d62",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Отдельно отмечена команда применения; состояние меню перед действием. Исходник и полный SVG просмотрены индивидуально; все 11 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "card-configuration.svg",
+      "sourceHash": "913dd4ddf985b5ca5165ef12802a76fe209d389870cc70010aaa0ecc06209270",
+      "svgHash": "4705ec9d908315687032e321cd3d42f17d614936695befdaecaaa07a354f5346",
+      "stepText": "Убедитесь, что в заголовке указана «Электромеханическая» конфигурация.",
+      "stepTextHash": "d7402878660eab33d98247c5a2f11036b66f2fc0e567537b8d3f17fb55da3a95",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Отдельно выделена конфигурация Электромеханическая. Исходник и полный SVG просмотрены индивидуально; все 11 шагов просмотрены в статье и в окне фото."
+    }
+  ]
+}

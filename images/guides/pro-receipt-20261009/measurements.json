@@ -1,0 +1,528 @@
+{
+  "journal": {
+    "source": "source/journal.png",
+    "url": "https://pro.benza.online/pourings",
+    "capturedAt": "2026-10-09T06:49:23.627Z",
+    "boxes": [
+      {
+        "height": 59,
+        "target": "Меню",
+        "width": 250,
+        "x": 0,
+        "y": 494.15625
+      },
+      {
+        "height": 559.625,
+        "target": "Таблица",
+        "width": 1574,
+        "x": 286,
+        "y": 202.140625
+      },
+      {
+        "height": 36.53125,
+        "target": "Добавить",
+        "width": 190.6875,
+        "x": 1693.3125,
+        "y": 94
+      },
+      {
+        "height": 93.046875,
+        "target": "Строка",
+        "width": 1980,
+        "x": 286,
+        "y": 277.53125
+      },
+      {
+        "height": 28.0625,
+        "target": "Карандаш",
+        "width": 36,
+        "x": 318,
+        "y": 309.515625
+      },
+      {
+        "height": 47.609375,
+        "target": "Расхождение",
+        "width": 1574,
+        "x": 286,
+        "y": 138.53125
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "objects-open": {
+    "source": "source/objects-open.png",
+    "url": "https://pro.benza.online/pourings",
+    "capturedAt": "2026-10-09T06:50:01.481Z",
+    "boxes": [
+      {
+        "height": 155.21875,
+        "target": "Компания, станция и секция",
+        "width": 1130,
+        "x": 395,
+        "y": 111
+      },
+      {
+        "height": 67.609375,
+        "target": "Поле секции",
+        "width": 352.65625,
+        "x": 1160.3125,
+        "y": 111
+      },
+      {
+        "height": 120.828125,
+        "target": "Список секций",
+        "width": 352.65625,
+        "x": 1160.3125,
+        "y": 186.609375
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "objects-initial": {
+    "source": "source/objects-initial.png",
+    "url": "https://pro.benza.online/pourings",
+    "capturedAt": "2026-10-14T13:12:45.838Z",
+    "boxes": [
+      {
+        "height": 67.609375,
+        "target": "Поля выбора компании, станции и секции",
+        "width": 1105.96875,
+        "x": 399.5,
+        "y": 111,
+        "selector": "[role=dialog] .modal-body form .row > div .mb-2, three field groups measured as one union"
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "form-top": {
+    "source": "source/form-top.png",
+    "url": "https://pro.benza.online/pourings",
+    "capturedAt": "2026-10-09T06:50:48.118Z",
+    "boxes": [
+      {
+        "height": 75.609375,
+        "target": "Объекты",
+        "width": 376.65625,
+        "x": 387.5,
+        "y": 111
+      },
+      {
+        "height": 75.609375,
+        "target": "Секция",
+        "width": 376.65625,
+        "x": 1140.8125,
+        "y": 111
+      },
+      {
+        "height": 524.375,
+        "target": "Накладная",
+        "width": 282.5,
+        "x": 387.5,
+        "y": 202.609375
+      },
+      {
+        "height": 524.375,
+        "target": "Бензовоз",
+        "width": 282.5,
+        "x": 670,
+        "y": 202.609375
+      },
+      {
+        "height": 524.375,
+        "target": "Начало",
+        "width": 188.328125,
+        "x": 952.5,
+        "y": 202.609375
+      },
+      {
+        "height": 524.375,
+        "target": "Изменение",
+        "width": 188.328125,
+        "x": 1140.828125,
+        "y": 202.609375
+      },
+      {
+        "height": 524.375,
+        "target": "Конец",
+        "width": 188.328125,
+        "x": 1329.15625,
+        "y": 202.609375
+      },
+      {
+        "height": 36.53125,
+        "target": "Уровнемер начало",
+        "width": 164.328125,
+        "x": 964.5,
+        "y": 690.453125
+      },
+      {
+        "height": 36.53125,
+        "target": "Уровнемер конец",
+        "width": 164.328125,
+        "x": 1341.15625,
+        "y": 690.453125
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "form-bottom": {
+    "source": "source/form-bottom.png",
+    "url": "https://pro.benza.online/pourings",
+    "capturedAt": "2026-10-09T06:51:10.682Z",
+    "boxes": [
+      {
+        "height": 265.421875,
+        "target": "Дополнительные сведения",
+        "width": 565,
+        "x": 387.5,
+        "y": 583.984375
+      },
+      {
+        "height": 265.421875,
+        "target": "Цена",
+        "width": 565,
+        "x": 952.5,
+        "y": 583.984375
+      },
+      {
+        "height": 90.140625,
+        "target": "Метрошток начало",
+        "width": 282.5,
+        "x": 387.5,
+        "y": 892.40625
+      },
+      {
+        "height": 90.140625,
+        "target": "Метрошток конец",
+        "width": 282.5,
+        "x": 670,
+        "y": 892.40625
+      },
+      {
+        "height": 90.140625,
+        "target": "Метрошток изменение",
+        "width": 282.5,
+        "x": 952.5,
+        "y": 892.40625
+      },
+      {
+        "height": 36.53125,
+        "target": "Пересчитать",
+        "width": 104.734375,
+        "x": 1247,
+        "y": 940.40625
+      },
+      {
+        "height": 36.53125,
+        "target": "Сохранить",
+        "width": 91.28125,
+        "x": 399.5,
+        "y": 998.546875
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "recalculated": {
+    "source": "source/recalculated.png",
+    "url": "https://pro.benza.online/pourings",
+    "capturedAt": "2026-10-09T06:51:27.055Z",
+    "boxes": [
+      {
+        "height": 265.421875,
+        "target": "Дополнительные сведения",
+        "width": 565,
+        "x": 387.5,
+        "y": 583.984375
+      },
+      {
+        "height": 265.421875,
+        "target": "Цена",
+        "width": 565,
+        "x": 952.5,
+        "y": 583.984375
+      },
+      {
+        "height": 90.140625,
+        "target": "Метрошток начало",
+        "width": 282.5,
+        "x": 387.5,
+        "y": 892.40625
+      },
+      {
+        "height": 90.140625,
+        "target": "Метрошток конец",
+        "width": 282.5,
+        "x": 670,
+        "y": 892.40625
+      },
+      {
+        "height": 90.140625,
+        "target": "Метрошток изменение",
+        "width": 282.5,
+        "x": 952.5,
+        "y": 892.40625
+      },
+      {
+        "height": 36.53125,
+        "target": "Пересчитать",
+        "width": 104.734375,
+        "x": 1247,
+        "y": 940.40625
+      },
+      {
+        "height": 36.53125,
+        "target": "Сохранить",
+        "width": 91.28125,
+        "x": 399.5,
+        "y": 998.546875
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "saved": {
+    "source": "source/saved.png",
+    "url": "https://pro.benza.online/pourings",
+    "capturedAt": "2026-10-09T06:51:49.518Z",
+    "boxes": [
+      {
+        "height": 93.046875,
+        "target": "Строка поступления",
+        "width": 1980,
+        "x": 286,
+        "y": 277.53125
+      },
+      {
+        "height": 28.0625,
+        "target": "Открыть поступление",
+        "width": 36,
+        "x": 318,
+        "y": 309.515625
+      },
+      {
+        "height": 579.640625,
+        "target": "Таблица",
+        "width": 1574,
+        "x": 286,
+        "y": 202.140625
+      },
+      {
+        "height": 93.046875,
+        "target": "Накладная и фактический приход",
+        "width": 180,
+        "x": 1006,
+        "y": 277.53125
+      },
+      {
+        "height": 93.046875,
+        "target": "Накладная",
+        "width": 180,
+        "x": 1186,
+        "y": 277.53125
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "math-receipt": {
+    "source": "source/math-receipt.png",
+    "url": "https://pro.benza.online/pourings",
+    "capturedAt": "2026-10-09T06:55:15.051Z",
+    "boxes": [
+      {
+        "height": 75.609375,
+        "target": "Компания",
+        "width": 263.328125,
+        "x": 557.5,
+        "y": 111
+      },
+      {
+        "height": 75.609375,
+        "target": "Секция",
+        "width": 263.328125,
+        "x": 1084.15625,
+        "y": 111
+      },
+      {
+        "height": 47.609375,
+        "target": "Математический учёт",
+        "width": 742,
+        "x": 569.5,
+        "y": 202.609375
+      },
+      {
+        "height": 487.84375,
+        "target": "Накладная",
+        "width": 383,
+        "x": 557.5,
+        "y": 282.21875
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "stations": {
+    "source": "source/stations.png",
+    "url": "https://pro.benza.online/stations",
+    "capturedAt": "2026-10-09T06:53:02.826Z",
+    "boxes": [
+      {
+        "height": 39.640625,
+        "target": "Меню Станции",
+        "width": 250,
+        "x": 0,
+        "y": 256.3125
+      },
+      {
+        "height": 28.0625,
+        "target": "Открыть математическую станцию",
+        "width": 36,
+        "x": 1613.203125,
+        "y": 429.109375
+      },
+      {
+        "height": 28.0625,
+        "target": "Открыть станцию с уровнемером",
+        "width": 36,
+        "x": 1613.203125,
+        "y": 490.171875
+      },
+      {
+        "height": 61.0625,
+        "target": "Математическая станция",
+        "width": 1574,
+        "x": 286,
+        "y": 413.109375
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "math-station": {
+    "source": "source/math-station.png",
+    "url": "https://pro.benza.online/station/262",
+    "capturedAt": "2026-10-09T06:53:25.116Z",
+    "boxes": [
+      {
+        "height": 41.5,
+        "target": "Основная информация",
+        "width": 197.640625,
+        "x": 274,
+        "y": 139.59375
+      },
+      {
+        "height": 67.609375,
+        "target": "Математический остаток",
+        "width": 508.65625,
+        "x": 818.65625,
+        "y": 452.515625
+      },
+      {
+        "height": 66.140625,
+        "target": "Остаток топлива",
+        "width": 508.65625,
+        "x": 818.65625,
+        "y": 536.125
+      },
+      {
+        "height": 36.53125,
+        "target": "Сохранить",
+        "width": 162.5,
+        "x": 286,
+        "y": 700.40625
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "sections": {
+    "source": "source/sections.png",
+    "url": "https://pro.benza.online/station/8",
+    "capturedAt": "2026-10-09T06:54:06.274Z",
+    "boxes": [
+      {
+        "height": 41.5,
+        "target": "Вкладка",
+        "width": 83.96875,
+        "x": 471.640625,
+        "y": 139.59375
+      },
+      {
+        "height": 61.0625,
+        "target": "Строка Тестсекция",
+        "width": 1574,
+        "x": 286,
+        "y": 419.34375
+      },
+      {
+        "height": 28.0625,
+        "target": "Карандаш",
+        "width": 36,
+        "x": 1613.671875,
+        "y": 435.34375
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "section-gauge": {
+    "source": "source/section-gauge.png",
+    "url": "https://pro.benza.online/station/8",
+    "capturedAt": "2026-10-09T06:54:19.630Z",
+    "boxes": [
+      {
+        "height": 67.609375,
+        "target": "Уровнемер",
+        "width": 367,
+        "x": 1537,
+        "y": 263.75
+      },
+      {
+        "height": 1080,
+        "target": "Панель",
+        "width": 400,
+        "x": 1520,
+        "y": 0
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "controller-status": {
+    "source": "source/controller-status.png",
+    "url": "https://pro.benza.online/controllers",
+    "capturedAt": "2026-10-09T06:54:44.856Z",
+    "boxes": [
+      {
+        "height": 39.640625,
+        "target": "Меню",
+        "width": 250,
+        "x": 0,
+        "y": 295.953125
+      },
+      {
+        "height": 73.03125,
+        "target": "Контроллер станции",
+        "width": 2040,
+        "x": 286,
+        "y": 272.421875
+      },
+      {
+        "height": 73.03125,
+        "target": "Успешный опрос",
+        "width": 180,
+        "x": 766,
+        "y": 272.421875
+      }
+    ],
+    "rightScrollbarWidth": 0
+  },
+  "math-journal": {
+    "source": "source/math-journal.png",
+    "url": "https://pro.benza.online/pourings",
+    "capturedAt": "2026-10-09T07:06:22.065Z",
+    "boxes": [
+      {
+        "height": 28.0625,
+        "target": "Карандаш поступления 04.09.2026, Секция 1, накладная 3000 л",
+        "width": 36,
+        "x": 318,
+        "y": 556.671875
+      }
+    ],
+    "rightScrollbarWidth": 0
+  }
+}

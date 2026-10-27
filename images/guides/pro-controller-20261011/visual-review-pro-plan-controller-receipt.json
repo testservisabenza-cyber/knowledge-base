@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-receipt",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полная ширина пункта Контроллеры, прямая стрелка. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Открытие второй строки отдельно от корзины. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "main.svg",
+      "sourceHash": "7a33687948df0718d9707fa149cec7f752f5fecd00df9d86a464838e4ed27198",
+      "svgHash": "f2c4df54e29ec93796508edc39c782868938b67e31a7018b42728db37886b2b8",
+      "stepText": "На вкладке «Настройки» откройте «Основное».",
+      "stepTextHash": "c179f9b483a384ca343d890a8cb4fe4354a3560abfe2b4d0328da048589604d8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Основное выделено по границе пункта; диагональ к углу. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи контроллер будет учитываться как точка приёма топлива, без выдач через этот контроллер.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "d9a2b0a60e92a5387a76496e8c83213dbb8864f0cc1eed78848a1b74879263a1",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Общее настоящее окно записи. Выделена только Записать данные; оборудование не изменялось. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "receipt-yes.svg",
+      "sourceHash": "26ac5f9d9dea74a8f1f491f640bf54796cb7bc6114cd63f041a0d4ae155da348",
+      "svgHash": "fc0e24f44b47994d785ecd27f8e6b867fa52857c29b0fb147d7e3192a8b4f0bd",
+      "stepText": "В поле «Прием топлива» выберите «Да» только если этот контроллер работает исключительно на приём топлива.",
+      "stepTextHash": "4464afee322856c2e6edf3dcb2bcc9f6b6bb68a59eee57dd9e4ff8a4d6898866",
+      "clickTargets": [],
+      "clickExplanation": "Шаг объясняет поле, выбор или результат; отдельного нажатия кнопки не требует.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Новый чистый исходник: Прием топлива = Да. Полный SVG, статья и увеличение просмотрены."
+    },
+    {
+      "output": "receipt-save-yes.svg",
+      "sourceHash": "72b99ff8245852364a6c923f1117b76fe8cb4e59cbd715eaaa593086961f66d2",
+      "svgHash": "975ad91fa526df6fac2ed4691e3c2bb09b432770dc7b0dcf7786a72ff2b490b3",
+      "stepText": "Прокрутите основную форму и нажмите «Сохранить».",
+      "stepTextHash": "09de9731a724d2b4d561d71db31302ec04849471a8f7e0cc1b60890c28ce5321",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "После разрешённой прокрутки видны Да и Сохранить; собственная горизонтальная стрелка."
+    }
+  ],
+  "articleInspectionNote": "Каждый кадр просмотрен в статье и увеличении; светлая и тёмная темы, режимы фона, масштаб 125%, копирование (Скопировано), следующий/предыдущий шаг, ссылка в новой вкладке проверены. Прежние тема и фон восстановлены."
+}

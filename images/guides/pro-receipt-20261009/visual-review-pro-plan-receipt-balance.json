@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "manifestHash": "a52d28867895de5db8ac02c9287c05cf53946640080cae443545ade42c91bd92",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-receipt-balance",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "articleInspectionNote": "Все 7 шагов просмотрены в светлой теме без фона, по отдельности в статье и увеличении. Тёмная тема с боковым и полным фоном проверена. Навигация 7→6→7 работает; масштаб 125→100. Копирование завершилось статусом «Скопировано», получен image/png длиной 718440 символов base64. Ссылок в main нет. Тёмная тема и фон под инструкцией восстановлены; временный размер окна сброшен.",
+  "shots": [
+    {
+      "output": "open-saved.svg",
+      "sourceHash": "6339f44af8e32ebc11c81eae61aedb4dac4d4fd5a6e529a63f6d54d8937426dc",
+      "svgHash": "399cac4484d055fb6579cab3156b7e03cb2f67b9d983831c30edd3d49801acaa",
+      "stepText": "В журнале найдите изменённое поступление и нажмите карандаш его строки. В примере это «Секция 1» от 04.09.2026: фактический приход 1000 л, накладная 3000 л. Для собственной поставки проверьте дату и секцию.",
+      "stepTextHash": "a1db0680c731e25ba2c09085edc325f5299be88b5ea6190ce4232b88811c990d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Чистый полный viewport1920×1080: поступление Секция 1 от04.09.2026 видно, значения1000/3000 загружены; карандаш измерен в этом состоянии. SVG: Карандаш записи04.09.2026 выделен отдельно, стрелка слева не пересекает корзину. Шаг 1: Карандаш именно записи04.09 Секция1, фактический1000/накладная3000; прямая стрелка слева без пересечения меню."
+    },
+    {
+      "output": "math-receipt.svg",
+      "sourceHash": "1e254348e0968f855b3c540c1b79476eb5ba79dc8f385f7bdb94849a13f57643",
+      "svgHash": "feb22c7f828c15de8ce4365f03709ff1ad7ee82137aaf25bb14c379115cdacf0",
+      "stepText": "В открытом поступлении сверьте станцию и объём накладной. Для выбранной записи показаны «Резервуар №2», «Секция 1» и накладная 3000 л. Учитывайте именно станцию исправленной записи.",
+      "stepTextHash": "b88e139b4c1521d8b29660a589ca0ad2afc9f0eb4e593a8fc87e227110e25b8f",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Реальное старое поступление станции Резервуар №2: накладная 3000, предупреждение математического учёта, колонок Начало/Конец и кнопок Уровнемер нет. SVG: Объекты, предупреждение математического учёта и накладная3000 выделены отдельно; начала/конца нет, поля и подписи внутри. Шаг 2: Та же запись04.09 с3000л, Р2/Секция1, математический режим; рамки читаемы."
+    },
+    {
+      "output": "stations-nav.svg",
+      "sourceHash": "28eef2a12b129078a9d6fad0ffafc90521bb6c452e2fc23c8d58a4c41a0d6da0",
+      "svgHash": "1b3416e83b141a738c6d9b20513ca8a80b79e67f520f93341b61c87644347357",
+      "stepText": "Для проверки остатка откройте «Станции» в левом меню. Закрытие формы поступления без сохранения не меняет поставку.",
+      "stepTextHash": "a5463ec0efb97e496cb6346aa852817719e5012c2491cac7b706fd8f1010525a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Список станций полностью загружен, обе конкретные станции и их реальные режимы видны; кнопки перехода рядом с корзиной. SVG: Станции обведены по ширине меню с правым отступом, стрелка в промежутке справа. Шаг 3: Станции отмечены по ширине меню и прямой стрелкой; пояснение закрытия без сохранения в тексте."
+    },
+    {
+      "output": "math-open.svg",
+      "sourceHash": "28eef2a12b129078a9d6fad0ffafc90521bb6c452e2fc23c8d58a4c41a0d6da0",
+      "svgHash": "7a50b9f2385653f32e4373531d7c8f8b91fd664b25b64671c2820b0422a8c71b",
+      "stepText": "В строке нужной станции нажмите кнопку перехода. В примере выбрана «Резервуар №2» с описанием «Любое описание», компанией «Тестируем сервис (ГК)» и режимом «Используется». Есть другая станция с тем же названием — проверьте строку.",
+      "stepTextHash": "1f1f6246a3f5b2dfe1c02ff59888c55aad96384ef057ac975c7c04f69f3a3034",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Список станций полностью загружен, обе конкретные станции и их реальные режимы видны; кнопки перехода рядом с корзиной. SVG: Диагональ точно в нижний правый угол перехода станции с описанием Любое описание; значок статистики и корзина свободны. Шаг 4: Нужная четвёртая строка Р2 Любое описание; диагональ точно в угол и между соседними кнопками."
+    },
+    {
+      "output": "math-fields.svg",
+      "sourceHash": "9911209a1fbc0cdf57e1a6d87fddb299123a9b9e3e83cf4a4597b8fa97196977",
+      "svgHash": "0c37709364a980cfc7f76960e194b132950022d7515671908a1e3223f0ab508a",
+      "stepText": "Проверьте «Математический остаток» и «Остаток топлива». В примере режим «Используется», текущее значение 449,11. Если после правки старой записи нужна корректировка, внесите сверенный фактический общий объём станции. Не добавляйте накладную повторно и не вычисляйте точный остаток каждой секции из общего значения.",
+      "stepTextHash": "60c657eb1f79d413c116e9b851887d2d094e4a01137506d65250786690e37d2d",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Настройки настоящего Резервуара №2, учёт Используется, Остаток топлива 449,11; никаких изменений не сохранено. SVG: Вкладка и два поля остатка отдельно; увеличен отступ рамки от подписей,449,11 читаемо. Шаг 6: Вкладка отдельно и два поля режима/остатка отдельно;449,11 видно, подписи имеют отступ."
+    },
+    {
+      "output": "math-tab.svg",
+      "sourceHash": "9911209a1fbc0cdf57e1a6d87fddb299123a9b9e3e83cf4a4597b8fa97196977",
+      "svgHash": "1f0149007963b8ce03ee01786f93dd0daed42fd0dbd10d8b6e0c7ee0978b1feb",
+      "stepText": "Откройте вкладку «Основная информация». Здесь находятся режим математического учёта и его текущий остаток.",
+      "stepTextHash": "cff2c5f3edabbc18ef56b363082c294b9a150f8e181494a746ff9ce7cecf3f22",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Настройки настоящего Резервуара №2, учёт Используется, Остаток топлива 449,11; никаких изменений не сохранено. SVG: Горизонтальная стрелка слева к вкладке Основная информация, заголовок станции не пересечён. Шаг 5: Основная информация с прямой стрелкой слева; заголовок свободен."
+    },
+    {
+      "output": "math-save.svg",
+      "sourceHash": "9911209a1fbc0cdf57e1a6d87fddb299123a9b9e3e83cf4a4597b8fa97196977",
+      "svgHash": "4ff4034ac298afe21cff4626106aa6a59911e464a0e0b69dba753de9b3299a57",
+      "stepText": "После ввода сверенного значения нажмите «Сохранить изменения». Если корректировка не требуется, форму не сохраняйте. Запись исправленной накладной и корректировка остатка — отдельные действия; сохранение одной не выполняет другую.",
+      "stepTextHash": "2631a5722a71ccb757589cbe393535eeb456affc72eda779cf6dd033280d4675",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Настройки настоящего Резервуара №2, учёт Используется, Остаток топлива 449,11; никаких изменений не сохранено. SVG: Сохранить изменения выделено отдельно, прямая стрелка справа проходит ниже полей. Шаг 7: Только Сохранить изменения с горизонтальной стрелкой; текст условный и не заявляет выполненную коррекцию."
+    }
+  ]
+}

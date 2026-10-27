@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "manifestHash": "862ad05e9bfdf9438706a7585c61af003e8998472bf77959f696d6e113a1d70b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-station-math",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "station-nav.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "bd5d9c30ab8b3b7ee8d00312e71975f4365ac4c7c0a3063c5ff0553d57da4fa5",
+      "stepText": "В левом меню откройте раздел «Станции».",
+      "stepTextHash": "afbef995451875c8acc71a8fb1aae10d94f25aa877480e7435aa92c3b181894a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Раздел Станции (0, 256, 246x40). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-find-training.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "c738fbf64465b0dd3b162a1770097eb4b3fc5790fb284b8b3f43179fb625258f",
+      "stepText": "Найдите объект, для которого нужен расчётный остаток. Для поиска можно воспользоваться фильтром под заголовком «Название».",
+      "stepTextHash": "9856a54ec67d738aa9dfff9c037e3b3a11fed41fc78e4519fa7f579580066a39",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Учебный резервуар №1 (286, 230, 1574x61); 1: Пустой фильтр по названию (300, 191, 287x32). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "station-open-training.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "10303858a21bba12d77fa737f1fce7e65b95afd98bc0baa6f97b2b94344b3075",
+      "stepText": "Нажмите стрелку в его строке.",
+      "stepTextHash": "ecf6b995d2f2538981b696d00401953d01a0de8766263d10679cc7f222fb76b0",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Настройки учебного резервуара (1613, 246, 36x28). Стрелки: к рамке 0: точно в угол bottom-right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-math-field.svg",
+      "sourceHash": "2d9a331314b71d155a8efb438456370714d305fff534281e5d479eb894c66d9e",
+      "svgHash": "efe390c174fe2df9fab2182d39b305d8c9069d275f7eb8ab5a9a7f7e4f5a1d21",
+      "stepText": "На вкладке «Основная информация» найдите поле «Математический остаток».",
+      "stepTextHash": "8e780dc8ead382e74db1ee95b18c80856d1d0f99020da4f3bc329d0082fc4a9e",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Математический остаток (819, 453, 509x68). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "station-math-list.svg",
+      "sourceHash": "eeda4d50377dd06e2bfbe8215aea95d82bc54b32ca7a6ff387c57bbf9b3e604b",
+      "svgHash": "7f303748dd7dfd4819eb5bf1b55242a531b561f759fd54962b4f34cf447e02f6",
+      "stepText": "Вернитесь к списку станций и проверьте, что в столбце «Матем. остаток» у объекта указано «Используется».",
+      "stepTextHash": "6ab97e1a804f78bbb3adc906cfccf89070c8d1c58bdd3caf7b755e1567ae9b95",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Используется у Резервуара №4 (1230, 291, 315x61). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "station-math-balance.svg",
+      "sourceHash": "49961de7b20e2d7f101d04dc124bf43c1eb01b1843d6bfc38fc77aeb538f44f0",
+      "svgHash": "420971adb40606d2549b5e95563e88c7bbe268992f38d7bee242ba2fe3a2e6f0",
+      "stepText": "Если знаете фактический общий объём топлива, введите его в поле «Остаток топлива». На снимке введено 2500 л. Если начинаете учёт с нуля, оставьте 0 и затем оформите поступление топлива.\nКак меняется остаток: Например: начальный остаток 2500 л, поступило 1000 л, контроллеры этой станции выдали 200 л. Новый остаток: 2500 + 1000 − 200 = 3300 л. Выдачи с контроллеров других станций его не меняют.\nНесколько секций: Значение общее для всей станции. Сервис не рассчитывает математический остаток отдельно для каждой секции резервуара.",
+      "stepTextHash": "8eeb331290ad75e792f8692b187e1c0e906864bb0205cbd2fbf5430a0c18702f",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Остаток топлива (819, 536, 509x66). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "station-math-save.svg",
+      "sourceHash": "49961de7b20e2d7f101d04dc124bf43c1eb01b1843d6bfc38fc77aeb538f44f0",
+      "svgHash": "f8092f347f238a600529248db5f059c1030a08b1eec48c673214612bb78cb735",
+      "stepText": "Нажмите «Сохранить изменения».",
+      "stepTextHash": "d29c6f2e4e64d9de44d4132672452b319f1aa76a07ac3b9ec6ca0404be434c3c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Сохранить изменения (286, 700, 163x37). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-math-options.svg",
+      "sourceHash": "623b95ff949239cdd9fe6a1c29730f47fad159397ce73ecf278fc950f393d175",
+      "svgHash": "ad470e2eb94bb79eccb3f8b1dcaad5a6e83a2d879ec7c4ff34bf38a8d0971fbd",
+      "stepText": "Раскройте список и выберите «Используется».",
+      "stepTextHash": "cb873261f8c852c541da2bc0c1c3a0c0aed9b81c0d66c8cf16bfcfa8f042f4c1",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Математический остаток и варианты учёта (819, 453, 509x159). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    }
+  ],
+  "inspectedAt": "2026-10-08",
+  "inspectionEnvironment": "Individual clean sources and complete SVGs: 1920x1080. Article viewport: 1920x889; both themes, background choices, step navigation, 125% image zoom and PNG clipboard inspected. Original dark theme and background restored."
+}

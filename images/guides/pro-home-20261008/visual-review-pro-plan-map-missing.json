@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "manifestHash": "6bcebb06a49eb55dfa67bef109df18394b340ff05b8993c319a7c57f34f69f29",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-map-missing",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "home-nav.svg",
+      "sourceHash": "b0d6708b75437c05576c60715c919ddfe193859a2c9bf41e85efaf661095944a",
+      "svgHash": "80797a0a80d17540036fcbc35e63c08b99db99ffc65378b5143fd23e242fdbb7",
+      "stepText": "Вернитесь в раздел «Главная».",
+      "stepTextHash": "505243dd65a2caa79761991187a7913463658694b25ad463bf3f2a4a0cb0e518",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Кнопки перехода к другой статье находятся в тексте базы, открываются в новой вкладке; не являются кнопками на снимке ПО.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Целиком пункт Главная; короткая стрелка справа не пересекает текст. Исходник, полный SVG 1920×1080, кадр внутри статьи и увеличение повторно просмотрены индивидуально 08.10.2026."
+    },
+    {
+      "output": "home-map-refresh.svg",
+      "sourceHash": "b0d6708b75437c05576c60715c919ddfe193859a2c9bf41e85efaf661095944a",
+      "svgHash": "dea7961cdb50b0e25bfc32e067921e058fd317c518759b33bce35f2d29e839f8",
+      "stepText": "Обновите виджет карты кнопкой со значком круговой стрелки.",
+      "stepTextHash": "4c4fcb3c59c08d49c7bb058c0f077818d7f2c01c378ea8dc21d35e5a8e2755bd",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Кнопки перехода к другой статье находятся в тексте базы, открываются в новой вкладке; не являются кнопками на снимке ПО.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "08.10.2026: наконечник диагонали упирается точно в скругленный угол top-right рамки. Просмотрены полный SVG, соответствующий шаг статьи и увеличение; текст и соседние кнопки не перекрыты. Общий снимок station-open проверен в обеих статьях."
+    },
+    {
+      "output": "station-nav.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "c0058c2c4a0ec3424ba9122387ff75ddce213108ecdfb131cf2b86772565f6e3",
+      "stepText": "В левом меню откройте раздел «Станции».",
+      "stepTextHash": "afbef995451875c8acc71a8fb1aae10d94f25aa877480e7435aa92c3b181894a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Кнопки перехода к другой статье находятся в тексте базы, открываются в новой вкладке; не являются кнопками на снимке ПО.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полный пункт Станции и короткая стрелка справа. Исходник, полный SVG 1920×1080, кадр внутри статьи и увеличение повторно просмотрены индивидуально 08.10.2026."
+    },
+    {
+      "output": "station-row.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "17e40a973a0a3c3a203812c527e0268af8f199af665132198b81ee393de8935d",
+      "stepText": "Найдите нужную станцию в таблице. Для поиска можно воспользоваться фильтром под заголовком «Название». В этом примере проверяем «Резервуар №1». Если строки нет, обратитесь к администратору для проверки доступа к станции.",
+      "stepTextHash": "2fc799e5021504d6e2664cab51de2ec3d1657bb3d0a1e0ef64894da9e77ba9f2",
+      "clickTargets": [],
+      "clickExplanation": "Кнопки перехода к другой статье находятся в тексте базы, открываются в новой вкладке; не являются кнопками на снимке ПО.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пустой фильтр Название и вся строка Резервуар №1; действий на этом шаге нет. Исходник, полный SVG 1920×1080, кадр внутри статьи и увеличение повторно просмотрены индивидуально 08.10.2026."
+    },
+    {
+      "output": "station-open.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "07d16efcff32d6ceb98a55083e8d3ca33e06d2fc7cbaa1bb06eba8eb161a65b3",
+      "stepText": "Нажмите стрелку в конце строки найденной станции.",
+      "stepTextHash": "c1ac3987c7c501d8b65693b798b9ff252e0e27a4e1e95b03bdc2ac657373db9e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Кнопки перехода к другой статье находятся в тексте базы, открываются в новой вкладке; не являются кнопками на снимке ПО.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "08.10.2026: наконечник диагонали упирается точно в скругленный угол bottom-right рамки. Просмотрены полный SVG, соответствующий шаг статьи и увеличение; текст и соседние кнопки не перекрыты. Общий снимок station-open проверен в обеих статьях."
+    },
+    {
+      "output": "station-marker-result.svg",
+      "sourceHash": "b0d6708b75437c05576c60715c919ddfe193859a2c9bf41e85efaf661095944a",
+      "svgHash": "82663db3a8f134e3e44ffac900aa8c0a51ec55a228cc9b49e29af66574e25d5e",
+      "stepText": "Проверьте, появился ли маркер станции в нужном месте карты. Сопоставьте его положение с координатами объекта. Если несколько станций имеют одинаковые координаты, их маркеры могут накладываться друг на друга.",
+      "stepTextHash": "16093c95f9f0dd9e88e620ba5f68de00bd90c81bc2d055275afba77894dcee39",
+      "clickTargets": [],
+      "clickExplanation": "Кнопки перехода к другой статье находятся в тексте базы, открываются в новой вкладке; не являются кнопками на снимке ПО.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Настоящий маркер возле Мокшана, рамка с отступом; не заявляется подтверждение конкретного резервуара. Исходник, полный SVG 1920×1080, кадр внутри статьи и увеличение повторно просмотрены индивидуально 08.10.2026."
+    },
+    {
+      "output": "station-longitude.svg",
+      "sourceHash": "fd0cba0cca1697c7e4ceebcb176a06a08fb4c2acb7e53e4815328e48318db465",
+      "svgHash": "4debe7eda6e8aee2c1e089b426c6398e31417ab660c9a31afe0a18de01502382",
+      "stepText": "Проверьте поле «Долгота». При отсутствии или ошибке внесите фактическую координату объекта. Десятичную часть отделяйте точкой.",
+      "stepTextHash": "99e77cf8993184b744b7ce892cad78ace369e826b148e85ec80e06273a92d7ac",
+      "clickTargets": [],
+      "clickExplanation": "Кнопки перехода к другой статье находятся в тексте базы, открываются в новой вкладке; не являются кнопками на снимке ПО.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Подпись и поле Долгота целиком, отступ 6 px, рамка не касается букв. Исходник, полный SVG 1920×1080, кадр внутри статьи и увеличение повторно просмотрены индивидуально 08.10.2026."
+    },
+    {
+      "output": "station-latitude.svg",
+      "sourceHash": "fd0cba0cca1697c7e4ceebcb176a06a08fb4c2acb7e53e4815328e48318db465",
+      "svgHash": "6d83bc30c02cf283ba10891528f704c14cad330025672e5301dc75af94024afa",
+      "stepText": "Проверьте поле «Широта». При отсутствии или ошибке внесите фактическую координату объекта.",
+      "stepTextHash": "c97a8d5ed2da63a141c45acdb8262ba872d4929ec67832258712aa7832b430c2",
+      "clickTargets": [],
+      "clickExplanation": "Кнопки перехода к другой статье находятся в тексте базы, открываются в новой вкладке; не являются кнопками на снимке ПО.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Подпись и поле Широта целиком, отступ 6 px, соседнее поле не захвачено. Исходник, полный SVG 1920×1080, кадр внутри статьи и увеличение повторно просмотрены индивидуально 08.10.2026."
+    },
+    {
+      "output": "station-info-tab.svg",
+      "sourceHash": "fd0cba0cca1697c7e4ceebcb176a06a08fb4c2acb7e53e4815328e48318db465",
+      "svgHash": "3f1dadf908306d3eb584758864d72fc426179d276eb48cca9659445a3543ee2e",
+      "stepText": "Откройте вкладку «Основная информация».",
+      "stepTextHash": "197cdf392498f39dd2d23d0de247346c15a4a6286cbc1cfb2302f966d39ad25a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Кнопки перехода к другой статье находятся в тексте базы, открываются в новой вкладке; не являются кнопками на снимке ПО.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "08.10.2026: наконечник диагонали упирается точно в скругленный угол top-right рамки. Просмотрены полный SVG, соответствующий шаг статьи и увеличение; текст и соседние кнопки не перекрыты. Общий снимок station-open проверен в обеих статьях."
+    },
+    {
+      "output": "station-map-save.svg",
+      "sourceHash": "fd0cba0cca1697c7e4ceebcb176a06a08fb4c2acb7e53e4815328e48318db465",
+      "svgHash": "c8615cd56a27a1c84e83f737b362dbff58473113153f5e538dc27f2661fa57bb",
+      "stepText": "Если изменили координаты, нажмите «Сохранить изменения».",
+      "stepTextHash": "de8d19833546b064ae9b5218b5d37e36ca92e129fe63f5222785e398e4694011",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Кнопки перехода к другой статье находятся в тексте базы, открываются в новой вкладке; не являются кнопками на снимке ПО.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить изменения указано стрелкой, надпись кнопки и координаты не перекрыты. Исходник, полный SVG 1920×1080, кадр внутри статьи и увеличение повторно просмотрены индивидуально 08.10.2026."
+    }
+  ],
+  "articleInspectionNote": "08.10.2026: каждый исходник, полный SVG 1920×1080, кадр в статье и увеличение просмотрены отдельно. Проверены обе темы и все три режима фона на этой статье, переходы вперед/назад, открытие/закрытие увеличения, копирование в обеих темах. Ссылки проверены на target=_blank и rel=noopener noreferrer; реальный переход из первой доступной ссылки каждой статьи сохраняет URL и прокрутку исходной вкладки. Проверка выполнялась в отдельном контексте браузера; настройки пользователя не менялись, контекст закрыт."
+}

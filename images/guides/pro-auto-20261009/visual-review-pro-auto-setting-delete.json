@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "manifestHash": "fb1bb9a6e1e74bb780465e748891a2b60d90bccecbf71afcac053a5bb60ce3c1",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-auto-setting-delete",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "setting-nav.svg",
+      "sourceHash": "44a699aebeacfbb482f7485e312fb6ab1d24bc90537baacfade6028a3fabdaa9",
+      "svgHash": "cd42a34dbf99a3206847cb7445a78f47dad5b649340ed39075a89ead4740ae69",
+      "stepText": "Откройте в разделе «Автоотчеты» пункт «Настройки отправки» и найдите настройку по названию.",
+      "stepTextHash": "bc0f1532ba0dc75f5c20e39889f3e1bf4196294ed6d7e95e31c1725182e6626c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Настройки отправки по ширине меню, стрелка горизонтальная."
+    },
+    {
+      "output": "setting-delete.svg",
+      "sourceHash": "44a699aebeacfbb482f7485e312fb6ab1d24bc90537baacfade6028a3fabdaa9",
+      "svgHash": "49a2e5e8495f554fed53c11d4164c45c2e2bb49a1e81dca2383d48a4954cdff2",
+      "stepText": "Нажмите красную корзину в строке нужной настройки.",
+      "stepTextHash": "d0a97930818bd6d81d68990cc660edf66b8b203a97125edabc345c026f3c9db8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Только корзина нужной строки; стрелка не касается текста."
+    }
+  ]
+}

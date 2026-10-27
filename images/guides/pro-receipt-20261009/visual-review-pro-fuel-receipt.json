@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "manifestHash": "a52d28867895de5db8ac02c9287c05cf53946640080cae443545ade42c91bd92",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-fuel-receipt",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "articleInspectionNote": "Все16 шагов в светлой без фона; тёмная с боковым и полным фоном просмотрены. Навигация16→15→16 работает; масштаб125→100. PNG1040828 символов получен после копирования нового кадра. В main нет ссылок. Тёмная тема и фон под инструкцией восстановлены; временный размер окна сброшен.",
+  "shots": [
+    {
+      "output": "journal-nav.svg",
+      "sourceHash": "804d487dbea1a561017cd5b1a6e5a655ead6b08bd8b7031915c154698bac2e7e",
+      "svgHash": "b69eaaa2ea3081d8cd8e340a8656dc848bedd595fc700e28bf0307891912e9dc",
+      "stepText": "Откройте «Журнал поступления топлива» внутри меню «Поступление ГСМ». Таблица содержит ранее оформленные поставки.",
+      "stepTextHash": "ecfb344c517e49fe32caf48696fd46538503e614326295c260ed15b6bd407f13",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Чистый журнал, 5 строк, таблица с пагинацией видна целиком; горизонтальная прокрутка сохранена. SVG: Меню выделено по всей ширине; короткая горизонтальная стрелка справа проходит в свободном промежутке. Шаг 1: Журнал в полном меню отмечен рамкой и прямой стрелкой, подпись читается; статья и увеличение просмотрены."
+    },
+    {
+      "output": "add.svg",
+      "sourceHash": "804d487dbea1a561017cd5b1a6e5a655ead6b08bd8b7031915c154698bac2e7e",
+      "svgHash": "1dd8b16a48dd57765dbbc01ee9ac877cff415a8a961beef9fb742429836e147a",
+      "stepText": "Нажмите «Добавить поступление». Откроется окно выбора компании, станции и секции.",
+      "stepTextHash": "e1c31f2465dfb2e2dc0c06dac5d71af457f5fc418822878536a18374ba5a1209",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Чистый журнал, 5 строк, таблица с пагинацией видна целиком; горизонтальная прокрутка сохранена. SVG: Добавить поступление обведено отдельно, горизонтальная стрелка слева не задевает заголовок или предупреждение. Шаг 2: Добавить поступление выделено отдельно; стрелка слева не пересекает предупреждение; соответствует команде шага."
+    },
+    {
+      "output": "objects.svg",
+      "sourceHash": "eace68358207a06bde171ac178931d32f054488cc6e270921929df35e2779aaf",
+      "svgHash": "874e4a96a1afd66a49faff751a8ce1905702d331f82e4a5b5eaaebfece6a2b3b",
+      "stepText": "Проверьте все три выбранных объекта. После выбора секции появятся поля поступления. Для станции с математическим учётом форма будет короче: блоков «Начало слива», «Изменение» и «Конец слива» не будет.",
+      "stepTextHash": "ee279e2cebc07e12ed1de30b7e62c2be864e56f73def920cdd05be228687060f",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Накладная УЧ-09-10, 1000 л, 840 кг/м3; фактические поля формы заполнены учебным примером 2000→3000, расчёт разницы 1000 настоящий. Нижняя часть формы показывается отдельным кадром. SVG: Отдельный SVG: три поля объектов одной рамкой, подписи с отступом, заголовок формы снаружи. Шаг 4: Три объекта отдельно обведены; границы не касаются подписей, пояснение математического режима видно."
+    },
+    {
+      "output": "objects-dropdown.svg",
+      "sourceHash": "fe78a4a78bcd0bfb7822b6645d3a5f74cd991945dffc3557e4a4ea63473a7df8",
+      "svgHash": "418fe50990b4bbeffd53e7a92d6efa145723a9bc7a8e6d9e9f2e832f30f5c1b5",
+      "stepText": "Выберите компанию и станцию, затем раскройте поле «Секция» и выберите нужный отсек. В примере компания «Тестируем сервис (ГК)», станция «Резервуар №1», секция «Тестсекция». Поле и его список относятся к одному выбору.",
+      "stepTextHash": "cbcb7503ba2229b23d02903bc4039854fd2ef70ee0242376338f8b485dc5e15b",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Настоящие списки компании и станции выбраны, раскрыты три секции; окно целиком в центре без курсора. SVG: Отдельный SVG: поле секции и раскрытые варианты внутри единой рамки; текст вариантов не пересечён. Шаг 3: Поле Секция и раскрытые три варианта одной рамкой, Тестсекция видна; компания и станция совпадают с текстом."
+    },
+    {
+      "output": "invoice.svg",
+      "sourceHash": "eace68358207a06bde171ac178931d32f054488cc6e270921929df35e2779aaf",
+      "svgHash": "d6bf24a3b9c044a874813595b76245e6cb121aad83d2783f937f82982f7abd9a",
+      "stepText": "В колонке «Накладная» внесите данные документа. В примере номер УЧ-09-10, объём 1000 л, плотность 840 кг/м3 и температура 15. Масса рассчитывается как 840 кг. Укажите правильную дату поставки.\nНомер: Номер накладной поставщика, до 20 символов. В учебном примере — УЧ-09-10.\nОбъем, л: Объём по документу поставщика в литрах. Он может отличаться от прироста по замерам; при математическом учёте увеличивает расчётный остаток.\nПлотность, кг/м3: Плотность из накладной в килограммах на кубический метр. Обязательное поле; вместе с объёмом используется для расчёта массы.\nТемпература: Температура топлива по документу. Обязательное поле, его нельзя пропускать при оформлении.\nМасса, кг: Рассчитывается сервисом по объёму и плотности. Например, 1000 л при плотности 840 кг/м3 дают 840 кг.\nДата: Дата и время накладной. Можно указать прошедшую дату для подтверждённой поставки; скачок показаний сам по себе не подтверждает слив.",
+      "stepTextHash": "2282d95a682e38e1533e704ae197a9285b1585ab0d4ee4612cd2a1ff4fbe097d",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Накладная УЧ-09-10, 1000 л, 840 кг/м3; фактические поля формы заполнены учебным примером 2000→3000, расчёт разницы 1000 настоящий. Нижняя часть формы показывается отдельным кадром. SVG: Отдельный SVG: колонка накладной от заголовка до даты, масса видна, соседние колонки и кнопка уровнемера снаружи. Шаг 5: Колонка Накладная целиком, номер и 1000/840/15/840 читаются; поля и подписи внутри рамки."
+    },
+    {
+      "output": "tanker.svg",
+      "sourceHash": "eace68358207a06bde171ac178931d32f054488cc6e270921929df35e2779aaf",
+      "svgHash": "40b544c18880dda74a207dd8bc0ff58b3463b788551a09c78665ae36fdea7a75",
+      "stepText": "Если контролируете доставку замером бензовоза, заполните соответствующую колонку. Укажите фактические уровень, объём, плотность, температуру и дату замера. Когда такой контроль не применяется, не переносите сюда показания резервуара.",
+      "stepTextHash": "7f25cf56d7122e9cd0ce690e994775b173ccf54881eb248b6b4f04f2e1a43876",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Накладная УЧ-09-10, 1000 л, 840 кг/м3; фактические поля формы заполнены учебным примером 2000→3000, расчёт разницы 1000 настоящий. Нижняя часть формы показывается отдельным кадром. SVG: Колонка Замер бензовоза выделена целиком до даты; соседние подписи не затронуты. Шаг 6: Только Замер бензовоза, без лишних стрелок, соседние колонки не захвачены."
+    },
+    {
+      "output": "start.svg",
+      "sourceHash": "eace68358207a06bde171ac178931d32f054488cc6e270921929df35e2779aaf",
+      "svgHash": "439637f970c1b7b7202f10fe32a400755af1757bccf40dcdc670596115a18032",
+      "stepText": "Заполните или сверьте «Начало слива»: в учебном примере 10 см, 2000 л, плотность 840 кг/м3 и температура 15. Это состояние секции до поставки. При математическом учёте отдельного блока нет.\nУровень, см: Высота топлива в секции в момент замера. Не заменяйте её вместимостью резервуара.\nОбъем, л: Количество топлива в секции в момент замера, а не объём поставки по накладной.\nПлотность, кг/м3 и Температура: Характеристики топлива для соответствующего замера. В блоках начала и конца слива обязательны обе величины.\nМасса, кг: Расчётная масса топлива при данном объёме и плотности; отдельного ввода в этом поле нет.\nДата: Время соответствующего замера. Начало относится к состоянию до поставки, конец — после неё.",
+      "stepTextHash": "f5717d2ce689cde523d842d6ddc6eece85164c95444444f630c8acc3117c3fb2",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Накладная УЧ-09-10, 1000 л, 840 кг/м3; фактические поля формы заполнены учебным примером 2000→3000, расчёт разницы 1000 настоящий. Нижняя часть формы показывается отдельным кадром. SVG: Начало слива с датой и ручными показаниями10см/2000л внутри рамки; кнопка уровнемера отдельно снаружи. Шаг 8: Начало слива 10/2000/840/15 и масса1680 соответствуют тексту; рамка исключает кнопку."
+    },
+    {
+      "output": "difference.svg",
+      "sourceHash": "eace68358207a06bde171ac178931d32f054488cc6e270921929df35e2779aaf",
+      "svgHash": "65a46d4b09e1a07ffe74632f6d26e790023662ce97483631f823048dc819ed9f",
+      "stepText": "Сверьте колонку «Изменение» с накладной. В примере 3000 − 2000 = 1000 л и разница масс 840 кг. Если числа расходятся, уточните документы и замеры до сохранения. При математическом учёте ориентируйтесь на проверенный объём накладной.",
+      "stepTextHash": "c319c203cc3ca4bfaf4593798704a4355766df2b0e0fb57fc3363b02193c46af",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Накладная УЧ-09-10, 1000 л, 840 кг/м3; фактические поля формы заполнены учебным примером 2000→3000, расчёт разницы 1000 настоящий. Нижняя часть формы показывается отдельным кадром. SVG: Выделена только колонка Изменение5см/1000л/840кг; рамка не касается соседних дат. Шаг 11: Изменение5см1000л840кг отдельно от исходных замеров, обзор расчёта читается."
+    },
+    {
+      "output": "end.svg",
+      "sourceHash": "eace68358207a06bde171ac178931d32f054488cc6e270921929df35e2779aaf",
+      "svgHash": "914ca9fc346d6ca356d2c2cf05ba550c2207366635bc26af68c11d152296c393",
+      "stepText": "Проверьте «Конец слива»: в примере 15 см и 3000 л, плотность 840 кг/м3 и температура 15. Не копируйте начальные показания вместо конечных.",
+      "stepTextHash": "c2a4c0946c6d2e943ff933f80106615878ff87f743b1ae4924db852f3e36345b",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Накладная УЧ-09-10, 1000 л, 840 кг/м3; фактические поля формы заполнены учебным примером 2000→3000, расчёт разницы 1000 настоящий. Нижняя часть формы показывается отдельным кадром. SVG: Конец слива15см/3000л и дата внутри рамки, кнопка прибора снаружи. Шаг 10: Конец15см3000л2520кг соответствует шагу, рамка не касается текста."
+    },
+    {
+      "output": "gauge-start.svg",
+      "sourceHash": "eace68358207a06bde171ac178931d32f054488cc6e270921929df35e2779aaf",
+      "svgHash": "354101928e569cbd0e109f3a9448d943288843a3743053c7bbfafa4feab5b850",
+      "stepText": "Для станции с уровнемером до поставки можно нажать «Уровнемер» в колонке «Начало слива». Проверьте полученные значения и время. Если прибор не дал актуальных данных, используйте подтверждённые ручные замеры. При математическом учёте этот шаг пропустите.",
+      "stepTextHash": "350b6e5a225afba0ff96faef8edca8abc69b9a8f616562677b6b4a8ddc8bd8c7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Накладная УЧ-09-10, 1000 л, 840 кг/м3; фактические поля формы заполнены учебным примером 2000→3000, расчёт разницы 1000 настоящий. Нижняя часть формы показывается отдельным кадром. SVG: Прямая стрелка слева к первой кнопке Уровнемер, свободная область под датой. Шаг 7: Уровнемер начала имеет отдельную рамку и горизонтальную стрелку в свободном промежутке."
+    },
+    {
+      "output": "gauge-end.svg",
+      "sourceHash": "eace68358207a06bde171ac178931d32f054488cc6e270921929df35e2779aaf",
+      "svgHash": "2046ff7266ce96f6fad6a4d35867f0ca922ee8f31bd151257cd5e80b1bc0df25",
+      "stepText": "После поставки при доступном приборе нажмите «Уровнемер» в колонке «Конец слива» и проверьте новые показания. При ручном контроле используйте замер после поставки. При математическом учёте этот шаг пропустите.",
+      "stepTextHash": "a3174077174e1ebc1997f4d82afcaa387bc36ad1654770eb32dfd9986ac7233f",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Накладная УЧ-09-10, 1000 л, 840 кг/м3; фактические поля формы заполнены учебным примером 2000→3000, расчёт разницы 1000 настоящий. Нижняя часть формы показывается отдельным кадром. SVG: Прямая стрелка к конечному Уровнемеру; соседние подписи и вторая кнопка не затронуты. Шаг 9: Уровнемер конца выделен отдельно; прямая стрелка не пересекает дату и соседние кнопки."
+    },
+    {
+      "output": "extra.svg",
+      "sourceHash": "bc1f2735f4b66b79bb4c93aae91ee90a0af4b2571a18158e13bc920ab391416c",
+      "svgHash": "75623ef99e5161a280ba7fc9bf26ef53f86af3ac68ba6c43a52002e7e996b6c6",
+      "stepText": "Прокрутите окно ниже и при необходимости заполните информацию о бензовозе, водителе, машине и цену за литр. В примере добавлены только учебные сведения доставки; цена оставлена 0. Полный объём означает вместимость, а не количество поставленного топлива.",
+      "stepTextHash": "4678a798dbce653546632808c9656ae39433ce91d160fbb6ffb5c58a6e229b91",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: После настоящего Пересчитать значение Изменение 5; кнопка сохранения целиком видна, без курсора. SVG: Дополнительная доставка и стоимость обведены раздельно; водитель, машина, вместимость5000 и цена0 видны, кнопки вне рамок. Шаг 12: Дополнительные сведения и стоимость двумя рамками, не захватывают метршток и Сохранить."
+    },
+    {
+      "output": "dipstick.svg",
+      "sourceHash": "74199d3611b7c6fb69c0e373601b143956d028c3fa4150f1afbea823de2b3417",
+      "svgHash": "37129747fdcdcbd904cec3f894b6180f70eec4734bd85a4a2406011c0c8b89c0",
+      "stepText": "Если применяете метрошток, введите начальный и конечный уровни в сантиметрах. В примере это 10 и 15 см. Эти дополнительные поля не заменяют литры по накладной.",
+      "stepTextHash": "8550859d20a6d79eaf8661354cf5dfb7a2372f84285c2f908d0118a8ddf8988b",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Низ настоящей длинной формы, сохранение и дополнительные поля полностью видны; кнопка Пересчитать ещё не нажата, изменение метроштока 0. SVG: Три поля ручного замера одной рамкой,10/15 до пересчёта; Пересчитать и Сохранить снаружи. Шаг 13: Метршток10 и15 одной рамкой, кнопка исключена; до пересчёта Изменение0."
+    },
+    {
+      "output": "recalculate.svg",
+      "sourceHash": "74199d3611b7c6fb69c0e373601b143956d028c3fa4150f1afbea823de2b3417",
+      "svgHash": "5d4ce560b3aa901ec54311a606b8921f443c404467f7bdc2f76f136e90c6f100",
+      "stepText": "Нажмите «Пересчитать» для ручного замера метроштоком. Поле «Изменение» покажет разницу: в примере 5 см. Если такой замер не используется, этот шаг пропустите.",
+      "stepTextHash": "c48dfbf54e34698e4676bc188a4a19d5cab35093c28f87ae21a01d240ef950cd",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Низ настоящей длинной формы, сохранение и дополнительные поля полностью видны; кнопка Пересчитать ещё не нажата, изменение метроштока 0. SVG: Стрелка справа по пустому месту к Пересчитать; рамка не затрагивает Изменение. Шаг 14: Пересчитать имеет прямую стрелку справа, поля свободны."
+    },
+    {
+      "output": "save.svg",
+      "sourceHash": "bc1f2735f4b66b79bb4c93aae91ee90a0af4b2571a18158e13bc920ab391416c",
+      "svgHash": "4de9f3ad2f84971c54401cd92b930e52d2be4010ef9b05126f53276ca85fd0f9",
+      "stepText": "После проверки объектов, документов и замеров нажмите «Сохранить». Дождитесь завершения операции и закрытия окна. Не создавайте повторную поставку, пока не проверили журнал.",
+      "stepTextHash": "cb9c02a377029cf08981ba9c893cf5d933ed12a96842d25828f91b385f1b1f8e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: После настоящего Пересчитать значение Изменение 5; кнопка сохранения целиком видна, без курсора. SVG: Сохранить отдельно со стрелкой справа; реальный нижний край окна полностью виден. Шаг 15: Сохранить выделена с прямой стрелкой; рассчитанное изменение5 видно."
+    },
+    {
+      "output": "saved.svg",
+      "sourceHash": "45bdb28670bdd3d474ba05977a65fa5f2a937e937bc74245f4fc70292830d078",
+      "svgHash": "a84d8dc2dac845ff7f4c0ac9c90cceb2e13369a1218ba1457f258b71a14ce49d",
+      "stepText": "Найдите новую запись в журнале. В примере первая строка «Тестсекция» от 09.10.2026 содержит по 1000 л фактического прихода и накладной. Даты журнала и дата накладной — разные сведения; для проверки самого документа откройте запись.",
+      "stepTextHash": "53866dac2a9b516c3b488dde3440f37ab410eed3b93d6c9a252b19237d17f01f",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Настоящий результат сохранения: новая первая строка, фактический приход и накладная по 1000, дата 09.10.2026; таблица загружена. SVG: Первая сохранённая строка1000/1000 от09.10.2026 обведена в пределах видимой таблицы. Шаг 16: Новая первая строка Тестсекция09.10, оба1000л; рамка целой строки видна в статье и увеличении."
+    }
+  ]
+}

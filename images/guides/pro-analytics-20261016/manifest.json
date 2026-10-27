@@ -1,0 +1,488 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/filter-empty.png",
+      "output": "filter-empty.svg",
+      "title": "filter-empty",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 75.609375,
+          "selector": "form > div > div:nth-child(1)",
+          "target": "Компания: исходное пустое поле",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/menu-open.png",
+      "output": "menu-open.svg",
+      "title": "menu-open",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.640625,
+          "selector": "a.has-arrow",
+          "target": "Аналитика",
+          "width": 246,
+          "x": 0,
+          "y": 533.796875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            553.6171875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/report-select.png",
+      "output": "report-select.svg",
+      "title": "report-select",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "#fillings",
+          "target": "Последние заправки",
+          "width": 246,
+          "x": 0,
+          "y": 573.4375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            311,
+            593.1875
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/filter-open.png",
+      "output": "filter-open.svg",
+      "title": "filter-open",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "button",
+          "target": "Фильтр отчета",
+          "width": 103.984375,
+          "x": 1768.015625,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1703.015625,
+            112.265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/company-select.png",
+      "output": "company-select.svg",
+      "title": "company-select",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 121.21875,
+          "selector": "form > div > div:nth-child(1), [role=\"listbox\"]",
+          "target": "Компания и раскрытый список",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/controllers.png",
+      "output": "controllers.svg",
+      "title": "controllers",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 99.21875,
+          "selector": "form > div > div:nth-child(2), form > div > div:nth-child(3)",
+          "target": "Выбор контроллеров",
+          "width": 388,
+          "x": 1526,
+          "y": 173.609375
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/users.png",
+      "output": "users.svg",
+      "title": "users",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 148.4375,
+          "selector": "form > div > div:nth-child(4), form > div > div:nth-child(5), form > div > div:nth-child(6), form > div > div:nth-child(7)",
+          "target": "Выбор пользователей и параметры",
+          "width": 388,
+          "x": 1526,
+          "y": 272.828125
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/period.png",
+      "output": "period.svg",
+      "title": "period",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 148.28125,
+          "selector": "form > div > div:nth-child(9), form > div > div:nth-child(10)",
+          "target": "Начальная и конечная даты",
+          "width": 388,
+          "x": 1526,
+          "y": 473.796875
+        },
+        {
+          "height": 36.53125,
+          "selector": "button",
+          "target": "Месяц",
+          "width": 65.15625,
+          "x": 1661.75,
+          "y": 429.265625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "from": [
+            1616.75,
+            414.265625
+          ],
+          "toCorner": "top-left"
+        }
+      ]
+    },
+    {
+      "source": "source/submit.png",
+      "output": "submit.svg",
+      "title": "submit",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "button",
+          "target": "Сформировать",
+          "width": 119.4375,
+          "x": 1537,
+          "y": 630.078125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1472,
+            648.34375
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/close-filter.png",
+      "output": "close-filter.svg",
+      "title": "close-filter",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 30.390625,
+          "selector": "button[aria-label=\"Close\"]",
+          "target": "Закрыть фильтр",
+          "width": 30.390625,
+          "x": 1881.609375,
+          "y": 17.296875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1816.609375,
+            32.4921875
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/result.png",
+      "output": "result.svg",
+      "title": "result",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 440.546875,
+          "selector": "table",
+          "target": "Таблица сформированных заправок",
+          "width": 1559,
+          "x": 286,
+          "y": 508.53125
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/overview-filter.png",
+      "output": "overview-filter.svg",
+      "title": "overview-filter",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 323.265625,
+          "selector": "form > div > div:nth-child(-n+7)",
+          "target": "Компания, контроллеры и пользователи",
+          "width": 388,
+          "x": 1526,
+          "y": 98
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/overview-export.png",
+      "output": "overview-export.svg",
+      "title": "overview-export",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 83.21875,
+          "selector": "form > div > div:nth-child(12) button, form .dropdown-menu.show",
+          "target": "Экспорт и вариант Excel",
+          "width": 160,
+          "x": 1537,
+          "y": 674.609375
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/overview-summaries.png",
+      "output": "overview-summaries.svg",
+      "title": "overview-summaries",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 511.5,
+          "selector": "#mass,#gsm-controllers,#gsm-users,#gsm-not-grouping,#gsm-sum-controllers,#gsm-sum-users,#gsm-sum-transports,#gsm-sum-companies,#report-fuel-intake",
+          "target": "Отчёты об отпуске и суммарные отчёты",
+          "width": 246,
+          "x": 0,
+          "y": 357.4375
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/overview-events.png",
+      "output": "overview-events.svg",
+      "title": "overview-events",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 256,
+          "selector": "#messages,#connects,#actions,#pouring-controllers,#open-close",
+          "target": "Журналы и события оборудования",
+          "width": 246,
+          "x": 0,
+          "y": 101.4375
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/overview-menu.png",
+      "output": "overview-menu.svg",
+      "title": "overview-menu",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "target": "Меню «Аналитика» и первые четыре отчёта",
+          "selector": "a.has-arrow, #fillings,#level-meter,#change-prices,#prices",
+          "x": 0,
+          "y": 533.796875,
+          "width": 246,
+          "height": 197.640625
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/overview-grouping.png",
+      "output": "overview-grouping.svg",
+      "title": "overview-grouping",
+      "sourceUrl": "https://pro.benza.online/reports/gsm-sum-controllers",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 154.828125,
+          "selector": "form > div > div:nth-child(3), [role=\"listbox\"]",
+          "target": "Группировка и доступные интервалы",
+          "width": 388,
+          "x": 1526,
+          "y": 249.21875
+        }
+      ],
+      "arrows": [],
+      "padding": -2
+    },
+    {
+      "source": "source/period-options.png",
+      "output": "period-options.svg",
+      "title": "Выбор готового периода или ручное указание дат",
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 1537,
+          "y": 429.265625,
+          "width": 314.546875,
+          "height": 36.53125,
+          "selector": "[role=\"group\"][aria-label=\"Период\"]",
+          "target": "Кнопки День, Неделя, Месяц и Прошлый месяц"
+        },
+        {
+          "x": 1525,
+          "y": 473.796875,
+          "width": 391,
+          "height": 148.28125,
+          "selector": "form > div > div:nth-child(9), form > div > div:nth-child(10)",
+          "target": "Начальная и конечная даты с выбором времени"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1468,
+            447.53125
+          ],
+          "toSide": "left"
+        }
+      ],
+      "measurementMethod": "DOM getBoundingClientRect in the same 1920x1080 capture state"
+    },
+    {
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "source": "source/export-open.png",
+      "output": "export-open.svg",
+      "title": "Кнопка экспорта отчёта",
+      "boxes": [
+        {
+          "x": 1537,
+          "y": 674.609375,
+          "width": 84.765625,
+          "height": 36.53125,
+          "selector": "button: Экспорт",
+          "target": "Экспорт"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1472,
+            692.875
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://pro.benza.online/reports/fillings",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "source": "source/export-excel.png",
+      "output": "export-excel.svg",
+      "title": "Скачивание отчёта в Excel",
+      "boxes": [
+        {
+          "x": 1537,
+          "y": 719.140625,
+          "width": 160,
+          "height": 30.6875,
+          "selector": "button: Excel",
+          "target": "Excel"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1472,
+            734.484375
+          ],
+          "toSide": "left"
+        }
+      ]
+    }
+  ]
+}

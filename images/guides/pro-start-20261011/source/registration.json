@@ -1,0 +1,187 @@
+{
+  "rightScrollbarWidth": 0,
+  "targets": [
+    {
+      "height": 31.1875,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "tag": "H2",
+      "target": "Регистрация",
+      "width": 441,
+      "x": 739.5,
+      "y": 183.859375
+    },
+    {
+      "height": 66.140625,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Email",
+      "width": 401,
+      "x": 759.5,
+      "y": 243.046875
+    },
+    {
+      "height": 21.609375,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Email",
+      "width": 35.328125,
+      "x": 759.5,
+      "y": 243.046875
+    },
+    {
+      "height": 36.53125,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "Максимальная количество 50 символов",
+      "width": 401,
+      "x": 759.5,
+      "y": 272.65625
+    },
+    {
+      "height": 21.609375,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Пароль",
+      "width": 50.296875,
+      "x": 759.5,
+      "y": 325.1875
+    },
+    {
+      "height": 37.671875,
+      "selector": "#password-field",
+      "tag": "INPUT",
+      "target": "Password",
+      "width": 356,
+      "x": 759.5,
+      "y": 354.796875
+    },
+    {
+      "height": 37.671875,
+      "selector": "#password-addon",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 46,
+      "x": 1114.5,
+      "y": 354.796875
+    },
+    {
+      "height": 36.53125,
+      "selector": "#password-addon-confirm",
+      "tag": "BUTTON",
+      "target": "Сгенерировать пароль",
+      "width": 154.421875,
+      "x": 759.5,
+      "y": 387.46875
+    },
+    {
+      "height": 21.609375,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(3) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Подтвердите пароль",
+      "width": 140.734375,
+      "x": 759.5,
+      "y": 428
+    },
+    {
+      "height": 37.671875,
+      "selector": "#сonfirm-password",
+      "tag": "INPUT",
+      "target": "ConfirmPassword",
+      "width": 356,
+      "x": 759.5,
+      "y": 457.609375
+    },
+    {
+      "height": 37.671875,
+      "selector": "#password-addon-confirm",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 46,
+      "x": 1114.5,
+      "y": 457.609375
+    },
+    {
+      "height": 14.390625,
+      "selector": "#agreement",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 14.390625,
+      "x": 759.5,
+      "y": 502.875
+    },
+    {
+      "height": 43.21875,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Я подтверждаю, что прочитал и соглашаюсь с Политикой обработки персональных данных",
+      "width": 379.40625,
+      "x": 781.09375,
+      "y": 499.28125
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > label:nth-of-type(1) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Политикой обработки персональных данных",
+      "width": 309.0625,
+      "x": 781.09375,
+      "y": 522.890625
+    },
+    {
+      "height": 36.53125,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Зарегистрироваться",
+      "width": 401,
+      "x": 759.5,
+      "y": 566.5
+    },
+    {
+      "height": 36.53125,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(5) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "Назад",
+      "width": 401,
+      "x": 759.5,
+      "y": 611.03125
+    },
+    {
+      "height": 37.671875,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 401,
+      "x": 759.5,
+      "y": 354.796875
+    },
+    {
+      "height": 37.671875,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 401,
+      "x": 759.5,
+      "y": 457.609375
+    },
+    {
+      "height": 43.21875,
+      "selector": "#root > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Я подтверждаю, что прочитал и соглашаюсь с Политикой обработки персональных данных",
+      "width": 401,
+      "x": 759.5,
+      "y": 499.28125
+    }
+  ],
+  "viewport": {
+    "height": 1080,
+    "width": 1920
+  },
+  "bitmap": {
+    "height": 1080,
+    "width": 1920
+  },
+  "source": "source/registration.jpg",
+  "url": "https://pro.benza.online/registration",
+  "dom": "- heading \"Регистрация\" [level=2]\n- region \"Notifications Alt+T\"\n- generic: Email\n- textbox \"Максимальная количество 50 символов\": <redacted>\n- generic: Пароль\n- textbox \"Password\":\n  - /placeholder: Максимальная количество 16 символов\n- button \"Показать пароль\":\n  - img \"Показать пароль\"\n- button \"Сгенерировать пароль\"\n- generic: Подтвердите пароль\n- textbox \"ConfirmPassword\":\n  - /placeholder: Максимальная количество 16 символов\n- button \"Показать пароль\":\n  - img \"Показать пароль\"\n- checkbox \"Я подтверждаю, что прочитал и соглашаюсь с Политикой обработки персональных данных\"\n- text: Я подтверждаю, что прочитал и соглашаюсь с\n- link \"Политикой обработки персональных данных\":\n  - /url: /files/personal_data_pro.pdf\n- button \"Зарегистрироваться\"\n- button \"Назад\""
+}

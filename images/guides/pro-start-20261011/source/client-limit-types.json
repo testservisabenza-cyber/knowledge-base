@@ -1,0 +1,583 @@
+{
+  "rightScrollbarWidth": 0,
+  "targets": [
+    {
+      "height": 70,
+      "selector": "#navbar-brand-box-hide > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria2918317304-\\:r0\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1706,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria2918317304-\\:r1\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1756,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria2918317304-\\:r2\\:",
+      "tag": "BUTTON",
+      "target": "4",
+      "width": 42,
+      "x": 1806,
+      "y": 24.65625
+    },
+    {
+      "height": 14.625,
+      "selector": "#notificationCount",
+      "tag": "SPAN",
+      "target": "4",
+      "width": 17.34375,
+      "x": 1828.65625,
+      "y": 29.65625
+    },
+    {
+      "height": 36.671875,
+      "selector": "#react-aria2918317304-\\:r3\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 44,
+      "x": 1856,
+      "y": 24.65625
+    },
+    {
+      "height": 70,
+      "selector": "#page-topbar > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 39.03125,
+      "selector": "#button-hide-menu",
+      "tag": "BUTTON",
+      "target": "Свернуть меню",
+      "width": 150.09375,
+      "x": 49.953125,
+      "y": 80
+    },
+    {
+      "height": 39.640625,
+      "selector": "#main-point > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Главная",
+      "width": 250,
+      "x": 0,
+      "y": 135.03125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#company",
+      "tag": "A",
+      "target": "Компании",
+      "width": 250,
+      "x": 0,
+      "y": 216.671875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#stations",
+      "tag": "A",
+      "target": "Станции",
+      "width": 250,
+      "x": 0,
+      "y": 256.3125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#controllers",
+      "tag": "A",
+      "target": "Контроллеры (ТРК)",
+      "width": 250,
+      "x": 0,
+      "y": 295.953125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#users",
+      "tag": "A",
+      "target": "Пользователи",
+      "width": 250,
+      "x": 0,
+      "y": 335.59375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#transports",
+      "tag": "A",
+      "target": "Транспорт",
+      "width": 250,
+      "x": 0,
+      "y": 375.234375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#alrts",
+      "tag": "A",
+      "target": "Оповещения",
+      "width": 250,
+      "x": 0,
+      "y": 414.875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Поступление ГСМ",
+      "width": 250,
+      "x": 0,
+      "y": 454.515625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Автоотчеты",
+      "width": 250,
+      "x": 0,
+      "y": 494.15625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Аналитика",
+      "width": 250,
+      "x": 0,
+      "y": 533.796875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(13) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление доступом",
+      "width": 250,
+      "x": 0,
+      "y": 615.4375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(14) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление входом",
+      "width": 250,
+      "x": 0,
+      "y": 655.078125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(15) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "benzamat Оплата",
+      "width": 250,
+      "x": 0,
+      "y": 694.71875
+    },
+    {
+      "height": 22.25,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "tag": "H2",
+      "target": "Компания - Тест прав на контроллерКлиент (подразделение)",
+      "width": 477.25,
+      "x": 286,
+      "y": 101.140625
+    },
+    {
+      "height": 19.5,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1) > span:nth-of-type(2)",
+      "tag": "SPAN",
+      "target": "Клиент (подразделение)",
+      "width": 162.515625,
+      "x": 600.734375,
+      "y": 103.890625
+    },
+    {
+      "height": 36.53125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Заблокировать",
+      "width": 146.59375,
+      "x": 1737.40625,
+      "y": 94
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-maininfo",
+      "tag": "BUTTON",
+      "target": "Информация",
+      "width": 126.40625,
+      "x": 274,
+      "y": 154.53125
+    },
+    {
+      "height": 41.5,
+      "selector": "#uncontrolled-tab-example-tab-limit",
+      "tag": "BUTTON",
+      "target": "Баланс",
+      "width": 81.90625,
+      "x": 400.40625,
+      "y": 154.53125
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-users",
+      "tag": "BUTTON",
+      "target": "Пользователи",
+      "width": 132.625,
+      "x": 482.3125,
+      "y": 154.53125
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-tanks",
+      "tag": "BUTTON",
+      "target": "Станции",
+      "width": 92.1875,
+      "x": 614.9375,
+      "y": 154.53125
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-fuels",
+      "tag": "BUTTON",
+      "target": "Виды топлива",
+      "width": 132.65625,
+      "x": 707.125,
+      "y": 154.53125
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-first",
+      "tag": "A",
+      "target": "Лимитный план",
+      "width": 381.5,
+      "x": 286,
+      "y": 221.03125
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-history_limit",
+      "tag": "A",
+      "target": "История изменений",
+      "width": 381.5,
+      "x": 286,
+      "y": 260.640625
+    },
+    {
+      "height": 39.609375,
+      "selector": "#left-tabs-example-tab-second",
+      "tag": "A",
+      "target": "Счет",
+      "width": 381.5,
+      "x": 286,
+      "y": 300.25
+    },
+    {
+      "height": 14.390625,
+      "selector": "#checkbox-read-users-limits",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 14.390625,
+      "x": 691.5,
+      "y": 224.625
+    },
+    {
+      "height": 21.609375,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Использовать деньги для пересчета остатка топлива",
+      "width": 365.5625,
+      "x": 713.09375,
+      "y": 221.03125
+    },
+    {
+      "height": 36.53125,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Обновить лимит и счет",
+      "width": 170.46875,
+      "x": 691.5,
+      "y": 252.640625
+    },
+    {
+      "height": 20.0625,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h5:nth-of-type(1)",
+      "tag": "H5",
+      "target": "Лимит",
+      "width": 506.25,
+      "x": 712.5,
+      "y": 318.171875
+    },
+    {
+      "height": 28.0625,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1218.75,
+      "y": 318.171875
+    },
+    {
+      "height": 27,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "target": "Остаток: 0",
+      "width": 542.25,
+      "x": 712.5,
+      "y": 354.234375
+    },
+    {
+      "height": 21.609375,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Остаток на",
+      "width": 75.515625,
+      "x": 712.5,
+      "y": 414.234375
+    },
+    {
+      "height": 36.53125,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 542.25,
+      "x": 712.5,
+      "y": 443.84375
+    },
+    {
+      "height": 19.5,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h5:nth-of-type(1)",
+      "tag": "H5",
+      "target": "Счет",
+      "width": 542.25,
+      "x": 1320.75,
+      "y": 318.171875
+    },
+    {
+      "height": 27,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+      "tag": "SPAN",
+      "target": "Остаток: 0",
+      "width": 542.25,
+      "x": 1320.75,
+      "y": 353.671875
+    },
+    {
+      "height": 21.609375,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Остаток на",
+      "width": 75.515625,
+      "x": 1320.75,
+      "y": 413.671875
+    },
+    {
+      "height": 36.53125,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 542.25,
+      "x": 1320.75,
+      "y": 443.28125
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Политика обработки персональных данных.",
+      "width": 304.296875,
+      "x": 683.25,
+      "y": 1042
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "Свидетельство на ПО.",
+      "width": 150.671875,
+      "x": 991.875,
+      "y": 1042
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "tag": "A",
+      "target": "Свидетельство на ТЗ",
+      "width": 142.15625,
+      "x": 1146.875,
+      "y": 1042
+    },
+    {
+      "height": 1080,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Изменение лимита Тип лимита 2 results available.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu. Абсолютный Абсолютный Безлимитный Литры Сохранить",
+      "width": 400,
+      "x": 1520,
+      "y": 0
+    },
+    {
+      "height": 30.390625,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Close",
+      "width": 30.390625,
+      "x": 1881.609375,
+      "y": 17.296875
+    },
+    {
+      "height": 21.609375,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Тип лимита",
+      "width": 78.796875,
+      "x": 1537,
+      "y": 106
+    },
+    {
+      "height": 21.609375,
+      "selector": "#react-select-2-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.328125,
+      "x": 1548,
+      "y": 143.796875
+    },
+    {
+      "height": 83.21875,
+      "selector": "#react-select-2-listbox",
+      "tag": "DIV",
+      "target": "Абсолютный Безлимитный",
+      "width": 367,
+      "x": 1537,
+      "y": 181.609375
+    },
+    {
+      "height": 37.609375,
+      "selector": "#react-select-2-option-0",
+      "tag": "DIV",
+      "target": "Абсолютный",
+      "width": 367,
+      "x": 1537,
+      "y": 185.609375
+    },
+    {
+      "height": 37.609375,
+      "selector": "#react-select-2-option-1",
+      "tag": "DIV",
+      "target": "Безлимитный",
+      "width": 367,
+      "x": 1537,
+      "y": 223.21875
+    },
+    {
+      "height": 21.609375,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Литры",
+      "width": 44.828125,
+      "x": 1537,
+      "y": 189.609375
+    },
+    {
+      "height": 36.53125,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(2) > input:nth-of-type(1)",
+      "tag": "INPUT",
+      "target": "Введите литры",
+      "width": 367,
+      "x": 1537,
+      "y": 219.21875
+    },
+    {
+      "height": 36.53125,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Сохранить",
+      "width": 367,
+      "x": 1537,
+      "y": 271.75
+    },
+    {
+      "height": 36.53125,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(3) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 91.28125,
+      "x": 1537,
+      "y": 271.75
+    },
+    {
+      "height": 21.609375,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Использовать деньги для пересчета остатка топлива",
+      "width": 1192.5,
+      "x": 691.5,
+      "y": 221.03125
+    },
+    {
+      "height": 202.203125,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Лимит Остаток: 0 Остаток на",
+      "width": 582.25,
+      "x": 692.5,
+      "y": 298.171875
+    },
+    {
+      "height": 201.640625,
+      "selector": "#left-tabs-example-tabpane-first > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Счет Остаток: 0 Остаток на",
+      "width": 582.25,
+      "x": 1300.75,
+      "y": 298.171875
+    },
+    {
+      "height": 25.609375,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 308,
+      "x": 1548,
+      "y": 141.796875
+    },
+    {
+      "height": 82.140625,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "Литры",
+      "width": 367,
+      "x": 1537,
+      "y": 173.609375
+    }
+  ],
+  "viewport": {
+    "height": 1080,
+    "width": 1920
+  },
+  "bitmap": {
+    "height": 1080,
+    "width": 1920
+  },
+  "source": "source/client-limit-types.jpg",
+  "url": "https://pro.benza.online/company/1025",
+  "dom": "- region \"Notifications Alt+T\"\n- banner:\n  - banner:\n    - link:\n      - /url: /\n    - generic: По всем возникающим вопросам и неполадкам сообщайте нашей технической поддержке тел. (8412) 45-41-14\n    - button:\n    - button:\n    - button \"4\":\n      - generic: \"4\"\n    - button:\n  - link:\n    - /url: /\n- button \"Свернуть меню\":\n  - text: Свернуть меню\n- list:\n  - link \"Главная\":\n    - /url: /dashboard\n    - text: Главная\n  - listitem: ОБЩИЙ ФУНКЦИОНАЛ\n  - link \"Компании\":\n    - /url: /companies\n    - text: Компании\n  - link \"Станции\":\n    - /url: /stations\n    - text: Станции\n  - link \"Контроллеры (ТРК)\":\n    - /url: /controllers\n    - text: Контроллеры (ТРК)\n  - link \"Пользователи\":\n    - /url: /users\n    - text: Пользователи\n  - link \"Транспорт\":\n    - /url: /transports\n    - text: Транспорт\n  - link \"Оповещения\":\n    - /url: /alerts\n    - text: Оповещения\n  - link \"Поступление ГСМ 󰅀\":\n    - /url: /fuel-intake\n    - text: Поступление ГСМ 󰅀\n  - link \"Автоотчеты 󰅀\":\n    - /url: /\n    - text: Автоотчеты 󰅀\n  - link \"Аналитика 󰅀\":\n    - /url: /\n    - text: Аналитика 󰅀\n  - listitem: АДМИНИСТРИРОВАНИЕ\n  - link \"Управление доступом 󰅀\":\n    - /url: /\n    - text: Управление доступом 󰅀\n  - link \"Управление входом\":\n    - /url: /security/tokens\n    - text: Управление входом\n  - link \"benzamat Оплата\":\n    - /url: https://pay.benza.online\n    - text: benzamat Оплата\n- heading \"Компания - Тест прав на контроллер Клиент (подразделение)\" [level=2]:\n  - generic: Компания - Тест прав на контроллер\n  - generic: Клиент (подразделение)\n- button \"Заблокировать\":\n  - text: Заблокировать\n- tablist:\n  - tab \"Информация\"\n  - tab \"Баланс\" [selected]\n  - tab \"Пользователи\"\n  - tab \"Станции\"\n  - tab \"Виды топлива\"\n- tabpanel \"Баланс\":\n  - tablist:\n    - tab \"Лимитный план\" [selected]\n    - tab \"История изменений\"\n    - tab \"Счет\"\n  - tabpanel \"Лимитный план\":\n    - checkbox \"Использовать деньги для пересчета остатка топлива\"\n    - generic: Использовать деньги для пересчета остатка топлива\n    - button \"Обновить лимит и счет\"\n    - heading \"Лимит\" [level=5]\n    - button:\n    - generic: \"Остаток: 0\"\n    - separator\n    - generic: Остаток на\n    - textbox: 11.10.2026 23:13\n    - heading \"Счет\" [level=5]\n    - generic: \"Остаток: 0\"\n    - separator\n    - generic: Остаток на\n    - textbox: 11.10.2026 23:13\n- contentinfo:\n  - text: Онлайн сервис для управления топливом benzamat ПРО..\n  - link \"Политика обработки персональных данных.\":\n    - /url: /files/personal_data_pro.pdf\n  - link \"Свидетельство на ПО.\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610388&TypeFile=html\n  - link \"Свидетельство на ТЗ\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=RUTM&DocNumber=770581&TypeFile=html\n- dialog:\n  - generic: Изменение лимита\n  - button \"Close\"\n  - generic: Тип лимита\n  - log: 2 results available.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.\n  - generic: Абсолютный\n  - combobox [expanded] [active]\n  - listbox:\n    - option \"Абсолютный\" [selected]\n    - option \"Безлимитный\"\n  - generic: Литры\n  - textbox \"Введите литры\": 0 л.\n  - button \"Сохранить\""
+}

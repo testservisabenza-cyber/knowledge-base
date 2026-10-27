@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "manifestHash": "fe46228ae5283c439fb9c3357522b970393bab54d4b3affa64171a4a74d8cf54",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-vehicle-limit-edit",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "transport-limits-row.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "5c6b514b4d8b135ce99fe5da35c110a12db961ac02607943a7389c0cc11635b8",
+      "stepText": "Откройте «Транспорт» и найдите нужную машину. На снимке пример — «Камаз А123АА 58» с планом «День и месяц».",
+      "stepTextHash": "fe6eacb84d4cda214e639e92228cdb1d4aeae240ca4d21814bb7f2e4eae66f0a",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Строка Камаз А123АА 58 выделена целиком без стрелки; обычный размер просмотрен."
+    },
+    {
+      "output": "transport-limits-open.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "a082dfe75372a1012439774d1c56846f686714a87ac32ac38d07e4941bdbfb18",
+      "stepText": "Нажмите стрелку в строке этой машины.",
+      "stepTextHash": "6f363962f0427466b74ee355a03f4295d7add81a3361bb4eb7e2d428012dcc9e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: В строке нужного ТС рамка и диагональ точно в нижний правый угол кнопки открытия."
+    },
+    {
+      "output": "transport-limits-tab-day.svg",
+      "sourceHash": "ba8eb59a45548d37b338246ea79d44b8a4c0508ffbf6d7c5fa384dc15d590014",
+      "svgHash": "edb4f8c7cc4cfe88eac931d52a8ff1e16b401e88042bd54f1f8c902a2e75a7f6",
+      "stepText": "Перейдите на вкладку «Лимиты».",
+      "stepTextHash": "9a87f06dea23950d96ffa15e721151c08c920c10b9cc42331b5d506cffe1301a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Вкладка Лимиты выделена отдельно; диагональ приходит в верхний правый угол, текст свободен."
+    },
+    {
+      "output": "transport-limits-plan-day.svg",
+      "sourceHash": "ba8eb59a45548d37b338246ea79d44b8a4c0508ffbf6d7c5fa384dc15d590014",
+      "svgHash": "feb2653decdf8b5a8b134890a80eb5f964d234a44b533fe89c084e1a30300535",
+      "stepText": "Сверьте тип плана, дневной и месячный лимиты. Они показаны в отдельных карточках.\n\nВернитесь к карточкам на вкладке «Лимиты» и проверьте нужный объём и остаток.",
+      "stepTextHash": "66c2dc05dfc52ec6a457890a6e1b17ba68aa99fcd9e50c735fc0689b21a7c14e",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Тип плана и обе карточки в общей рамке, подписи свободны. Шаг 8: Карточки показывают место проверки; исходные 500 не выдаются за сохранённый результат."
+    },
+    {
+      "output": "transport-limits-pencil-day.svg",
+      "sourceHash": "ba8eb59a45548d37b338246ea79d44b8a4c0508ffbf6d7c5fa384dc15d590014",
+      "svgHash": "683d9738660707962e32dc2f57a35770bd0c1ba8f036a14a76f87aa2f657393d",
+      "stepText": "Нажмите карандаш в карточке «Лимит день». Для изменения месячного объёма используется карандаш в соседней карточке.",
+      "stepTextHash": "34f91ff0120c9dd9157b2e684878346d60794edfba065f576711ea713cd7cdce",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: Стрелка в нижний правый угол карандаша дневного лимита; соседняя месячная карточка не перекрыта."
+    },
+    {
+      "output": "transport-limits-edit-form.svg",
+      "sourceHash": "49267dfd8e48b6065a81db29fd997315a1898e1d24a2aa3554a15c7c7097f84f",
+      "svgHash": "01616217f5485b44ff841c5f32dd196b690553928a4d4eb6d457a398faad8c89",
+      "stepText": "В форме выберите «День», внесите новый объём в литрах и при необходимости сигнальный порог. На снимке условный пример 700 и 100 л.\nТип лимита: «День» для дневного либо «Месяц» для месячного объёма.\nЛитры: Разрешённый объём топлива в выбранном периоде.\nСигнальный порог: Уровень остатка для предупреждения.",
+      "stepTextHash": "5337f42b318c2036953d804ae2a07d1b763eaa14721eaf0735b401e9cbef0a93",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 6: Поля День, 700, 100 в рамке по ширине белой панели; без стрелок."
+    },
+    {
+      "output": "transport-limits-edit-save.svg",
+      "sourceHash": "49267dfd8e48b6065a81db29fd997315a1898e1d24a2aa3554a15c7c7097f84f",
+      "svgHash": "5c25f1820acb94e1d5c5305bb739aaca7e86820937ca43c3469b1d1e27890ecc",
+      "stepText": "Нажмите «Сохранить» в форме.",
+      "stepTextHash": "3627b371f2e9dcec9b6a1be132963ac19e09bc8c679dda9142b4ea6af46b9927",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 7: Сохранить отдельно, горизонтальная стрелка слева."
+    },
+    {
+      "output": "controller-write.svg",
+      "sourceHash": "61b3ba344800fd41e75fab22c04f0e87896142124289cd627131fc4fba92354f",
+      "svgHash": "3b6a627d1af94bf40ef0364fe8a670b6446a0d4ab97a3e17bd45790516caf2ae",
+      "stepText": "Чтобы новый лимит ТС действовал при заправке, запишите транспорт и его лимиты в нужный контроллер.\nПри включённом автоопросе сервис автоматически записывает и считывает данные раз в 15 минут. При выключенном автоопросе потребуется записать данные вручную или включить автоопрос.\nНиже есть инструкция, описывающая все действия для записи данных в контроллер.",
+      "stepTextHash": "3a544962926ce6cd80e5d9c9a1ee1d9030eb859dd5292ba5ce62b7c5a64657a9",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 9: Общее настоящее окно записи, выделена группа списка ТС и лимитов; инструкция по записи отдельной компактной кнопкой."
+    }
+  ]
+}

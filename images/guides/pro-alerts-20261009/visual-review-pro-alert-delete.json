@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "manifestHash": "99a317fff0d9504aa0ec314970326dd6a39e219ed52a0e2f497e794edf1d943b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-alert-delete",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "alerts-row.svg",
+      "sourceHash": "3a9c29483d8fbe41310e364f71554b140dd505879d52fa8609f4fdd5471e3463",
+      "svgHash": "113aaf4b4d46d278efbecf34ecd2f7a3847633ad1c409e81dc3f36b2d747d958",
+      "stepText": "В разделе «Оповещения» найдите правило по описанию и сверьте строку перед удалением.",
+      "stepTextHash": "48fb277993577d64d4816677ee8662fa7d3283f1534a007dcbaadbcc59a6a3d0",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Строка правила сверяется до удаления"
+    },
+    {
+      "output": "alerts-delete.svg",
+      "sourceHash": "3a9c29483d8fbe41310e364f71554b140dd505879d52fa8609f4fdd5471e3463",
+      "svgHash": "dd8f9023d114afbdddda86b7f25b18b90c18c2a6c4edd7b6462d0f21cce02cc9",
+      "stepText": "Нажмите красную корзину в этой строке. Правило исчезнет из таблицы; отдельного окна подтверждения сейчас нет.",
+      "stepTextHash": "07fa6a5cbb214a95bd50bc437e780183dc6b915d320c173ff31212bf387a9320",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Только корзина, стрелка справа горизонтально"
+    }
+  ]
+}

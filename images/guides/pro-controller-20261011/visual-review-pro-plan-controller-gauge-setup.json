@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-gauge-setup",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Контроллеры по ширине меню; прямая стрелка. Просмотр в статье и увеличении. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Открытие второй строки: собственная прямая стрелка, корзина отдельно. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи контроллер начнёт опрашивать включённый уровнемер по указанному адресу. Показания появятся после успешного чтения.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "822b87ebd490d3124ad227598759bed16f1056cc35b6d4873d4513e24b71f914",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Общее настоящее окно записи; стрелка снизу к Записать данные. Запись на оборудование не запускалась. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "gauge-tab.svg",
+      "sourceHash": "fc148a228117cf8ecf213857d8aed73cb55f3864c1687cec49b4c2053302fb75",
+      "svgHash": "cd06b205dc10f8ffabf39e862553910e8688cbe2393a6142e01e2316fc575a6e",
+      "stepText": "Откройте вкладку «Уровнемеры».",
+      "stepTextHash": "1cc202df8c0e7b2aa6bac94c5aaaacf7dd2fc4bddc9dee933491ea61142af233",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка к нижнему правому углу вкладки Уровнемеры. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "gauge-readings.svg",
+      "sourceHash": "fc148a228117cf8ecf213857d8aed73cb55f3864c1687cec49b4c2053302fb75",
+      "svgHash": "d8934ff23f38bf71780b12e386b314a1cf45d4f2654d39c62fe9803fa2fe4ee9",
+      "stepText": "Нажмите «Показания уровнемеров», чтобы проверить, появились ли свежие данные после чтения контроллера.",
+      "stepTextHash": "599d83026080d71b02d631c64a39bec597e2698f9db3c5a11e70811864c58ff8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Точная кнопка Показания уровнемеров с прямой стрелкой. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "gauge-types.svg",
+      "sourceHash": "dd3be14427cef13d2555ef82f9fc948d88cf50849e0b2c6cf62577f3bad2f201",
+      "svgHash": "85ad45483cc50e1dca67a5f48bbd869eeb906b1c8a593c5c2870274f10bb47b2",
+      "stepText": "Выберите тип установленного прибора: «201», «Omnicomm», «ППП Струна+», «Veeder-Root TLS», «ПМП 118» или «ПМП201 Modbus». Если прибора нет, оставьте «Не задано».",
+      "stepTextHash": "dbe1b75a1fd07284614550a16300a9ce826b4a10099ccabe42cab1953f67ac83",
+      "clickTargets": [],
+      "clickExplanation": "Шаг объясняет поле, выбор или результат; отдельного нажатия кнопки не требует.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Поле и раскрытый список в одной рамке; все названия приборов видны. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "gauge-slot.svg",
+      "sourceHash": "53c2a7e0e31b8808fad053f7144f9863a0638dc886248dd5a750606a09090f46",
+      "svgHash": "c8a22b0319d321fcd62e1cd9304b4b44f4027dc322c95329b6a03876d2309f32",
+      "stepText": "Найдите карточку канала «Уровнемер 1», «Уровнемер 2» и так далее, к которому подключён прибор.",
+      "stepTextHash": "5e06810397406f130729b63e598677cf0080f548cd2266111d3522a40ad31ef3",
+      "clickTargets": [],
+      "clickExplanation": "Шаг объясняет поле, выбор или результат; отдельного нажатия кнопки не требует.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Карточка первого канала выделена без кнопки сохранения. Чистота исходника и полный SVG уже проверены ранее; файлы не изменились."
+    },
+    {
+      "output": "gauge-enable.svg",
+      "sourceHash": "53c2a7e0e31b8808fad053f7144f9863a0638dc886248dd5a750606a09090f46",
+      "svgHash": "d9f86aff0da60ee5d8d7ae33dc42fc56e0aacbacadd02ad0d51b3b5fc92d2a25",
+      "stepText": "В карточке нужного канала задайте «Вкл/Выкл» = «Включен». Остальные каналы не включайте без подключённых приборов.",
+      "stepTextHash": "6c44f8e3b50072291cf95a1d43d67481c6905ee2bb42ac1e6a791369c5f41d7d",
+      "clickTargets": [],
+      "clickExplanation": "Шаг объясняет поле, выбор или результат; отдельного нажатия кнопки не требует.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Включен в первом канале; подпись и значение в одной рамке."
+    },
+    {
+      "output": "gauge-address-one.svg",
+      "sourceHash": "18012d1302154f16a77549f1c6571e56c95c06ce8aaaa3181e94ac0a4e156ec3",
+      "svgHash": "0360ee355a5bcc2131dccc50a314830a5f24d052d6a5f1c652e3d1ef875e2925",
+      "stepText": "В поле «Адрес» задайте адрес, установленный на самом приборе. В примере у Omnicomm выбран адрес 1. Для типа «201» укажите 1.",
+      "stepTextHash": "250e17a0ed105deb5a91f736b3365bdc4d3fc774e9db2d5c6206e1cf0490da1f",
+      "clickTargets": [],
+      "clickExplanation": "Шаг объясняет поле, выбор или результат; отдельного нажатия кнопки не требует.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Новый чистый Full HD исходник с Omnicomm и адресом 1. Полный SVG, статья и увеличение просмотрены."
+    },
+    {
+      "output": "gauge-type-open.svg",
+      "sourceHash": "fc148a228117cf8ecf213857d8aed73cb55f3864c1687cec49b4c2053302fb75",
+      "svgHash": "5e74e16e4ba9989a995e70a81663af767b1f85e05f153ceec2ebcab6a2b87717",
+      "stepText": "В поле «Тип» откройте список поддерживаемых приборов.",
+      "stepTextHash": "e0ea8713959b88926f7f8043a4035b876216e108ee5251da83fe4d0d5a92f7eb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Добавлена прямая стрелка справа к полю типа. После обновления страницы файл загружен и просмотрен повторно."
+    },
+    {
+      "output": "gauge-save-one.svg",
+      "sourceHash": "18012d1302154f16a77549f1c6571e56c95c06ce8aaaa3181e94ac0a4e156ec3",
+      "svgHash": "0ef4b93e846346414385af005e58b5d0cbd6b8b0ca42121dbd4457abdd185d37",
+      "stepText": "Нажмите зелёную кнопку «Сохранить» в карточке этого уровнемера.",
+      "stepTextHash": "fe6c7369e3ede9ffbbefeac27aac7a829be1c4b9a13660bb59359b0900371538",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждая указанная цель действия имеет собственную стрелку.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Тот же настоящий адрес 1, отдельная прямая стрелка к Сохранить первого канала."
+    }
+  ],
+  "articleInspectionNote": "Каждый кадр просмотрен в статье и увеличении; светлая и тёмная темы, режимы фона, масштаб 125%, копирование (Скопировано), следующий/предыдущий шаг, ссылка в новой вкладке проверены. Прежние тема и фон восстановлены."
+}

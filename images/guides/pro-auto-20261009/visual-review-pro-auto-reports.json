@@ -1,0 +1,430 @@
+{
+  "version": 1,
+  "manifestHash": "fb1bb9a6e1e74bb780465e748891a2b60d90bccecbf71afcac053a5bb60ce3c1",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-auto-reports",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "template-nav.svg",
+      "sourceHash": "a8eb87818ff43ecc604cd8248c39308e5bf94c55d81f1eeb8176a394f38a96c2",
+      "svgHash": "ec014a70de874628f8905e873f73a09887d63d3788dd23c4c920020c405691da",
+      "stepText": "В левом меню в разделе «Автоотчеты» откройте «Шаблоны отчетов».",
+      "stepTextHash": "03da0fc247debe6fdf38b70d5c2d5470339a965f5a4098f7dd161a54ede82dc9",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Пункт шаблонов во всю ширину меню, короткая горизонтальная стрелка."
+    },
+    {
+      "output": "template-add.svg",
+      "sourceHash": "a8eb87818ff43ecc604cd8248c39308e5bf94c55d81f1eeb8176a394f38a96c2",
+      "svgHash": "493f9e2701db30e78f5e25c01ebf4cea208a6851343857ccfdfb4679557d44a9",
+      "stepText": "Нажмите «Добавить» над списком шаблонов.",
+      "stepTextHash": "d0d0589e3700bf7416ecdc375669e0d70272c0695aefa1c8caac9e48d8f134a9",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Добавить с отдельной стрелкой слева."
+    },
+    {
+      "output": "template-name.svg",
+      "sourceHash": "4c60d5a941dbbb84fdd710684682b7c2242c68dba3a7eac1b94be224c3a2e889",
+      "svgHash": "64260ba3380e9804b95ec66e93a3ad472dcd4bc73faa240ec664ec337379985c",
+      "stepText": "Введите название шаблона, например «Заправки по станции».",
+      "stepTextHash": "eea618596072543c76e8b180eae352a169220e634e9bb6de5f9d6ac0cd6815b7",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Название внутри широкой рамки белой панели."
+    },
+    {
+      "output": "template-type.svg",
+      "sourceHash": "31a261640c6a2285cbf37027dee35c9d68eacc2328bb2c6ad03f933632dca779",
+      "svgHash": "a31f340ad6fad33e046b13b7b36616806d28ee4b32f44f17ce2560a7a847c407",
+      "stepText": "В поле «Тип отчета» выберите «Последние заправки». После выбора появятся поля состава отчёта.",
+      "stepTextHash": "920a6a93c4563bcd2286456b37961424e027e571fe41cdacc9876359a4830624",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Тип и раскрытый список объединены, один вариант виден."
+    },
+    {
+      "output": "template-company.svg",
+      "sourceHash": "4c60d5a941dbbb84fdd710684682b7c2242c68dba3a7eac1b94be224c3a2e889",
+      "svgHash": "1f85bfce28db9f239f6437196d3457eb7e88dffcbe0844ec6684c2bde616bfc6",
+      "stepText": "Выберите компанию, операции которой должны войти в отчёт.",
+      "stepTextHash": "9f183802ddd9a514a46dd03af1f076901fcd921b6a3756f3a70b1e9348e375b0",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: Компания отдельной рамкой без стрелки."
+    },
+    {
+      "output": "template-controllers.svg",
+      "sourceHash": "4c60d5a941dbbb84fdd710684682b7c2242c68dba3a7eac1b94be224c3a2e889",
+      "svgHash": "e4b6fdc67a9b722d677c377dd643670a757f70aa05089d822bfddfc14c2fbf1f",
+      "stepText": "Выберите контроллеры нужной компании. Если нужны все доступные ТРК, включите «Выбрать все контроллеры»; иначе укажите конкретные устройства ниже.\nВыбрать все контроллеры: Включает все доступные контроллеры выбранной компании.\nКонтроллер (ТРК): Используйте для выбора отдельных устройств, когда общий выбор выключен.",
+      "stepTextHash": "9118ca7f02cefc82cad78abca4c36795b11a6d73d7fb6d707470084eca4777ee",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 6: Общий флажок и поле контроллеров объединены без текста на рамке."
+    },
+    {
+      "output": "template-users.svg",
+      "sourceHash": "4c60d5a941dbbb84fdd710684682b7c2242c68dba3a7eac1b94be224c3a2e889",
+      "svgHash": "c6fab28a0faf1ea9aa4d11045f32751b233f74d08d4c2b2cbf483c74fbdbd148",
+      "stepText": "Выберите пользователей. Для полного списка включите «Выбрать всех пользователей». «Учитывать удаленных» добавляет в отчёт исторические заправки удалённых пользователей.",
+      "stepTextHash": "688a1b873b5e36f1aa5a5f1a0d37efd95148bd3110fe09864a05a9cac43c8970",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 7: Удалённые и пользователи обведены, Сохранить исключено."
+    },
+    {
+      "output": "template-save.svg",
+      "sourceHash": "4c60d5a941dbbb84fdd710684682b7c2242c68dba3a7eac1b94be224c3a2e889",
+      "svgHash": "40be36c5799038e7478fa9a92759f391cacff0f6b0fc71dcbea092179f6af673",
+      "stepText": "Нажмите «Сохранить» в форме шаблона.",
+      "stepTextHash": "0f2889fbf74c7f4eeddbb6de313f7f10348c7a20b410fc0bea5ca62166b94e7c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 8: Только Сохранить и горизонтальная стрелка."
+    },
+    {
+      "output": "setting-nav.svg",
+      "sourceHash": "44a699aebeacfbb482f7485e312fb6ab1d24bc90537baacfade6028a3fabdaa9",
+      "svgHash": "cd42a34dbf99a3206847cb7445a78f47dad5b649340ed39075a89ead4740ae69",
+      "stepText": "В левом меню автоотчётов откройте «Настройки отправки».",
+      "stepTextHash": "31b5a186b0e06eb697bbf53a4ce09f0ff8a31de0946142b374d10180ab74bd4c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 9: Пункт настроек во всю ширину."
+    },
+    {
+      "output": "setting-add.svg",
+      "sourceHash": "44a699aebeacfbb482f7485e312fb6ab1d24bc90537baacfade6028a3fabdaa9",
+      "svgHash": "3b28f4ed053d67ab3963d035cd291a3c01231419f0f7f816c143c7c9643d327d",
+      "stepText": "Нажмите «Добавить» над списком настроек.",
+      "stepTextHash": "732dbe6e5082ea5c28b30e38539e6f0e8c5556ac3456f577ccc3ae751048cc76",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 10: Добавить в настройках отдельной стрелкой."
+    },
+    {
+      "output": "setting-name.svg",
+      "sourceHash": "ccf5dcbb2c61fb5c481b41f4e0eefe2c6b938d26e0341b6dca795c85e62c56c6",
+      "svgHash": "e65205c9b0f5001552e42d92902b210ae117aab9f1d81dfd5e057f4652833eb5",
+      "stepText": "Введите понятное название расписания.",
+      "stepTextHash": "31ce3e65b453fbf19fd0260b9c2da999cc0c979bee1d82778b83f51ac4883ddf",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 11: Учебное название расписания видно."
+    },
+    {
+      "output": "setting-period.svg",
+      "sourceHash": "d37d881e6b5333cd80d44bb0570b55264b1cd09adc6eafff44fa39b97a4541a9",
+      "svgHash": "465a0c38ce008a57100059a94de35d594fc53d295e31408a51c20205fad2f422",
+      "stepText": "В «За период (дни)» выберите охват данных: 1, 3, 7 или 31 день. Например, 7 включает недельный диапазон заправок. Это глубина данных, а не частота формирования: расписание задаётся ниже.",
+      "stepTextHash": "41b7a8098b4522d3101d7218a2bf1566e42b23048f22a6c46002af1486290e54",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 12: Все четыре периода читаемы, нижняя рамка выше подписи Шаблоны."
+    },
+    {
+      "output": "setting-switch.svg",
+      "sourceHash": "25beb37255fd631d6d42fe6eda85e0df6b64134fefd80301711275784180d740",
+      "svgHash": "f483f31e64534e3e1a9a1b4de37faa97b99058cbf19d410e3456978df101a28e",
+      "stepText": "В «Указать данные для отправки» выберите «Да», чтобы задать дни недели и точное время формирования.",
+      "stepTextHash": "3878b31fbb5530233e1c53108689b75121c10559eacc3ea9eeb42fbb5f484d82",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 13: Да и Нет в одной рамке с полем, соседняя подпись не пересечена."
+    },
+    {
+      "output": "setting-days.svg",
+      "sourceHash": "ccf5dcbb2c61fb5c481b41f4e0eefe2c6b938d26e0341b6dca795c85e62c56c6",
+      "svgHash": "11484d2a28763cd0f2ad77152f3fe50d2f02cc7a6d27f06ea7aff3fb1d766d21",
+      "stepText": "Выберите дни недели, когда должен формироваться отчёт.",
+      "stepTextHash": "8ceafaeda9e0ac707b6aedcfd05eeec2f0e2d678412e2570f8467ca0f91a594a",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 14: Понедельник виден в рамке дней."
+    },
+    {
+      "output": "setting-time.svg",
+      "sourceHash": "ccf5dcbb2c61fb5c481b41f4e0eefe2c6b938d26e0341b6dca795c85e62c56c6",
+      "svgHash": "6b4057b680596341bab78b9ea5be3b5ddfedd3893d944f0d1cdda58112a7c441",
+      "stepText": "Укажите время формирования. Поле использует московское время: 11:00 означает запуск в 11:00 МСК независимо от местного времени станции.",
+      "stepTextHash": "2ce33a17301f33077d93604f4dcba6088c0415858143eb41be5d5bd9795fdb59",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 15: 11:00 МСК в рамке времени."
+    },
+    {
+      "output": "setting-mail.svg",
+      "sourceHash": "ccf5dcbb2c61fb5c481b41f4e0eefe2c6b938d26e0341b6dca795c85e62c56c6",
+      "svgHash": "8223db36774e2fa278a2aa537c9993d336bb3c8e9b007214baf766741b548dbe",
+      "stepText": "Если файл нужен на почте, выберите «Отправлять» и внесите адреса получателей. Завершите каждый адрес пробелом и проверьте, что он появился отдельной меткой. Если письмо не нужно, выберите «Не отправлять»; готовый файл можно искать в сервисе. Адрес training@example.invalid на снимке учебный: для доставки используйте настоящий.",
+      "stepTextHash": "49577e79d5b946cdf8804734d19dc434dbc61d5dd1eee98de3de2fadcc1731aa",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 16: Отправлять и учебный адрес объединены."
+    },
+    {
+      "output": "setting-template.svg",
+      "sourceHash": "ccf5dcbb2c61fb5c481b41f4e0eefe2c6b938d26e0341b6dca795c85e62c56c6",
+      "svgHash": "4f17433b194bab34754060594a9a97c86d1218eda0e79ac64e8164a100e402b5",
+      "stepText": "В «Шаблоны» выберите нужный ранее сохранённый шаблон: он определяет состав данных в файле. На снимке выбран существующий «Отчет по всем пользователям и контроллерам»; в вашей настройке выберите свой шаблон.",
+      "stepTextHash": "32f0fabb9b2b8849374fa92666323e7d97f81fc9c1df9a8837c6386fb78a2ee4",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 17: Существующий шаблон выделен, текст явно объясняет пример."
+    },
+    {
+      "output": "setting-save.svg",
+      "sourceHash": "ccf5dcbb2c61fb5c481b41f4e0eefe2c6b938d26e0341b6dca795c85e62c56c6",
+      "svgHash": "eddde0c0e400ea3b1ecc6223b994a634391f4e6c5db342fcb031c44239464729",
+      "stepText": "Нажмите «Сохранить» в форме настройки отправки.",
+      "stepTextHash": "079069d3ed8c5d69e0fa019ffe6ccd66d8cda04e5350792d80ce7e0dd06b1cb4",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 18: Сохранить с отдельной горизонтальной стрелкой."
+    },
+    {
+      "output": "file-nav.svg",
+      "sourceHash": "31fe8b89796aa841738f0698da7d4b95250b958b0361998f59350cfea2cc7ade",
+      "svgHash": "63efd4ed79bdfbce95be54da122c9a8a0f46cc5ba2bd82eb5014e201abb96b6b",
+      "stepText": "После наступления выбранного времени откройте «Файлы отчетов» и найдите результат по названию и дате формирования. На снимке показаны существующие файлы: для своей настройки сверяйте именно дату ожидаемого запуска.",
+      "stepTextHash": "8f94a0ad9a8b789a898332f02b193d2c9e32bef59aa6ede36491dd829ea999ca",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 19: Пункт файлов, существующие результаты и предупреждение о дате примера."
+    }
+  ]
+}

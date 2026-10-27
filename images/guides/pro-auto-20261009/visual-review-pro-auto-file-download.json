@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "manifestHash": "fb1bb9a6e1e74bb780465e748891a2b60d90bccecbf71afcac053a5bb60ce3c1",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-auto-file-download",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "file-nav.svg",
+      "sourceHash": "31fe8b89796aa841738f0698da7d4b95250b958b0361998f59350cfea2cc7ade",
+      "svgHash": "63efd4ed79bdfbce95be54da122c9a8a0f46cc5ba2bd82eb5014e201abb96b6b",
+      "stepText": "Откройте в разделе «Автоотчеты» пункт «Файлы отчетов» и найдите нужную строку по названию и времени формирования.",
+      "stepTextHash": "644de066d5227860646982b938e5940b579d60c70ea687671e7099121d31f245",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Файлы отчетов по ширине меню с отступом."
+    },
+    {
+      "output": "file-download.svg",
+      "sourceHash": "31fe8b89796aa841738f0698da7d4b95250b958b0361998f59350cfea2cc7ade",
+      "svgHash": "e9e72bb3ee40120825ff1587a2a4bd93ef7f2956f7f4fa1fd0f689f5f3240185",
+      "stepText": "Нажмите синюю кнопку скачивания в этой строке. ПРО загрузит файл формата XLS.",
+      "stepTextHash": "c4f0abf571e4d1b16cc51cdbe61f789ae7f6c37eb4125ce249af146bfc6e909c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Синяя кнопка скачивания, горизонтальная стрелка справа; красная корзина не затронута."
+    }
+  ]
+}

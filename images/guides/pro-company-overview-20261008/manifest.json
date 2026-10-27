@@ -1,0 +1,413 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"]",
+          "target": "Баланс",
+          "text": "Баланс",
+          "width": 81.90625,
+          "x": 400.40625,
+          "y": 154.53125
+        },
+        {
+          "height": 304.34375,
+          "selector": "#left-tabs-example-tabpane-first",
+          "target": "Общий лимит и остатки",
+          "width": 1192.5,
+          "x": 691.5,
+          "y": 221.03125
+        }
+      ],
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/1428",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "source": "source/company-balance.jpg",
+      "output": "company-balance.svg",
+      "title": "Общий лимит компании",
+      "sourceUrl": "https://pro.benza.online/company/1428",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "arrows": []
+    },
+    {
+      "boxes": [
+        {
+          "height": 39.609375,
+          "selector": "[role=\"tab\"]",
+          "target": "Счет",
+          "text": "Счет",
+          "width": 381.5,
+          "x": 286,
+          "y": 300.25
+        },
+        {
+          "height": 275.921875,
+          "selector": "#left-tabs-example-tabpane-second",
+          "target": "Таблица пополнений и кнопка",
+          "width": 1192.5,
+          "x": 691.5,
+          "y": 221.03125
+        }
+      ],
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/1428",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "source": "source/company-account.jpg",
+      "output": "company-account.svg",
+      "title": "Денежный расчёт и счёт",
+      "sourceUrl": "https://pro.benza.online/company/1428",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "arrows": []
+    },
+    {
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"]",
+          "target": "Пользователи",
+          "text": "Пользователи",
+          "width": 132.625,
+          "x": 482.3125,
+          "y": 154.53125
+        },
+        {
+          "height": 184.40625,
+          "selector": "#uncontrolled-tab-example-tabpane-users .MuiPaper-root",
+          "target": "Пользователи компании",
+          "width": 1598,
+          "x": 286,
+          "y": 221.03125
+        }
+      ],
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/1428",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "source": "source/company-users.jpg",
+      "output": "company-users.svg",
+      "title": "Пользователи компании",
+      "sourceUrl": "https://pro.benza.online/company/1428",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "arrows": []
+    },
+    {
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"]",
+          "target": "Станции",
+          "text": "Станции",
+          "width": 92.1875,
+          "x": 614.9375,
+          "y": 154.53125
+        },
+        {
+          "height": 184.40625,
+          "selector": "#uncontrolled-tab-example-tabpane-tanks .MuiPaper-root",
+          "target": "Станции компании",
+          "width": 1598,
+          "x": 286,
+          "y": 221.03125
+        }
+      ],
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/1428",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "source": "source/company-stations.jpg",
+      "output": "company-stations.svg",
+      "title": "Станции компании",
+      "sourceUrl": "https://pro.benza.online/company/1428",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "arrows": []
+    },
+    {
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "button.company-mobile-full-btn:has(svg.lucide-x)",
+          "target": "Блокировка компании",
+          "width": 146.59375,
+          "x": 1737.40625,
+          "y": 94
+        }
+      ],
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/1428",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "source": "source/company-block.jpg",
+      "output": "company-block.svg",
+      "title": "Блокировка, удаление и оборудование",
+      "sourceUrl": "https://pro.benza.online/company/1428",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "arrows": []
+    },
+    {
+      "boxes": [
+        {
+          "height": 39.640625,
+          "insetRight": 4,
+          "padding": 0,
+          "selector": "#company",
+          "target": "Компании",
+          "width": 246,
+          "x": 0,
+          "y": 216.671875
+        },
+        {
+          "height": 742.015625,
+          "selector": ".MuiPaper-root:has(table)",
+          "target": "Таблица компаний",
+          "width": 1598,
+          "x": 286,
+          "y": 154.53125
+        }
+      ],
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "source": "source/companies-list.jpg",
+      "output": "companies-list.svg",
+      "title": "Список компаний",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "arrows": [],
+      "padding": 0
+    },
+    {
+      "boxes": [
+        {
+          "height": 686.015625,
+          "selector": "thead th:nth-child(4),tbody td:nth-child(4)",
+          "target": "Виды компаний",
+          "width": 319.609375,
+          "x": 1244.796875,
+          "y": 154.53125
+        }
+      ],
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/companies",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "source": "source/companies-types.jpg",
+      "output": "companies-types.svg",
+      "title": "Три вида компании",
+      "sourceUrl": "https://pro.benza.online/companies",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "arrows": []
+    },
+    {
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"]",
+          "target": "Виды топлива",
+          "text": "Виды топлива",
+          "width": 132.65625,
+          "x": 856.046875,
+          "y": 154.53125
+        },
+        {
+          "height": 275.921875,
+          "selector": "#uncontrolled-tab-example-tabpane-fuels #left-tabs-example-tabpane-first",
+          "target": "Таблица цен и кнопка добавления",
+          "width": 1192.5,
+          "x": 691.5,
+          "y": 221.03125
+        }
+      ],
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/1428",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "source": "source/company-fuels.jpg",
+      "output": "company-fuels.svg",
+      "title": "Виды топлива и цены",
+      "sourceUrl": "https://pro.benza.online/company/1428",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "arrows": []
+    },
+    {
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"]",
+          "target": "Нефтетрейдеры",
+          "text": "Нефтетрейдеры",
+          "width": 148.921875,
+          "x": 707.125,
+          "y": 154.53125
+        },
+        {
+          "height": 275.921875,
+          "selector": "#uncontrolled-tab-example-tabpane-fuel_traders .MuiPaper-root,#uncontrolled-tab-example-tabpane-fuel_traders button",
+          "target": "Таблица нефтетрейдеров и кнопка добавления",
+          "width": 1598,
+          "x": 286,
+          "y": 213.03125
+        }
+      ],
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/1428",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "source": "source/company-traders.jpg",
+      "output": "company-traders.svg",
+      "title": "Нефтетрейдеры",
+      "sourceUrl": "https://pro.benza.online/company/1428",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "arrows": []
+    },
+    {
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"]",
+          "target": "Клиентские компании",
+          "text": "Клиентские компании",
+          "width": 190.328125,
+          "x": 988.703125,
+          "y": 154.53125
+        },
+        {
+          "height": 355.53125,
+          "selector": "#uncontrolled-tab-example-tabpane-children .MuiPaper-root,#uncontrolled-tab-example-tabpane-children button",
+          "target": "Таблица подразделений и кнопка добавления",
+          "width": 1598,
+          "x": 286,
+          "y": 213.03125
+        }
+      ],
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/1428",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "source": "source/company-clients.jpg",
+      "output": "company-clients.svg",
+      "title": "Клиентские компании",
+      "sourceUrl": "https://pro.benza.online/company/1428",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "arrows": []
+    },
+    {
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[role=\"tab\"]",
+          "target": "Информация",
+          "text": "Информация",
+          "width": 126.40625,
+          "x": 274,
+          "y": 154.53125
+        },
+        {
+          "height": 312.5625,
+          "selector": "[role=\"tabpanel\"].active .mb-3:has(label),[role=\"tabpanel\"].active .mt-3:has(> input[name=\"KPP\"])",
+          "target": "Реквизиты и адреса",
+          "width": 1081.3125,
+          "x": 274,
+          "y": 221.03125,
+          "widthSelector": "[role=\"tabpanel\"].active .row > .col-md-4",
+          "measurement": "Field union height and enclosing columns width measured with this capture"
+        }
+      ],
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/company/1428",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "source": "source/company-info.jpg",
+      "output": "company-info.svg",
+      "title": "Информация и реквизиты",
+      "sourceUrl": "https://pro.benza.online/company/1428",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "arrows": []
+    }
+  ]
+}

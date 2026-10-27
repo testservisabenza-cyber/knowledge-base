@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "manifestHash": "d9c0cf0abf6f37852c9d58596236bf3b765bba690c93dafc6cecee383e0c1344",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-access-object-edit",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "articleInspectionNote": "Каждый шаг просмотрен в статье; обе темы, режимы фона, увеличение, подтверждение копирования и переходы проверены. Ссылки открывают новую вкладку. Тёмная тема и фон под инструкцией восстановлены; временный размер окна сброшен.",
+  "shots": [
+    {
+      "output": "object-nav.svg",
+      "sourceHash": "4fd65c45eab29268a67af5db5866c1115d07f93ab990d98fdc582803f0917080",
+      "svgHash": "15252f120d1430ba0ac8aeff01cbf388fc8c632b747ff776d06e8e46f7339409",
+      "stepText": "В раскрытом разделе «Управление доступом» откройте «Права к объектам».",
+      "stepTextHash": "2d70745a68f004d8f6fad859d51e38058775afccff1619809ab5bfa76142a7e6",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полная ширина пункта меню, справа 4 px; короткая горизонтальная стрелка. Шаг 1: Меню Права к объектам со стрелкой."
+    },
+    {
+      "output": "object-find.svg",
+      "sourceHash": "4fd65c45eab29268a67af5db5866c1115d07f93ab990d98fdc582803f0917080",
+      "svgHash": "6db02232bbef8dfd09a2f5d42677d5bb91a920a5d44dfabff0bcfcd15acf51ba",
+      "stepText": "Найдите нужное правило по «Описание», при необходимости используйте фильтр. В примере открываем существующую запись «12334».",
+      "stepTextHash": "cfb2908774ae0d84ed50d00fbd1a61fbc0d697c3812ea12ad2b4bc9e4d105236",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Фильтр и строка 12334 выделены раздельно; рамки не касаются текста. Шаг 2: Фильтр Описание и строка 12334 выделены раздельно."
+    },
+    {
+      "output": "object-edit.svg",
+      "sourceHash": "4fd65c45eab29268a67af5db5866c1115d07f93ab990d98fdc582803f0917080",
+      "svgHash": "94d63e7d1dcf26590424268fb2df3dcbe8334e6d8e286bb0da8a1b94c832009f",
+      "stepText": "Нажмите карандаш в строке правила.",
+      "stepTextHash": "a995ba8b98cdadb4f1272f62b5237b47cdcbc3a6a34916675c186802a6ba622a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Карандаш 12334 выделен; прямая стрелка слева не пересекает описание. Шаг 3: Карандаш именно строки 12334, стрелка слева."
+    },
+    {
+      "output": "object-edit-fields.svg",
+      "sourceHash": "7660aed8fc056eded295fe31256c59184ce546f7b1b52a2284bf17aa61b89078",
+      "svgHash": "e7fbfa666debdbd61a7c4da77bb33b5a2285c6182a09d540c69e53fc3be7ec4a",
+      "stepText": "Проверьте описание, учётные записи, тип и объекты. В существующем примере выбран пользователь «Артем Техподдержка», тип «Компании» и компания «Пенза». Меняйте только необходимые поля; при смене типа заново проверьте список объектов.\nОписание: Понятное название правила, до 500 символов. Оно помогает найти запись в таблице; само название не определяет доступ.\nПользователи: Одна или несколько учётных записей, которым нужен доступ. В списке проверяйте имя и логин, чтобы не выбрать однофамильца.\nТип объекта: «Компании», «Станции» или «Контроллеры». Выбор определяет список в следующем поле. Для другого типа создайте отдельное правило.\nОбъекты: Конкретные записи выбранного типа. Можно выбрать несколько. Удаление метки убирает объект из этого правила после сохранения.",
+      "stepTextHash": "784c17d75c6b2951cff41caad099d76bb37f736a15dfe38dd173c0489dd42f50",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Все поля существующего правила 12334: Артем, Компания, Пенза; единая рамка исключает Сохранить. Шаг 4: Весь блок четырёх полей в одной рамке, реальный Артем/Компании/Пенза совпадает с текстом."
+    },
+    {
+      "output": "object-edit-save.svg",
+      "sourceHash": "7660aed8fc056eded295fe31256c59184ce546f7b1b52a2284bf17aa61b89078",
+      "svgHash": "e585a5ff59906d412a53ae28e2a9202d427ec631989d9eecd9512f1610fa0b7d",
+      "stepText": "Нажмите «Сохранить», затем проверьте правило. Изменения влияют на доступ выбранных получателей.",
+      "stepTextHash": "5c73c688ae704242a6341381f427409edb4a8235215094aa3350f20f831fa6bf",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только Сохранить существующего правила, прямая стрелка справа. Шаг 5: Сохранить выделено отдельно со стрелкой внутри панели."
+    }
+  ]
+}

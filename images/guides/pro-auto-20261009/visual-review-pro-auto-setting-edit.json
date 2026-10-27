@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "manifestHash": "fb1bb9a6e1e74bb780465e748891a2b60d90bccecbf71afcac053a5bb60ce3c1",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-auto-setting-edit",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "setting-nav.svg",
+      "sourceHash": "44a699aebeacfbb482f7485e312fb6ab1d24bc90537baacfade6028a3fabdaa9",
+      "svgHash": "cd42a34dbf99a3206847cb7445a78f47dad5b649340ed39075a89ead4740ae69",
+      "stepText": "Откройте в разделе «Автоотчеты» пункт «Настройки отправки» и найдите правило по названию.",
+      "stepTextHash": "2cd906b967e26dc61e1f00154036e49674459158dcb25a396c2a467a7f501288",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Пункт настроек по ширине меню."
+    },
+    {
+      "output": "setting-edit.svg",
+      "sourceHash": "44a699aebeacfbb482f7485e312fb6ab1d24bc90537baacfade6028a3fabdaa9",
+      "svgHash": "650c994bef9cdaa8d7040c3960eedd6a95d84f3d70ca5b2d316c5c05d3ccb6f0",
+      "stepText": "Нажмите карандаш в строке правила.",
+      "stepTextHash": "a995ba8b98cdadb4f1272f62b5237b47cdcbc3a6a34916675c186802a6ba622a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Стрелка к углу карандаша, не пересекает корзину."
+    },
+    {
+      "output": "setting-expanded.svg",
+      "sourceHash": "2bb964a086bdeaedf18f41127355d82fd25fe04624dcde73d7274d290e68a0a6",
+      "svgHash": "d9a3ddcc393919969feb0d93c5f4abeb77e928da949ab2ed76ee94f00e3a68a3",
+      "stepText": "Сверьте период данных, выбранный шаблон, получателей и расписание. Если дни и время не отображаются, заново выберите «Да» в «Указать данные для отправки». На снимке эти поля пустые: заполните нужные дни и московское время перед сохранением.",
+      "stepTextHash": "3a91fa52a9d68164baea30353d2a0f5109a79f74ccb4800816d7165d484e965c",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Раскрытая форма, пустые дни/время явно объяснены; Сохранить исключена."
+    },
+    {
+      "output": "setting-edit-save.svg",
+      "sourceHash": "2bb964a086bdeaedf18f41127355d82fd25fe04624dcde73d7274d290e68a0a6",
+      "svgHash": "fea3ad4081eef29baea8987de34007773f9b7595231ee3bacd1214da26afaf32",
+      "stepText": "Нажмите «Сохранить» в форме настройки.",
+      "stepTextHash": "6c1d3a3336d7ba55cffec026a23f631ba38594eda8abf433980068a08f1e6da8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Отдельная кнопка Сохранить с горизонтальной стрелкой."
+    }
+  ]
+}

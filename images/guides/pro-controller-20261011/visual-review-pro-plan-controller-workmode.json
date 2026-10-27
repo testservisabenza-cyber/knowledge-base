@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-workmode",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка по ширине левого меню, горизонтальная стрелка справа. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка открытия второй строки отдельно от корзины. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "main-mode.svg",
+      "sourceHash": "7a33687948df0718d9707fa149cec7f752f5fecd00df9d86a464838e4ed27198",
+      "svgHash": "4c88445230045033ec0194185bd6e7fd7c0eba8f45fbe82e060867a52443df2b",
+      "stepText": "Выберите режим, который используется на вашем объекте. Значение появится в поле «Режим работы».",
+      "stepTextHash": "1ba2d31014f71b26dccf664ebd79d66c681992c3242bd9d0618f5a4499d943e4",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только выбранный режим Автономный налив, подпись и поле. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "main.svg",
+      "sourceHash": "7a33687948df0718d9707fa149cec7f752f5fecd00df9d86a464838e4ed27198",
+      "svgHash": "f2c4df54e29ec93796508edc39c782868938b67e31a7018b42728db37886b2b8",
+      "stepText": "На вкладке «Настройки» оставьте открытым раздел «Основное».",
+      "stepTextHash": "6e410f0d1a75e546657ebbe2eb2fd6918b38f14519305e6726ac95b98531f69d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Основное выделен по ширине меню, диагональ точно в угол. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "main-save.svg",
+      "sourceHash": "4966b9643d4cc3bdca3b0b32a3a1355003823fe03ba3cf4001f34c5c04e9d65a",
+      "svgHash": "c0b75c00cda09195e700e225d3bd6451c97ca04b7e0071646ca2b963eb799b7b",
+      "stepText": "Прокрутите основную форму вниз и нажмите «Сохранить».",
+      "stepTextHash": "5144f067c1a75d7267d2d81c224ea7857973fc11c7a3e6cff244c5881b304358",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить видна целиком после естественной прокрутки; разрешение пользователя на этот ракурс получено. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи контроллер будет запускать выдачу топлива в выбранном режиме.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "89ec7810dc9f24416994e72c06a5fc95ec9f2b0f403de7669c28548dc07025f7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Существующее окно записи; стрелка вверх к Записать данные. Запись не запускалась. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    },
+    {
+      "output": "workmodes.svg",
+      "sourceHash": "ac43875f86b8941de917eeb9fd5f0b1bdd740e9ca17b9064f50cbf0bed64e849",
+      "svgHash": "c966105159d8ca893f5cfda326db094d9db52bc5b2639ae86c283e3f1fd34261",
+      "stepText": "Откройте список «Режим работы». Доступны «Автономный налив», «Заправки с компьютера», «Автономный или с компьютера» и «Svoy club».",
+      "stepTextHash": "1aeac726df144742216adce20776d77f5c214a48813429322789248bd85f8d8a",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Поле и раскрытый список объединены одной рамкой; все четыре варианта видны, стрелки нет. Исходник и полный SVG просмотрены индивидуально; кадр проверен в статье и в увеличении. Нет курсора, водяного знака, загрузочных заглушек и наложений."
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "manifestHash": "c6503bbe30fc0c279c04ee8da0def038d9d683cf292ce8275746bdc303c6bb0a",
+  "articleUrl": "http://127.0.0.1:5174/articles/pay-renewal",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "renew-open.svg",
+      "sourceHash": "8c988e3d8ae352c25c7bcd40372d35a35c4496690d1492af36739c42f1a1b003",
+      "svgHash": "fca05c5d303357d36f96db621ea5c8a7d341e2d25b3804def771be3722148d6f",
+      "stepText": "Нажмите «Продлить действие услуги».",
+      "stepTextHash": "7160463f56aa6370e7287acdd227a0acf28fa678d5229e626933d1848b58894d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка сверху к продлению, соседнее создание нового заказа не перекрыто; полный SVG, увеличение и шаг проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "renew-service.svg",
+      "sourceHash": "6163841f58e9fe19732674195242b663ffaac3ebafa706f2af4b4dfd1412b4f0",
+      "svgHash": "5f0f50ae8512fd6ca0fe542b7d9f6746cdf70eb4755b572815bec49c06d85b76",
+      "stepText": "Выберите компанию, к которой относятся устройства. В карточке нужной услуги нажмите «Выбрать услугу».\nКомпании: Организация, на которую будет выставлен счёт за продление. В списке устройств будут контроллеры этой компании и выбранной услуги.",
+      "stepTextHash": "5ebbe69c0f1d48fda903efa0d49caa53db4e7ced8d66b20752b7f3cc4df03980",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выбор компании и услуги с отдельными стрелками, состояние именно продления без выбора тестового периода. SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "renew-controllers.svg",
+      "sourceHash": "1872e2b9254b8f01b261cedb4e3a8a25fd4120e4ed15fa96b8311336eaedab98",
+      "svgHash": "36d4c7b1cb2d429bdb1e02eb8222f36b9c790b0651a612cf5dbfba7b56e314db",
+      "stepText": "Откройте список «Выберите контроллеры» и выберите устройство по полному ID. Для нескольких устройств повторите выбор в том же списке. Продление применяется только к выбранным контроллерам.",
+      "stepTextHash": "38dcf241289a2eb7e85c6bc8f4290d6f6b70e719847a24692fd189dcaa25b6d8",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Реальный раскрытый список содержит разрешённый ID, отдельно выделены список и выбираемая строка; текст ID свободен. SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "renew-term.svg",
+      "sourceHash": "d2d9b6bb89f9859daac3e4a1ff60b922de6ff43ac5de8f529aa486eb3f4495a9",
+      "svgHash": "8a1f4d95757b2e6d5e629c36e650b445bf48eab40b8eeae49f11fcad1a7df609",
+      "stepText": "Сверьте выбранные ID. Выберите срок обслуживания и нажмите «Добавить к заказу».\nВыберите контроллеры: Устройства, для которых оформляется продление. Сверяйте полный ID, если названия похожи.\nКоличество месяцев — цена: Выберите 6 или 12 месяцев. Рядом показана месячная цена за устройство; итоговая сумма учитывает весь срок и количество выбранных контроллеров.\nКоличество штук: Рассчитывается по выбранным устройствам автоматически и вручную не изменяется.",
+      "stepTextHash": "1e42615da24c9a8333cc7bb6b3d69e7f2abe9214984ae86c9cc31d271675af41",
+      "clickTargets": [
+        1,
+        3
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выбранный ID, срок и автоматическое количество показаны раздельно, стрелки к сроку и добавлению свободны от текста; SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "renew-checkout.svg",
+      "sourceHash": "ad5b5568ca8f22a029ff571f552bc06e51e68055a6ef1642a8eef32f884fad92",
+      "svgHash": "964d2046769dea02381e98fccfc304c4511430f7fa1a4bd1b886808f4813b84d",
+      "stepText": "Сверьте выбранные ID, срок и состав заказа. Проверьте итоговую сумму справа и нажмите «Перейти к оплате».",
+      "stepTextHash": "c2d5f32e0f44a62149a94540ffa748779ac8b7a947e6f04db997e3657490d5ea",
+      "clickTargets": [
+        2
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Реальный состав после добавления, выбранный ID остаётся виден слева, итог и переход к счёту справа. Рамки и стрелка проверены в SVG, статье и увеличении. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "renew-invoice.svg",
+      "sourceHash": "370d2c325715c064fdd82d62303d233b811c69300b26fedf7a1b8188ded6a6c0",
+      "svgHash": "737cc0bbb708c62fb9a6dbe6654ef67505e6588499cdca19cf28a20305e0e2b1",
+      "stepText": "Проверьте компанию, услугу, количество устройств, срок и сумму. Нажмите «Скачать счёт» и при необходимости «Скачать оферту». Ознакомьтесь с офертой: оплата счёта означает её принятие. Передайте счёт на оплату с расчётного счёта указанной организации или ИП. Реквизиты и назначение платежа берите из своего счёта.",
+      "stepTextHash": "91406778404c557c4bd656ad1cfa062e16f51c57f17910b68026917024b207c7",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Счёт сформирован именно для заказа продления, таблица выделена, скачивание отмечено стрелками сверху без соседних пересечений; SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "renew-confirm.svg",
+      "sourceHash": "370d2c325715c064fdd82d62303d233b811c69300b26fedf7a1b8188ded6a6c0",
+      "svgHash": "f95a339b6cd44012b07c772a4b1cdacb180117ad7d724a98c67eb652cc90e627",
+      "stepText": "После проведения перевода нажмите «Подтвердить оплату». Эта кнопка открывает форму уведомления о платеже и сама деньги не перечисляет.",
+      "stepTextHash": "98d7346a3c39c2f623d2cb973f3b9e1d0181d0eeea0769990f4bb12a1942c696",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Подтверждение оплаты отмечено сверху, текст подчёркивает уведомление после перевода. SVG, статья и увеличение проверены, статус не подменялся. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "renew-payment.svg",
+      "sourceHash": "063a414bd6107e8e751aa4b0bd676ad117cdd7ac76f7922c57034784acd0c436",
+      "svgHash": "c4a66ddfc19d58476720a85be17e53d6a56a6b30482e67c966da2c2ad457124b",
+      "stepText": "Заполните сведения по платёжному поручению, сверьте основание и нажмите «Отправить на проверку». Менеджер проверит поступление денег. Срок предоставления услуги указан в вашем счёте.\nНомер документа: Номер фактически проведённого платёжного поручения.\nОснование: Счёт и заказ подставляются автоматически. Проверьте, что это оплаченный вами документ на продление.\nДата оплаты: Дата и время проведения платежа по банковскому документу.",
+      "stepTextHash": "ea193f94bd45409652437646396024b98feee5ae2f5f56fc540eb778a013d49e",
+      "clickTargets": [
+        1
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Поля платежа одной рамкой по панели, кнопка отдельно со стрелкой снизу, без пересечений текста. Реальная форма не отправлена с вымышленными данными; SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "renew-invoices.svg",
+      "sourceHash": "59f88e14e43d539f06cb5a87415068aa384b46c0abc3560460db6fae1ff5160d",
+      "svgHash": "5d68f0104c08c4a4dda264a7c4b80f92926e6962c1273397854e0f2e610a91ad",
+      "stepText": "После фактического банковского перевода откройте «Счета». Найдите нужный счёт по номеру, заказу и компании и нажмите стрелку в его строке. Если документ уже открыт, переходите к следующему шагу.",
+      "stepTextHash": "cce9877019840b48209d31d49c61eb1fa103c4e964ac48e2711befb5a3b3b432",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Счёт продления выделен стрелкой в своей строке, меню Счета отдельной короткой стрелкой, номер не затронут. SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "renew-services.svg",
+      "sourceHash": "86cefc9955c525f018697231e54da56c92d6d3d051c93537501b89187c124fb7",
+      "svgHash": "b3ef17dd24323b25c31fe904169de0c76dcdb663fde538458903cb581bef4c67",
+      "stepText": "После подтверждения платежа менеджером откройте «Услуги». Найдите нужную компанию и услугу и нажмите стрелку в её строке.",
+      "stepTextHash": "9da605544c89ada41de802636cde9d9d7666103574c9ec5cce1192bfa20f15cc",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Услуги и открытие карточки имеют собственные стрелки, подписи компании и услуги читаются; SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "renew-date.svg",
+      "sourceHash": "f6c0ebf6debe91f830fc19672dd179f88d33ce9e09c2687b0976627f27b8ebee",
+      "svgHash": "ceda0bd64fc8330ddb5042db005a99f4ff2c2e4ab3838ba3b9066cd5c71078f4",
+      "stepText": "Откройте вкладку «Контроллеры». В строке каждого выбранного ID проверьте «Дату окончания». Новый срок появляется после обработки платежа. Если он ещё не изменился, проверьте статус счёта и обратитесь к менеджеру с номером счёта и платёжного поручения. Повторно добавлять контроллеры не нужно.",
+      "stepTextHash": "1f7aaa985574783f8f7447128132d4edb2b303ac34d6ccba88f2dfbd870ac00e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделены вкладка и таблица с ID и датой. Кадр показывает место проверки текущего срока, новый оплаченный срок не имитируется. SVG, статья и увеличение проверены. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "login.svg",
+      "sourceHash": "239bb33a10b15ca425666763c56bb0610a54effe08da3c1aafe9ccb0e5429c0f",
+      "svgHash": "4b204a6c9d123e76087b87a917da097d65336a7a1472a68cd508a11be949219f",
+      "stepText": "Откройте [benzamat Оплата](https://pay.benza.online), введите email и пароль регистрации и нажмите «Войти в систему».",
+      "stepTextHash": "8ad22c45d68e251bedf76bd603e3828440b6e912dfca935f8c9a29d49f94fd61",
+      "clickTargets": [
+        1
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полная карточка входа, оба поля, кнопка и нижние ссылки сохранены; надписи крупнее, рамки и стрелка совпадают с целями. Проверены исходник, SVG, статья и увеличение."
+    },
+    {
+      "output": "orders-menu.svg",
+      "sourceHash": "805d3063e9bd538aa2fcff11eea1cc5869dbb89e70f6e14d87de2987407d8341",
+      "svgHash": "d898404d5bc76324b2f27b87cbb2ed0d4c7366daff67e03092f224c5976045b5",
+      "stepText": "В левом меню нажмите «Заказы».",
+      "stepTextHash": "8b4bf595776068430ce28ea569a426c83185b76a8f13649225b6245d1738ccdc",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Каждое действие отмечено отдельной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Заказы обведён точно, короткая стрелка справа не пересекает подписи; повторно проверены исходник, SVG и оба просмотра. Изменена только подпись заголовка на стандартную нумерацию; текст действий и файлы снимка прежние. Нумерация проверена в браузере."
+    },
+    {
+      "output": "forgot-password.svg",
+      "sourceHash": "91cba5620c2ae87790a34635b082c482f9e850104a2427602b74e3731c5da8ee",
+      "svgHash": "30be717f32236bde94cba66f12bbd01e11618ad8215d6379e7cf34ea004f87a0",
+      "stepText": "Если забыли пароль, нажмите «Забыли пароль?». Для восстановления нужен доступ к электронной почте, указанной при регистрации. Если не помните этот адрес, напишите на help@benza.ru и укажите название компании и ИНН. После восстановления пароля войдите в кабинет. Если вы уже вошли, пропустите этот шаг.",
+      "stepTextHash": "621e7ca07bdfb457fd3946a9f2106067be4eced92299d4cb637d308ef71d7502",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "Ссылка «Забыли пароль?» отмечена отдельной красной стрелкой.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "26.10.2026: чистая форма входа получена из настоящего сервиса в 1920×1080; ссылка измерена по DOM в том же состоянии. Исходник и SVG просмотрены отдельно, стрелка слева точно к ссылке, текст не перекрыт. Шаг 2 проверен в статье в светлой и тёмной темах, увеличение и кнопка копирования работают. Фактическое восстановление пароля не выполнялось."
+    }
+  ],
+  "reviewScope": "26.10.2026: проверен добавленный шаг 2, его чистый исходник, SVG и отображение в обеих статьях. Проверены обе темы, режимы фона, нумерация, переход к шагу, увеличение, кнопка копирования и атрибуты ссылок. Прежние записи индивидуального просмотра неизменённых снимков сохранены; их повторный просмотр в этом изменении не выполнялся."
+}

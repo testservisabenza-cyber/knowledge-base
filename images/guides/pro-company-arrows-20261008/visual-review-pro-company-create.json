@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "status": "pending-full-article-acceptance",
+  "manifestHash": "c70ee4c27e38da9b823571f6b334699e7112e536df9e32de46433b8dfe95c907",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-company-create",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": false,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "company-add-type.svg",
+      "sourceHash": "e8247e51594316f95b47e0c21cd1f16f38457417118675bbcea86f2ec4502aaf",
+      "svgHash": "9ab50f52386ef82a0eccc149fbc2200b85861d1d95f3856fe89ed0e597ec9bd2",
+      "stepText": "В поле «Тип» выберите «Главная» для основной организации или «Нефтетрейдер» для партнёра. Оба варианта видны в раскрытом списке на снимке.",
+      "stepTextHash": "32eaa339def76ebc60707a97c8c9c9e5e92526d10bcbe7bfbe09766146c6e158",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Тип компании вместе с раскрытыми вариантами в одной рамке. Рамка по ширине панели, слева отступ 4 px; стрелок у полей нет. Индивидуально просмотрены исходник, полный SVG, увеличение и шаг 3 в обеих темах. DOM заново не измерялся; высота унаследована, край панели взят по исходнику. Проверены открытие/закрытие увеличения и копирование полного PNG в буфер."
+    },
+    {
+      "output": "company-add-fields.svg",
+      "sourceHash": "8f74bb40050de214475f56388ddbe9dc99343e799756ca44073d0ec690753346",
+      "svgHash": "05419fcb8a7d9bed1c1518fb130bf12e981d5d0b98dd105f538e7dab2cfa5491",
+      "stepText": "Заполните юридическую информацию. Поля со звёздочкой обязательны. На снимке показан пример заполненной формы; свои реквизиты берите из документов организации.\nНазвание: Укажите название, по которому компанию будут узнавать в списках.\nИНН, ОГРН: Введите номера из регистрационных документов и проверьте цифры.\nКПП: Заполните при наличии; звёздочкой это поле не отмечено.\nЮридический адрес, Почтовый адрес: Укажите оба адреса. Если они совпадают, повторите адрес в двух полях.",
+      "stepTextHash": "a3a14d7822e271dee5a6920907e55a5e31b5338cecde4cd0cebeb2bf263f5a02",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Юридические поля и подписи в одной рамке; кнопка добавления вне рамки. Рамка по ширине панели, слева отступ 4 px; стрелок у полей нет. Индивидуально просмотрены исходник, полный SVG, увеличение и шаг 4 в обеих темах. DOM заново не измерялся; высота унаследована, край панели взят по исходнику. Проверены открытие/закрытие увеличения и копирование полного PNG в буфер."
+    },
+    {
+      "output": "company-add-submit.svg",
+      "sourceHash": "8f74bb40050de214475f56388ddbe9dc99343e799756ca44073d0ec690753346",
+      "svgHash": "19b4867dcfa552f9ab879d40dcbed7e6b4503d23be38ef06f357b055e33651e0",
+      "stepText": "Проверьте введённые сведения и нажмите «Добавить компанию» внизу формы.",
+      "stepTextHash": "9444e4741a5b09ac7cf85538624a92075e26187fb56321952d96f9f5d39ea8c6",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Короткая стрелка справа к кнопке сохранения/добавления, целиком внутри свободной белой области. Индивидуально просмотрены исходник, полный SVG, увеличение и шаг 5 в обеих темах. DOM заново не измерялся; высота унаследована, край панели взят по исходнику. Проверены открытие/закрытие увеличения и копирование полного PNG в буфер."
+    },
+    {
+      "output": "company-nav.svg",
+      "sourceHash": "2745f80c446228ec5541f6067be188c704110c8770e94ecd28d369f6dc332794",
+      "svgHash": "d16f3ad39fab84b25565a609dcaf6a0933b10ed994f689aba512e9d55d8acb5a",
+      "stepText": "В левом меню откройте раздел «Компании».",
+      "stepTextHash": "27f263a196038e7d4b17ecfeeba7f7d81d1e65ea47d9c083640db692adac3bb8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка выбранного пункта по ширине левого меню: слева у края, справа отступ 4 px, высота пункта сохранена; стрелка сбоку. Просмотрены исходник, полный SVG, увеличение и шаг 1 в светлой и тёмной темах; копирование проверено. Новый замер DOM не выполнялся."
+    }
+  ],
+  "pending": [
+    {
+      "step": 2,
+      "image": "/images/guides/pro-repairs-20261008/company-add-button.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 6,
+      "image": "/images/guides/pro-repairs-20261008/company-after-create.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 7,
+      "reason": "Общий шаг записи в контроллер содержит illustration и controllerWrite, но не image; screenshots:accept останавливается на этом шаге."
+    }
+  ]
+}

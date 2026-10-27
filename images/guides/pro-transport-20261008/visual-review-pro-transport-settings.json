@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "manifestHash": "fe46228ae5283c439fb9c3357522b970393bab54d4b3affa64171a4a74d8cf54",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-transport-settings",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "transport-row.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "5542d4594a19ad18758c322160e3df07e76684058a3ace57449ee6570cb8087d",
+      "stepText": "Откройте «Транспорт» и найдите нужное ТС по названию или номеру в списке.",
+      "stepTextHash": "bd9777336950bca05f8f6d4ec021ff871758f226cb18fc0da63b9d2f4eaeb6d9",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Нужная строка выделена целиком, текст и рамка различимы в статье."
+    },
+    {
+      "output": "transport-open.svg",
+      "sourceHash": "24f2bfb5b943ace9de0b5f876f49181ba89155ad9c200762455c02509bcdb601",
+      "svgHash": "ff0e7d0d5007db9bc9c8a57fd00ea5b4b84c265024ca8c8c479edae01703c25b",
+      "stepText": "Нажмите стрелку в его строке.",
+      "stepTextHash": "ecf6b995d2f2538981b696d00401953d01a0de8766263d10679cc7f222fb76b0",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Стрелка открытия упирается точно в нижний правый угол, корзина свободна."
+    },
+    {
+      "output": "transport-card-info.svg",
+      "sourceHash": "c24e908d505070a6b58308d2518b7ba8d560028c4a5b0198e0ad548547a0292f",
+      "svgHash": "31565ae4dece64bb0f7420e06ab355b78e903d22ca065fff8aa8beae88f1e09c",
+      "stepText": "На вкладке «Основная информация» исправьте нужные поля. При замене карты сверьте новый RFID с фактической картой автомобиля.",
+      "stepTextHash": "2007055c974a2de0cb5564a8b82369fc8948871d4fe062e0b2cf68a50cfc23ec",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Основная информация и обе колонки полей отдельно, Save не входит в рамку."
+    },
+    {
+      "output": "transport-card-save.svg",
+      "sourceHash": "c24e908d505070a6b58308d2518b7ba8d560028c4a5b0198e0ad548547a0292f",
+      "svgHash": "5ed235cd503c674a8ca2e601828a64b143b43c088fde9b6a5990324ad61bc4a9",
+      "stepText": "Нажмите «Сохранить» под полями.",
+      "stepTextHash": "1571cb1132b8cfe31a12fa9ce1968ff97adb801876a2695059faf0f917bc5d54",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Отдельная Save, стрелка горизонтально влево, текст свободен."
+    },
+    {
+      "output": "transport-limits-tab.svg",
+      "sourceHash": "ba8eb59a45548d37b338246ea79d44b8a4c0508ffbf6d7c5fa384dc15d590014",
+      "svgHash": "036df8da168180bdbbb0d63c83c8054efb2c217458a7acfdfb900c46a8217d5b",
+      "stepText": "Если нужно изменить лимит, отдельно откройте вкладку «Лимиты».",
+      "stepTextHash": "50a1b92121bc7e0113b15531e45c7a6048e0d665b0c565933ff6d4a0977a2a0b",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: Точная рамка вкладки Лимиты, диагональ к верхнему правому углу."
+    },
+    {
+      "output": "transport-controllers-row.svg",
+      "sourceHash": "d5680d4616606cff81dc3761680df81f2e2154d8ba40f018ea50e72a7148f8c9",
+      "svgHash": "df2734bf86fa286febb3ad56667c673bbdbf25c8765d540e8fb1f00c20234ab5",
+      "stepText": "На вкладке «Контроллеры» убедитесь, что ТС связано с ТРК, на которой его будут заправлять.",
+      "stepTextHash": "71bc180979664f6bad96b35e93386d4dba6afb5ac5d0d7f3f8605408b520d81c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 6: Контроллеры и таблица отдельно, строка устройства видна."
+    },
+    {
+      "output": "controller-write.svg",
+      "sourceHash": "61b3ba344800fd41e75fab22c04f0e87896142124289cd627131fc4fba92354f",
+      "svgHash": "3b6a627d1af94bf40ef0364fe8a670b6446a0d4ab97a3e17bd45790516caf2ae",
+      "stepText": "Чтобы изменённая карта и параметры ТС применились на ТРК, запишите обновлённый транспорт в нужные контроллеры.\nПри включённом автоопросе сервис автоматически записывает и считывает данные раз в 15 минут. При выключенном автоопросе потребуется записать данные вручную или включить автоопрос.\nНиже есть инструкция, описывающая все действия для записи данных в контроллер.",
+      "stepTextHash": "4962207db426c807c2619a42008dbbb29dbfc372bba46d4e9efd7ba38196926e",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 7: Общее окно записи для изменённых данных, текст результата конкретной операции."
+    }
+  ]
+}

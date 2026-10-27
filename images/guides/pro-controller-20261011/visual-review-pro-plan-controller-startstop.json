@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-startstop",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Меню на всю ширину, справа небольшой отступ; горизонтальная стрелка. Индивидуально проверены исходник, полный SVG, обычный размер в соответствующем шаге и увеличение. Курсора, водяного знака и наложений на текст нет; измерения из того же состояния."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделена стрелка второй строки, корзина не выделена; указатель справа. Индивидуально проверены исходник, полный SVG, обычный размер в соответствующем шаге и увеличение. Курсора, водяного знака и наложений на текст нет; измерения из того же состояния."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи кнопка «Старт/Стоп» будет работать по выбранным условиям запуска и просмотра показаний.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "35486c96ac66e201fd498459a987d8179348c556704e1c4880b4e1c33b8509fb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Окно записи целиком, стрелка вертикальная к кнопке «Записать данные». Индивидуально проверены исходник, полный SVG, обычный размер в соответствующем шаге и увеличение. Курсора, водяного знака и наложений на текст нет; измерения из того же состояния."
+    },
+    {
+      "output": "startstop-tab.svg",
+      "sourceHash": "3b68fc6240720abff26f5d5dfd6dac84ddbf457a14ea477f315a3d68f83eeb56",
+      "svgHash": "4e192a440aee5469cd72620492ed4841b5db809613dbbd2e0e1ab9d7a616ca7b",
+      "stepText": "В «Настройки» откройте «Кнопка старт/стоп».",
+      "stepTextHash": "877a74b2586f99543679a2371e46beed14260dcc1ea6ee9ba390a06caa53fc10",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт «Кнопка старт/стоп»; диагональ точно к нижнему правому углу. Индивидуально проверены исходник, полный SVG, обычный размер в соответствующем шаге и увеличение. Курсора, водяного знака и наложений на текст нет; измерения из того же состояния."
+    },
+    {
+      "output": "startstop-auth.svg",
+      "sourceHash": "3b68fc6240720abff26f5d5dfd6dac84ddbf457a14ea477f315a3d68f83eeb56",
+      "svgHash": "1f22ac9272f78db31fc62da08949745e2cace229a8ed72d01bc147130b0e95d5",
+      "stepText": "Выберите, разрешён ли пуск кнопкой «Старт» без карты. «Да» — заправку можно начать кнопкой без идентификации пользователя или транспорта. «Нет» — сначала потребуется карта.",
+      "stepTextHash": "38f79240e580446d7307737686675f1c06eb703aa745d02c597d83103dc960d9",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Подпись и поле разрешения запуска без карты; другие поля не выделены. Индивидуально проверены исходник, полный SVG, обычный размер в соответствующем шаге и увеличение. Курсора, водяного знака и наложений на текст нет; измерения из того же состояния."
+    },
+    {
+      "output": "startstop-type.svg",
+      "sourceHash": "a168ac19283807198a94999bdeb630abc0d3579c901916ab11c58fa56375d8e5",
+      "svgHash": "5942dc06a97552c4a61ee83924685d5204ad21d2278771fe6a27696bbb7eddba",
+      "stepText": "Если выбрали «Да», настройте «Тип заправки по кнопке старт». «С набором дозы» — перед запуском задают количество топлива. «Без набора дозы» — заправку запускают без ввода количества.",
+      "stepTextHash": "33ce324adb941ece81ab8c3da8e859e6d6d235025fd8e2008cc47d3a9ab5836e",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пуск выбран «Да», поле типа заправки доступно; подпись внутри рамки. Индивидуально проверены исходник, полный SVG, обычный размер в соответствующем шаге и увеличение. Курсора, водяного знака и наложений на текст нет; измерения из того же состояния."
+    },
+    {
+      "output": "startstop-level.svg",
+      "sourceHash": "ffe425c865889d40d990914fa2149c227546c9be0547ae76555ac230e2286a84",
+      "svgHash": "beefc28899f208eec9f493bf39a05ece70a4275379d6ef1103f2bc6df55d1d64",
+      "stepText": "Если разрешён пуск кнопкой и выбран тип «С набором дозы», настройте просмотр показаний уровнемеров кнопкой 0. «Да» — кнопка 0 показывает уровни, «Нет» — просмотр этой кнопкой отключён.",
+      "stepTextHash": "d78b576272475920d6636fa620cf028e4ca3f83284dbfe12e53a636ab9b3c6e0",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пуск «Да», тип «С набором дозы»: поле кнопки 0 доступно, выделено отдельно. Индивидуально проверены исходник, полный SVG, обычный размер в соответствующем шаге и увеличение. Курсора, водяного знака и наложений на текст нет; измерения из того же состояния."
+    },
+    {
+      "output": "startstop-save.svg",
+      "sourceHash": "ffe425c865889d40d990914fa2149c227546c9be0547ae76555ac230e2286a84",
+      "svgHash": "3ed5806c56ff656a8f562b456564a41347a2d80881453e4f945b1d988f81e7da",
+      "stepText": "Нажмите «Сохранить».",
+      "stepTextHash": "5e570b9e61506e20b46ab22a7060088d1efaa7ca24a88f570d91d59d51f225c4",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделена только кнопка сохранения; горизонтальная стрелка справа. Индивидуально проверены исходник, полный SVG, обычный размер в соответствующем шаге и увеличение. Курсора, водяного знака и наложений на текст нет; измерения из того же состояния."
+    }
+  ]
+}

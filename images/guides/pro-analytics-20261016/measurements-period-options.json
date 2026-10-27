@@ -1,0 +1,76 @@
+{
+  "sourceUrl": "https://pro.benza.online/reports/fillings",
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "measurementMethod": "getBoundingClientRect in the capture state",
+  "period": {
+    "group": {
+      "bottom": 465.796875,
+      "height": 36.53125,
+      "left": 1537,
+      "right": 1851.546875,
+      "top": 429.265625,
+      "width": 314.546875,
+      "x": 1537,
+      "y": 429.265625
+    },
+    "inputs": [
+      {
+        "html": "<div class=\"mb-2\"><label class=\"text-black form-label\">Начальная дата</label><input class=\"form-control flatpickr-z-index flatpickr-input\" options=\"[object Object]\" placeholder=\"Выберите значение\" value=\"Fri Oct 16 2026 00:00:00 GMT+0300 (Москва, стандартное время)\" type=\"text\" readonly=\"readonly\"></div>",
+        "rect": {
+          "bottom": 539.9375,
+          "height": 66.140625,
+          "left": 1537,
+          "right": 1904,
+          "top": 473.796875,
+          "width": 367,
+          "x": 1537,
+          "y": 473.796875
+        }
+      },
+      {
+        "html": "<div class=\"mb-2\"><label class=\"text-black form-label\">Конечная дата</label><input class=\"form-control flatpickr-z-index flatpickr-input\" options=\"[object Object]\" placeholder=\"Выберите значение\" value=\"Fri Oct 16 2026 23:59:00 GMT+0300 (Москва, стандартное время)\" type=\"text\" readonly=\"readonly\"></div>",
+        "rect": {
+          "bottom": 614.078125,
+          "height": 66.140625,
+          "left": 1537,
+          "right": 1904,
+          "top": 547.9375,
+          "width": 367,
+          "x": 1537,
+          "y": 547.9375
+        }
+      }
+    ]
+  },
+  "dates": [
+    {
+      "html": "<div class=\"col-xs-12 col-lg-12 col-md-12\"><div class=\"mb-2\"><label class=\"text-black form",
+      "rect": {
+        "bottom": 547.9375,
+        "height": 74.140625,
+        "left": 1525,
+        "right": 1916,
+        "top": 473.796875,
+        "width": 391,
+        "x": 1525,
+        "y": 473.796875
+      }
+    },
+    {
+      "html": "<div class=\"col-xs-12 col-lg-12 col-md-12\"><div class=\"mb-2\"><label class=\"text-black form",
+      "rect": {
+        "bottom": 622.078125,
+        "height": 74.140625,
+        "left": 1525,
+        "right": 1916,
+        "top": 547.9375,
+        "width": 391,
+        "x": 1525,
+        "y": 547.9375
+      }
+    }
+  ]
+}

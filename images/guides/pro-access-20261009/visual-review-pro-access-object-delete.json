@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "manifestHash": "d9c0cf0abf6f37852c9d58596236bf3b765bba690c93dafc6cecee383e0c1344",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-access-object-delete",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "articleInspectionNote": "Каждый шаг просмотрен в статье; обе темы, режимы фона, увеличение, подтверждение копирования и переходы проверены. Ссылки открывают новую вкладку. Тёмная тема и фон под инструкцией восстановлены; временный размер окна сброшен.",
+  "shots": [
+    {
+      "output": "object-nav.svg",
+      "sourceHash": "4fd65c45eab29268a67af5db5866c1115d07f93ab990d98fdc582803f0917080",
+      "svgHash": "15252f120d1430ba0ac8aeff01cbf388fc8c632b747ff776d06e8e46f7339409",
+      "stepText": "В раскрытом разделе «Управление доступом» откройте «Права к объектам».",
+      "stepTextHash": "2d70745a68f004d8f6fad859d51e38058775afccff1619809ab5bfa76142a7e6",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полная ширина пункта меню, справа 4 px; короткая горизонтальная стрелка. Шаг 1: Пункт меню по краям, прямая стрелка."
+    },
+    {
+      "output": "object-find.svg",
+      "sourceHash": "4fd65c45eab29268a67af5db5866c1115d07f93ab990d98fdc582803f0917080",
+      "svgHash": "6db02232bbef8dfd09a2f5d42677d5bb91a920a5d44dfabff0bcfcd15acf51ba",
+      "stepText": "Найдите правило по описанию. До удаления проверьте его пользователей и объекты: именно предоставляемый этим правилом доступ будет убран.",
+      "stepTextHash": "00b47cca2a61b9785b4bf83933b0d237a51e6425c4c9e515293569d61e5e88bd",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Фильтр и строка 12334 выделены раздельно; рамки не касаются текста. Шаг 2: Фильтр и строка 12334 читаются в статье."
+    },
+    {
+      "output": "object-delete.svg",
+      "sourceHash": "4fd65c45eab29268a67af5db5866c1115d07f93ab990d98fdc582803f0917080",
+      "svgHash": "6493c9cf4a2c85d4c7b317e9f9772f0c8e2950be781eeada89189abcabcd953f",
+      "stepText": "Нажмите красную корзину в строке выбранного правила. После выполнения удаления проверьте, что эта запись исчезла из списка. Другие правила пользователя могут продолжать предоставлять доступ.",
+      "stepTextHash": "1a355347d83976ece13b95728e36ed24255580ad667d30e8b0f4f5b93c193f28",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделена только корзина нужной строки, горизонтальная стрелка справа. Шаг 3: Только корзина выбранной строки, карандаш не выделен; текст не утверждает выполненное удаление."
+    }
+  ]
+}

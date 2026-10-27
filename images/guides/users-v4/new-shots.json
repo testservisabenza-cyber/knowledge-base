@@ -1,0 +1,332 @@
+[
+  {
+    "source": "source/users-row-actions.jpg",
+    "output": "users-row-actions.svg",
+    "title": "Действия в строке пользователя",
+    "sourceUrl": "https://pro.benza.online/users",
+    "background": "application",
+    "rightScrollbarWidth": 15,
+    "boxes": [
+      {
+        "height": 61.0625,
+        "selector": "tbody tr:nth-child(2) td:first-child",
+        "target": "Действия в строке пользователя",
+        "width": 222.703125,
+        "x": 286,
+        "y": 428.703125
+      }
+    ]
+  },
+  {
+    "source": "source/users-groups.jpg",
+    "output": "users-groups.svg",
+    "title": "Группы, Таблица групп",
+    "sourceUrl": "https://pro.benza.online/users",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 41.5,
+        "selector": "#list-users-tab-example-tab-usersGroup",
+        "target": "Группы",
+        "width": 83.8125,
+        "x": 479.703125,
+        "y": 178.140625
+      },
+      {
+        "height": 253.515625,
+        "selector": "#list-users-tab-example-tabpane-usersGroup",
+        "target": "Таблица групп",
+        "width": 1574,
+        "x": 286,
+        "y": 220.640625
+      }
+    ]
+  },
+  {
+    "source": "source/users-show-limits.jpg",
+    "output": "users-show-limits.svg",
+    "title": "Показать лимиты и остатки, Видимые столбцы лимитов",
+    "sourceUrl": "https://pro.benza.online/users",
+    "background": "application",
+    "rightScrollbarWidth": 15,
+    "boxes": [
+      {
+        "height": 21.609375,
+        "selector": ".form-check.d-inline-block",
+        "target": "Показать лимиты и остатки",
+        "width": 319.953125,
+        "x": 1549.046875,
+        "y": 138.53125
+      },
+      {
+        "height": 75.390625,
+        "selector": "thead th:nth-child(n+3):nth-child(-n+8)",
+        "target": "Видимые столбцы лимитов",
+        "width": 1080,
+        "x": 646,
+        "y": 292.25
+      }
+    ]
+  },
+  {
+    "source": "source/reader-profile-login.jpg",
+    "output": "reader-profile-login.svg",
+    "title": "Кнопка профиля, Логин вошедшего пользователя",
+    "sourceUrl": "https://pro.benza.online/users",
+    "background": "application",
+    "rightScrollbarWidth": 15,
+    "boxes": [
+      {
+        "height": 36.671875,
+        "selector": "#page-topbar button.btn-light",
+        "target": "Кнопка профиля",
+        "width": 44,
+        "x": 1841,
+        "y": 24.65625
+      },
+      {
+        "height": 50.1875,
+        "selector": "#page-topbar .dropdown-menu.show .dropdown-item:first-child",
+        "target": "Логин вошедшего пользователя",
+        "width": 160,
+        "x": 1733,
+        "y": 69.328125
+      }
+    ]
+  },
+  {
+    "source": "source/users-menu-overview.jpg",
+    "output": "users-menu-overview.svg",
+    "title": "Все действия с пользователями",
+    "sourceUrl": "https://pro.benza.online/users",
+    "background": "application",
+    "rightScrollbarWidth": 15,
+    "boxes": [
+      {
+        "height": 108.0625,
+        "selector": ".dropdown-menu.show",
+        "target": "Все действия с пользователями",
+        "width": 194.015625,
+        "x": 1549.046875,
+        "y": 130.53125
+      }
+    ]
+  },
+  {
+    "source": "source/user-account.jpg",
+    "output": "user-account.svg",
+    "title": "Доступ к ЛК, Настройка доступа",
+    "sourceUrl": "https://pro.benza.online/user/52651",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 39.609375,
+        "selector": "#left-tabs-example-tab-auth",
+        "target": "Доступ к ЛК",
+        "width": 375.5,
+        "x": 286,
+        "y": 280.25
+      },
+      {
+        "height": 67.609375,
+        "selector": "#left-tabs-example-tabpane-auth .mb-3",
+        "target": "Настройка доступа",
+        "width": 587.25,
+        "x": 685.5,
+        "y": 280.640625
+      }
+    ]
+  },
+  {
+    "source": "source/user-auth-history.jpg",
+    "output": "user-auth-history.svg",
+    "title": "История авторизаций, История входов и результаты",
+    "sourceUrl": "https://pro.benza.online/user/52651",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 39.609375,
+        "selector": "#left-tabs-example-tab-history-auth",
+        "target": "История авторизаций",
+        "width": 375.5,
+        "x": 286,
+        "y": 319.859375
+      },
+      {
+        "height": 175.390625,
+        "selector": "#left-tabs-example-tabpane-history-auth table",
+        "target": "История входов и результаты",
+        "width": 1174.5,
+        "x": 685.5,
+        "y": 217.03125
+      }
+    ]
+  },
+  {
+    "source": "source/user-change-history.jpg",
+    "output": "user-change-history.svg",
+    "title": "История изменений настроек, Поля журнала изменений",
+    "sourceUrl": "https://pro.benza.online/user/52651",
+    "background": "application",
+    "rightScrollbarWidth": 15,
+    "boxes": [
+      {
+        "height": 41.5,
+        "selector": "[id$=\"tab-historyСhanges\"]",
+        "target": "История изменений настроек",
+        "width": 174.984375,
+        "x": 604.859375,
+        "y": 134.53125
+      },
+      {
+        "height": 75.390625,
+        "selector": "[id$=\"tabpane-historyСhanges\"] thead",
+        "target": "Поля журнала изменений",
+        "width": 1544,
+        "x": 286,
+        "y": 245.5625
+      }
+    ]
+  },
+  {
+    "source": "source/user-add-rfid-button.jpg",
+    "output": "user-add-rfid-button.svg",
+    "title": "Тип авторизации, Тип считывателя, Номер карты, Получить номер карты",
+    "sourceUrl": "https://pro.benza.online/users",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 67.609375,
+        "selector": ".offcanvas-body > form > div:nth-child(6)",
+        "target": "Тип авторизации",
+        "width": 352,
+        "x": 1537,
+        "y": 482.640625
+      },
+      {
+        "height": 67.609375,
+        "selector": ".offcanvas-body > form > div:nth-child(7)",
+        "target": "Тип считывателя",
+        "width": 352,
+        "x": 1537,
+        "y": 566.25
+      },
+      {
+        "height": 66.140625,
+        "selector": ".offcanvas-body > form > div:nth-child(8)",
+        "target": "Номер карты",
+        "width": 352,
+        "x": 1537,
+        "y": 649.859375
+      },
+      {
+        "height": 36.53125,
+        "selector": ".offcanvas-body button.mb-2",
+        "target": "Получить номер карты",
+        "width": 168.703125,
+        "x": 1537,
+        "y": 732
+      }
+    ]
+  },
+  {
+    "source": "source/users-table.jpg",
+    "output": "users-table.svg",
+    "title": "Таблица пользователей целиком",
+    "sourceUrl": "https://pro.benza.online/users",
+    "background": "application",
+    "rightScrollbarWidth": 15,
+    "boxes": [
+      {
+        "height": 709.953125,
+        "selector": "table",
+        "target": "Таблица пользователей целиком",
+        "width": 1559,
+        "x": 286,
+        "y": 292.25
+      }
+    ]
+  },
+  {
+    "source": "source/reader-kb-download.jpg",
+    "output": "reader-kb-download.svg",
+    "title": "Загрузка программы из базы знаний",
+    "sourceUrl": "http://127.0.0.1:5174/articles/pro-software",
+    "background": "off",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 73,
+        "selector": "tbody tr:nth-child(2)",
+        "target": "Программа считывателя карт",
+        "width": 1198,
+        "x": 547.796875,
+        "y": 448.609375
+      },
+      {
+        "height": 40,
+        "selector": "a[href*=\"setupBenzamatProReader\"]",
+        "target": "Скачать программу",
+        "width": 120,
+        "x": 1614.046875,
+        "y": 465.109375
+      }
+    ]
+  },
+  {
+    "source": "source/user-settings-overview.jpg",
+    "output": "user-settings-overview.svg",
+    "title": "Вкладки настроек, Разделы параметров",
+    "sourceUrl": "https://pro.benza.online/user/52651",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 41.5,
+        "selector": "#uncontrolled-tab-example [role=\"tab\"]",
+        "target": "Вкладки настроек",
+        "width": 505.84375,
+        "x": 274,
+        "y": 134.53125
+      },
+      {
+        "height": 158.4375,
+        "selector": ".user-single-inner-nav",
+        "target": "Разделы параметров",
+        "width": 375.5,
+        "x": 286,
+        "y": 201.03125
+      }
+    ]
+  },
+  {
+    "source": "source/user-individual-rights.jpg",
+    "output": "user-individual-rights.svg",
+    "title": "Права на контроллерах, Все поля индивидуальных прав",
+    "sourceUrl": "https://pro.benza.online/user/52651",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 39.609375,
+        "selector": "#left-tabs-example-tab-secure_controller",
+        "target": "Права на контроллерах",
+        "width": 375.5,
+        "x": 286,
+        "y": 240.640625
+      },
+      {
+        "height": 318.4375,
+        "selector": "#left-tabs-example-tabpane-secure_controller .mb-3",
+        "target": "Все поля индивидуальных прав",
+        "width": 587.25,
+        "x": 685.5,
+        "y": 217.03125
+      }
+    ]
+  }
+]

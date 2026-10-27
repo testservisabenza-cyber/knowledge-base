@@ -1,0 +1,242 @@
+{
+  "transport-list.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Таблица целиком: все четыре строки, заголовки и фильтры внутри рамки; пагинация ниже, текст не затронут."
+  },
+  "transport-row.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Первая строка ТС Пенза выделена по ширине таблицы; стрелок нет."
+  },
+  "transport-open.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Наконечник приходит в нижний правый угол рамки кнопки первой строки; соседняя корзина и следующий ряд не перекрыты."
+  },
+  "transport-delete.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Выделена только корзина первой строки, горизонтальная стрелка в свободной части строки."
+  },
+  "transport-limits-row.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Последняя строка Камаз выделена целиком, её тип День и месяц виден."
+  },
+  "transport-limits-open.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Стрелка точно в нижний правый угол кнопки Камаза, выше подписи пагинации."
+  },
+  "transport-actions.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Горизонтальная стрелка к Добавить ТС над таблицей, без пересечения заголовков."
+  },
+  "transport-add-menu.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Первый пункт Добавить ТС: стрелка в свободной полосе выше заголовка Действия."
+  },
+  "transport-delete-submit.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Только Подтвердить в окне удаления; Отмена без меток и стрелок."
+  },
+  "transport-add-main.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Рамка по ширине белой панели с отступами, только Название, Компания, Контроллеры."
+  },
+  "transport-add-auth.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Одна рамка на блок RFID с типом считывателя и номером, без стрелок."
+  },
+  "transport-add-limit.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "План День и месяц и все четыре поля объёмов и порогов внутри рамки; подписи не задеты."
+  },
+  "transport-add-optional.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Срок обслуживания, номер, модель и договор выделены по ширине панели; Сохранить вне рамки."
+  },
+  "transport-add-save.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Точная рамка кнопки Сохранить в нижней части панели и горизонтальная стрелка слева."
+  },
+  "transport-import-template.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Скачать шаблон выделено отдельно; прямая стрелка слева, заголовок формы не затронут."
+  },
+  "transport-import-company.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Компания обведена по ширине белой панели, без стрелки."
+  },
+  "transport-import-controls.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Контроллеры и Тип карты единым блоком по ширине панели, без стрелок."
+  },
+  "transport-import-file.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Выбрать файл в собственной рамке и горизонтальная стрелка; соседнее Сохранить ниже."
+  },
+  "transport-import-save.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Сохранить выделено отдельно, горизонтальная стрелка слева. Файл ещё не выбран; проверить соответствие тексту шага."
+  },
+  "transport-card-info.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Основная информация и обе колонки полей раздельно; стрелка точно в верхний правый угол вкладки, выше надписей соседних вкладок."
+  },
+  "transport-card-check-save.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Вкладка с диагональю в угол и Сохранить с отдельной горизонтальной стрелкой; две колонки полей не включают Сохранить."
+  },
+  "transport-card-save.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Сохранить с прямой стрелкой справа, пустое пространство до правых полей."
+  },
+  "transport-limits-tab.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Лимиты: стрелка точно в верхний правый угол рамки; название транспорта левее."
+  },
+  "transport-limits-tab-day.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Вкладка Лимиты на реальном плане День и месяц, стрелка в верхний правый угол."
+  },
+  "transport-limits-plan-day.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Тип плана и обе карточки дневного/месячного лимита обведены, без стрелок."
+  },
+  "transport-limits-pencil-day.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Только карандаш дневного лимита, диагональ в нижний правый угол, подпись месячного лимита не пересекается."
+  },
+  "transport-limits-edit-form.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Тип День, Литры 700 и Сигнальный порог 100 одной рамкой по ширине панели; Сохранить исключено."
+  },
+  "transport-limits-edit-save.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Кнопка Сохранить отдельно, прямая горизонтальная стрелка слева."
+  },
+  "transport-controllers-row.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Вкладка Контроллеры отдельной рамкой с точным углом стрелки, таблица отдельной рамкой."
+  },
+  "transport-controllers-state.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Реальная строка контроллера Пенза целиком, состояние Считаны и GSM видны."
+  },
+  "overview-list.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Обзор: рамка пункта Транспорт по краям меню и отдельная рамка всей таблицы, стрелок нет."
+  },
+  "overview-info.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Обзор: активная вкладка и обе колонки сведений отдельно; Сохранить не выделено."
+  },
+  "overview-reader.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Активная Основная информация и правая колонка RFID/считывателя, без меток Сохранить и стрелок."
+  },
+  "overview-limits.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Вкладка Лимиты и область плана с двумя карточками раздельно; стрелок и отдельных карандашей нет."
+  },
+  "overview-controllers.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Вкладка Контроллеры и таблица допуска отдельными рамками, без стрелок."
+  },
+  "overview-history.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Вкладка История изменений и её таблица отдельно. No records to display — настоящее пустое состояние, фильтры загружены."
+  },
+  "user-ts-auth.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Авторизация ТС — Да в настоящей карточке пользователя, рамка включает подпись и поле; форма не сохранена."
+  },
+  "controller-write.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Настоящее общее окно записи; выделена строка Записать список пользователей, транспорта, компании и их лимиты, без выдуманного результата записи."
+  },
+  "transport-nav.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Повторно просмотрен после сокращения: стрелка заканчивается рядом с меню, начало до текста таблицы, рамка по краям меню с правым отступом."
+  },
+  "transport-import-menu.svg": {
+    "fullSizeInspected": true,
+    "correctTargets": true,
+    "noTextOverlap": true,
+    "note": "Повторно просмотрен после переноса: стрелка снаружи справа снизу точно в нижний правый угол, заголовок Действия не перекрывается."
+  }
+}

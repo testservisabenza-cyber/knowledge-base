@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "manifestHash": "fb1bb9a6e1e74bb780465e748891a2b60d90bccecbf71afcac053a5bb60ce3c1",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-autoreport-model",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "overview-templates.svg",
+      "sourceHash": "a8eb87818ff43ecc604cd8248c39308e5bf94c55d81f1eeb8176a394f38a96c2",
+      "svgHash": "e1d5777b7b99bebe1d0108749b749c8d0d54fbdf2bcda03817877348bfc51995",
+      "stepText": "Три части раздела\n«Шаблоны отчетов» определяет содержимое файла. «Настройки отправки» задаёт период данных, дни и время формирования, доставку и выбранные шаблоны. «Файлы отчетов» содержит результаты выполненных запусков.\nНазвание шаблона и название настройки нужны для удобного поиска: они не заменяют выбор объектов и расписание. Карандаш редактирует запись, корзина удаляет её.",
+      "stepTextHash": "d23b88996dd1efcb8e6bdb6e3e1b790a117cbb259e2189f2859b42133fa25e3e",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Отдельные рамки меню и таблицы, без стрелок."
+    },
+    {
+      "output": "template-fields.svg",
+      "sourceHash": "5453f4342d7e3dd1e79cb473bf832279c5c64b142a332798323b6c00bde095a2",
+      "svgHash": "ca8eaee4f1f9f71a15b1838f8ab6e5fb87999d0a2f46610d3f3e3ee2d468e80f",
+      "stepText": "Состав шаблона\nТип отчёта определяет набор данных; для шаблонов используется «Последние заправки». Компания ограничивает выбор контроллеров и пользователей. Флажки «Выбрать все контроллеры» и «Выбрать всех пользователей» включают весь доступный список, отдельные поля позволяют ограничить его.\n«Учитывать удаленных» сохраняет в выборке исторические заправки удалённых записей. Без этого флажка такие данные могут не попасть в итоговый файл.",
+      "stepTextHash": "6d46418aae13d9514de0adf1eb5617b45f40353f4a172ea1e2672713c807e68c",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Поля шаблона по ширине панели, сохранение исключено."
+    },
+    {
+      "output": "overview-period.svg",
+      "sourceHash": "ccf5dcbb2c61fb5c481b41f4e0eefe2c6b938d26e0341b6dca795c85e62c56c6",
+      "svgHash": "b26ff2b0427558dcbd5d8bd163544d3c307c8899a91923fa1281eff783fdda7c",
+      "stepText": "Период данных и расписание\n«За период (дни)» задаёт глубину данных: 1, 3, 7 или 31 день. Частота определяется отдельно днями недели и временем запуска. Например, на снимке задано семь дней данных и запуск по понедельникам в 11:00 МСК.\n«Указать данные для отправки — Да» раскрывает дни и время. При «Нет» эти поля скрыты и явное расписание в них не задаётся. Московское время не зависит от часового пояса станции.",
+      "stepTextHash": "1e70a6f4bd789ce0753a76e054fa893acef4250aeb0503fbe1943c2774d4fded",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Период, понедельник и 11:00 соответствуют тексту."
+    },
+    {
+      "output": "overview-mail.svg",
+      "sourceHash": "ccf5dcbb2c61fb5c481b41f4e0eefe2c6b938d26e0341b6dca795c85e62c56c6",
+      "svgHash": "288e96f620b6b7af8fcf241c93bcaaa2da44eed390412727d925fd06f1e40abb",
+      "stepText": "Доставка и связь с шаблоном\n«Отправлять» включает доставку файла на указанные почтовые адреса. Каждый адрес завершают пробелом и проверяют отдельную метку. Учебный адрес на снимке замените своим. «Не отправлять» отключает письмо, но результат формирования можно скачать в сервисе.\nПоле «Шаблоны» связывает настройку с составом данных. Изменение периода не меняет автоматически выбранных пользователей или контроллеры: они берутся из шаблона.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по настройке автоотчёта](/articles/pro-auto-reports).",
+      "stepTextHash": "d20101b9ed383f3d4b9fa6b5498418839b1cad4279a6a14daeff218bf3d53ca9",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Доставка, метка адреса и шаблон выделены; ссылка компактная."
+    },
+    {
+      "output": "overview-files.svg",
+      "sourceHash": "31fe8b89796aa841738f0698da7d4b95250b958b0361998f59350cfea2cc7ade",
+      "svgHash": "3d696d7029ce4de7edc3ddcacc1c3461039751426cc34ef187e6dbe4dc3ff435",
+      "stepText": "Готовые файлы и контроль запуска\n«Файлы отчетов» показывает название, дату формирования и состояние файла. Кнопка загрузки скачивает XLS, корзина удаляет этот результат из списка. На главной странице виджет автоотчётов показывает три последних сформированных файла.\nЕсли файл не появился, сравните расписание, московское время, выбранные шаблоны и состояние запуска. Если файл есть, а письма нет, проверяют доставку, адреса и спам. Отдельного ручного запуска и подробного журнала ошибок отправки в разделе нет; для срочной выгрузки используют «Аналитика».",
+      "stepTextHash": "59db378066f47da5c90fa4e040c50919e1e6d34e9af386e50323a86ea8f567d9",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: Меню и таблица файлов отдельно; существующие даты видны."
+    }
+  ]
+}

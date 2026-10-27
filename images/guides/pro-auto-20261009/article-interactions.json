@@ -1,0 +1,112 @@
+{
+  "pro-auto-reports": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "Индивидуальный просмотр, обе темы, три фона, переход 1→2→1, масштаб 125→100; дождался Скопировано и прочитал PNG; ссылки target blank."
+  },
+  "pro-plan-autoreport-model": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "Индивидуальный просмотр, обе темы, три фона, переход 1→2→1, масштаб 125→100; дождался Скопировано и прочитал PNG; ссылки target blank."
+  },
+  "pro-auto-template-edit": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "Индивидуальный просмотр, обе темы, три фона, переход 1→2→1, масштаб 125→100; дождался Скопировано и прочитал PNG; ссылки target blank."
+  },
+  "pro-auto-template-delete": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "Индивидуальный просмотр, обе темы, три фона, переход 1→2→1, масштаб 125→100; дождался Скопировано и прочитал PNG; ссылки target blank."
+  },
+  "pro-auto-setting-edit": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "Индивидуальный просмотр, обе темы, три фона, переход 1→2→1, масштаб 125→100; дождался Скопировано и прочитал PNG; ссылки target blank."
+  },
+  "pro-auto-setting-delete": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "Индивидуальный просмотр, обе темы, три фона, переход 1→2→1, масштаб 125→100; дождался Скопировано и прочитал PNG; ссылки target blank."
+  },
+  "pro-auto-file-download": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "Индивидуальный просмотр, обе темы, три фона, переход 1→2→1, масштаб 125→100; дождался Скопировано и прочитал PNG; ссылки target blank."
+  },
+  "pro-auto-file-delete": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "Индивидуальный просмотр, обе темы, три фона, переход 1→2→1, масштаб 125→100; дождался Скопировано и прочитал PNG; ссылки target blank."
+  },
+  "pro-plan-autoreport-mail": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "Индивидуальный просмотр, обе темы, три фона, переход 1→2→1, масштаб 125→100; дождался Скопировано и прочитал PNG; ссылки target blank."
+  },
+  "pro-plan-autoreport-files": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true,
+    "note": "Индивидуальный просмотр, обе темы, три фона, переход 1→2→1, масштаб 125→100; дождался Скопировано и прочитал PNG; ссылки target blank."
+  }
+}

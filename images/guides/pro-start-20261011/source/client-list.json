@@ -1,0 +1,1213 @@
+{
+  "rightScrollbarWidth": 0,
+  "targets": [
+    {
+      "height": 70,
+      "selector": "#navbar-brand-box-hide > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria2918317304-\\:r0\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1706,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria2918317304-\\:r1\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1756,
+      "y": 24.65625
+    },
+    {
+      "height": 34.671875,
+      "selector": "#react-aria2918317304-\\:r2\\:",
+      "tag": "BUTTON",
+      "target": "4",
+      "width": 42,
+      "x": 1806,
+      "y": 24.65625
+    },
+    {
+      "height": 14.625,
+      "selector": "#notificationCount",
+      "tag": "SPAN",
+      "target": "4",
+      "width": 17.34375,
+      "x": 1828.65625,
+      "y": 29.65625
+    },
+    {
+      "height": 36.671875,
+      "selector": "#react-aria2918317304-\\:r3\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 44,
+      "x": 1856,
+      "y": 24.65625
+    },
+    {
+      "height": 70,
+      "selector": "#page-topbar > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 39.03125,
+      "selector": "#button-hide-menu",
+      "tag": "BUTTON",
+      "target": "Свернуть меню",
+      "width": 150.09375,
+      "x": 49.953125,
+      "y": 80
+    },
+    {
+      "height": 39.640625,
+      "selector": "#main-point > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Главная",
+      "width": 250,
+      "x": 0,
+      "y": 135.03125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#company",
+      "tag": "A",
+      "target": "Компании",
+      "width": 250,
+      "x": 0,
+      "y": 216.671875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#stations",
+      "tag": "A",
+      "target": "Станции",
+      "width": 250,
+      "x": 0,
+      "y": 256.3125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#controllers",
+      "tag": "A",
+      "target": "Контроллеры (ТРК)",
+      "width": 250,
+      "x": 0,
+      "y": 295.953125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#users",
+      "tag": "A",
+      "target": "Пользователи",
+      "width": 250,
+      "x": 0,
+      "y": 335.59375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#transports",
+      "tag": "A",
+      "target": "Транспорт",
+      "width": 250,
+      "x": 0,
+      "y": 375.234375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#alrts",
+      "tag": "A",
+      "target": "Оповещения",
+      "width": 250,
+      "x": 0,
+      "y": 414.875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Поступление ГСМ",
+      "width": 250,
+      "x": 0,
+      "y": 454.515625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Автоотчеты",
+      "width": 250,
+      "x": 0,
+      "y": 494.15625
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Аналитика",
+      "width": 250,
+      "x": 0,
+      "y": 533.796875
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(13) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление доступом",
+      "width": 250,
+      "x": 0,
+      "y": 615.4375
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(14) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление входом",
+      "width": 250,
+      "x": 0,
+      "y": 655.078125
+    },
+    {
+      "height": 39.640625,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(15) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "benzamat Оплата",
+      "width": 250,
+      "x": 0,
+      "y": 694.71875
+    },
+    {
+      "height": 24,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "tag": "H2",
+      "target": "Компании 13",
+      "width": 114.859375,
+      "x": 286,
+      "y": 100.265625
+    },
+    {
+      "height": 36.53125,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Добавить компанию",
+      "width": 149.546875,
+      "x": 1726.453125,
+      "y": 94
+    },
+    {
+      "height": 686.015625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1)",
+      "tag": "TABLE",
+      "target": "Название 0 Дата добавления 0 Заблокирована 0 Вид компании 0 Действия 0 ООО «Волга-Тест» 30.09.2026 17:28:18 Активна Клиент (подразделение) ООО «Пенза-Топливо» 30.09.2026 17:17:04 Активна Главная 123666 26.08.2026 05:57:29 Активна Клиент (подразделение) 51666666 29.07.2026 16:54:41 Активна Главная 04733B6A926784 25.06.2026 15:42:20 Активна Главная 5",
+      "width": 1598,
+      "x": 286,
+      "y": 154.53125
+    },
+    {
+      "height": 75.390625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1)",
+      "tag": "TR",
+      "target": "Название 0 Дата добавления 0 Заблокирована 0 Вид компании 0 Действия 0",
+      "width": 1598,
+      "x": 286,
+      "y": 154.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 386.78125,
+      "y": 163.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r1o\\:",
+      "tag": "INPUT",
+      "target": "Filter by Название",
+      "width": 251.59375,
+      "x": 300,
+      "y": 190.53125
+    },
+    {
+      "height": 28.79998779296875,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 561.1937255859375,
+      "y": 192.1312561035156
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 757.421875,
+      "y": 163.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r1u\\:",
+      "tag": "INPUT",
+      "target": "Filter by Дата добавления",
+      "width": 251.609375,
+      "x": 619.59375,
+      "y": 190.53125
+    },
+    {
+      "height": 28.79998779296875,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 880.8031005859375,
+      "y": 192.1312561035156
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1064.671875,
+      "y": 163.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r24\\:",
+      "tag": "INPUT",
+      "target": "Filter by Заблокирована",
+      "width": 251.59375,
+      "x": 939.203125,
+      "y": 190.53125
+    },
+    {
+      "height": 28.79998779296875,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 1200.3968505859375,
+      "y": 192.1312561035156
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1377.40625,
+      "y": 163.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r2a\\:",
+      "tag": "INPUT",
+      "target": "Filter by Вид компании",
+      "width": 251.609375,
+      "x": 1258.796875,
+      "y": 190.53125
+    },
+    {
+      "height": 28.79998779296875,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 1520.0062255859375,
+      "y": 192.1312561035156
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1663.625,
+      "y": 163.90625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r2g\\:",
+      "tag": "INPUT",
+      "target": "Filter by Действия",
+      "width": 251.59375,
+      "x": 1578.40625,
+      "y": 190.53125
+    },
+    {
+      "height": 28.79998779296875,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.800048828125,
+      "x": 1839.5999755859375,
+      "y": 192.1312561035156
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1)",
+      "tag": "TR",
+      "target": "ООО «Волга-Тест» 30.09.2026 17:28:18 Активна Клиент (подразделение)",
+      "width": 1598,
+      "x": 286,
+      "y": 229.921875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "ООО «Волга-Тест»",
+      "width": 319.59375,
+      "x": 286,
+      "y": 229.921875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "30.09.2026 17:28:18",
+      "width": 319.609375,
+      "x": 605.59375,
+      "y": 229.921875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Активна",
+      "width": 319.59375,
+      "x": 925.203125,
+      "y": 229.921875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "Клиент (подразделение)",
+      "width": 319.609375,
+      "x": 1244.796875,
+      "y": 229.921875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.59375,
+      "x": 1564.40625,
+      "y": 229.921875
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(5) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1580.40625,
+      "y": 245.921875
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(5) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1632.40625,
+      "y": 245.921875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2)",
+      "tag": "TR",
+      "target": "ООО «Пенза-Топливо» 30.09.2026 17:17:04 Активна Главная",
+      "width": 1598,
+      "x": 286,
+      "y": 290.984375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "ООО «Пенза-Топливо»",
+      "width": 319.59375,
+      "x": 286,
+      "y": 290.984375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "30.09.2026 17:17:04",
+      "width": 319.609375,
+      "x": 605.59375,
+      "y": 290.984375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Активна",
+      "width": 319.59375,
+      "x": 925.203125,
+      "y": 290.984375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "Главная",
+      "width": 319.609375,
+      "x": 1244.796875,
+      "y": 290.984375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.59375,
+      "x": 1564.40625,
+      "y": 290.984375
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(5) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1580.40625,
+      "y": 306.984375
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(5) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1632.40625,
+      "y": 306.984375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3)",
+      "tag": "TR",
+      "target": "123666 26.08.2026 05:57:29 Активна Клиент (подразделение)",
+      "width": 1598,
+      "x": 286,
+      "y": 352.046875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "123666",
+      "width": 319.59375,
+      "x": 286,
+      "y": 352.046875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "26.08.2026 05:57:29",
+      "width": 319.609375,
+      "x": 605.59375,
+      "y": 352.046875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Активна",
+      "width": 319.59375,
+      "x": 925.203125,
+      "y": 352.046875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "Клиент (подразделение)",
+      "width": 319.609375,
+      "x": 1244.796875,
+      "y": 352.046875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.59375,
+      "x": 1564.40625,
+      "y": 352.046875
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(5) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1580.40625,
+      "y": 368.046875
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3) > td:nth-of-type(5) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1632.40625,
+      "y": 368.046875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4)",
+      "tag": "TR",
+      "target": "51666666 29.07.2026 16:54:41 Активна Главная",
+      "width": 1598,
+      "x": 286,
+      "y": 413.109375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "51666666",
+      "width": 319.59375,
+      "x": 286,
+      "y": 413.109375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "29.07.2026 16:54:41",
+      "width": 319.609375,
+      "x": 605.59375,
+      "y": 413.109375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Активна",
+      "width": 319.59375,
+      "x": 925.203125,
+      "y": 413.109375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "Главная",
+      "width": 319.609375,
+      "x": 1244.796875,
+      "y": 413.109375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.59375,
+      "x": 1564.40625,
+      "y": 413.109375
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(5) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1580.40625,
+      "y": 429.109375
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(5) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1632.40625,
+      "y": 429.109375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5)",
+      "tag": "TR",
+      "target": "04733B6A926784 25.06.2026 15:42:20 Активна Главная",
+      "width": 1598,
+      "x": 286,
+      "y": 474.171875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "04733B6A926784",
+      "width": 319.59375,
+      "x": 286,
+      "y": 474.171875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "25.06.2026 15:42:20",
+      "width": 319.609375,
+      "x": 605.59375,
+      "y": 474.171875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Активна",
+      "width": 319.59375,
+      "x": 925.203125,
+      "y": 474.171875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "Главная",
+      "width": 319.609375,
+      "x": 1244.796875,
+      "y": 474.171875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.59375,
+      "x": 1564.40625,
+      "y": 474.171875
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(5) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1580.40625,
+      "y": 490.171875
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(5) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1632.40625,
+      "y": 490.171875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(6)",
+      "tag": "TR",
+      "target": "51666666 10.06.2026 17:15:27 Активна Главная",
+      "width": 1598,
+      "x": 286,
+      "y": 535.234375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(6) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "51666666",
+      "width": 319.59375,
+      "x": 286,
+      "y": 535.234375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(6) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "10.06.2026 17:15:27",
+      "width": 319.609375,
+      "x": 605.59375,
+      "y": 535.234375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(6) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Активна",
+      "width": 319.59375,
+      "x": 925.203125,
+      "y": 535.234375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(6) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "Главная",
+      "width": 319.609375,
+      "x": 1244.796875,
+      "y": 535.234375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(6) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.59375,
+      "x": 1564.40625,
+      "y": 535.234375
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(6) > td:nth-of-type(5) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1580.40625,
+      "y": 551.234375
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(6) > td:nth-of-type(5) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1632.40625,
+      "y": 551.234375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(7)",
+      "tag": "TR",
+      "target": "Тест прав на контроллер 24.04.2026 11:37:15 Активна Клиент (подразделение)",
+      "width": 1598,
+      "x": 286,
+      "y": 596.296875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(7) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "Тест прав на контроллер",
+      "width": 319.59375,
+      "x": 286,
+      "y": 596.296875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(7) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "24.04.2026 11:37:15",
+      "width": 319.609375,
+      "x": 605.59375,
+      "y": 596.296875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(7) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Активна",
+      "width": 319.59375,
+      "x": 925.203125,
+      "y": 596.296875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(7) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "Клиент (подразделение)",
+      "width": 319.609375,
+      "x": 1244.796875,
+      "y": 596.296875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(7) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.59375,
+      "x": 1564.40625,
+      "y": 596.296875
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(7) > td:nth-of-type(5) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1580.40625,
+      "y": 612.296875
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(7) > td:nth-of-type(5) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1632.40625,
+      "y": 612.296875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(8)",
+      "tag": "TR",
+      "target": "Контроллер 1 16.02.2026 09:55:07 Активна Клиент (подразделение)",
+      "width": 1598,
+      "x": 286,
+      "y": 657.359375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(8) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "Контроллер 1",
+      "width": 319.59375,
+      "x": 286,
+      "y": 657.359375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(8) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "16.02.2026 09:55:07",
+      "width": 319.609375,
+      "x": 605.59375,
+      "y": 657.359375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(8) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Активна",
+      "width": 319.59375,
+      "x": 925.203125,
+      "y": 657.359375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(8) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "Клиент (подразделение)",
+      "width": 319.609375,
+      "x": 1244.796875,
+      "y": 657.359375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(8) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.59375,
+      "x": 1564.40625,
+      "y": 657.359375
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(8) > td:nth-of-type(5) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1580.40625,
+      "y": 673.359375
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(8) > td:nth-of-type(5) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1632.40625,
+      "y": 673.359375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(9)",
+      "tag": "TR",
+      "target": "Пенза 16.02.2026 09:54:52 Активна Главная",
+      "width": 1598,
+      "x": 286,
+      "y": 718.421875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(9) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "Пенза",
+      "width": 319.59375,
+      "x": 286,
+      "y": 718.421875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(9) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "16.02.2026 09:54:52",
+      "width": 319.609375,
+      "x": 605.59375,
+      "y": 718.421875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(9) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Активна",
+      "width": 319.59375,
+      "x": 925.203125,
+      "y": 718.421875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(9) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "Главная",
+      "width": 319.609375,
+      "x": 1244.796875,
+      "y": 718.421875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(9) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.59375,
+      "x": 1564.40625,
+      "y": 718.421875
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(9) > td:nth-of-type(5) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1580.40625,
+      "y": 734.421875
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(9) > td:nth-of-type(5) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1632.40625,
+      "y": 734.421875
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(10)",
+      "tag": "TR",
+      "target": "Текст ГК 16.02.2026 09:32:43 Активна Нефтетрейдер",
+      "width": 1598,
+      "x": 286,
+      "y": 779.484375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(10) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "Текст ГК",
+      "width": 319.59375,
+      "x": 286,
+      "y": 779.484375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(10) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "16.02.2026 09:32:43",
+      "width": 319.609375,
+      "x": 605.59375,
+      "y": 779.484375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(10) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Активна",
+      "width": 319.59375,
+      "x": 925.203125,
+      "y": 779.484375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(10) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "Нефтетрейдер",
+      "width": 319.609375,
+      "x": 1244.796875,
+      "y": 779.484375
+    },
+    {
+      "height": 61.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(10) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 319.59375,
+      "x": 1564.40625,
+      "y": 779.484375
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(10) > td:nth-of-type(5) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1580.40625,
+      "y": 795.484375
+    },
+    {
+      "height": 28.0625,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(10) > td:nth-of-type(5) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 36,
+      "x": 1632.40625,
+      "y": 795.484375
+    },
+    {
+      "height": 23,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Rows per page",
+      "width": 109.578125,
+      "x": 1559.75,
+      "y": 858.046875
+    },
+    {
+      "height": 29,
+      "selector": "#mrt-rows-per-page-\\:r1k\\:",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 42.109375,
+      "x": 1677.328125,
+      "y": 856.546875
+    },
+    {
+      "height": 34,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Go to previous page",
+      "width": 34,
+      "x": 1808,
+      "y": 852.546875
+    },
+    {
+      "height": 34,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Go to next page",
+      "width": 34,
+      "x": 1842,
+      "y": 852.546875
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Политика обработки персональных данных.",
+      "width": 304.296875,
+      "x": 683.25,
+      "y": 1042
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "Свидетельство на ПО.",
+      "width": 150.671875,
+      "x": 991.875,
+      "y": 1042
+    },
+    {
+      "height": 17,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "tag": "A",
+      "target": "Свидетельство на ТЗ",
+      "width": 142.15625,
+      "x": 1146.875,
+      "y": 1042
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 291.59375,
+      "x": 300,
+      "y": 190.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 291.609375,
+      "x": 619.59375,
+      "y": 190.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 291.59375,
+      "x": 939.203125,
+      "y": 190.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 291.609375,
+      "x": 1258.796875,
+      "y": 190.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 291.59375,
+      "x": 1578.40625,
+      "y": 190.53125
+    },
+    {
+      "height": 32,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "10",
+      "width": 42.109375,
+      "x": 1677.328125,
+      "y": 853.546875
+    }
+  ],
+  "viewport": {
+    "height": 1080,
+    "width": 1920
+  },
+  "bitmap": {
+    "height": 1080,
+    "width": 1920
+  },
+  "source": "source/client-list.jpg",
+  "url": "https://pro.benza.online/companies",
+  "dom": "- region \"Notifications Alt+T\"\n- banner:\n  - banner:\n    - link:\n      - /url: /\n    - generic: По всем возникающим вопросам и неполадкам сообщайте нашей технической поддержке тел. (8412) 45-41-14\n    - button:\n    - button:\n    - button \"4\":\n      - generic: \"4\"\n    - button:\n  - link:\n    - /url: /\n- button \"Свернуть меню\":\n  - text: Свернуть меню\n- list:\n  - link \"Главная\":\n    - /url: /dashboard\n    - text: Главная\n  - listitem: ОБЩИЙ ФУНКЦИОНАЛ\n  - link \"Компании\" [active]:\n    - /url: /companies\n    - text: Компании\n  - link \"Станции\":\n    - /url: /stations\n    - text: Станции\n  - link \"Контроллеры (ТРК)\":\n    - /url: /controllers\n    - text: Контроллеры (ТРК)\n  - link \"Пользователи\":\n    - /url: /users\n    - text: Пользователи\n  - link \"Транспорт\":\n    - /url: /transports\n    - text: Транспорт\n  - link \"Оповещения\":\n    - /url: /alerts\n    - text: Оповещения\n  - link \"Поступление ГСМ 󰅀\":\n    - /url: /fuel-intake\n    - text: Поступление ГСМ 󰅀\n  - link \"Автоотчеты 󰅀\":\n    - /url: /\n    - text: Автоотчеты 󰅀\n  - link \"Аналитика 󰅀\":\n    - /url: /\n    - text: Аналитика 󰅀\n  - listitem: АДМИНИСТРИРОВАНИЕ\n  - link \"Управление доступом 󰅀\":\n    - /url: /\n    - text: Управление доступом 󰅀\n  - link \"Управление входом\":\n    - /url: /security/tokens\n    - text: Управление входом\n  - link \"benzamat Оплата\":\n    - /url: https://pay.benza.online\n    - text: benzamat Оплата\n- heading \"Компании 13\" [level=2]:\n  - text: Компании\n  - generic: \"13\"\n- button \"Добавить компанию\"\n- table:\n  - rowgroup:\n    - row \"Название Sort by Название ascending Column Actions Дата добавления Sort by Дата добавления ascending Column Actions Заблокирована Sort by Заблокирована ascending Column Actions Вид компании Sort by Вид компании ascending Column Actions Действия Sort by Действия descending Column Actions\":\n      - columnheader \"Название Sort by Название ascending Column Actions\":\n        - generic: Название\n        - generic \"Sort by Название ascending\":\n          - button \"Sort by Название ascending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Название\"\n      - columnheader \"Дата добавления Sort by Дата добавления ascending Column Actions\":\n        - generic: Дата добавления\n        - generic \"Sort by Дата добавления ascending\":\n          - button \"Sort by Дата добавления ascending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Дата добавления\"\n      - columnheader \"Заблокирована Sort by Заблокирована ascending Column Actions\":\n        - generic: Заблокирована\n        - generic \"Sort by Заблокирована ascending\":\n          - button \"Sort by Заблокирована ascending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Заблокирована\"\n      - columnheader \"Вид компании Sort by Вид компании ascending Column Actions\":\n        - generic: Вид компании\n        - generic \"Sort by Вид компании ascending\":\n          - button \"Sort by Вид компании ascending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Вид компании\"\n      - columnheader \"Действия Sort by Действия descending Column Actions\":\n        - generic: Действия\n        - generic \"Sort by Действия descending\":\n          - button \"Sort by Действия descending\":\n          - generic: \"0\"\n        - button \"Column Actions\":\n        - textbox \"Filter by Действия\"\n  - rowgroup:\n    - row \"ООО «Волга-Тест» 30.09.2026 17:28:18 Активна Клиент (подразделение)\":\n      - cell \"ООО «Волга-Тест»\"\n      - cell \"30.09.2026 17:28:18\"\n      - cell \"Активна\"\n      - cell \"Клиент (подразделение)\"\n      - cell:\n        - button:\n        - button:\n    - row \"ООО «Пенза-Топливо» 30.09.2026 17:17:04 Активна Главная\":\n      - cell \"ООО «Пенза-Топливо»\"\n      - cell \"30.09.2026 17:17:04\"\n      - cell \"Активна\"\n      - cell \"Главная\"\n      - cell:\n        - button:\n        - button:\n    - row \"123666 26.08.2026 05:57:29 Активна Клиент (подразделение)\":\n      - cell \"123666\"\n      - cell \"26.08.2026 05:57:29\"\n      - cell \"Активна\"\n      - cell \"Клиент (подразделение)\"\n      - cell:\n        - button:\n        - button:\n    - row \"51666666 29.07.2026 16:54:41 Активна Главная\":\n      - cell \"51666666\"\n      - cell \"29.07.2026 16:54:41\"\n      - cell \"Активна\"\n      - cell \"Главная\"\n      - cell:\n        - button:\n        - button:\n    - row \"04733B6A926784 25.06.2026 15:42:20 Активна Главная\":\n      - cell \"04733B6A926784\"\n      - cell \"25.06.2026 15:42:20\"\n      - cell \"Активна\"\n      - cell \"Главная\"\n      - cell:\n        - button:\n        - button:\n    - row \"51666666 10.06.2026 17:15:27 Активна Главная\":\n      - cell \"51666666\"\n      - cell \"10.06.2026 17:15:27\"\n      - cell \"Активна\"\n      - cell \"Главная\"\n      - cell:\n        - button:\n        - button:\n    - row \"Тест прав на контроллер 24.04.2026 11:37:15 Активна Клиент (подразделение)\":\n      - cell \"Тест прав на контроллер\"\n      - cell \"24.04.2026 11:37:15\"\n      - cell \"Активна\"\n      - cell \"Клиент (подразделение)\"\n      - cell:\n        - button:\n        - button:\n    - row \"Контроллер 1 16.02.2026 09:55:07 Активна Клиент (подразделение)\":\n      - cell \"Контроллер 1\"\n      - cell \"16.02.2026 09:55:07\"\n      - cell \"Активна\"\n      - cell \"Клиент (подразделение)\"\n      - cell:\n        - button:\n        - button:\n    - row \"Пенза 16.02.2026 09:54:52 Активна Главная\":\n      - cell \"Пенза\"\n      - cell \"16.02.2026 09:54:52\"\n      - cell \"Активна\"\n      - cell \"Главная\"\n      - cell:\n        - button:\n        - button:\n    - row \"Текст ГК 16.02.2026 09:32:43 Активна Нефтетрейдер\":\n      - cell \"Текст ГК\"\n      - cell \"16.02.2026 09:32:43\"\n      - cell \"Активна\"\n      - cell \"Нефтетрейдер\"\n      - cell:\n        - button:\n        - button:\n- generic: Rows per page\n- combobox \"Rows per page\": \"10\"\n- textbox: \"10\"\n- generic: 1-10 of 13\n- generic \"Go to previous page\":\n  - button \"Go to previous page\" [disabled]:\n- generic \"Go to next page\":\n  - button \"Go to next page\":\n- contentinfo:\n  - text: Онлайн сервис для управления топливом benzamat ПРО..\n  - link \"Политика обработки персональных данных.\":\n    - /url: /files/personal_data_pro.pdf\n  - link \"Свидетельство на ПО.\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610388&TypeFile=html\n  - link \"Свидетельство на ТЗ\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=RUTM&DocNumber=770581&TypeFile=html"
+}

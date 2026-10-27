@@ -1,0 +1,786 @@
+{
+  "rightScrollbarWidth": 0,
+  "targets": [
+    {
+      "height": 70,
+      "selector": "#navbar-brand-box-hide > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 34.65625,
+      "selector": "#react-aria2390243602-\\:r0\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1706.666748046875,
+      "y": 25
+    },
+    {
+      "height": 34.65625,
+      "selector": "#react-aria2390243602-\\:r1\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1756.666748046875,
+      "y": 25
+    },
+    {
+      "height": 34.65625,
+      "selector": "#react-aria2390243602-\\:r2\\:",
+      "tag": "BUTTON",
+      "target": "5",
+      "width": 42,
+      "x": 1806.666748046875,
+      "y": 25
+    },
+    {
+      "height": 35.989585876464844,
+      "selector": "#react-aria2390243602-\\:r3\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 43.33333587646485,
+      "x": 1856.666748046875,
+      "y": 25
+    },
+    {
+      "height": 70,
+      "selector": "#page-topbar > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 38.35416793823242,
+      "selector": "#button-hide-menu",
+      "tag": "BUTTON",
+      "target": "Свернуть меню",
+      "width": 149.4166717529297,
+      "x": 50.29166793823242,
+      "y": 80
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#main-point > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Главная",
+      "width": 250,
+      "x": 0,
+      "y": 134.3541717529297
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#company",
+      "tag": "A",
+      "target": "Компании",
+      "width": 250,
+      "x": 0,
+      "y": 215.98959350585935
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#stations",
+      "tag": "A",
+      "target": "Станции",
+      "width": 250,
+      "x": 0,
+      "y": 255.625
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#controllers",
+      "tag": "A",
+      "target": "Контроллеры (ТРК)",
+      "width": 250,
+      "x": 0,
+      "y": 295.26043701171875
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#users",
+      "tag": "A",
+      "target": "Пользователи",
+      "width": 250,
+      "x": 0,
+      "y": 334.8958435058594
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#transports",
+      "tag": "A",
+      "target": "Транспорт",
+      "width": 250,
+      "x": 0,
+      "y": 374.53125
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#alrts",
+      "tag": "A",
+      "target": "Оповещения",
+      "width": 250,
+      "x": 0,
+      "y": 414.1666870117187
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Поступление ГСМ",
+      "width": 250,
+      "x": 0,
+      "y": 453.8020935058594
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Автоотчеты",
+      "width": 250,
+      "x": 0,
+      "y": 493.4375
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Аналитика",
+      "width": 250,
+      "x": 0,
+      "y": 533.0729370117188
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(13) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление доступом",
+      "width": 250,
+      "x": 0,
+      "y": 614.7083740234375
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(14) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление входом",
+      "width": 250,
+      "x": 0,
+      "y": 654.34375
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(15) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "benzamat Оплата",
+      "width": 250,
+      "x": 0,
+      "y": 693.9791870117188
+    },
+    {
+      "height": 24,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "tag": "H2",
+      "target": "Контроллеры 2",
+      "width": 132.95834350585938,
+      "x": 286,
+      "y": 99.92708587646484
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Действия с контроллерами",
+      "width": 203.0416717529297,
+      "x": 1680.9583740234375,
+      "y": 94
+    },
+    {
+      "height": 30.6875,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Добавить контроллер",
+      "width": 181.6666717529297,
+      "x": 1680.9583740234375,
+      "y": 137.8541717529297
+    },
+    {
+      "height": 30.6875,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "Обновить список",
+      "width": 181.6666717529297,
+      "x": 1680.9583740234375,
+      "y": 168.5416717529297
+    },
+    {
+      "height": 41.16666793823242,
+      "selector": "#uncontrolled-tab-example-tab-controllers",
+      "tag": "BUTTON",
+      "target": "Контроллеры",
+      "width": 128.125,
+      "x": 286,
+      "y": 153.8541717529297
+    },
+    {
+      "height": 220.4375,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1)",
+      "tag": "TABLE",
+      "target": "Действия 0 GSM 0 Лицензия до 0 Успешный опрос 0 Название 0 ID контроллера 0 Настройки 0 Автоопрос 0 Версия ПО 0 Компания 0 Станция 0 Неизвестно 01.01.0001 00:00 Пенза 2 05D7FF39 38334642 57115021 Считаны Включено Неизвестно Тестируем сервис (ГК) Резервуар №1 31.12.2029 00:00 (1176 дней) 07.10.2026 14:58 Пенза 33481F76 03373931 5235364C Считаны Откл",
+      "width": 1574,
+      "x": 286,
+      "y": 196.02084350585935
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 385.21875,
+      "y": 205.0625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r4c\\:",
+      "tag": "INPUT",
+      "target": "Filter by Действия",
+      "width": 112,
+      "x": 300,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 28.80000877380371,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.799968719482425,
+      "x": 421.60003662109375,
+      "y": 233.6208343505859
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 532.125,
+      "y": 205.0625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r4i\\:",
+      "tag": "INPUT",
+      "target": "Filter by GSM",
+      "width": 80,
+      "x": 480,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 28.80000877380371,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.799968719482425,
+      "x": 569.6000366210938,
+      "y": 233.6208343505859
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 708.9791870117188,
+      "y": 205.0625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r4o\\:",
+      "tag": "INPUT",
+      "target": "Filter by Лицензия до",
+      "width": 112,
+      "x": 600,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 28.80000877380371,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.799968719482425,
+      "x": 721.6000366210938,
+      "y": 233.6208343505859
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 902,
+      "y": 205.0625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r4u\\:",
+      "tag": "INPUT",
+      "target": "Filter by Успешный опрос",
+      "width": 112,
+      "x": 780,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 28.80000877380371,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.799968719482425,
+      "x": 901.6000366210938,
+      "y": 233.6208343505859
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1046.7708740234375,
+      "y": 205.0625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r54\\:",
+      "tag": "INPUT",
+      "target": "Filter by Название",
+      "width": 112,
+      "x": 960,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 28.80000877380371,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.799968719482425,
+      "x": 1081.60009765625,
+      "y": 233.6208343505859
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1267.1875,
+      "y": 205.0625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r5a\\:",
+      "tag": "INPUT",
+      "target": "Filter by ID контроллера",
+      "width": 232,
+      "x": 1140,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 28.80000877380371,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.80013084411621,
+      "x": 1381.5999755859375,
+      "y": 233.6208343505859
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(7) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1535.197998046875,
+      "y": 205.0625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r5g\\:",
+      "tag": "INPUT",
+      "target": "Filter by Настройки",
+      "width": 112,
+      "x": 1440,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 28.80000877380371,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(7) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.80013084411621,
+      "x": 1561.5999755859375,
+      "y": 233.6208343505859
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Column Actions",
+      "width": 32,
+      "x": 1714.1146240234375,
+      "y": 205.0625
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r5m\\:",
+      "tag": "INPUT",
+      "target": "Filter by Автоопрос",
+      "width": 112,
+      "x": 1620,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 28.80000877380371,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(8) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Clear filter",
+      "width": 28.80013084411621,
+      "x": 1741.5999755859375,
+      "y": 233.6208343505859
+    },
+    {
+      "height": 32,
+      "selector": "#\\:r5s\\:",
+      "tag": "INPUT",
+      "target": "Filter by Версия ПО",
+      "width": 112,
+      "x": 1800,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 180,
+      "x": 286,
+      "y": 271.0833435058594
+    },
+    {
+      "height": 28.05208396911621,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 35.333335876464844,
+      "x": 318,
+      "y": 293.0625
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 120,
+      "x": 466,
+      "y": 271.0833435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "Неизвестно",
+      "width": 180,
+      "x": 586,
+      "y": 271.0833435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "01.01.0001 00:00",
+      "width": 180,
+      "x": 766,
+      "y": 271.0833435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "Пенза 2",
+      "width": 180,
+      "x": 946,
+      "y": 271.0833435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(6)",
+      "tag": "TD",
+      "target": "05D7FF39 38334642 57115021",
+      "width": 300,
+      "x": 1126,
+      "y": 271.0833435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(7)",
+      "tag": "TD",
+      "target": "Считаны",
+      "width": 180,
+      "x": 1426,
+      "y": 271.0833435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1) > td:nth-of-type(8)",
+      "tag": "TD",
+      "target": "Включено",
+      "width": 180,
+      "x": 1606,
+      "y": 271.0833435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 180,
+      "x": 286,
+      "y": 343.7708435058594
+    },
+    {
+      "height": 28.05208396911621,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 35.333335876464844,
+      "x": 318,
+      "y": 365.75
+    },
+    {
+      "height": 28.05208396911621,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(1) > button:nth-of-type(2)",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 35.333335876464844,
+      "x": 369.3333435058594,
+      "y": 365.75
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(2)",
+      "tag": "TD",
+      "target": "TD",
+      "width": 120,
+      "x": 466,
+      "y": 343.7708435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(3)",
+      "tag": "TD",
+      "target": "31.12.2029 00:00 (1176 дней)",
+      "width": 180,
+      "x": 586,
+      "y": 343.7708435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(4)",
+      "tag": "TD",
+      "target": "07.10.2026 14:58",
+      "width": 180,
+      "x": 766,
+      "y": 343.7708435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(5)",
+      "tag": "TD",
+      "target": "Пенза",
+      "width": 180,
+      "x": 946,
+      "y": 343.7708435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(6)",
+      "tag": "TD",
+      "target": "33481F76 03373931 5235364C",
+      "width": 300,
+      "x": 1126,
+      "y": 343.7708435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(7)",
+      "tag": "TD",
+      "target": "Считаны",
+      "width": 180,
+      "x": 1426,
+      "y": 343.7708435058594
+    },
+    {
+      "height": 72.6875,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2) > td:nth-of-type(8)",
+      "tag": "TD",
+      "target": "Отключено",
+      "width": 180,
+      "x": 1606,
+      "y": 343.7708435058594
+    },
+    {
+      "height": 23,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Rows per page",
+      "width": 109.57292175292967,
+      "x": 1538.041748046875,
+      "y": 449.2916870117187
+    },
+    {
+      "height": 29,
+      "selector": "#mrt-rows-per-page-\\:r48\\:",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 42.10416793823242,
+      "x": 1655.6146240234375,
+      "y": 447.7916870117187
+    },
+    {
+      "height": 34,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Go to previous page",
+      "width": 34,
+      "x": 1784,
+      "y": 443.7916870117187
+    },
+    {
+      "height": 34,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Go to next page",
+      "width": 34,
+      "x": 1818,
+      "y": 443.7916870117187
+    },
+    {
+      "height": 17.33333396911621,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Политика обработки персональных данных.",
+      "width": 304.1458435058594,
+      "x": 683.0625,
+      "y": 1042
+    },
+    {
+      "height": 17.33333396911621,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "Свидетельство на ПО.",
+      "width": 150.6041717529297,
+      "x": 991.53125,
+      "y": 1042
+    },
+    {
+      "height": 17.33333396911621,
+      "selector": "#root > div:nth-of-type(2) > footer:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+      "tag": "A",
+      "target": "Свидетельство на ТЗ",
+      "width": 142.08334350585938,
+      "x": 1146.4583740234375,
+      "y": 1042
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 152,
+      "x": 300,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 120,
+      "x": 480,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 152,
+      "x": 600,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 152,
+      "x": 780,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(5) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 152,
+      "x": 960,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(6) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 272,
+      "x": 1140,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(7) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 152,
+      "x": 1440,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1) > th:nth-of-type(8) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 152,
+      "x": 1620,
+      "y": 232.02084350585935
+    },
+    {
+      "height": 32,
+      "selector": "#uncontrolled-tab-example-tabpane-controllers > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "10",
+      "width": 42.10416793823242,
+      "x": 1655.6146240234375,
+      "y": 444.7916870117187
+    }
+  ],
+  "viewport": {
+    "height": 1080,
+    "width": 1920
+  },
+  "source": "source/menu.jpg",
+  "url": "https://pro.benza.online/controllers",
+  "dom": "- region \"Notifications Alt+T\"\n- banner:\n  - banner:\n    - link:\n      - /url: /\n    - generic: По всем возникающим вопросам и неполадкам сообщайте нашей технической поддержке тел. (8412) 45-41-14\n    - button:\n    - button:\n    - button \"5\":\n      - generic: \"5\"\n    - button:\n  - link:\n    - /url: /\n- button \"Свернуть меню\":\n  - text: Свернуть меню\n- list:\n  - link \"Главная\":\n    - /url: /dashboard\n    - text: Главная\n  - listitem: ОБЩИЙ ФУНКЦИОНАЛ\n  - link \"Компании\":\n    - /url: /companies\n    - text: Компании\n  - link \"Станции\":\n    - /url: /stations\n    - text: Станции\n  - link \"Контроллеры (ТРК)\":\n    - /url: /controllers\n    - text: Контроллеры (ТРК)\n  - link \"Пользователи\":\n    - /url: /users\n    - text: Пользователи\n  - link \"Транспорт\":\n    - /url: /transports\n    - text: Транспорт\n  - link \"Оповещения\":\n    - /url: /alerts\n    - text: Оповещения\n  - link \"Поступление ГСМ 󰅀\":\n    - /url: /fuel-intake\n    - text: Поступление ГСМ 󰅀\n  - link \"Автоотчеты 󰅀\":\n    - /url: /\n    - text: Автоотчеты 󰅀\n  - link \"Аналитика 󰅀\":\n    - /url: /\n    - text: Аналитика 󰅀\n  - listitem: АДМИНИСТРИРОВАНИЕ\n  - link \"Управление доступом 󰅀\":\n    - /url: /\n    - text: Управление доступом 󰅀\n  - link \"Управление входом\":\n    - /url: /security/tokens\n    - text: Управление входом\n  - link \"benzamat Оплата\":\n    - /url: https://pay.benza.online\n    - text: benzamat Оплата\n- heading \"Контроллеры 2\" [level=2]:\n  - text: Контроллеры\n  - generic: \"2\"\n- button \"Действия с контроллерами\" [expanded] [active]\n- button \"Добавить контроллер\"\n- button \"Обновить список\"\n- tablist:\n  - tab \"Контроллеры\" [selected]\n- tabpanel \"Контроллеры\":\n  - table:\n    - rowgroup:\n      - row \"Действия Sort by Действия descending Column Actions GSM Sort by GSM descending Column Actions Лицензия до Sort by Лицензия до ascending Column Actions Успешный опрос Sort by Успешный опрос ascending Column Actions Название Sort by Название ascending Column Actions ID контроллера Sort by ID контроллера ascending Column Actions Настройки Sort by Настройки descending Column Actions Автоопрос Sort by Автоопрос descending Column Actions Версия ПО Sort by Версия ПО ascending Column Actions Компания Sort by Компания ascending Column Actions Станция Sort by Станция ascending Column Actions\":\n        - columnheader \"Действия Sort by Действия descending Column Actions\":\n          - generic: Действия\n          - generic \"Sort by Действия descending\":\n            - button \"Sort by Действия descending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by Действия\"\n        - columnheader \"GSM Sort by GSM descending Column Actions\":\n          - generic: GSM\n          - generic \"Sort by GSM descending\":\n            - button \"Sort by GSM descending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by GSM\"\n        - columnheader \"Лицензия до Sort by Лицензия до ascending Column Actions\":\n          - generic: Лицензия до\n          - generic \"Sort by Лицензия до ascending\":\n            - button \"Sort by Лицензия до ascending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by Лицензия до\"\n        - columnheader \"Успешный опрос Sort by Успешный опрос ascending Column Actions\":\n          - generic: Успешный опрос\n          - generic \"Sort by Успешный опрос ascending\":\n            - button \"Sort by Успешный опрос ascending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by Успешный опрос\"\n        - columnheader \"Название Sort by Название ascending Column Actions\":\n          - generic: Название\n          - generic \"Sort by Название ascending\":\n            - button \"Sort by Название ascending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by Название\"\n        - columnheader \"ID контроллера Sort by ID контроллера ascending Column Actions\":\n          - generic: ID контроллера\n          - generic \"Sort by ID контроллера ascending\":\n            - button \"Sort by ID контроллера ascending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by ID контроллера\"\n        - columnheader \"Настройки Sort by Настройки descending Column Actions\":\n          - generic: Настройки\n          - generic \"Sort by Настройки descending\":\n            - button \"Sort by Настройки descending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by Настройки\"\n        - columnheader \"Автоопрос Sort by Автоопрос descending Column Actions\":\n          - generic: Автоопрос\n          - generic \"Sort by Автоопрос descending\":\n            - button \"Sort by Автоопрос descending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by Автоопрос\"\n        - columnheader \"Версия ПО Sort by Версия ПО ascending Column Actions\":\n          - generic: Версия ПО\n          - generic \"Sort by Версия ПО ascending\":\n            - button \"Sort by Версия ПО ascending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by Версия ПО\"\n        - columnheader \"Компания Sort by Компания ascending Column Actions\":\n          - generic: Компания\n          - generic \"Sort by Компания ascending\":\n            - button \"Sort by Компания ascending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by Компания\"\n        - columnheader \"Станция Sort by Станция ascending Column Actions\":\n          - generic: Станция\n          - generic \"Sort by Станция ascending\":\n            - button \"Sort by Станция ascending\":\n            - generic: \"0\"\n          - button \"Column Actions\":\n          - textbox \"Filter by Станция\"\n    - rowgroup:\n      - row \"Неизвестно 01.01.0001 00:00 Пенза 2 05D7FF39 38334642 57115021 Считаны Включено Неизвестно Тестируем сервис (ГК) Резервуар №1\":\n        - cell:\n          - button:\n        - cell:\n        - cell \"Неизвестно\"\n        - cell \"01.01.0001 00:00\"\n        - cell \"Пенза 2\"\n        - cell \"05D7FF39 38334642 57115021\"\n        - cell \"Считаны\":\n          - generic: Считаны\n        - cell \"Включено\":\n          - generic: Включено\n        - cell \"Неизвестно\"\n        - cell \"Тестируем сервис (ГК)\"\n        - cell \"Резервуар №1\"\n      - row \"31.12.2029 00:00 (1176 дней) 07.10.2026 14:58 Пенза 33481F76 03373931 5235364C Считаны Отключено 3.14.35 Тестируем сервис (ГК) Резервуар №2\":\n        - cell:\n          - button:\n          - button:\n        - cell:\n        - cell \"31.12.2029 00:00 (1176 дней)\"\n        - cell \"07.10.2026 14:58\"\n        - cell \"Пенза\"\n        - cell \"33481F76 03373931 5235364C\"\n        - cell \"Считаны\":\n          - generic: Считаны\n        - cell \"Отключено\":\n          - generic: Отключено\n        - cell \"3.14.35\"\n        - cell \"Тестируем сервис (ГК)\"\n        - cell \"Резервуар №2\"\n  - generic: Rows per page\n  - combobox \"Rows per page\": \"10\"\n  - textbox: \"10\"\n  - generic: 1-2 of 2\n  - generic \"Go to previous page\":\n    - button \"Go to previous page\" [disabled]:\n  - generic \"Go to next page\":\n    - button \"Go to next page\" [disabled]:\n- contentinfo:\n  - text: Онлайн сервис для управления топливом benzamat ПРО..\n  - link \"Политика обработки персональных данных.\":\n    - /url: /files/personal_data_pro.pdf\n  - link \"Свидетельство на ПО.\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610388&TypeFile=html\n  - link \"Свидетельство на ТЗ\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=RUTM&DocNumber=770581&TypeFile=html"
+}

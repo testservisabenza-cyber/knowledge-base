@@ -1,0 +1,287 @@
+{
+  "version": 1,
+  "manifestHash": "862ad05e9bfdf9438706a7585c61af003e8998472bf77959f696d6e113a1d70b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-section-controller-conflict",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "station-sections-tab-existing.svg",
+      "sourceHash": "6fe86c599d76a2275c9300b33cae52c25cc2e30e54da5fc08799e456dee1c879",
+      "svgHash": "86a327285ee392f030e4cf3b6c0db953329714198e62ef129be83ffa7ffcf803",
+      "stepText": "В карточке станции откройте вкладку «Секции».",
+      "stepTextHash": "ab7814f62f8d17576a205ddc8cf1d29ea2122e93a59f2c132feb42b5a1653f31",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Секции (472, 140, 84x42). Стрелки: к рамке 0: точно в угол bottom-right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-sections-edit-existing.svg",
+      "sourceHash": "6fe86c599d76a2275c9300b33cae52c25cc2e30e54da5fc08799e456dee1c879",
+      "svgHash": "f56832ef1455f8e546ebc43495dbb56ce17ab277831da4e901f37ba65fe5303d",
+      "stepText": "Нажмите карандаш в строке нужной секции.",
+      "stepTextHash": "69973b721482239301ded6a5c7304f72bc203e1558012850140b35ead2c1b3a4",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Карандаш Тестсекция (1614, 435, 36x28). Стрелки: к рамке 0: точно в угол bottom-right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "station-section-gauge-selected.svg",
+      "sourceHash": "320495d7579b9bd98ae88f7d11db6a53c07b2850fb7c97576e677373298d91be",
+      "svgHash": "b89177872788a0c3055f66d36c17225a63a4a701c8a1315d3ec4e418c00ff8d6",
+      "stepText": "В поле «Уровнемер» выберите прибор нужного контроллера.",
+      "stepTextHash": "540f3f5b662bd8fb43fc8284b309d6a73d40f8f9e8c1454aaae359f314f03284",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Уровнемер (1524, 264, 392x68). Стрелок нет, состояние и поля показаны рамками. Белая форма: рамка по ширине панели с отступом от её границ; кнопка сохранения вне рамки полей."
+    },
+    {
+      "output": "station-section-existing-save.svg",
+      "sourceHash": "cc82fc315dabaa539d80901c7fcbc9c38e08f330fc675bb6248477647f78fb92",
+      "svgHash": "3dde8fa1949cbefc10d519c01b1435b63a80b7ebc0c5f4912372e64a6bc735ce",
+      "stepText": "Нажмите «Сохранить» внизу формы секции.",
+      "stepTextHash": "e53b95987a36432cf951bdc81035728e0f645319cbf7dd4335860cecd9cb3e5f",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Сохранить привязку секции (1537, 1006, 91x37). Стрелки: к рамке 0: прямая к стороне left; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "controller-section-tab.svg",
+      "sourceHash": "96f2a3885246d4c8bf7ce8d395c1c6102407a51dfc37a6d18fad302e414c1617",
+      "svgHash": "807b5c1403ff2c3a3fec26c28433882c65b7143a1f2222340cbd334ed8031199",
+      "stepText": "В его настройках откройте «Секции» и проверьте, есть ли нужная секция в таблице. Если она уже есть, переходите к шагу с выбором уровнемера в форме секции.",
+      "stepTextHash": "66ae85061de586ebaac3caecfcd9703721cc0db58c3f0ffc4a2a9c9df1be8f86",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Секции контроллера (286, 245, 382x40). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "controller-section-add.svg",
+      "sourceHash": "96f2a3885246d4c8bf7ce8d395c1c6102407a51dfc37a6d18fad302e414c1617",
+      "svgHash": "72d30a52b69f34ada14b3965dd855f112acbec859929bc9074f15897bec72f63",
+      "stepText": "Если секции в таблице нет, нажмите «Добавить секцию».",
+      "stepTextHash": "f36979b416a76e3eef1463d1ce1007242f67a5a8cf0f52c79f3a3ebdce539d4e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Добавить секцию (692, 205, 132x37). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "controller-section-choice.svg",
+      "sourceHash": "483959925270ba1893b805b548bf87f5c680929e596910e1a7174beeac319a93",
+      "svgHash": "932932cea2148f7d87ac4304a0ef5452fac029bed99c0cd01c6d5e6496fb9501",
+      "stepText": "Выберите нужную секцию в форме «Добавление секций».",
+      "stepTextHash": "b5590031a2eefc2e54e9409f4b5bccd73f1adefe16239aefd06d99361a4f597f",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Поле Секции и раскрытый список (1524, 98, 392x121). Стрелок нет, состояние и поля показаны рамками. Белая форма: рамка по ширине панели с отступом от её границ; кнопка сохранения вне рамки полей."
+    },
+    {
+      "output": "controller-section-form-save.svg",
+      "sourceHash": "ca33bc37133905059dc8835df61ca5ea8d3fab70df33c6c5864536bea1d45b92",
+      "svgHash": "acca31946d2a6908cac70917e5a839ff661c0b8ab09b0d082ca4ed73e75ce20a",
+      "stepText": "Нажмите «Сохранить» в форме «Добавление секций».",
+      "stepTextHash": "2148e894e0cdcc3ad83e4c9ac024608427d3fc0c5a9fa62751aa27acef14f635",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Сохранить привязку секции (1537, 182, 91x37). Стрелки: к рамке 0: прямая к стороне left; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "controller-section-row.svg",
+      "sourceHash": "c2baa80ee544aef360b9d6d236c0449ac8727914fc54f00c320dc36bdf2f54a1",
+      "svgHash": "d78b31cf365d400b2a9c6a398b29c9f0254b09171fa7a4dc6e2c2a4715eba3da",
+      "stepText": "В «Настройки» → «Секции» найдите связь с нужной секцией. На снимке для примера показана «Секция 1».",
+      "stepTextHash": "d486f67cb5c5cb15f7575085adea9a636cdf802ca9f85466a6fb52ede2d42d40",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Секция 1 в настройках контроллера (692, 305, 1192x55). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "controller-section-delete.svg",
+      "sourceHash": "c2baa80ee544aef360b9d6d236c0449ac8727914fc54f00c320dc36bdf2f54a1",
+      "svgHash": "e6788efd533fbe742e96eaeca524b21cce35b4df11a434252ff76cd2cf972884",
+      "stepText": "Нажмите красную кнопку с корзиной в строке лишней связи. После удаления эта секция больше не будет привязана к данному контроллеру.",
+      "stepTextHash": "6d0474e588a97558f1314fe70525b01d79b77956cbb73d8a6476565c63427df1",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Удалить связь секции с контроллером (1300, 317, 38x30). Стрелки: к рамке 0: точно в угол bottom-left; проходят вне подписей и соседних кнопок."
+    },
+    {
+      "output": "controller-list.svg",
+      "sourceHash": "0f303d0bf16ad83ad261bcab4a646ba2286e2e7c6868ed37f09947371d1f5f29",
+      "svgHash": "04e34ed97af98242c944aee3616a14ecdee33827348c28749eb2d8a6dc0e1b83",
+      "stepText": "В разделе «Контроллеры (ТРК)» найдите контроллер, связь которого с секцией нужно убрать. Сверьте название и ID в его строке.",
+      "stepTextHash": "f798a5482611b82b45d380bd79ba05bc7b556f73fe4d7f86373d366b4c25b71a",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Контроллер Пенза (286, 345, 1574x73); 1: Пустой фильтр названия (960, 233, 112x32). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "controller-open.svg",
+      "sourceHash": "0f303d0bf16ad83ad261bcab4a646ba2286e2e7c6868ed37f09947371d1f5f29",
+      "svgHash": "7337f9c5b9cdd37bcafc074c039f0845832d16aad4772fd05b702beb7761e2f8",
+      "stepText": "Нажмите стрелку в строке этого контроллера, чтобы открыть его настройки.\n\nВ общем списке откройте карточку контроллера, уровнемер которого должен измерять эту секцию.",
+      "stepTextHash": "4f0f8b9472e2d602fcdb1fe279c6b3f9b230dd17ac3e011d15f8f6194e855bb0",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Открыть контроллер Пенза (370, 367, 36x28). Стрелки: к рамке 0: прямая к стороне right; проходят вне подписей и соседних кнопок."
+    }
+  ],
+  "inspectedAt": "2026-10-08",
+  "inspectionEnvironment": "Individual clean sources and complete SVGs: 1920x1080. Article viewport: 1920x889; both themes, background choices, step navigation, 125% image zoom and PNG clipboard inspected. Original dark theme and background restored."
+}

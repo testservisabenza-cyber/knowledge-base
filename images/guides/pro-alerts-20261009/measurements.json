@@ -1,0 +1,282 @@
+{
+  "list-empty": {
+    "source": "source/list-empty.png",
+    "sourceUrl": "https://pro.benza.online/alerts",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 39.640625,
+        "selector": "a#alrts",
+        "target": "Меню Оповещения",
+        "width": 250,
+        "x": 0,
+        "y": 414.875
+      },
+      {
+        "height": 175.390625,
+        "selector": "table",
+        "target": "Таблица оповещений",
+        "width": 1574,
+        "x": 286,
+        "y": 154.53125
+      },
+      {
+        "height": 34.671875,
+        "selector": "button.btn-primary",
+        "target": "Добавить",
+        "width": 42,
+        "x": 1706,
+        "y": 24.65625
+      }
+    ]
+  },
+  "channel-open": {
+    "source": "source/channel-open.png",
+    "sourceUrl": "https://pro.benza.online/alerts",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 121.21875,
+        "selector": ".offcanvas form > .mb-3:nth-child(2), .select__menu",
+        "target": "Каналы и весь раскрытый список",
+        "width": 367,
+        "x": 1537,
+        "y": 180.140625
+      }
+    ]
+  },
+  "event-open": {
+    "source": "source/event-open.png",
+    "sourceUrl": "https://pro.benza.online/alerts",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 375.609375,
+        "selector": ".offcanvas form > .mb-3:nth-child(3), .select__menu",
+        "target": "События и раскрытый список",
+        "width": 367,
+        "x": 1537,
+        "y": 263.75
+      }
+    ]
+  },
+  "filled": {
+    "source": "source/filled.png",
+    "sourceUrl": "https://pro.benza.online/alerts",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 66.140625,
+        "selector": ".offcanvas form > .mb-3:nth-child(1)",
+        "target": "Описание",
+        "width": 367,
+        "x": 1537,
+        "y": 98
+      },
+      {
+        "height": 67.609375,
+        "selector": ".offcanvas form > .mb-3:nth-child(2)",
+        "target": "Каналы",
+        "width": 367,
+        "x": 1537,
+        "y": 180.140625
+      },
+      {
+        "height": 67.609375,
+        "selector": ".offcanvas form > .mb-3:nth-child(3)",
+        "target": "События",
+        "width": 367,
+        "x": 1537,
+        "y": 263.75
+      },
+      {
+        "height": 68.65625,
+        "selector": ".offcanvas form > .mb-3:nth-child(4)",
+        "target": "Почты",
+        "width": 367,
+        "x": 1537,
+        "y": 347.359375
+      },
+      {
+        "height": 36.53125,
+        "selector": ".offcanvas button[type=submit]",
+        "target": "Сохранить",
+        "width": 91.28125,
+        "x": 1537,
+        "y": 432.015625
+      }
+    ]
+  },
+  "list": {
+    "source": "source/list.png",
+    "sourceUrl": "https://pro.benza.online/alerts",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 39.640625,
+        "selector": "a#alrts",
+        "target": "Меню Оповещения",
+        "width": 250,
+        "x": 0,
+        "y": 414.875
+      },
+      {
+        "height": 136.453125,
+        "selector": "table",
+        "target": "Таблица правил",
+        "width": 1574,
+        "x": 286,
+        "y": 154.53125
+      },
+      {
+        "height": 36.53125,
+        "selector": ".page-title-right button",
+        "target": "Добавить",
+        "width": 83.5,
+        "x": 1800.5,
+        "y": 94
+      },
+      {
+        "height": 61.0625,
+        "selector": "tbody tr",
+        "target": "Сохранённое правило",
+        "width": 1574,
+        "x": 286,
+        "y": 229.921875
+      },
+      {
+        "height": 28.0625,
+        "selector": "tbody tr button:nth-child(1)",
+        "target": "Редактировать правило",
+        "width": 36,
+        "x": 1490.5,
+        "y": 245.921875
+      },
+      {
+        "height": 28.0625,
+        "selector": "tbody tr button:nth-child(2)",
+        "target": "Удалить правило",
+        "width": 36,
+        "x": 1534.5,
+        "y": 245.921875
+      }
+    ]
+  },
+  "edit": {
+    "source": "source/edit.png",
+    "sourceUrl": "https://pro.benza.online/alerts",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 370.546875,
+        "selector": ".offcanvas form",
+        "target": "Поля редактирования",
+        "width": 367,
+        "x": 1537,
+        "y": 98
+      },
+      {
+        "height": 66.140625,
+        "selector": ".offcanvas form > .mb-3:nth-child(1)",
+        "target": "Описание",
+        "width": 367,
+        "x": 1537,
+        "y": 98
+      },
+      {
+        "height": 68.65625,
+        "selector": ".offcanvas form > .mb-3:nth-child(4)",
+        "target": "Последнее поле Почты",
+        "width": 367,
+        "x": 1537,
+        "y": 347.359375
+      },
+      {
+        "height": 36.53125,
+        "selector": ".offcanvas button[type=submit]",
+        "target": "Сохранить",
+        "width": 91.28125,
+        "x": 1537,
+        "y": 432.015625
+      }
+    ]
+  },
+  "bell": {
+    "source": "source/bell.png",
+    "sourceUrl": "https://pro.benza.online/alerts",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 34.671875,
+        "selector": "header button:has(svg.lucide-bell)",
+        "target": "Колокольчик",
+        "width": 42,
+        "x": 1806,
+        "y": 24.65625
+      }
+    ]
+  },
+  "inbox": {
+    "source": "source/inbox.png",
+    "sourceUrl": "https://pro.benza.online/notifications",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 41.5,
+        "selector": "[id$=\"-tab-usersNotifications\"]",
+        "target": "Пользовательские уведомления",
+        "width": 262.625,
+        "x": 274,
+        "y": 94
+      },
+      {
+        "height": 38.5,
+        "selector": "[id$=\"-tab-systemNotifications\"]",
+        "target": "Системные уведомления",
+        "width": 233.796875,
+        "x": 536.625,
+        "y": 94
+      },
+      {
+        "height": 148.421875,
+        "selector": "table",
+        "target": "Полученные пользовательские сообщения",
+        "width": 1598,
+        "x": 286,
+        "y": 160.5
+      }
+    ]
+  },
+  "system": {
+    "source": "source/system.png",
+    "sourceUrl": "https://pro.benza.online/notifications",
+    "background": "application",
+    "rightScrollbarWidth": 0,
+    "boxes": [
+      {
+        "height": 41.5,
+        "selector": "[id$=\"-tab-systemNotifications\"]",
+        "target": "Системные уведомления",
+        "width": 233.796875,
+        "x": 536.625,
+        "y": 94
+      },
+      {
+        "height": 367.515625,
+        "selector": ".tab-pane.active table",
+        "target": "Объявления сервиса",
+        "width": 1598,
+        "x": 286,
+        "y": 136.5
+      }
+    ]
+  }
+}

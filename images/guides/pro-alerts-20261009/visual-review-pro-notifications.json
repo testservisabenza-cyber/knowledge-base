@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "manifestHash": "99a317fff0d9504aa0ec314970326dd6a39e219ed52a0e2f497e794edf1d943b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-notifications",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "alerts-nav.svg",
+      "sourceHash": "3a9c29483d8fbe41310e364f71554b140dd505879d52fa8609f4fdd5471e3463",
+      "svgHash": "ec1d91ea3d8602a9f9df0afe45fce9b2f2b831bc9ee95b94955a8560228e4ce6",
+      "stepText": "В левом меню откройте «Оповещения».",
+      "stepTextHash": "7c0ac6cd373c964410fda3b55de307a1518cb15e2e149f5c367de3ba009d1d01",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Меню на всю ширину, короткая стрелка справа"
+    },
+    {
+      "output": "alerts-add.svg",
+      "sourceHash": "3a9c29483d8fbe41310e364f71554b140dd505879d52fa8609f4fdd5471e3463",
+      "svgHash": "d00932bb80c3a659634a649766d383ce10b0f806e1fcfe1dab3cc7bdb1320952",
+      "stepText": "Нажмите «Добавить» над таблицей. Справа откроется форма.",
+      "stepTextHash": "b3ff42f68146644535f5c713d32b1351f69a9b191a34e9ab79725859e6180a44",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Добавить: стрелка горизонтальная слева"
+    },
+    {
+      "output": "alerts-description.svg",
+      "sourceHash": "2479e011e64176c0716137eeca867f1dc033071f87ec4e911101f30d447765b9",
+      "svgHash": "78ff22fa280c6d616b973823a9d25c35e4e4e26d80094074084a447d5dc4c798",
+      "stepText": "В поле «Описание» дайте правилу понятное название, по которому вы найдёте его в списке. В форме допускается до 100 символов.\nОписание: Например, «Сигнальный порог компании». Это название настройки, а не текст письма.",
+      "stepTextHash": "91f03482eb799e4959c6e4cc0ce65dfac785379c8f9f0531c1ea93289b84dcd7",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Описание: рамка по ширине белой панели"
+    },
+    {
+      "output": "alerts-channel.svg",
+      "sourceHash": "ce47fe0c285460da3a858cb3b2a02e6d59b824c6b8bdc3ef0682ef8e96d0fb2d",
+      "svgHash": "afdf8e45b1357c8af5ec1997d236080215484084573fe7dbf50cc08ddabcd408",
+      "stepText": "В поле «Каналы» выберите «Электронная почта». Сейчас это доступный канал отправки.",
+      "stepTextHash": "0c5ddd5868700c5fef3ea499467e75bf347a2c76168a7d2015d12b9ff024a372",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Канал и раскрытый список одна рамка"
+    },
+    {
+      "output": "alerts-events.svg",
+      "sourceHash": "8171367b6d6554aa4ba41e9812a23d9aa0cc52a8a2da44310a84623aa3d672ed",
+      "svgHash": "c571f440477158c24248e050062b29339d0d298d83bbc8f84721a7ff1e29d750",
+      "stepText": "В поле «События» выберите причину уведомления. На снимке раскрыт список, в котором есть «События компании - Сигнальный порог». Для предупреждения о потере связи выберите «События контроллера - Нет связи у контроллера». Можно добавить несколько событий.",
+      "stepTextHash": "e3ebd4da573b0183f652c3c20c7d63217c627ed0ac395b927fea65f1b7590fbb",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: События и раскрытый список одна рамка, порог виден"
+    },
+    {
+      "output": "alerts-email.svg",
+      "sourceHash": "2479e011e64176c0716137eeca867f1dc033071f87ec4e911101f30d447765b9",
+      "svgHash": "b35c470751413f024234b78e4e002fba0f4814e9adb6a379e0c6eec662fa7728",
+      "stepText": "В поле «Почты» внесите рабочие адреса получателей. Завершайте каждый адрес клавишей Enter или пробелом: он должен появиться отдельной меткой. Адрес training@example.invalid на снимке — учебный пример; для доставки укажите настоящую почту.",
+      "stepTextHash": "d25aedae1f3117294bdbc76e7de5491903f7ebe725a28cf5876b1c45f82477a2",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 6: Почта отдельной меткой, рамка без стрелки"
+    },
+    {
+      "output": "alerts-save.svg",
+      "sourceHash": "2479e011e64176c0716137eeca867f1dc033071f87ec4e911101f30d447765b9",
+      "svgHash": "f7a94784f7a5c144940ea71623b5fb4af5db435f9f20418e471cfaffca49d7c6",
+      "stepText": "Нажмите «Сохранить» внизу формы.",
+      "stepTextHash": "643bf4b2c2f7ce0a4606e6ec4392fc51f1846be416694b7b3c9702a333772f3d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 7: Сохранить: собственная стрелка слева"
+    },
+    {
+      "output": "alerts-row.svg",
+      "sourceHash": "3a9c29483d8fbe41310e364f71554b140dd505879d52fa8609f4fdd5471e3463",
+      "svgHash": "113aaf4b4d46d278efbecf34ecd2f7a3847633ad1c409e81dc3f36b2d747d958",
+      "stepText": "Убедитесь, что правило появилось в таблице. В строке показаны его название, число каналов и число событий.",
+      "stepTextHash": "aeffbcd54d8afe45f1aa9e26c0eec442f0f3355b739d4345ac79b9ec6039b9b6",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 8: Реальная строка созданного правила обведена"
+    }
+  ]
+}

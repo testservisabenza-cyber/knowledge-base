@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "manifestHash": "25687762d34e1d5314273ea0b727cd3d0a58d80fc613298e53c3d95dcc684c4d",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-system-overview",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": false,
+    "backgroundModes": false,
+    "stepNavigation": false,
+    "imageZoom": false,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": false
+  },
+  "shots": [
+    {
+      "output": "pro-controller-20261011--list-working.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "9de8edee0ad558864fc0499afce7be39ca58c537f2d882a77247885335a2a0cb",
+      "stepText": "Контроллер и доступ к выдаче\nСвяжите контроллер со станцией и секциями, с которыми он работает. В карточке укажите, какие компании, пользователи и транспорт могут заправляться через него. В общем списке видны связь, срок услуги и время последнего обмена.",
+      "stepTextHash": "3905fa6124fcf1761e35419c7ddbdc5026df4055384e3c5e6585b99163c60403",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "pro-company-overview-20261008--companies-list.svg",
+      "sourceHash": "59276094da34a7da4db0813cf63de502faa43094a995a754d08926c0dcd0864e",
+      "svgHash": "0daa6ce2c25bd7c360ef9dff0edd5842b074d79283bf1f2cd09797c138665543",
+      "stepText": "Как устроена система\nКомпания объединяет связанные с ней объекты. Станция описывает резервуар, секция — его отдельный отсек. Контроллер управляет выдачей и передаёт данные в сервис.",
+      "stepTextHash": "af8599799182679b0c852cb6bf39482792ab980f744ebdfec973405eb471f97f",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "pro-company-overview-20261008--company-info.svg",
+      "sourceHash": "dd0937c3d031ae07a863e2a1c6b93b0b3dc802e33e898683f4fa00829e674edb",
+      "svgHash": "0081b12fdd5d6ca8d53f821cec1bdf52771edf5f5737a7a3463986b10bf0b629",
+      "stepText": "Компания\nГлавная компания хранит реквизиты организации и её лимит. В карточке находятся связанные станции, пользователи и клиентские компании. Для отдельной обслуживаемой организации создают клиентскую компанию.",
+      "stepTextHash": "fa1bba8870bbfecf47c2513d3d57a3152ce16690e18e999d6356a824be3f0438",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "pro-stations-20261008--station-sections-row.svg",
+      "sourceHash": "58f8a0845dd341bc3e90275d82a46bcb7270cad43fe457ca7799ed78a268e88f",
+      "svgHash": "743c666e6dcbbf40e18180a0fdd259f50b705d2b95f3c705b10b8bde4277b79d",
+      "stepText": "Станция и секции\nСтанция — это резервуар, а секция — его отдельный отсек. Для цельного резервуара создайте одну секцию, для разделённого — отдельную секцию для каждого отсека. Укажите для секции топливо и её характеристики.",
+      "stepTextHash": "8ab5e9710f69841d067ea6078b3941f2b6b6ed95a7cf4af05e55178d9acc39e7",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "pro-home-20261008--home.svg",
+      "sourceHash": "7abb02f825ddf98c7b1618c7232845eb2f1733e6f3ac20622da380342a5902b4",
+      "svgHash": "6475bdf2532f653f8b0d2e5f8934a868e492e8060a237f2be7483b879929fe08",
+      "stepText": "Где проверять результат\nНа главной странице смотрят карту, показания и сводки. В «Аналитике» проверяют отдельные операции и отчёты. Учитывайте время последнего опроса: при старых данных сервис ещё не получил новые показания с оборудования.",
+      "stepTextHash": "9fb04285522806b123fcde8f266b1a77bc1776d32dbfdfe742a0da3014ed938a",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    }
+  ]
+}

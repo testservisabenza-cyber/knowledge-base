@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "manifestHash": "aa5edab76e8853daa49eb3695a113b7521c88b486adf3aab5de19a14099bbe55",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-station-model",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": false,
+    "backgroundModes": false,
+    "stepNavigation": false,
+    "imageZoom": false,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": false
+  },
+  "shots": [
+    {
+      "output": "station-companies.svg",
+      "sourceHash": "8cdcf415933886276d6b02d9f94123ed4af033692eb11adf7c74782fc34a4862",
+      "svgHash": "67a8a6a4d83d341dff47e0344a207d6e024db598c84efccd73de6fc1c0db6ff8",
+      "stepText": "Контроллеры и доступ компаний\n«Контроллеры» показывает оборудование станции. Его связь, рукава, секции и уровнемеры определяют источник операций и показаний.\n«Компании» задаёт дополнительные организации, которым разрешена работа с объектом. Для обслуживания карт организацию также добавляют в соответствующий контроллер. Права пользователя только на объект «Станция» не дают автоматически доступ к контроллерам и их отчётам.",
+      "stepTextHash": "8e0792dc875c2e485b418a1574157258510f9b782d18caec61c4a1bbbe670d4c",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "station-fields.svg",
+      "sourceHash": "2946d2e27a31803faa123627876935ff7712ced0efe2cb4272a4821339481546",
+      "svgHash": "47b209ed776df6e5296ed642a2eebaa991032d042936158e412fda9c84298059",
+      "stepText": "Основная информация\nВо вкладке «Основная информация» хранятся название, компания, часовой пояс, описание, серийный номер, наряд-заказ и координаты. Название помогает различать резервуары; описание и номера — дополнительные сведения для учёта.\nКомпанию выбирают при создании, затем это поле недоступно для изменения. Перенос станции между компаниями требует обращения в техническую поддержку. Поля долготы и широты размещают объект на карте; дробную часть отделяют точкой.",
+      "stepTextHash": "d0f313188ca56fecff86d1650c5fccc76a4c25223a7069bf383f7b77991154fc",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "station-readings.svg",
+      "sourceHash": "9313e888932b7ccc7fdd9d5b9910c8631f860e46712c9b2298c5360537d29d11",
+      "svgHash": "610dec33ccbb3f1c6fcee2a47279b0fc86998ff49d7c1b27bba97b52c4ed21b7",
+      "stepText": "Сводка, история и удаление\nОкно «Данные по секциям» помогает сравнить полный, максимальный и текущий объём и заполненность. График в настройках отображает заполненность секций; история изменений относится к редактированию сведений станции.\nУдаление станции удаляет связанные секции, контроллеры и данные объекта. Для временного прекращения выдачи используют блокировку нужных пользователей или компании; поле активности станции не является работающим выключателем заправки.\nПосле изменений, относящихся к оборудованию, данные записывают в контроллер. Само сохранение сведений в сервисе не подтверждает применение на ТРК.",
+      "stepTextHash": "ba11a11bd4b0487ddd7201da60d1715958ced44306deb4180a9d0b8a4db9a637",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "stations-list.svg",
+      "sourceHash": "e08a00e4c90da6d1a8f91920e89977c96d1e01c026d605a037090d4ff2411713",
+      "svgHash": "b8cc532d152356e5a401e1de6835565fe2f935c8eaad656278d9c750ebcb559e",
+      "stepText": "Список станций и действия\nТаблица показывает название, описание, компанию и использование математического остатка. Фильтры под заголовками помогают найти объект; сортировка и пагинация меняют представление списка.\nВ строке кнопка с диаграммой открывает сводку данных по секциям, стрелка — настройки станции, корзина — удаление. «Добавить» создаёт новую станцию.",
+      "stepTextHash": "524b66641bbccaf2b44b9b9d49c2a0225c4edda5de81e79348205c15a8af1afd",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "station-timezone.svg",
+      "sourceHash": "8ebabfba33940f7cbe63e0ed663716039dd3bcb770a5d714389be78f8e13e9c2",
+      "svgHash": "3dde912582d5fb14d23b4e52799aef5a1a4e31884a6df6f58826ae1bb7da0f48",
+      "stepText": "Часовой пояс и вкладки\nЧасовой пояс задаётся как смещение относительно Москвы: 0 — московское время, 1 — на час позже, −1 — на час раньше. По нему устанавливают время на контроллерах этой станции при записи времени.\nИзменение пояса не исправляет даты уже сохранённых заправок. Во вкладках «Секции», «Контроллеры», «Компании» и «История изменений» находятся связанные отсеки, оборудование, доступ организаций и история редактирования.",
+      "stepTextHash": "0a259052458e0e2895ef91315e4bd84299a4b73a0517968132bd181680f54233",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "station-math.svg",
+      "sourceHash": "8ebabfba33940f7cbe63e0ed663716039dd3bcb770a5d714389be78f8e13e9c2",
+      "svgHash": "87b5200f4524f335d37e2593878b1e985970c11497f7b244c8850e6ccc2c3c1b",
+      "stepText": "Измеренный или математический остаток\n«Математический остаток — Не используется» означает работу с показаниями привязанного уровнемера. У показания важно проверять время получения: отсутствие связи не означает, что резервуар пуст.\n«Используется» включает расчёт по операциям: исходный остаток + поступления − выдачи. Поле «Остаток топлива» задаёт сверенное начальное или корректирующее значение. В этом режиме данные уровнемера не используются; прежняя привязка сохраняется, но скрывается.\nИзменение или удаление старого поступления не пересчитывает текущий математический остаток автоматически. После исправления журнала требуется сверка и при необходимости ручная корректировка. История таких корректировок остатка отдельно не ведётся.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по математическому остатку](/articles/pro-plan-station-math).",
+      "stepTextHash": "f4a8c9d2340fe12a4475ac0c8c8924830f3f0fd016b314cfae15ebc32439dd3a",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "station-sections.svg",
+      "sourceHash": "ad48586bcbd7f6aab76d099aa87415eba2ddb4b6758bf71ce9579be6823fe8f5",
+      "svgHash": "fd62d4772c1b7282368e4ea806922fe33a8be884530e6f42e74ca711c01b33c6",
+      "stepText": "Секции физического резервуара\nСекция — отдельный отсек внутри одного резервуара. У цельного резервуара достаточно одной секции; другой физический резервуар оформляют отдельной станцией.\nТаблица секций показывает название, топливо, полный и текущий объём, заполненность. Секция создаётся кнопкой «Добавление секции», а карандаш открывает её параметры. Удаление секций в сервисе не предусмотрено.",
+      "stepTextHash": "e18bab1e82513258190eb5adbd4ac27f7d09d02f6cd535a3188c1da2aa77d167",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "station-section-fields.svg",
+      "sourceHash": "5fa0a8c53f280d8c35d96fff7fae1a0d42f8a25b471bd3650d6d01c6a1447dd5",
+      "svgHash": "b8e422aeecd173a7dd2751b9831529a0f7c60d4536c9bac221b1a50fa207933a",
+      "stepText": "Параметры и уровнемер секции\nНазвание и топливо определяют отсек и его содержимое. Полный объём задаёт вместимость для отображения заполненности; текущий объём — количество топлива, а не ёмкость резервуара.\nВысота, минимальный и максимальный уровни являются сведениями о резервуаре. Не следует считать их автоматическим ограничением выдачи в ПРО. Максимальный объём в сводке берётся из градуировочных данных и может отличаться от полного.\nУровнемер привязывают к нужной секции при выключенном математическом остатке. Контроллер должен принадлежать станции, а секция — быть добавлена в настройки контроллера. Сигнальный порог требует отдельного правила оповещения.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по настройке оповещений](/articles/pro-notifications).",
+      "stepTextHash": "c1567ba755b4431cc0f52f418551844def580da2cc64e22a910a58ddff840037",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    }
+  ]
+}

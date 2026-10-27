@@ -1,0 +1,371 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-read-write",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».\n\nСнова откройте «Контроллеры (ТРК)» в левом меню.",
+      "stepTextHash": "1141d934e850baeaece979812ef19d44e558dbcec6f688c8c03f081a9d064735",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт меню по ширине, прямая стрелка; просмотрены шаги 1 и 6. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.\n\nОткройте карточку того же контроллера стрелкой. После повторного входа меню ручных операций обновится.",
+      "stepTextHash": "46475438aa470c954e189cbfa2c0852847a15fe7adaef3e91e0404e45ef8b3b5",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка второй строки выделена, соседняя корзина не затронута; шаги 2 и 7. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "list-poll.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "b7f232159947c4e37d4d00551509be9c71dc4e3edf205a10691ea08e0a0731a6",
+      "stepText": "В списке контроллеров проверьте, обновилось ли время «Успешный опрос».",
+      "stepTextHash": "e12d30841264baf555725f598be411f12ea7119a44a1aeb63c5f93e19a7e0b9a",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Дата успешного опроса выделена отдельно; шаг предлагает проверить обновление, не выдаёт старую дату за новый результат. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "main-autopoll.svg",
+      "sourceHash": "7a33687948df0718d9707fa149cec7f752f5fecd00df9d86a464838e4ed27198",
+      "svgHash": "5646078fe60e63bc7e19685b113af71635cb8f4ee2af93c09d903cee2a4c2aca",
+      "stepText": "В поле «Автоопрос включен» выберите «Нет».",
+      "stepTextHash": "88c8b8e7bd101096689b97d92d0238c2467e4c4d3dfeecf2de1cc9981877e992",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Поле Автоопрос включен со значением Нет. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "main.svg",
+      "sourceHash": "7a33687948df0718d9707fa149cec7f752f5fecd00df9d86a464838e4ed27198",
+      "svgHash": "f2c4df54e29ec93796508edc39c782868938b67e31a7018b42728db37886b2b8",
+      "stepText": "На вкладке «Настройки» откройте раздел «Основное».",
+      "stepTextHash": "6217497d14e2b02d37b98046a9bfd031ed010a773f6ee2fd7819accd53e6e64e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Основное с диагональю точно к нижнему правому углу. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "main-save.svg",
+      "sourceHash": "4966b9643d4cc3bdca3b0b32a3a1355003823fe03ba3cf4001f34c5c04e9d65a",
+      "svgHash": "c0b75c00cda09195e700e225d3bd6451c97ca04b7e0071646ca2b963eb799b7b",
+      "stepText": "Прокрутите форму вниз и нажмите «Сохранить».",
+      "stepTextHash": "a84abe7a14e93748a14be4c7d63c1e9e700fad9b26f79c345e7777bb7c8ce458",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Настоящий снимок после разрешённой прокрутки, левое меню сохранено; кнопка со стрелкой. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "operations-button.svg",
+      "sourceHash": "8243b7289e1b670096b12adea8d438d285f58935bf20c99a40232d790fd6d938",
+      "svgHash": "4ee615bf280c90ed186a1a92e29438c55007de4401c8faf772665e8b2f9c1448",
+      "stepText": "Откройте меню «Действия с контроллерами» в правом верхнем углу карточки.\n\nДля передачи изменений откройте меню «Действия с контроллерами».",
+      "stepTextHash": "2cfd8e57e13e68ad62160e970370f0b996f9a080796d883bad8bf10e94ae8d7d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка меню со стрелкой; оба использования просмотрены. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "operations-read.svg",
+      "sourceHash": "8243b7289e1b670096b12adea8d438d285f58935bf20c99a40232d790fd6d938",
+      "svgHash": "ad4ef13d4606e57a5e49110e8ea8b849d921ccfa3338a5060ef77cb6d9ca6c8c",
+      "stepText": "Если нужны свежие данные, выберите «Чтение данных с контроллера». Для одной только записи переходите к шагу с командой «Запись настроек в контроллер».",
+      "stepTextHash": "e7308999d117072fbfd74f7e7d286bc3b05def78fa03a48bef1da6444502ca45",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Команда чтения обведена со своей прямой стрелкой. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "operations-write.svg",
+      "sourceHash": "8243b7289e1b670096b12adea8d438d285f58935bf20c99a40232d790fd6d938",
+      "svgHash": "0e07f1b9a166fbbc33230f2f9fd820f5f717d423afb728d48abbf0d73a525e52",
+      "stepText": "Выберите «Запись настроек в контроллер». Если запись вам не нужна, на этом инструкция завершена.",
+      "stepTextHash": "6e63608de1394b637d61e7e62dc2e47e32fc953544f894fd306ef2d2f932c3e3",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Команда записи обведена со своей прямой стрелкой. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "read-journal.svg",
+      "sourceHash": "bf34caa3a5273bfff5232b8a4e8f0556b7152e8c0d89a3b930baa82f486d0f84",
+      "svgHash": "10cde2d56aeea28243b1051bf69a65e7d1456c5722b0a8e97bf3a754e5cf8ef4",
+      "stepText": "В окне чтения оставьте флажок «Считать журнал событий», если вместе с настройками нужны события оборудования.",
+      "stepTextHash": "16102111a8b055bd4dfc2119d5dfe66ea6cd74e6b273bb83f6e00461fadfa896",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка включает галочку и всю подпись журнала. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "read-start.svg",
+      "sourceHash": "bf34caa3a5273bfff5232b8a4e8f0556b7152e8c0d89a3b930baa82f486d0f84",
+      "svgHash": "b04ae4e3cbc693d89d057cb40324d0553e591d9efbd9dd7191c30dabc4746bbf",
+      "stepText": "Нажмите «Чтение данных» и дождитесь завершения операции.",
+      "stepTextHash": "d74224711e359652eac2f3158f2b4afc59cdec313b4979668ef974ad1aa41ee0",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Повторно просмотрена исправленная вертикальная стрелка снизу, не пересекает Отменить или подпись на фоне. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "write-settings.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "005dcebed52e587e2b78ee44a54bcbdec03a033393bc05a3fcc7fcce4284bbd6",
+      "stepText": "Оставьте «Записать настройки контроллера», если изменяли параметры в карточке.",
+      "stepTextHash": "fe9f5c5cdc74defd91df3539d5332bd0c8e067807ac3c9b12b5a3ca92bf6608e",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Галочка настроек вместе с подписью, соседняя строка исключена. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "write-time.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "b15c7928364cc7018bfd29496c23c17bf0fadb7a47da75f7d877944074b0926a",
+      "stepText": "Оставьте «Синхронизировать время на контроллере», если требуется обновить часы устройства. Часовой пояс берётся из станции.",
+      "stepTextHash": "9635c5125667cc67b6af4abf5b17f58fd65e7eec34da16c92ad29530edbdadc0",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Галочка синхронизации вместе с подписью. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "write-users.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "848573ad41b7a4593df378507fc2c0f7493ad6cb6ca96a472f84c8514764da89",
+      "stepText": "Если меняли доступ или лимиты, отметьте «Записать список пользователей, транспорта, компании и их лимиты».",
+      "stepTextHash": "6a0b358f79c77a8f655a8fafcd6b3e8361355b683d123ba114802e2e8d466f96",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка включает флажок и обе строки подписи списков и лимитов. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "write-gauges.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "05d6b3604ff95ca81ddc5a329c6634f945b833a1d76a4208bac5ef2e421a8fca",
+      "stepText": "Если для подключённого уровнемера используется градуировочная таблица, отметьте «Записать градуировочные таблицы для уровнемеров».",
+      "stepTextHash": "5204fca4b89506621200b115805f1bf61b9762efe1bde6b96eb608cbe1e15168",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Флажок градуировочных таблиц вместе с подписью. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "Нажмите «Записать данные» и дождитесь результата операции.",
+      "stepTextHash": "2af36e58cddd5b6a50008917271d94a1bbcc60fc39ffc906a029ee45f2d751ea",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только Записать данные, вертикальная стрелка снизу, Отменить не выделено. Исходник и полный SVG просмотрены индивидуально; все 19 шагов просмотрены в статье и в окне фото."
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-hardware",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт «Контроллеры (ТРК)» по ширине меню, прямая стрелка справа. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка второй строки выделена отдельно от корзины, указатель горизонтальный. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи насос, клапаны и внешние входы будут работать по выбранным настройкам.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "5ab3fed30656965673740aeec87f899270e62abfeb08d92f35ccc0af599e4a7a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Настоящее окно записи целиком; выделена только кнопка записи. Проверено также в светлой и тёмной статье. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    },
+    {
+      "output": "pump-tab.svg",
+      "sourceHash": "321c32a2a126b837ce7bc1a437ff6936bd49466d3dd19a595df7c5b39e125ee8",
+      "svgHash": "470f98687aca31e4f5b9bfb4b9f88e1add1c88dcac2e58a1c4418857be8314a9",
+      "stepText": "В «Настройки» откройте «Насос».",
+      "stepTextHash": "f763d468168de7872886b299b1087ef726552c8a8def75942807d4b78cc8a737",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт «Насос»; указатель приходит в нижний правый угол рамки. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    },
+    {
+      "output": "pump-save.svg",
+      "sourceHash": "321c32a2a126b837ce7bc1a437ff6936bd49466d3dd19a595df7c5b39e125ee8",
+      "svgHash": "e9cb60cf1982b6425a7f77e8a8bc07ff0765da366c7e22103fcf99624c8f3ecc",
+      "stepText": "Нажмите «Сохранить» в разделе насоса, если значения менялись.",
+      "stepTextHash": "7cd69feb53479c38a498830b7c19abce5c9835bcad1253a92f8c311522961c67",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка сохранения насоса; горизонтальная стрелка справа. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    },
+    {
+      "output": "valves-tab.svg",
+      "sourceHash": "741e06fa73007ecc031f8c944bd0955d0a66bb0a2123bb3a79fc8972344f3c61",
+      "svgHash": "161ef1b1e2ddb7ec0a8f63ba26f8d530a723574ef65830d92065416ee63980ce",
+      "stepText": "Откройте «Клапаны».",
+      "stepTextHash": "6e6242ea6440d891e8f78d857afbeba92001fd64834c6bcd00676415d1c26cf1",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт «Клапаны»; указатель приходит в нижний правый угол. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    },
+    {
+      "output": "valves-save.svg",
+      "sourceHash": "741e06fa73007ecc031f8c944bd0955d0a66bb0a2123bb3a79fc8972344f3c61",
+      "svgHash": "8bcd74e26bf768e12f071afb9133945c514c42c9bff078b615533e82d0bfa4aa",
+      "stepText": "Нажмите «Сохранить» в разделе клапанов.",
+      "stepTextHash": "75c5bc634bda527811f3c1d3ec0d9ba3b6643d5835b4d354e5d4df2c5f991220",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранение клапанов выделено отдельно, указатель справа. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    },
+    {
+      "output": "inputs-tab.svg",
+      "sourceHash": "9a64166e1c1a8c01af43608d7d1ed7918ed5da02d8d2de6f48107653a4a39a4d",
+      "svgHash": "9ccf3b38e657bc16145718b8b2b180c2e59ad7fa5c2f17a0b961c080b275689f",
+      "stepText": "Откройте «Внешние входы».",
+      "stepTextHash": "2cf7768f160710ad9d24f71571ead6745fb6993676e83d7193ce41f1cc68d875",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт «Внешние входы»; диагональ к нижнему правому углу, подпись IN4 не пересечена. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    },
+    {
+      "output": "inputs-save.svg",
+      "sourceHash": "9a64166e1c1a8c01af43608d7d1ed7918ed5da02d8d2de6f48107653a4a39a4d",
+      "svgHash": "2c4aa05424d11c776484a7bc26d247e8ffcce1aaa64314cc8d97fd91d51d4511",
+      "stepText": "Нажмите «Сохранить» в разделе внешних входов.",
+      "stepTextHash": "7700211c42830f9b0661796fcc03f2e7c7ed8291f7034ccdebb9fe2a1a6e10ca",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранение входов выделено отдельно с горизонтальной стрелкой. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    },
+    {
+      "output": "pump-fields.svg",
+      "sourceHash": "321c32a2a126b837ce7bc1a437ff6936bd49466d3dd19a595df7c5b39e125ee8",
+      "svgHash": "945321de4ca46341b435ea4a9ac909a0ffdfb5ea2f78f3786cdda78f7a972971",
+      "stepText": "Сверьте «Управление насосом» и «Задержка включения насоса, с.» со схемой объекта.",
+      "stepTextHash": "709efa92ef06f4038af52fbd3cefca2a3abd917eda215fe8ac6585a2aa0e8056",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Два поля насоса и их подписи в одной рамке; сохранение снаружи. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    },
+    {
+      "output": "valves-fields.svg",
+      "sourceHash": "741e06fa73007ecc031f8c944bd0955d0a66bb0a2123bb3a79fc8972344f3c61",
+      "svgHash": "f6fed69ddd0bc977f26ee2828c9b5101836245d7f4ba443c6330f5ec8b906809",
+      "stepText": "Выберите схему отсечного клапана и клапана снижения расхода, если они установлены на объекте.",
+      "stepTextHash": "650ffe28f109bb7527338b01d31d46faeab5ee8c15e99cb032d52ce886845f09",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Оба поля клапанов с подписями в одной рамке. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    },
+    {
+      "output": "inputs-fields.svg",
+      "sourceHash": "9a64166e1c1a8c01af43608d7d1ed7918ed5da02d8d2de6f48107653a4a39a4d",
+      "svgHash": "a826358daa5dfde5a9bb9d2dcd585e0c967b9ed24361ea69bc97feb3ac1ec87c",
+      "stepText": "Сопоставьте IN1–IN4 с физически подключёнными сигналами. На снимке IN1 занят датчиком расхода; остальные входы не заданы.",
+      "stepTextHash": "e3abb54db7161eaf82e1e40da757df3772bb18efcfa308bb859a8e939e07ce4e",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "В рамке IN1–IN4 с подписями; IN1 — датчик расхода, остальные не заданы. Исходник просмотрен отдельно: интерфейс загружен, курсора и водяного знака нет. Измерения сохранены при съёмке этого состояния. SVG проверен в увеличении; обычный размер проверен индивидуально в соответствующем шаге статьи."
+    }
+  ]
+}

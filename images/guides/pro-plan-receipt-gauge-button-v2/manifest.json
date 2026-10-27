@@ -1,0 +1,483 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/receipt-section.jpg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "width": 352.65625,
+          "x": 1145.3125,
+          "y": 111,
+          "target": "Секция поступления",
+          "selector": "Секция поступления"
+        }
+      ],
+      "arrows": [],
+      "padding": 2,
+      "rightScrollbarWidth": 15,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-14T11:38:07.093Z",
+      "title": "receipt-section.jpg",
+      "background": "application",
+      "output": "step-01.svg",
+      "scrollbarMeasurement": "15 px overlay at right edge of original browser viewport bitmap; DOM client width remains 1920"
+    },
+    {
+      "source": "source/reused-receipt-math.jpg",
+      "output": "step-02.svg",
+      "boxes": [
+        {
+          "x": 584.5,
+          "y": 202.609375,
+          "width": 742,
+          "height": 47.609375,
+          "target": "Сообщение о математическом остатке",
+          "selector": "dialog alert"
+        }
+      ],
+      "arrows": [],
+      "padding": 2,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "rightScrollbarWidth": 0,
+      "sourceUrl": "https://pro.benza.online",
+      "capturedAt": "2026-10-14T09:26:01.080Z",
+      "title": "Шаг 2",
+      "background": "application"
+    },
+    {
+      "source": "source/reused-controllers.jpg",
+      "output": "step-03.svg",
+      "boxes": [
+        {
+          "x": 0,
+          "y": 295.953125,
+          "width": 246,
+          "height": 39.640625,
+          "target": "Контроллеры (ТРК)",
+          "selector": "#controllers"
+        },
+        {
+          "x": 370,
+          "y": 367.4375,
+          "width": 36,
+          "height": 28.0625,
+          "target": "Настройки контроллера",
+          "selector": "row controller 33481F76 button 2"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            285,
+            315.7734375
+          ]
+        },
+        {
+          "box": 1,
+          "toSide": "top",
+          "from": [
+            388,
+            332.4375
+          ]
+        }
+      ],
+      "padding": 0,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "rightScrollbarWidth": 0,
+      "sourceUrl": "https://pro.benza.online",
+      "capturedAt": "2026-10-14T09:26:01.080Z",
+      "title": "Шаг 8",
+      "background": "application"
+    },
+    {
+      "output": "step-04.svg",
+      "title": "Секции контроллера",
+      "boxes": [
+        {
+          "height": 39.609375,
+          "selector": "#left-tabs-example-tab-sections",
+          "target": "Секции контроллера",
+          "width": 381.5,
+          "x": 286,
+          "y": 244.640625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            762.5,
+            264.4453125
+          ]
+        }
+      ],
+      "source": "source/reused-controller-sections.jpg",
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/controller/1556",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "rightScrollbarWidth": 0,
+      "background": "application"
+    },
+    {
+      "output": "step-05.svg",
+      "title": "Добавить секцию",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "button: Добавить секцию",
+          "target": "Добавить секцию",
+          "width": 132.484375,
+          "x": 691.5,
+          "y": 205.03125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            923.984375,
+            223.296875
+          ]
+        }
+      ],
+      "source": "source/reused-controller-sections.jpg",
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/controller/1556",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "rightScrollbarWidth": 0,
+      "background": "application"
+    },
+    {
+      "output": "step-06.svg",
+      "title": "Выбор секции резервуара",
+      "boxes": [
+        {
+          "height": 121.21875,
+          "selector": "[role=\"dialog\"] .mb-3,[role=\"dialog\"] [role=\"listbox\"]",
+          "target": "Поле Секции и раскрытый список",
+          "width": 392,
+          "x": 1524,
+          "y": 98
+        }
+      ],
+      "padding": 0,
+      "arrows": [],
+      "source": "source/reused-controller-section-choice.jpg",
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/controller/1556",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "rightScrollbarWidth": 0,
+      "background": "application"
+    },
+    {
+      "output": "step-07.svg",
+      "title": "Сохранение привязки секции",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "[role=\"dialog\"] button: Сохранить",
+          "target": "Сохранить привязку секции",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 181.609375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1437,
+            199.875
+          ]
+        }
+      ],
+      "source": "source/reused-controller-section-save.jpg",
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/controller/1556",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "sourceUrl": "https://pro.benza.online/controller/1556",
+      "rightScrollbarWidth": 0,
+      "background": "application"
+    },
+    {
+      "source": "source/stations.jpg",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "width": 246,
+          "x": 0,
+          "y": 256.3125,
+          "target": "Раздел Станции",
+          "selector": "Раздел Станции"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            285,
+            276.1328125
+          ]
+        }
+      ],
+      "padding": 2,
+      "rightScrollbarWidth": 0,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceUrl": "https://pro.benza.online/stations",
+      "capturedAt": "2026-10-14T11:38:07.109Z",
+      "title": "stations.jpg",
+      "background": "application",
+      "output": "step-08.svg"
+    },
+    {
+      "source": "source/stations.jpg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "width": 36,
+          "x": 1613.203125,
+          "y": 368.046875,
+          "target": "Настройки станции",
+          "selector": "Настройки станции"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "top-left",
+          "from": [
+            1580,
+            343
+          ]
+        }
+      ],
+      "padding": 2,
+      "rightScrollbarWidth": 0,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceUrl": "https://pro.benza.online/stations",
+      "capturedAt": "2026-10-14T11:38:07.109Z",
+      "title": "stations.jpg",
+      "background": "application",
+      "output": "step-09.svg"
+    },
+    {
+      "source": "source/station-sections.jpg",
+      "boxes": [
+        {
+          "height": 41.5,
+          "width": 83.96875,
+          "x": 471.640625,
+          "y": 139.59375,
+          "target": "Секции станции",
+          "selector": "Секции станции"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            513.625,
+            104.59375
+          ]
+        }
+      ],
+      "padding": 2,
+      "rightScrollbarWidth": 0,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceUrl": "https://pro.benza.online/station/301",
+      "capturedAt": "2026-10-14T11:38:07.110Z",
+      "title": "station-sections.jpg",
+      "background": "application",
+      "output": "step-10.svg"
+    },
+    {
+      "source": "source/station-sections.jpg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "width": 36,
+          "x": 1613.671875,
+          "y": 313.21875,
+          "target": "Изменить секцию",
+          "selector": "Изменить секцию"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1694.671875,
+            327.25
+          ]
+        }
+      ],
+      "padding": 2,
+      "rightScrollbarWidth": 0,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceUrl": "https://pro.benza.online/station/301",
+      "capturedAt": "2026-10-14T11:38:07.110Z",
+      "title": "station-sections.jpg",
+      "background": "application",
+      "output": "step-11.svg"
+    },
+    {
+      "source": "source/section-gauge.jpg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "width": 392,
+          "x": 1524,
+          "y": 263.75,
+          "target": "Уровнемер секции",
+          "selector": "Уровнемер секции"
+        }
+      ],
+      "arrows": [],
+      "padding": 2,
+      "rightScrollbarWidth": 0,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceUrl": "https://pro.benza.online/station/301",
+      "capturedAt": "2026-10-14T11:38:07.110Z",
+      "title": "section-gauge.jpg",
+      "background": "application",
+      "output": "step-12.svg"
+    },
+    {
+      "source": "source/section-gauge.jpg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "width": 91.28125,
+          "x": 1537,
+          "y": 1005.953125,
+          "target": "Сохранить секцию",
+          "selector": "Сохранить секцию"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1430,
+            1024.21875
+          ]
+        }
+      ],
+      "padding": 2,
+      "rightScrollbarWidth": 0,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceUrl": "https://pro.benza.online/station/301",
+      "capturedAt": "2026-10-14T11:38:07.110Z",
+      "title": "section-gauge.jpg",
+      "background": "application",
+      "output": "step-13.svg"
+    },
+    {
+      "source": "source/receipt-section.jpg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "width": 164.328125,
+          "x": 957,
+          "y": 690.453125,
+          "target": "Кнопка Уровнемер",
+          "selector": "Кнопка Уровнемер"
+        },
+        {
+          "height": 36.53125,
+          "width": 164.328125,
+          "x": 1333.65625,
+          "y": 690.453125,
+          "target": "Кнопка Уровнемер",
+          "selector": "Кнопка Уровнемер"
+        }
+      ],
+      "arrows": [],
+      "padding": 2,
+      "rightScrollbarWidth": 15,
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-14T11:38:07.110Z",
+      "title": "receipt-section.jpg",
+      "background": "application",
+      "output": "step-14.svg",
+      "scrollbarMeasurement": "15 px overlay at right edge of original browser viewport bitmap; DOM client width remains 1920"
+    }
+  ]
+}

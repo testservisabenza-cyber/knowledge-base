@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "manifestHash": "aa5edab76e8853daa49eb3695a113b7521c88b486adf3aab5de19a14099bbe55",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-company-list",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": false,
+    "backgroundModes": false,
+    "stepNavigation": false,
+    "imageZoom": false,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": false
+  },
+  "shots": [
+    {
+      "output": "companies-list.svg",
+      "sourceHash": "5780de6dde397643c69ce5e3aaf34fbcf2365296bd3e1ec671124e476cc0a514",
+      "svgHash": "4576f64a724935720fcc35edf31d87965ffb4f5d722f514e06b6da31cc102241",
+      "stepText": "Список компаний\nКаждая строка — отдельная организация. Таблица содержит название, дату добавления, статус блокировки, вид компании и действия. Поля под заголовками служат для фильтрации, заголовки — для сортировки, нижняя панель — для смены страницы и количества строк.\nКнопка со стрелкой открывает настройки организации; корзина запускает удаление. «Добавить компанию» создаёт главную компанию или нефтетрейдера. Клиентское подразделение добавляют из настроек главной компании.",
+      "stepTextHash": "a50efcf779b980097012b3274094ca2e2707c926317a19e063462bcd278be076",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "companies-types.svg",
+      "sourceHash": "5780de6dde397643c69ce5e3aaf34fbcf2365296bd3e1ec671124e476cc0a514",
+      "svgHash": "ac56727414bfe01b42f1b4c95d132b3210b79970a8c51f030a80f1a0479d0bf6",
+      "stepText": "Три вида компании\nГлавная компания объединяет собственные объекты и клиентские подразделения. Клиент (подразделение) принадлежит главной компании и работает со своими пользователями и выделенными объектами. Администратор главной компании видит свои клиентские компании; доступ клиента ограничен его данными.\nНефтетрейдер используется для партнёрской работы с доступными ему станциями и остатками. Это не замена главной компании. Названия могут совпадать: при выборе сверяйте также вид и связанные объекты.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по добавлению компании](/articles/pro-company-create).\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по добавлению клиентской компании](/articles/pro-client-company).",
+      "stepTextHash": "61e8478707c600cb74af544bef5b55cc173a7183137d25e4846e9e3aafcb4b6b",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "company-balance.svg",
+      "sourceHash": "af99afcc100c57c66f220e35f6a44392d2842a0941d898722cbd62f614cc3daf",
+      "svgHash": "9406b47f43a79cf47e764d631c4bd3458fbedee6c61977a27eaa6d2d9e43437c",
+      "stepText": "Общий лимит компании\n«Баланс» → «Лимитный план» показывает общий литровый остаток компании, денежный счёт и время, к которому относятся значения. Лимит компании действует вместе с ограничениями пользователя и транспорта: наличие личного остатка не отменяет исчерпанный общий лимит.\nАбсолютный лимит уменьшается при заправках и не обновляется автоматически с новым днём или месяцем. Безлимитный план снимает общий литровый предел компании; остальные условия обслуживания продолжают действовать.\nКарандаш открывает изменение плана. «История изменений» помогает проверить, когда и кем изменялся лимит. «Обновить лимит и счет» перечитывает текущие значения на экране и не сохраняет новый лимит.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по настройке лимита компании](/articles/pro-company-limit-setup).",
+      "stepTextHash": "2cc7dcb90cec57cd3ee0bfaf098b7b7152246cfc94882a85ea334cec8af73810",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "company-account.svg",
+      "sourceHash": "5b65ea40fe3e25275bf9c6c1f12db1b756fdc7e07f3a8b957e58fc3340e0401d",
+      "svgHash": "f0c4e1e4dc4bbbd6855b0e27ebcd3fcffa9d954ec9a0b37c49242270a5165021",
+      "stepText": "Денежный расчёт и счёт\nФлажок «Использовать деньги для пересчета остатка топлива» включает расчёт по счёту и цене топлива. Без него основным ограничением служит литровый план. Денежный счёт не бывает безлимитным: при нулевом остатке выдача по денежному расчёту прекращается.\nВкладка «Счет» позволяет учитывать пополнения. Сумма меняет баланс, комментарий объясняет назначение операции. История содержит дату, автора, сумму и комментарий. Для денежного расчёта у каждого используемого топлива должна быть установлена цена.",
+      "stepTextHash": "cc1827aa6f23948303b179468b005635eedc159dbd796300404f74d4f0689b00",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "company-fuels.svg",
+      "sourceHash": "0da1c1d3271fbe756e8cd011ca56830f6e28e0c220aafe734be499fe45502595",
+      "svgHash": "bf8844f1e52e2a007938a90527988407ef82aa867a4f6a566a0064653bc8ee19",
+      "stepText": "Виды топлива и цены\nНа вкладке «Виды топлива» перечислены виды топлива и их текущие цены. Цена используется для расчёта стоимости: литры × цена. Если цена для нужного топлива не задана, выдача при денежном расчёте не выполняется.\nИзменение цены применяется к последующим заправкам. Старые операции автоматически не пересчитываются; историю цен проверяют в аналитике.",
+      "stepTextHash": "038a67b94a504878a784b5873fe269db314a5904f51191a7ce7534be7c2e571d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "company-stations.svg",
+      "sourceHash": "14cadc76c6e5213305cb74cb60c49468bd661a9d8b7ace84997df5ae9500c316",
+      "svgHash": "fb4e73d92c13ce799054b3bf0910fd77cd06479c1278e0bb53c19a8bc466b0e7",
+      "stepText": "Пользователи и станции\nВкладка «Пользователи» показывает записи этой организации и их ограничения. Пользователь может обозначать сотрудника или автомобиль, который заправляется одной картой. Вкладка «Станции» показывает объекты, связанные с организацией.\nПринадлежность станции и разрешение обслуживать компанию на чужой станции — разные настройки. Дополнительный доступ задают во вкладках «Компании» станции и соответствующих контроллеров.\nДля пошаговой настройки нажмите кнопку [Открыть обзор пользователей](/articles/pro-plan-user-model).\nДля пошаговой настройки нажмите кнопку [Открыть обзор станций](/articles/pro-plan-station-model).",
+      "stepTextHash": "959b0aecd5d93482824552c66adc21a4882536719fe529481f9c120953fb0735",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "company-clients.svg",
+      "sourceHash": "1dbfe9473e075e24eae054b8db34006d23f26a3abc682f19c5b6e6184780e1df",
+      "svgHash": "d15f7f707df57597e30fb8db5000f7c2a5fece11bdc21a0da90a7125570d7f74",
+      "stepText": "Нефтетрейдеры и клиентские компании\nНа вкладке «Нефтетрейдеры» подключают существующего партнёра и определяют доступ к станциям. Разрешение показывает, какие объекты и остатки он сможет просматривать.\n«Клиентские компании» содержит подразделения главной компании. У каждого клиента свои пользователи и ограничения. Для выдачи топлива его компания также должна быть допущена в нужные контроллеры.",
+      "stepTextHash": "7bf39061be43409297f231f69e0cdc8118b4a4e9ff720a8c0a733e4330e8e190",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "company-block.svg",
+      "sourceHash": "1dbfe9473e075e24eae054b8db34006d23f26a3abc682f19c5b6e6184780e1df",
+      "svgHash": "0089970829c9141778eda69c7ab09ff3dd40afbee9c66b54302b49fe27c116b8",
+      "stepText": "Блокировка, удаление и оборудование\n«Заблокировать» временно прекращает обслуживание компании; «Разблокировать» возвращает обслуживание после передачи состояния оборудованию. Для применения блокировки, разблокировки или лимита данные необходимо записать в нужные контроллеры.\nУдаление компании затрагивает связанные станции, секции, контроллеры, пользователей, транспорт и их данные. Это не способ временно отключить заправку; удалённые записи нельзя самостоятельно вернуть обычным редактированием.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по настройке оповещений](/articles/pro-notifications).",
+      "stepTextHash": "24dcb26018515886f3a8c2e0933ecade891b535cf724eebaee8c641c56094f7b",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "company-traders.svg",
+      "sourceHash": "e910d6fb1c85cf3e4b16a4fad95dc6ba106918a8b0d7869c4252847a66d84916",
+      "svgHash": "f9ba7253b8b4a7a6ffc6abcb597bd44cbd1210582ddb4b84fd6420b2f1ca5fb3",
+      "stepText": "Нефтетрейдеры и клиентские компании\nНа вкладке «Нефтетрейдеры» подключают существующего партнёра и определяют доступ к станциям. Разрешение показывает, какие объекты и остатки он сможет просматривать.\n«Клиентские компании» содержит подразделения главной компании. У каждого клиента свои пользователи и ограничения. Для выдачи топлива его компания также должна быть допущена в нужные контроллеры.",
+      "stepTextHash": "7bf39061be43409297f231f69e0cdc8118b4a4e9ff720a8c0a733e4330e8e190",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    },
+    {
+      "output": "company-info.svg",
+      "sourceHash": "63a1fa3285ca4670ac878bf872c289aeab24120056e0c12cfd1720ca99179bc3",
+      "svgHash": "f8074d145f5108bc971766e14256097616d6d60a6029914f6ac03758de111cb2",
+      "stepText": "Информация и реквизиты\nНастройки разделены на вкладки «Информация», «Баланс», «Пользователи», «Станции», «Нефтетрейдеры», «Виды топлива» и «Клиентские компании». Доступные действия зависят от роли и прав к объектам.\nНа вкладке «Информация» хранятся название, ИНН, ОГРН, КПП, юридический и почтовый адреса. Поля со звёздочкой обязательны. «Сохранить изменения» применяет отредактированные сведения в сервисе.\nСигнальный порог: Значение остатка, при достижении которого может потребоваться предупреждение. Само поле не включает почтовую рассылку: для неё создают правило события в разделе «Оповещения».",
+      "stepTextHash": "da2a0ff27d0cc83fe1244695d9d99ae23355d74ce8fc11fa39ee12bdca283c86",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": true,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Чистый исходник и SVG отдельно просмотрены в полном размере. Геометрия соответствует сохранённым измерениям DOM. Приёмка внутри этой статьи и проверка взаимодействий ещё не завершены; оставшиеся пункты false."
+    }
+  ]
+}

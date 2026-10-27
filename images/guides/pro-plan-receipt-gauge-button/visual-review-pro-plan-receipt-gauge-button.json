@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "manifestHash": "bcdfc262f2d3f3a08131c350a3c58f6531ed019feb1b0bb865a902cb89565a7f",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-receipt-gauge-button",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "step-01.svg",
+      "sourceHash": "1042bafda427253426bbc8c206745574c5f6c312ab4f306db7e8802c75d098bc",
+      "svgHash": "b23a1618afbf237e4bf7431c10a5699c6616fe39a35c60a5231bd5fe46746e25",
+      "stepText": "Убедитесь, что в поступлении выбрана нужная секция. Показания берутся с уровнемера, настроенного для неё.",
+      "stepTextHash": "7307b29dc0cfac4299ae3d36b70646ba84812662166397ea90e32de48adf8c14",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделено поле Секция с выбранной Секцией 1. Просмотрены обычный размер статьи и увеличение, цель читаема."
+    },
+    {
+      "output": "step-02.svg",
+      "sourceHash": "a5575c4ac50a1a0298251c175300b9afb70916af5def1004f8b8b04dfb025030",
+      "svgHash": "bbf45b7a0dfd7d74f302bfd9fc71cc46af90012d6216e7a6b4be2fb653ecfac9",
+      "stepText": "Если в форме есть сообщение «У станции используется расчет математического остатка топлива», оформите поступление по накладной: [Открыть инструкцию по поступлению при математическом остатке](/articles/pro-fuel-receipt-math). Если сообщения нет, продолжайте проверку.",
+      "stepTextHash": "b2f46be2702f743d78b73a34af89b1f23610db210d3efb4e068b9f699d3eacf3",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделено реальное предупреждение математического остатка, кнопок уровнемера нет. Просмотрены обычный размер статьи и увеличение, цель читаема."
+    },
+    {
+      "output": "step-03.svg",
+      "sourceHash": "dfb418c5e5e17363e67cbfcfeb9a475830633ca10cd1cfc7dc04a0b69d7baca5",
+      "svgHash": "b37a2d5f45df60f63c9b1337bd2ff9446ebb20c85cacadf41fa9dd6ba1c2b860",
+      "stepText": "В левом меню откройте «Станции».",
+      "stepTextHash": "0053e378135866c5b6233f48dd089d9198b24c7a2f58eb09f8a9ba85a4cf0802",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Станции выделен по ширине меню, стрелка справа. Просмотрены обычный размер статьи и увеличение, цель читаема."
+    },
+    {
+      "output": "step-04.svg",
+      "sourceHash": "dfb418c5e5e17363e67cbfcfeb9a475830633ca10cd1cfc7dc04a0b69d7baca5",
+      "svgHash": "ff72a36bc20bf3c4dc7bc9c95cc4b4b5693d6d12a016138f8315b185fcb0f5f2",
+      "stepText": "В строке нужной станции нажмите кнопку перехода в настройки.",
+      "stepTextHash": "238f3638e3369faf97e5f1967346c595a9e8f12bde0725f0174d27d7ba3290eb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка точно к переходу нужной станции, между графиком и корзиной. Просмотрены обычный размер статьи и увеличение, цель читаема."
+    },
+    {
+      "output": "step-05.svg",
+      "sourceHash": "b2f3797686038213872872dcee673e1ad170f276f2b5b9b24508a6c9c96986a0",
+      "svgHash": "cb8a4f07eb8b37ad2b80d0b26790c50365c79eb798368ef2e5eb2a8781e27751",
+      "stepText": "Откройте вкладку «Секции».",
+      "stepTextHash": "f14a3ed2a1ae4d6e2e889250febcd16675aaac20947a26347117ff71b73bfac7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделена вкладка Секции станции, стрелка сверху по свободной области. Просмотрены обычный размер статьи и увеличение, цель читаема."
+    },
+    {
+      "output": "step-06.svg",
+      "sourceHash": "b2f3797686038213872872dcee673e1ad170f276f2b5b9b24508a6c9c96986a0",
+      "svgHash": "5af13bb1965db1d7922a17369f04f5d515c4e5f8fdd95e17148cd47aa2e75086",
+      "stepText": "В строке секции, выбранной в поступлении, нажмите карандаш.",
+      "stepTextHash": "d759b9ebb9cf1ff91279623c037d667f40f19be5d82b21ac44941cba35794c3e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделен только карандаш нужной секции, стрелка справа. Просмотрены обычный размер статьи и увеличение, цель читаема."
+    },
+    {
+      "output": "step-07.svg",
+      "sourceHash": "30afb43efbcf74fa928ab642577a4867eec2df8e3a33070d6f683c7a48a9ea1e",
+      "svgHash": "f9321130b5541e6e9f99f86c28dac7cbbd9c47b85b3840ec7bd8a39873eef778",
+      "stepText": "В поле «Уровнемер» должен быть выбран прибор этой секции. Если поле пустое или выбран другой прибор, используйте [Открыть инструкцию по привязке уровнемера к секции](/articles/pro-section-hydraulic).",
+      "stepTextHash": "a2b9bbc44cd30373caa1e53039c045e2f430b578a5285e100731ee0bda3de939",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Поле Уровнемер по ширине правой панели, рамка не касается подписи и не включает сохранение. Просмотрены обычный размер статьи и увеличение, цель читаема."
+    },
+    {
+      "output": "step-08.svg",
+      "sourceHash": "574708d049ac5db9934d75de2d1ee7dc324bbae37dfae3f203f695033a9fff46",
+      "svgHash": "05bcd85d397164467cc4e99807c12ed9c9ebac7ab6fc44e71d9b5fba9e4653d8",
+      "stepText": "Откройте «Контроллеры (ТРК)». В строке контроллера, к которому подключён уровнемер, нажмите кнопку со стрелкой для перехода в настройки.",
+      "stepTextHash": "97cafd7f812e2701442b57c1d849a4df1f8b7a556efad2c12140e60f53fec67f",
+      "clickTargets": [
+        0,
+        1
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Две отдельные стрелки: пункт меню контроллеров и переход в строке Пенза. Просмотрены обычный размер статьи и увеличение, цель читаема."
+    },
+    {
+      "output": "step-09.svg",
+      "sourceHash": "2b9e52bd985ffadc82b3aac3ef4531354edea514382cb8f2b84c7eef5b49a296",
+      "svgHash": "10f6969ab0c18208a79cd6b46691a65f281ea88b8e9c8db53d695b468bd58d16",
+      "stepText": "В настройках откройте вкладку «Секции». В списке должна быть секция, выбранная в поступлении. Если её нет, используйте [Открыть инструкцию по связи контроллера с секцией](/articles/pro-hydraulic). Если секция и уровнемер настроены, а кнопка не появилась, сообщите поддержке названия станции, секции и контроллера.",
+      "stepTextHash": "90763ded94ac1dc5c3cedd7bcaa4114c9e62a60e3f724d103bd383c691f4adbd",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Вкладка Секции контроллера со стрелкой, ячейка Секция 1 выделена отдельно. Просмотрены обычный размер статьи и увеличение, цель читаема."
+    }
+  ],
+  "articleNote": "Все 9 кадров просмотрены отдельно в обычной статье и увеличении. Проверены светлая и тёмная темы, три фона, переход вперёд и назад, Скопировано. Все три ссылки имеют target blank и noopener noreferrer; инструкция связи открылась отдельной вкладкой, исходная статья осталась на последних шагах. Восстановлены исходная тёмная тема и фон под инструкцией, viewport и Rows per page 10. Данные ПРО не сохранялись."
+}

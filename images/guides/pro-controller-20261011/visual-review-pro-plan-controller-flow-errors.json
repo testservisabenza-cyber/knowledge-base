@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-flow-errors",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка по ширине левого меню и горизонтальная стрелка справа. Исходник и полный SVG просмотрены ранее при проверке ожидания импульсов; обычный размер и увеличение в этой статье проверены индивидуально."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка открытия второй строки отдельно от корзины, горизонтальная стрелка. Исходник и полный SVG просмотрены ранее при проверке ожидания импульсов; обычный размер и увеличение в этой статье проверены индивидуально."
+    },
+    {
+      "output": "flow-tab.svg",
+      "sourceHash": "0b6a1a93771e1d0b6bf981d0bc59c5120412a0fd1e486845cd3e79ff3e1790e2",
+      "svgHash": "289c427d011dc10167f4f35ed05bb2d0e706c6efac9c62dea9703ee5b121c854",
+      "stepText": "Во вкладке «Настройки» откройте «Датчик расхода».",
+      "stepTextHash": "44686b571b7c91147eea40badee5676c5d4a2a90b390bd94aa8963d082e24043",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Датчик расхода по ширине внутреннего меню, диагональ в нижний правый угол. Исходник и полный SVG просмотрены ранее при проверке ожидания импульсов; обычный размер и увеличение в этой статье проверены индивидуально."
+    },
+    {
+      "output": "flow-first-pulse.svg",
+      "sourceHash": "0b6a1a93771e1d0b6bf981d0bc59c5120412a0fd1e486845cd3e79ff3e1790e2",
+      "svgHash": "8c6c5120ffa6eb6a6f441a9fb3895ff1fead6181c45df2897cb591f37c1a21ef",
+      "stepText": "При E0010 посмотрите поле ожидания первого импульса. Если топливо идёт, а показания не меняются, передайте специалисту информацию для проверки датчика расхода и подключения.",
+      "stepTextHash": "618d714a1489ea99048a78c2f47faa7e0a4f4b6208fe28ceff1a51ab83de1993",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только поле ожидания первого импульса с подписью; значение 30. Исходник и полный SVG просмотрены ранее при проверке ожидания импульсов; обычный размер и увеличение в этой статье проверены индивидуально."
+    },
+    {
+      "output": "flow-next-pulse.svg",
+      "sourceHash": "0b6a1a93771e1d0b6bf981d0bc59c5120412a0fd1e486845cd3e79ff3e1790e2",
+      "svgHash": "776b0b3272374fdc2db28edbdd85cc3bb1d385e481f7b66b5848a50c83cf7596",
+      "stepText": "При E0011 посмотрите поле ожидания последующих импульсов. Если поток прекратился, сначала устраните причину остановки выдачи; если идёт, проверьте сигналы датчика.",
+      "stepTextHash": "ba981765b74a4d6bb2885961f6109f54f9df63cdcdfb0b1ee735ab9d625e868d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только поле ожидания следующих импульсов с подписью; значение 30. Исходник и полный SVG просмотрены ранее при проверке ожидания импульсов; обычный размер и увеличение в этой статье проверены индивидуально."
+    }
+  ]
+}

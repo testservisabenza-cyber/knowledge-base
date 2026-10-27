@@ -1,0 +1,283 @@
+{
+  "version": 1,
+  "manifestHash": "71be2c94f0805c8b998a8a456e904fabfbe62bfdcda201dfacb218a9aac0342f",
+  "articleVariant": {
+    "model": "bs022",
+    "equipment": "controller",
+    "scenario": "lost"
+  },
+  "missingPictures": [
+    "Попробуйте режим «Только 2G»",
+    "Проверьте прошивку BS-02/2",
+    "Если связи по-прежнему нет"
+  ],
+  "articleUrl": "http://127.0.0.1:5174/articles/connection-help",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": false,
+    "backgroundModes": false,
+    "stepNavigation": false,
+    "imageZoom": false,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": false
+  },
+  "shots": [
+    {
+      "output": "restart.svg",
+      "sourceHash": "f270b825cd04e8f8cdba80c60e7d70d5fe209a5b3c66307e1c37065f2c03c1d6",
+      "svgHash": "105c5f758bea5a6fbc07f6b7ca6f54e04c93e99bfd994a7d550a2ccf9ecfa762",
+      "stepText": "Перезагрузите контроллер\nВыключите питание контроллера и включите снова. После перезагрузки подождите 2–3 минуты и проверьте связь в benzamat ПРО. Если связь появилась, следующие шаги выполнять не нужно.",
+      "stepTextHash": "bc8b3ce2d61356cddfd6f6035a447af79b55a9267a6a1795ebff4585e6ed1f9d",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "data-example.svg",
+      "sourceHash": "ccbd99ed42dac19f8e91199a4c04bcdf35ede994f6cbeb3a31cc96c050459358",
+      "svgHash": "db014a9fa9f752f7122f3869fe21d14554fe1a575e1394761a425882cc3a29c1",
+      "stepText": "Проверьте интернет на SIM-карте\nВ личном кабинете оператора или через его техподдержку проверьте баланс, остаток интернета и отсутствие блокировки SIM-карты. Если деньги или интернет закончились, пополните счёт.",
+      "stepTextHash": "ae09d805a884b28c990e105424c09d5d05633ae9619798dd49bf394126e3926c",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Шаги проверки SIM-карты и ограничений объединены 22 октября. Оба фото сохранены в одном шаге, размеры в статье 560×420. Порядок шагов и полный текст проверены в браузере. Приёмка по прежнему тексту недействительна."
+    },
+    {
+      "output": "sms-example.svg",
+      "sourceHash": "323ec0c531375add8c0c932c0efd5cb6bf384624c0a0c14655b1cb4d0b10065b",
+      "svgHash": "da2d4a901bf105574a7d13952f690b197ffebcbd6827644132608479021f7336",
+      "stepText": "Уточните, нет ли ограничений связи\nПроверьте, нет ли сейчас ограничений интернета на объекте, где стоит оборудование. Например, из-за беспилотной опасности.",
+      "stepTextHash": "29318bc05f9c6727389633fc1420815fab78a358bbbb9eb714a3a76acec092e6",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Шаги проверки SIM-карты и ограничений объединены 22 октября. Оба фото сохранены в одном шаге, размеры в статье 560×420. Порядок шагов и полный текст проверены в браузере. Приёмка по прежнему тексту недействительна."
+    },
+    {
+      "output": "screws.svg",
+      "sourceHash": "e1a7b6c9144c21ee33e5a7b2eaeed8378a81800bbeb98f9775b9e6580eb50b85",
+      "svgHash": "e211674988f27d4f8d20bb3129e7d66cd76d5ce282bce9ddea445b9e561b05c1",
+      "stepText": "Открутите шесть винтов передней панели\nSIM-карта и штекер антенны находятся на плате управления. Чтобы добраться до неё, необходимо снять переднюю панель. Она держится на шести винтах на лицевой части.\nОтключите питание контроллера, открутите винты и аккуратно снимите переднюю панель. Держите её рядом с основной платой: они соединены шлейфом длиной 15–20 см.",
+      "stepTextHash": "9a46bfd6d6f7638b82ba3bdb5f40a5c413fdcc7d05ec7aa63f95c2bf11016239",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Изменены заголовки или пояснения по запросу пользователя. Актуальный текст проверен на локальной странице. Ранее записанный текст шага оставлен для выявления изменения при приёмке; полная приёмка не завершена."
+    },
+    {
+      "output": "board.svg",
+      "sourceHash": "4cb5e6c360ef5610a85a51a2e64c30af492ddadca24ac4f0c9b72cfdc523396a",
+      "svgHash": "9536485276c5fb69f6e626bfa59314ab99860a5674fd9531d6118db18df1c7ad",
+      "stepText": "Найдите SIM-карту и индикатор связи\nПри отключённом питании можно вытащить шлейф из разъёма основной платы, чтобы отсоединить переднюю панель. Можно оставить шлейф подключённым и на время диагностики придерживать панель в руках.\nНа фото выделены разъём под SIM-карту, штекер антенны и индикатор GSM-связи. По миганию индикатора можно определить, выходит ли контроллер на связь с benzamat ПРО. При включённом питании он должен мигать непрерывно два раза в секунду. Если он мигает медленнее, с перерывами или постоянно горит, связи нет.",
+      "stepTextHash": "3dc19c1e21004d5ee8beda6c282f93a2dd153ca891ae9e4509d6c6d5f4f6bdc1",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Изменены заголовки или пояснения по запросу пользователя. Актуальный текст проверен на локальной странице. Ранее записанный текст шага оставлен для выявления изменения при приёмке; полная приёмка не завершена."
+    },
+    {
+      "output": "holder.svg",
+      "sourceHash": "5f54fb315a8e348831efc11cf246d9377786a40b59430354f351e598a881a251",
+      "svgHash": "117cfca77b610b4de9c35b75fc31f0b35a40db8c94a2ae05c5a93ef7d71b9a04",
+      "stepText": "Перевставьте SIM-карту и проверьте контакты\nНа симкодержателе найдите выступ для открытия и ногтем сдвиньте его вверх до щелчка. Затем откройте симкодержатель и выньте SIM-карту. Осмотрите контакты: они должны быть целыми и находиться на одном уровне.\nЕсли контакт сильно вдавлен, аккуратно приподнимите его кончик до уровня остальных, без усилия. Если контакт сломан, не пытайтесь его выправлять: обратитесь в техподдержку.\nВставьте SIM-карту обратно по форме держателя. Закройте крышку до фиксации: карта должна лежать ровно и плотно прилегать к контактам.",
+      "stepTextHash": "8c6bf51f4b5c30c4830fbc173367c238c632c7c0759d8270e0b0e37298d57f84",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "contacts.svg",
+      "sourceHash": "0d86d086d7331648feff827ef2ba46df589c79fbf1650997de4ac7e12072032f",
+      "svgHash": "7fa12612c068bfcc767ea7300a0424cfca8ee9be8c53bda3f23aa5d046e7ad54",
+      "stepText": "Перевставьте SIM-карту и проверьте контакты\nНа симкодержателе найдите выступ для открытия и ногтем сдвиньте его вверх до щелчка. Затем откройте симкодержатель и выньте SIM-карту. Осмотрите контакты: они должны быть целыми и находиться на одном уровне.\nЕсли контакт сильно вдавлен, аккуратно приподнимите его кончик до уровня остальных, без усилия. Если контакт сломан, не пытайтесь его выправлять: обратитесь в техподдержку.\nВставьте SIM-карту обратно по форме держателя. Закройте крышку до фиксации: карта должна лежать ровно и плотно прилегать к контактам.",
+      "stepTextHash": "8c6bf51f4b5c30c4830fbc173367c238c632c7c0759d8270e0b0e37298d57f84",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Фото заменено оригиналом пользователя с подписью «Контакты симкодержателя». Открытие полного фото проверено в браузере. Формат превью и кадрирование сохранены. Читаемость по размытому браузерному снимку не подтверждена; полная приёмка остаётся незавершённой."
+    },
+    {
+      "output": "antenna-clean.svg",
+      "sourceHash": "a33171b1be82e68afdc5d677dced2a6a37c76673873d1591cc9c3e50bd8c05cc",
+      "svgHash": "01818f13cd248d3590679999855c6249ca4a8cd5b166df9fbb332db2645a11f5",
+      "stepText": "Проверьте антенну\nПри отключённом питании проверьте подключение антенны и её кабель: на нём не должно быть повреждений, перегибов и пережатий.\nСтандартная антенна: ANT GSM ESG-GSM-05 SMA-M 3M, разъём SMA-M. Штекер вкручивается в разъём GSM на плате. Проверьте, что он закреплён и не болтается.\nРазместите антенну в открытом месте, вне металлического шкафа или корпуса. Металл мешает приёму сигнала.",
+      "stepTextHash": "8758d398d070e471569e7525d83d7d5f197624f5f67f50cd900c21854fd45602",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "antenna-socket.svg",
+      "sourceHash": "12df8590ecf46a551d2268dc6886eaa503f4db4b8a001c412e2093cc5879f105",
+      "svgHash": "d945b8b15f7fbc9028ac5493c7a777505362b05ff85fba99e8c177165c680cc2",
+      "stepText": "Проверьте антенну\nПри отключённом питании проверьте подключение антенны и её кабель: на нём не должно быть повреждений, перегибов и пережатий.\nСтандартная антенна: ANT GSM ESG-GSM-05 SMA-M 3M, разъём SMA-M. Штекер вкручивается в разъём GSM на плате. Проверьте, что он закреплён и не болтается.\nРазместите антенну в открытом месте, вне металлического шкафа или корпуса. Металл мешает приёму сигнала.",
+      "stepTextHash": "8758d398d070e471569e7525d83d7d5f197624f5f67f50cd900c21854fd45602",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "card.svg",
+      "sourceHash": "b72d7ce0d1f739b40823aacbc4f7739832b3ceeea7ec2a4aa8c1b2cb7522cdd7",
+      "svgHash": "27ea7378c6e3793f12b322940ef1df4f3c37bf32738a18d31d15bcc61285aa10",
+      "stepText": "Попробуйте SIM-карту другого оператора\nПри отключённом питании установите другую активную SIM-карту с интернетом. Для проверки подойдёт и SIM-карта из телефона.\nЛучше выбрать другого оператора: у него может быть лучше покрытие на объекте.\nПосле установки SIM-карты включите питание и подождите 2–3 минуты. Если новая SIM-карта работает, обратитесь к оператору исходной SIM-карты.",
+      "stepTextHash": "6bd1061c3c1796cabecd829f570a6f0c0b8526c2f64e7a88ebdaa197ebd9ea20",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": ""
+    },
+    {
+      "output": "gsm-check.svg",
+      "sourceHash": "f83e3dad908c89995b556963f9739c176a243682aeb9c6bdcf6c02814ab73980",
+      "svgHash": "a5b1da1fe6de8c592574accf695069c8a012f5eeb3fec70008c53e55362d4abd",
+      "stepText": "Проверьте связь\nПосле проверки контактов симкодержателя, антенны и переустановки SIM-карты можно подать питание на контроллер. Если отсоединяли шлейф, подключите его обратно при отключённом питании. Прикручивать переднюю панель на этом этапе не нужно.\nВключите питание и подождите 2–3 минуты. Затем посмотрите на индикатор GSM. Если он непрерывно мигает два раза в секунду, контроллер вышел на связь с benzamat ПРО.\nЕсли связь появилась, отключите питание, установите переднюю панель на место и снова включите контроллер. Если индикатор мигает с перерывами, медленно или постоянно горит, перейдите к следующему шагу.",
+      "stepTextHash": "9ac61b3646390d109d5f8abaade877f85f42e96d0132d847d1c5a034e23023aa",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Оригинал пользователя просмотрен отдельно: подпись и стрелка указывают на индикатор GSM. Фото загружено в шаг 8 и открывается в общем просмотрщике. Браузерный кадр размыт, поэтому читаемость и полная визуальная приёмка не отмечены."
+    },
+    {
+      "output": "holder-open.svg",
+      "sourceHash": "28e65291d6d9647b5e6ebfdca9090ab83ca2c2e0e8a7c4217b500441e9040d60",
+      "svgHash": "4abb565f8b5123b43697b88e0f6e4aaa1348d2d6d08eb755f3020be59d92cf22",
+      "stepText": "Перевставьте SIM-карту и проверьте контакты\nНа симкодержателе найдите выступ для открытия и ногтем сдвиньте его вверх до щелчка. Затем откройте симкодержатель и выньте SIM-карту. Осмотрите контакты: они должны быть целыми и находиться на одном уровне.\nЕсли контакт сильно вдавлен, аккуратно приподнимите его кончик до уровня остальных, без усилия. Если контакт сломан, не пытайтесь его выправлять: обратитесь в техподдержку.\nВставьте SIM-карту обратно по форме держателя. Закройте крышку до фиксации: карта должна лежать ровно и плотно прилегать к контактам.",
+      "stepTextHash": "8c6bf51f4b5c30c4830fbc173367c238c632c7c0759d8270e0b0e37298d57f84",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": false,
+        "realLoadedState": false,
+        "sameCaptureMeasurements": false,
+        "correctTargets": false,
+        "noTextOverlap": false,
+        "readableAtArticleSize": false,
+        "fullSizeInspected": false,
+        "articleInspected": false,
+        "textMatchesImage": false
+      },
+      "inspectionNote": "Фото пользователя вставлено вторым из трёх в шаге контактов. Порядок, открытие полного фото и одинаковые размеры 373×280 проверены на локальной странице. Читаемость по размытому браузерному кадру не подтверждена."
+    }
+  ],
+  "reviewLimitations": [
+    "Полная приёмка не завершена: у дополнительных шагов 2G, прошивки и обращения в поддержку нет иллюстраций.",
+    "В текущем просмотре браузера снимки размыты; читаемость в статье не подтверждена. Размеры парных изображений проверены по DOM: 560×420."
+  ]
+}

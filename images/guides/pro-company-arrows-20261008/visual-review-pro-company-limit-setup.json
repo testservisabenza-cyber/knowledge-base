@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "status": "pending-full-article-acceptance",
+  "manifestHash": "c70ee4c27e38da9b823571f6b334699e7112e536df9e32de46433b8dfe95c907",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-company-limit-setup",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": true,
+    "backgroundModes": false,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "company-open-penza.svg",
+      "sourceHash": "2745f80c446228ec5541f6067be188c704110c8770e94ecd28d369f6dc332794",
+      "svgHash": "5eba1b01745f873446aeefcea3f5114db8aa31c67b3de954b9da355bcf46e564",
+      "stepText": "Нажмите стрелку в строке найденной компании.",
+      "stepTextHash": "32f8421dcd2ab56ad4b66832048c17f1a5ecbbf900ca8a7e86b56fdb07daef9e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка слева к кнопке перехода в строке Пенза; корзина и название не перекрыты. Просмотрены исходник, SVG, увеличение и шаг 3 в настоящей статье. Координаты унаследованы из прежнего манифеста; новое измерение DOM не проводилось."
+    },
+    {
+      "output": "company-balance-tab.svg",
+      "sourceHash": "917f1d0e190fadc91532370d64054979ef8ec3e4c33abf9a575ec40650017f90",
+      "svgHash": "501e8b0ce7329810fc08b6da713c66973d1e551b9044714bafe2eb5aa6d885ad",
+      "stepText": "Откройте вкладку «Баланс». Подраздел «Лимитный план» выбран при входе на вкладку.",
+      "stepTextHash": "e635718aaae9934d0d460135516b8722c793037e6e3b6636fdbe7ce2f7fcff73",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка по диагонали через свободное место под вкладками к нижней части левой грани, подписи соседних вкладок свободны. Просмотрены исходник, SVG, увеличение и шаг 4 в настоящей статье. Координаты унаследованы из прежнего манифеста; новое измерение DOM не проводилось."
+    },
+    {
+      "output": "company-limit-edit.svg",
+      "sourceHash": "917f1d0e190fadc91532370d64054979ef8ec3e4c33abf9a575ec40650017f90",
+      "svgHash": "ac85ecde1250325f69d23a9f3523f88fa2b2a8549ed03b59a2e7f088b9bf0dab",
+      "stepText": "В карточке «Лимит» нажмите кнопку с карандашом.",
+      "stepTextHash": "63b21f82f4967f7b6ec267f7e9cc33680890a2f8e157d21cf66a74f552ea0ed6",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Горизонтальная стрелка слева к карандашу лимита, заголовок и остаток свободны. Просмотрены исходник, SVG, увеличение и шаг 5 в настоящей статье. Координаты унаследованы из прежнего манифеста; новое измерение DOM не проводилось."
+    },
+    {
+      "output": "company-limit-type.svg",
+      "sourceHash": "1e5cf358e3a548e820a895f333270366b7a51dc52b72d1d3a38b3c7b06488784",
+      "svgHash": "5734b136c9c9e85990de5e66fe87c62508869fa6d2e6d2cc3a51437c297ebbdb",
+      "stepText": "В форме «Изменение лимита» выберите «Абсолютный» для ограничения в литрах либо «Безлимитный», если общий предел не нужен.",
+      "stepTextHash": "5b2bb7887a9cb55435f151824cd2036be405fee76206bf7161ab5d67a0880c77",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Тип лимита с раскрытыми вариантами в одной рамке. Рамка по ширине панели, слева отступ 4 px; стрелок у полей нет. Индивидуально просмотрены исходник, полный SVG, увеличение и шаг 6 в обеих темах. DOM заново не измерялся; высота унаследована, край панели взят по исходнику. Проверены открытие/закрытие увеличения и копирование полного PNG в буфер."
+    },
+    {
+      "output": "company-limit-liters.svg",
+      "sourceHash": "0d18c691f637ced221dfc77fd5364170f1d145718b5d465608e7b9562cd9d911",
+      "svgHash": "bdb0b18bedd6febd92061ec13ef3e2ac3a653cdf613634e4e7eec5b1eb55ec98",
+      "stepText": "Если выбран «Абсолютный», в поле «Литры» введите согласованный объём. При типе «Безлимитный» этот шаг пропустите.",
+      "stepTextHash": "6f82247e630ab25a7ac60f47059a71e56a53f5aa865eeff25f51a2622e602ae3",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Тип лимита и литры в рамке; сохранение отдельно. Рамка по ширине панели, слева отступ 4 px; стрелок у полей нет. Индивидуально просмотрены исходник, полный SVG, увеличение и шаг 7 в обеих темах. DOM заново не измерялся; высота унаследована, край панели взят по исходнику. Проверены открытие/закрытие увеличения и копирование полного PNG в буфер."
+    },
+    {
+      "output": "company-limit-save.svg",
+      "sourceHash": "0d18c691f637ced221dfc77fd5364170f1d145718b5d465608e7b9562cd9d911",
+      "svgHash": "c6d82b16f86034036b78d295e2026a081428538cee6bd9ec1452b0f080b85d97",
+      "stepText": "Нажмите «Сохранить» в форме изменения лимита. Именно эта кнопка записывает новый план.",
+      "stepTextHash": "d88ecd54a8d080d48856259ad59a15f715a19432ad0a5a02ceb7fded37feb9d9",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Короткая стрелка справа к кнопке сохранения/добавления, целиком внутри свободной белой области. Индивидуально просмотрены исходник, полный SVG, увеличение и шаг 8 в обеих темах. DOM заново не измерялся; высота унаследована, край панели взят по исходнику. Проверены открытие/закрытие увеличения и копирование полного PNG в буфер."
+    },
+    {
+      "output": "company-nav.svg",
+      "sourceHash": "2745f80c446228ec5541f6067be188c704110c8770e94ecd28d369f6dc332794",
+      "svgHash": "d16f3ad39fab84b25565a609dcaf6a0933b10ed994f689aba512e9d55d8acb5a",
+      "stepText": "В левом меню откройте раздел «Компании».",
+      "stepTextHash": "27f263a196038e7d4b17ecfeeba7f7d81d1e65ea47d9c083640db692adac3bb8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка выбранного пункта по ширине левого меню: слева у края, справа отступ 4 px, высота пункта сохранена; стрелка сбоку. Просмотрены исходник, полный SVG, увеличение и шаг 1 в светлой и тёмной темах; копирование проверено. Новый замер DOM не выполнялся."
+    }
+  ],
+  "pending": [
+    {
+      "step": 2,
+      "image": "/images/guides/pro-repairs-20261008/company-find-penza.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 9,
+      "image": "/images/guides/pro-repairs-20261008/company-balance-refresh.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 10,
+      "reason": "Общий шаг записи в контроллер содержит illustration и controllerWrite, но не image; screenshots:accept останавливается на этом шаге."
+    }
+  ]
+}

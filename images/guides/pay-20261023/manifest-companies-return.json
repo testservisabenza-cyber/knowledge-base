@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/controller-added.jpg",
+      "output": "companies-menu.svg",
+      "title": "Перейти в раздел Компании",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/Single/1549",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "measurementMethod": "source-image-pixels",
+      "measurementNote": "Границы пункта меню измерены на сохранённом исходнике controller-added.jpg размером 1920x1080. Текущая сессия сервиса требует входа.",
+      "boxes": [
+        {
+          "x": 0,
+          "y": 294.5,
+          "width": 246,
+          "height": 39.5,
+          "selector": "#side-menu a[href=\"/Companies/Company/All\"]",
+          "target": "Компании"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            285,
+            314.25
+          ],
+          "toSide": "right"
+        }
+      ]
+    }
+  ]
+}

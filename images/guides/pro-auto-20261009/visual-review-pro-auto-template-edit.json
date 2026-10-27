@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "manifestHash": "fb1bb9a6e1e74bb780465e748891a2b60d90bccecbf71afcac053a5bb60ce3c1",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-auto-template-edit",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "template-nav.svg",
+      "sourceHash": "a8eb87818ff43ecc604cd8248c39308e5bf94c55d81f1eeb8176a394f38a96c2",
+      "svgHash": "ec014a70de874628f8905e873f73a09887d63d3788dd23c4c920020c405691da",
+      "stepText": "Откройте в разделе «Автоотчеты» пункт «Шаблоны отчетов» и найдите шаблон по названию.",
+      "stepTextHash": "678650bb22a820a5a63235c50c33ddc62228ca0fc8641706d3e1c37b5981a1de",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Меню по ширине, короткая горизонтальная стрелка."
+    },
+    {
+      "output": "template-edit.svg",
+      "sourceHash": "a8eb87818ff43ecc604cd8248c39308e5bf94c55d81f1eeb8176a394f38a96c2",
+      "svgHash": "689648f576d871540ded176421ee1bb48b6c83fdf2a8094238f508cb4f86175a",
+      "stepText": "Нажмите карандаш в строке нужного шаблона. Справа откроется форма с его текущими значениями.",
+      "stepTextHash": "82b22323408c0c57cbb368e80c7e7ac095929b052e855880eabae396c6fc5ca1",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Карандаш выделен отдельно, диагональ в угол; корзина не перекрыта."
+    },
+    {
+      "output": "template-fields.svg",
+      "sourceHash": "5453f4342d7e3dd1e79cb473bf832279c5c64b142a332798323b6c00bde095a2",
+      "svgHash": "ca8eaee4f1f9f71a15b1838f8ab6e5fb87999d0a2f46610d3f3e3ee2d468e80f",
+      "stepText": "Проверьте компанию, выбор контроллеров и пользователей. Исправьте нужные поля.",
+      "stepTextHash": "533f346e26dc1f49ca79700ddac34551efa442f3ce83f682581c15a21ffa8863",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Рамка формы по ширине панели исключает Сохранить."
+    },
+    {
+      "output": "template-edit-save.svg",
+      "sourceHash": "5453f4342d7e3dd1e79cb473bf832279c5c64b142a332798323b6c00bde095a2",
+      "svgHash": "9a142df7be8efea87d7739c37636597789a38cdba4e97a27b7782da6f9f596c4",
+      "stepText": "Нажмите «Сохранить» в форме шаблона.",
+      "stepTextHash": "0f2889fbf74c7f4eeddbb6de313f7f10348c7a20b410fc0bea5ca62166b94e7c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Сохранить выделена отдельно, стрелка горизонтальная."
+    }
+  ]
+}

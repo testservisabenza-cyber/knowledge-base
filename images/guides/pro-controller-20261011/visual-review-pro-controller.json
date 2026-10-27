@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-controller",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "В левом меню откройте «Контроллеры (ТРК)».",
+      "stepTextHash": "8ba2c5e6ebab719eabbc6a9d979d0e9b372e03347d753b2001437da4e1468870",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт меню выделен по ширине, горизонтальная стрелка справа. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "list-new.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "0ff22beecc81e5946766f1fa759a7e416b46c8ff7ed99c55890dbdc568fd04e1",
+      "stepText": "Найдите новую строку в списке и проверьте ID, статус связи и время первого успешного опроса. Стрелка для входа в настройки появится после успешного первичного обмена.",
+      "stepTextHash": "166f1addd1278240011f002c619a59d7886b7e2b51f1b37405376848605ad067",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Первая строка нового контроллера целиком выделена, отсутствие первичного обмена видно. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "menu-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "502e6f715490340c4b861f40e9a9594b9cacd0f3f70bf69d5d56a3f2bdb9aae4",
+      "stepText": "Над списком откройте «Действия с контроллерами».",
+      "stepTextHash": "24ca99b89161cd2186dd7ebc2079de642243764824bef477195129d36ab9c45c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка действий отдельно выделена, стрелка слева. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "menu-add.svg",
+      "sourceHash": "becfd567281cbd78f12c28db49975f11a5827c5622c1dfe3c6224d0ff20f836f",
+      "svgHash": "c48655c5ee31c27d95796af67e37aaf31bbc4a1a977f2f76d6d6c5fffe4bf160",
+      "stepText": "В раскрытом меню нажмите «Добавить контроллер». Справа появится форма.",
+      "stepTextHash": "d7d4a3dfa09f35ecb8fed51e205793839b66d34df1de6dcc7d12a71641c687e9",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Команда добавления в открытом меню, стрелка слева. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "add-name.svg",
+      "sourceHash": "33ebf00a9d02900d2e55713f86812e2d16f353c4f62970f47ed3a8b70f701c1a",
+      "svgHash": "8aecb6038caec915bff6dba61fde16ea7d2f48ed3c6a4e6a2becfcb160c82781",
+      "stepText": "В поле «Название» введите понятное имя объекта или ТРК. По нему контроллер будет виден в списке.",
+      "stepTextHash": "a464ce4a632838a3d4a620e93b117752f880e3565bf4bab473ba2bc5d20aae62",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Название: рамка по ширине белой панели с отступами, без стрелки. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "add-login.svg",
+      "sourceHash": "33ebf00a9d02900d2e55713f86812e2d16f353c4f62970f47ed3a8b70f701c1a",
+      "svgHash": "c157f3f33dd4f906cb3486e554a51589c8480174032966ace62f45e26aebf1d4",
+      "stepText": "В поле «Логин» введите выданный логин подключения этого контроллера. Это не адрес вашей учётной записи ПРО.",
+      "stepTextHash": "e8ff573adbf69920b95e96e25aa4147326add1de48889b89bccc93c023a64834",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Логин: подпись и поле внутри рамки, без стрелки. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "add-password.svg",
+      "sourceHash": "33ebf00a9d02900d2e55713f86812e2d16f353c4f62970f47ed3a8b70f701c1a",
+      "svgHash": "da8508d392127bea4416ed6936ae701d2c2c016ac306280087e18afd706da8fc",
+      "stepText": "В поле «Пароль» введите пароль подключения контроллера. Это не пароль для входа в ПРО.",
+      "stepTextHash": "805fa54bcecb25a30e01cc18cab8f385b01383623f805d7f1724c4a8df8a3208",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пароль: подпись и пустое поле внутри рамки, без стрелки. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "add-id.svg",
+      "sourceHash": "33ebf00a9d02900d2e55713f86812e2d16f353c4f62970f47ed3a8b70f701c1a",
+      "svgHash": "9bf9c1cd0b892cc66eab372bdcdc3d15a24a4c0bab48eac0709935eb31bc0af4",
+      "stepText": "Введите «ID контроллера». Он указан на наклейке платы управления новых устройств; если оборудование уже используется в benzamat Офис или ПРО, ID можно сверить там. Проверьте каждый символ: поле принимает цифры 0–9 и буквы A–F.",
+      "stepTextHash": "8a0cc1d963ea4d3ad25db915d25ecd63ac6d72cd36f42091433352bd79e0ced2",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "ID: подпись и подсказка читаются, рамка по ширине панели. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "add-station.svg",
+      "sourceHash": "33ebf00a9d02900d2e55713f86812e2d16f353c4f62970f47ed3a8b70f701c1a",
+      "svgHash": "0b708a4ac42a90479ab4115bffcca0c13f0ca8b2f26209effb3b46d581f24adc",
+      "stepText": "Выберите в поле «Станция» резервуар, к которому подключено оборудование.",
+      "stepTextHash": "621ef261e97285e02ef8e44dbee9801b09fca8ea007f1d28041e2b79285942b5",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Станция: одно поле в рамке по ширине панели. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "add-sections.svg",
+      "sourceHash": "33ebf00a9d02900d2e55713f86812e2d16f353c4f62970f47ed3a8b70f701c1a",
+      "svgHash": "2a28e2c5f23303eb77785bc76b9405d232ef94f64fbbb6af31ca9f86ac241e35",
+      "stepText": "В поле «Секции» выберите части этого резервуара, с которыми работает контроллер.",
+      "stepTextHash": "38020098d70bc73dca556f21c0d76b4dca207c798bd353623ea5dbd6ff07b919",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Секции: одно поле в рамке по ширине панели. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "add-fuel.svg",
+      "sourceHash": "33ebf00a9d02900d2e55713f86812e2d16f353c4f62970f47ed3a8b70f701c1a",
+      "svgHash": "4dbcddf75974fa60a3cdf0a8ffaa79878ae51af56c2f40de53c11da1d3113a31",
+      "stepText": "Проверьте поле «Топливо» и выберите фактически выдаваемый вид топлива.",
+      "stepTextHash": "e71546507236e6176bf5cfb5632ea6cc2234f0f39d90464245367a2748b41407",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Топливо: выбранное ДТ видно, рамка не касается текста. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "add-group.svg",
+      "sourceHash": "33ebf00a9d02900d2e55713f86812e2d16f353c4f62970f47ed3a8b70f701c1a",
+      "svgHash": "aae056c46773e985f176f29563f5be64d2e4892a37c953d02494cb3fd60e3ee7",
+      "stepText": "Если у вас используются группы, выберите нужную в необязательном поле «Группы». Иначе оставьте поле пустым.",
+      "stepTextHash": "a8e8d9ef5f67ebb4dd1261cbb51375386b1493add44a1fe0c842461753ac4916",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Группы: необязательное пустое поле, без стрелки. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    },
+    {
+      "output": "add-save.svg",
+      "sourceHash": "33ebf00a9d02900d2e55713f86812e2d16f353c4f62970f47ed3a8b70f701c1a",
+      "svgHash": "3a999c4ea3a1a3165c17ce526ee0e99ba7f401a931c78f300ffa4f6a0db5fb95",
+      "stepText": "Нажмите «Сохранить» внизу формы.",
+      "stepTextHash": "643bf4b2c2f7ce0a4606e6ec4392fc51f1846be416694b7b3c9702a333772f3d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить: отдельная рамка и горизонтальная стрелка слева. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены."
+    }
+  ]
+}

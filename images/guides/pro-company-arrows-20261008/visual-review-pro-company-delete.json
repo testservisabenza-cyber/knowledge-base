@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "status": "pending-full-article-acceptance",
+  "manifestHash": "c70ee4c27e38da9b823571f6b334699e7112e536df9e32de46433b8dfe95c907",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-company-delete",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": true,
+    "backgroundModes": false,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "company-delete-button.svg",
+      "sourceHash": "2745f80c446228ec5541f6067be188c704110c8770e94ecd28d369f6dc332794",
+      "svgHash": "f3a1aa1f4ca57c69b5cf41a08cbc29fdbe28729865e7a4860c353d7e663ef61d",
+      "stepText": "В строке нужной компании нажмите красную кнопку с корзиной.",
+      "stepTextHash": "43c3a0d1ad215018f484365fa5f69806c92e1740e0a94ad95fd257d2b8c5f66e",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка справа от корзины, не пересекает соседнюю кнопку перехода. Просмотрены исходник, SVG, увеличение и шаг 3 в настоящей статье. Координаты унаследованы из прежнего манифеста; новое измерение DOM не проводилось."
+    },
+    {
+      "output": "company-delete-confirm.svg",
+      "sourceHash": "77f85e67d8264d1dc6b10cefe2d014667b11d0197ef0052db451c24b3c348ff3",
+      "svgHash": "26a90cba6ebabfad497f2e6548f7f0c8dfabc549d6a9947ddd8f35816ee02191",
+      "stepText": "Прочитайте предупреждение об удалении связанных данных. Если проверили выбранную организацию и готовы удалить её без восстановления, нажмите «Подтвердить».",
+      "stepTextHash": "de467b9006e3bcdc9fd216388f28da37918ba9a74fdb1e95ad5bef2372eb37a3",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделено только подтверждение удаления; у отмены нет рамки и стрелки, команда отмены убрана из шага. Просмотрены исходник, полный SVG, увеличение и шаг 4 в светлой и тёмной темах; копирование проверено. Новый замер DOM не выполнялся."
+    },
+    {
+      "output": "company-nav.svg",
+      "sourceHash": "2745f80c446228ec5541f6067be188c704110c8770e94ecd28d369f6dc332794",
+      "svgHash": "d16f3ad39fab84b25565a609dcaf6a0933b10ed994f689aba512e9d55d8acb5a",
+      "stepText": "В левом меню откройте раздел «Компании».",
+      "stepTextHash": "27f263a196038e7d4b17ecfeeba7f7d81d1e65ea47d9c083640db692adac3bb8",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка выбранного пункта по ширине левого меню: слева у края, справа отступ 4 px, высота пункта сохранена; стрелка сбоку. Просмотрены исходник, полный SVG, увеличение и шаг 1 в светлой и тёмной темах; копирование проверено. Новый замер DOM не выполнялся."
+    }
+  ],
+  "pending": [
+    {
+      "step": 2,
+      "image": "/images/guides/pro-repairs-20261008/company-find-penza.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 5,
+      "reason": "Общий шаг записи в контроллер содержит illustration и controllerWrite, но не image; screenshots:accept останавливается на этом шаге."
+    }
+  ]
+}

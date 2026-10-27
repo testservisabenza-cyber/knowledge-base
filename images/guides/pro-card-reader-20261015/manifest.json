@@ -1,0 +1,527 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/web-reader-kb-download.jpg",
+      "output": "step-01.svg",
+      "title": "Загрузка программы из базы знаний",
+      "sourceUrl": "http://127.0.0.1:5174/articles/pro-software",
+      "background": "off",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 73,
+          "selector": "tbody tr:nth-child(2)",
+          "target": "Программа считывателя карт",
+          "width": 1198,
+          "x": 547.796875,
+          "y": 448.609375
+        },
+        {
+          "height": 40,
+          "selector": "a[href*=\"setupBenzamatProReader\"]",
+          "target": "Скачать программу",
+          "width": 120,
+          "x": 1614.046875,
+          "y": 465.109375
+        }
+      ],
+      "arrow": {
+        "box": 1,
+        "toSide": "right",
+        "from": [
+          1804.046875,
+          485.109375
+        ]
+      },
+      "provenance": "Existing browser capture and its recorded DOM measurements from users-v4/manifest.json"
+    },
+    {
+      "source": "source/pro-reader-install-welcome.png",
+      "output": "step-02.svg",
+      "title": "Далее в мастере установки",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 596,
+        "height": 462
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "Preserved original installer window or hardware photograph",
+      "boxes": [
+        {
+          "target": "Далее",
+          "selector": "provided-image-pixels: Далее",
+          "x": 413,
+          "y": 430,
+          "width": 80,
+          "height": 23
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            453,
+            386
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/pro-reader-install-options.png",
+      "output": "step-03.svg",
+      "title": "Дополнительные задачи установки",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 596,
+        "height": 462
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "Preserved original installer window or hardware photograph",
+      "boxes": [
+        {
+          "target": "Флажки дополнительных задач",
+          "selector": "provided-image-pixels: Флажки дополнительных задач",
+          "x": 36,
+          "y": 144,
+          "width": 224,
+          "height": 88
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/pro-reader-install-options.png",
+      "output": "step-04.svg",
+      "title": "Продолжение установки",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 596,
+        "height": 462
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "Preserved original installer window or hardware photograph",
+      "boxes": [
+        {
+          "target": "Далее",
+          "selector": "provided-image-pixels: Далее",
+          "x": 413,
+          "y": 430,
+          "width": 80,
+          "height": 23
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            453,
+            386
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/01-first-launch.png",
+      "output": "step-05.svg",
+      "title": "Первое окно программы",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 586,
+        "height": 393
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "User-provided original, 2026-10-15; no browser DOM exists for this native window",
+      "boxes": [
+        {
+          "target": "Адрес сервера и ID пользователя",
+          "selector": "provided-image-pixels: Адрес сервера и ID пользователя",
+          "x": 70,
+          "y": 202,
+          "width": 326,
+          "height": 44
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/01-first-launch.png",
+      "output": "step-06.svg",
+      "title": "Адрес сервера",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 586,
+        "height": 393
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "User-provided original, 2026-10-15; no browser DOM exists for this native window",
+      "boxes": [
+        {
+          "target": "Адрес сервера",
+          "selector": "provided-image-pixels: Адрес сервера",
+          "x": 70,
+          "y": 202,
+          "width": 145,
+          "height": 44
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/web-reader-profile-login.jpg",
+      "output": "step-07.svg",
+      "title": "Кнопка профиля, Логин вошедшего пользователя",
+      "sourceUrl": "https://pro.benza.online/users",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 36.671875,
+          "selector": "#page-topbar button.btn-light",
+          "target": "Кнопка профиля",
+          "width": 44,
+          "x": 1841,
+          "y": 24.65625
+        },
+        {
+          "height": 50.1875,
+          "selector": "#page-topbar .dropdown-menu.show .dropdown-item:first-child",
+          "target": "Логин вошедшего пользователя",
+          "width": 160,
+          "x": 1733,
+          "y": 69.328125
+        }
+      ],
+      "arrow": {
+        "box": 0,
+        "toCorner": "top-left",
+        "from": [
+          1790,
+          8
+        ]
+      },
+      "provenance": "Existing browser capture and its recorded DOM measurements from users-v4/manifest.json"
+    },
+    {
+      "source": "source/web-list.jpg",
+      "output": "step-08.svg",
+      "title": "Раздел Пользователи",
+      "sourceUrl": "https://pro.benza.online/users",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 39.640625,
+          "selector": "#users",
+          "target": "Раздел Пользователи",
+          "width": 250,
+          "x": 0,
+          "y": 335.59375
+        }
+      ],
+      "padding": -2,
+      "provenance": "Existing browser capture and its recorded DOM measurements from users-v4/manifest.json",
+      "arrow": {
+        "box": 0,
+        "toSide": "right",
+        "from": [
+          300,
+          355.4140625
+        ]
+      }
+    },
+    {
+      "source": "source/web-reader-user-list.jpg",
+      "output": "step-09.svg",
+      "title": "Фильтр по логину, Пользователь Test66",
+      "sourceUrl": "https://pro.benza.online/users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 32,
+          "selector": "[placeholder=\"Filter by Логин\"]",
+          "target": "Фильтр по логину",
+          "width": 156.859375,
+          "x": 1649.140625,
+          "y": 328.25
+        },
+        {
+          "height": 73.03125,
+          "selector": "tbody tr:first-child",
+          "target": "Пользователь Test66",
+          "width": 1574,
+          "x": 286,
+          "y": 367.640625
+        }
+      ],
+      "provenance": "Existing browser capture and its recorded DOM measurements from users-v4/manifest.json"
+    },
+    {
+      "source": "source/web-reader-user-list.jpg",
+      "output": "step-10.svg",
+      "title": "Открыть настройки",
+      "sourceUrl": "https://pro.benza.online/users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr:first-child td:first-child button:first-child",
+          "target": "Открыть настройки",
+          "width": 36,
+          "x": 302,
+          "y": 389.625
+        }
+      ],
+      "arrow": {
+        "box": 0,
+        "from": [
+          257,
+          403.65625
+        ],
+        "toSide": "left"
+      },
+      "provenance": "Existing browser capture and its recorded DOM measurements from users-v4/manifest.json"
+    },
+    {
+      "source": "source/web-reader-user-id.jpg",
+      "output": "step-11.svg",
+      "title": "External Id пользователя",
+      "sourceUrl": "https://pro.benza.online/user/41030",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 66.140625,
+          "selector": ".mb-3:has(input[name=\"ExternalId\"])",
+          "target": "External Id пользователя",
+          "width": 575.25,
+          "x": 685.5,
+          "y": 627.734375
+        }
+      ],
+      "provenance": "Existing browser capture and its recorded DOM measurements from users-v4/manifest.json"
+    },
+    {
+      "source": "source/02-user-id-entered.png",
+      "output": "step-12.svg",
+      "title": "ID пользователя введён",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 578,
+        "height": 387
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "User-provided original, 2026-10-15; no browser DOM exists for this native window",
+      "boxes": [
+        {
+          "target": "ID пользователя",
+          "selector": "provided-image-pixels: ID пользователя",
+          "x": 224,
+          "y": 201,
+          "width": 169,
+          "height": 45
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/02-user-id-entered.png",
+      "output": "step-13.svg",
+      "title": "Сохранение адреса сервера и ID",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 578,
+        "height": 387
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "User-provided original, 2026-10-15; no browser DOM exists for this native window",
+      "boxes": [
+        {
+          "target": "Сохранить",
+          "selector": "provided-image-pixels: Сохранить",
+          "x": 410,
+          "y": 218,
+          "width": 110,
+          "height": 27
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            561,
+            231.5
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/06-settings-saved-notification.png",
+      "output": "step-14.svg",
+      "title": "Настройки сохранены",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 359,
+        "height": 97
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "User-provided original, 2026-10-15; no browser DOM exists for this native window",
+      "boxes": [],
+      "arrows": []
+    },
+    {
+      "source": "source/03-reader-connected.png",
+      "output": "step-15.svg",
+      "title": "Считыватель подключён",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 586,
+        "height": 393
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "User-provided original, 2026-10-15; no browser DOM exists for this native window",
+      "boxes": [
+        {
+          "target": "Считыватель и версия ПО",
+          "selector": "provided-image-pixels: Считыватель и версия ПО",
+          "x": 70,
+          "y": 253,
+          "width": 460,
+          "height": 22
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/pro-reader-tap-retouched.png",
+      "output": "step-16.svg",
+      "title": "Карта и USB-считыватель",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1254,
+        "height": 1254
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "AI-assisted cosmetic retouch requested by user 2026-10-16: cuticles, worn card printing, lighting and clarity. Original pro-reader-tap.jpg preserved unchanged.",
+      "boxes": [],
+      "arrows": []
+    },
+    {
+      "source": "source/04-card-read.png",
+      "output": "step-17.svg",
+      "title": "Номер и тип карты",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 572,
+        "height": 385
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "User-provided original, 2026-10-15; no browser DOM exists for this native window",
+      "boxes": [
+        {
+          "target": "Номер и тип карты",
+          "selector": "provided-image-pixels: Номер и тип карты",
+          "x": 66,
+          "y": 279,
+          "width": 329,
+          "height": 36
+        }
+      ],
+      "arrows": []
+    },
+    {
+      "source": "source/05-card-read-and-sent-notifications.png",
+      "output": "step-18.svg",
+      "title": "Карта считана и номер передан в ПРО",
+      "sourceUrl": "https://pro.benza.online",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "captureKind": "native-window",
+      "viewport": {
+        "width": 403,
+        "height": 190
+      },
+      "measurementMethod": "source-image-pixels",
+      "provenance": "User-provided original, 2026-10-15; no browser DOM exists for this native window",
+      "boxes": [],
+      "arrows": []
+    },
+    {
+      "source": "source/web-user-add-rfid-button.jpg",
+      "output": "step-19.svg",
+      "title": "Тип авторизации, Тип считывателя, Номер карты, Получить номер карты",
+      "sourceUrl": "https://pro.benza.online/users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "selector": ".offcanvas-body > form > div:nth-child(6), .offcanvas-body > form > div:nth-child(7), .offcanvas-body > form > div:nth-child(8)",
+          "target": "Авторизация, тип считывателя и RFID",
+          "x": 1525,
+          "y": 482.640625,
+          "width": 382,
+          "height": 233.359375
+        },
+        {
+          "height": 36.53125,
+          "selector": ".offcanvas-body button.mb-2",
+          "target": "Получить номер карты",
+          "width": 168.703125,
+          "x": 1537,
+          "y": 732
+        }
+      ],
+      "arrow": {
+        "box": 1,
+        "toSide": "right",
+        "from": [
+          1775.703125,
+          750.265625
+        ]
+      },
+      "provenance": "Existing browser capture and its recorded DOM measurements from users-v4/manifest.json"
+    }
+  ]
+}

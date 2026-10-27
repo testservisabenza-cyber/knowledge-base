@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "status": "pending-full-article-acceptance",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-company-list",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": false,
+    "backgroundModes": false,
+    "stepNavigation": false,
+    "imageZoom": false,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "company-overview-list.svg",
+      "sourceHash": "5780de6dde397643c69ce5e3aaf34fbcf2365296bd3e1ec671124e476cc0a514",
+      "svgHash": "81a40f23a457276d49c996dcf711ec29aaf2a319e5069a234dbeebc51ebaeee3",
+      "stepText": "Список компаний\nКаждая строка — отдельная организация. Таблица содержит название, дату добавления, статус блокировки, вид компании и действия. Поля под заголовками служат для фильтрации, заголовки — для сортировки, нижняя панель — для смены страницы и количества строк.\nКнопка со стрелкой открывает настройки организации; корзина запускает удаление. «Добавить компанию» создаёт главную компанию или нефтетрейдера. Клиентское подразделение добавляют из настроек главной компании.",
+      "stepTextHash": "a50efcf779b980097012b3274094ca2e2707c926317a19e063462bcd278be076",
+      "clickTargets": [],
+      "clickExplanation": "Обзор перечисляет назначения действий; отдельной команды нажатия в этом блоке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка выбранного пункта по ширине левого меню: слева у края, справа отступ 4 px, высота пункта сохранена; стрелка сбоку. Просмотрены исходник, полный SVG, увеличение и шаг 1 в светлой и тёмной темах; копирование проверено. Новый замер DOM не выполнялся."
+    }
+  ],
+  "pending": [
+    {
+      "step": 2,
+      "image": "/images/guides/pro-clean-v2/companies-types.svg",
+      "reason": "Полная повторная приемка неизмененных кадров статьи не выполнена."
+    },
+    {
+      "step": 3,
+      "image": "/images/guides/pro-clean-v2/company-info.svg",
+      "reason": "Полная повторная приемка неизмененных кадров статьи не выполнена."
+    },
+    {
+      "step": 4,
+      "image": "/images/guides/pro-clean-v2/company-balance.svg",
+      "reason": "Полная повторная приемка неизмененных кадров статьи не выполнена."
+    },
+    {
+      "step": 5,
+      "image": "/images/guides/pro-clean-v2/company-account.svg",
+      "reason": "Полная повторная приемка неизмененных кадров статьи не выполнена."
+    },
+    {
+      "step": 6,
+      "image": "/images/guides/pro-clean-v2/company-fuels.svg",
+      "reason": "Полная повторная приемка неизмененных кадров статьи не выполнена."
+    },
+    {
+      "step": 7,
+      "image": "/images/guides/pro-clean-v2/company-stations.svg",
+      "reason": "Полная повторная приемка неизмененных кадров статьи не выполнена."
+    },
+    {
+      "step": 8,
+      "reason": "Полная повторная приемка неизмененных кадров статьи не выполнена."
+    },
+    {
+      "step": 9,
+      "image": "/images/guides/pro-clean-v2/company-block.svg",
+      "reason": "Полная повторная приемка неизмененных кадров статьи не выполнена."
+    }
+  ],
+  "manifestHash": "c70ee4c27e38da9b823571f6b334699e7112e536df9e32de46433b8dfe95c907"
+}

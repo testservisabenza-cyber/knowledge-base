@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "manifestHash": "d9c0cf0abf6f37852c9d58596236bf3b765bba690c93dafc6cecee383e0c1344",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-access-denied",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "articleInspectionNote": "Каждый шаг просмотрен в статье; обе темы, режимы фона, увеличение, подтверждение копирования и переходы проверены. Ссылки открывают новую вкладку. Тёмная тема и фон под инструкцией восстановлены; временный размер окна сброшен.",
+  "shots": [
+    {
+      "output": "object-nav.svg",
+      "sourceHash": "4fd65c45eab29268a67af5db5866c1115d07f93ab990d98fdc582803f0917080",
+      "svgHash": "15252f120d1430ba0ac8aeff01cbf388fc8c632b747ff776d06e8e46f7339409",
+      "stepText": "В раскрытом разделе «Управление доступом» откройте «Права к объектам». Найдите правило, которое должно предоставлять нужный объект.",
+      "stepTextHash": "089149d07a8f6e9ca7735f1b66da50b7d6f9b1e68e6bca11d188f71445d2e03c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полная ширина пункта меню, справа 4 px; короткая горизонтальная стрелка. Шаг 5: Права к объектам со стрелкой и без лишних выделений."
+    },
+    {
+      "output": "object-edit.svg",
+      "sourceHash": "4fd65c45eab29268a67af5db5866c1115d07f93ab990d98fdc582803f0917080",
+      "svgHash": "94d63e7d1dcf26590424268fb2df3dcbe8334e6d8e286bb0da8a1b94c832009f",
+      "stepText": "Нажмите карандаш правила, чтобы проверить его получателей и объекты.",
+      "stepTextHash": "f96f1000697e84ecea9937ecedb27379454b4a928e33de6118cbc2a820547864",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Карандаш 12334 выделен; прямая стрелка слева не пересекает описание. Шаг 6: Карандаш для просмотра записи отдельно."
+    },
+    {
+      "output": "object-edit-fields.svg",
+      "sourceHash": "7660aed8fc056eded295fe31256c59184ce546f7b1b52a2284bf17aa61b89078",
+      "svgHash": "e7fbfa666debdbd61a7c4da77bb33b5a2285c6182a09d540c69e53fc3be7ec4a",
+      "stepText": "Сверьте учётную запись, тип и название объекта. Показанный пример «12334» относится к «Артем Техподдержка» и компании «Пенза»: он не подтверждает доступ пользователя testtest к контроллеру. Для него требуется собственное подходящее правило.",
+      "stepTextHash": "ba7325a80097f76f7f3b20ed38bd9a6902e77d7fbb0018a4e0632f0c3ce89602",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Все поля существующего правила 12334: Артем, Компания, Пенза; единая рамка исключает Сохранить. Шаг 7: Поля 12334/Артем/Пенза совпадают, текст ясно отличает пример от testtest."
+    },
+    {
+      "output": "sessions-nav.svg",
+      "sourceHash": "0158421c56f8bbf6e2ea4e5971203b3721782356d3be5996e0a414be4303f652",
+      "svgHash": "76d1e343f8d06cf7837b232880b4d0e1182ee37812a92b61fc49745481510b30",
+      "stepText": "Если права верны, а после обновления страницы объект всё ещё не появляется, откройте «Управление входом».",
+      "stepTextHash": "8839d46e34a0474c37f93d1b3f13241132ed7e0ac377cf3b7f912d6e6621d643",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Выделение Управление входом по ширине меню, справа малый отступ, стрелка горизонтально. Шаг 8: Управление входом выделено с прямой стрелкой."
+    },
+    {
+      "output": "sessions-row.svg",
+      "sourceHash": "0158421c56f8bbf6e2ea4e5971203b3721782356d3be5996e0a414be4303f652",
+      "svgHash": "5716d062c41744085dff8edec4776f57777fad9e62fc11c2965dc091d3fc04ab",
+      "stepText": "Проверьте сессию нужной учётной записи и её срок. На снимке показан вход учебного аккаунта «Тестируем сервис (ГК)»; для пользователя testtest ищите его собственную запись. Не завершайте другой вход только из-за похожего имени. Если причина не найдена, передайте администратору или поддержке логин, название роли, тип и название недоступного объекта.",
+      "stepTextHash": "623cbd92f73e2bad22b0f80cdf82aa8f9415dae0ce1987bb51fc3a7c1282db83",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Целая строка учебной веб-сессии; срок и источник видны, рамка не касается текста. Шаг 9: Сессия учебного аккаунта и срок выделены без стрелки, пример пояснён."
+    },
+    {
+      "output": "user-nav.svg",
+      "sourceHash": "f4dc739e2e12086c9a55c6b27c8fd20f380ba59fa6d20d69162e8fa4776d5196",
+      "svgHash": "74050e7fc9220f99bf968b93b9d03468a86554f9cf0b479b222b6ce923830e1f",
+      "stepText": "Откройте «Пользователи». Найдите нужную учётную запись по имени или логину; в примере фильтр логина содержит testtest.",
+      "stepTextHash": "543e8db5e68e8235e9bbb9578acf9e9bf0732a6efbdbecc6c6b46598f694f435",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт Пользователи по полной ширине меню, справа отступ, короткая стрелка. Шаг 1: Пользователи по ширине меню, в таблице реальный фильтр testtest."
+    },
+    {
+      "output": "user-open.svg",
+      "sourceHash": "f4dc739e2e12086c9a55c6b27c8fd20f380ba59fa6d20d69162e8fa4776d5196",
+      "svgHash": "454273451c0899d7c3d357dd8aeaf6ca3a98f13e78df1c2e85d49e4f90d1f299",
+      "stepText": "Нажмите кнопку со стрелкой в строке «Тест Тест».",
+      "stepTextHash": "c1f5394bca8583ae322ab1e9d2f9e39b3ee73e41f03600e463f7052414732bb0",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка открытия testtest; прямая стрелка слева ниже фильтра, соседняя корзина свободна. Шаг 2: Открытие Тест Тест со стрелкой без пересечения фильтра."
+    },
+    {
+      "output": "user-role-check.svg",
+      "sourceHash": "1fe31f705864633476e870a3cf3aeb0340ea44495b2fb6029477a1cad0283586",
+      "svgHash": "f9856e90d82173d2283211592e9972266218ed0464b0a7369f040b3efbef7725",
+      "stepText": "Откройте «Основная информация» и проверьте «Роль в системе». В примере назначен «Старший оператор». Для диагностики используйте фактически назначенную роль, а не похожую по названию.",
+      "stepTextHash": "7603d12719d1d3cab8f3e31ef44e9946520469d789c65f073286975c9415a10f",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Основная информация и поле Роль раздельно; стрелка к вкладке по пустому месту слева. Шаг 3: Основная информация и назначенная роль Старший оператор отдельно."
+    },
+    {
+      "output": "senior-modules.svg",
+      "sourceHash": "bf0c61b9b10b19b80424e42f38697d7a1eeee5346d1ac57d0298cefc0580cb35",
+      "svgHash": "b6510292b2e78886f9da900704ff6f304b7e62fa2d77f563e74cfcec6a27fd4c",
+      "stepText": "В карточке этой роли откройте «Права доступа к модулям». Проверьте «Просмотр» нужного модуля и «Полный доступ». В примере просмотр «Контроллеров» включён: отсутствие устройства требует проверки доступа к объекту.",
+      "stepTextHash": "5d8e93d4a1274f06d0475b2cbd28e9fc47d13f4d0edc629d2cf0b03c83b81032",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Настоящая роль Старший оператор: вкладка со стрелкой, строка Контроллеры отдельной рамкой. Шаг 4: Реальная роль Старший оператор, вкладка со стрелкой, строка Контроллеры отдельно."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "manifestHash": "a52d28867895de5db8ac02c9287c05cf53946640080cae443545ade42c91bd92",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-receipt-gauge-button",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "articleInspectionNote": "Все8 кадров в светлой без фона и увеличении просмотрены; тёмная с боковым и полным фоном проверены. Переход8→7→8, масштаб125→100. Копирование завершено в открытом просмотре, PNG подтверждён. Ссылка16px/padding1px5px/blank/noopener открыла Привязать уровнемер и рукав к секции в новой вкладке, исходная статья осталась. Тёмная тема и фон под инструкцией восстановлены; временный размер окна сброшен.",
+  "shots": [
+    {
+      "output": "objects.svg",
+      "sourceHash": "eace68358207a06bde171ac178931d32f054488cc6e270921929df35e2779aaf",
+      "svgHash": "874e4a96a1afd66a49faff751a8ce1905702d331f82e4a5b5eaaebfece6a2b3b",
+      "stepText": "Проверьте компанию, станцию и секцию в поступлении. В примере это «Резервуар №1» и «Тестсекция». Кнопка не получает показания из произвольного соседнего резервуара.",
+      "stepTextHash": "db28e7dd20b62919f425d49d5ec2a472e0d4e60bbece3092f6012b9cd744f479",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Накладная УЧ-09-10, 1000 л, 840 кг/м3; фактические поля формы заполнены учебным примером 2000→3000, расчёт разницы 1000 настоящий. Нижняя часть формы показывается отдельным кадром. SVG: Отдельный SVG: три поля объектов одной рамкой, подписи с отступом, заголовок формы снаружи. Шаг 1: Объекты Р1/Тестсекция выделены, соответствуют диагностике."
+    },
+    {
+      "output": "math-receipt.svg",
+      "sourceHash": "1e254348e0968f855b3c540c1b79476eb5ba79dc8f385f7bdb94849a13f57643",
+      "svgHash": "feb22c7f828c15de8ce4365f03709ff1ad7ee82137aaf25bb14c379115cdacf0",
+      "stepText": "Если вместо колонок начала и конца показано «У станции используется расчет математического остатка топлива», отсутствие кнопки штатное. Здесь показан отдельный пример «Резервуар №2», «Секция 1». Не переключайте режим учёта только ради появления кнопки.",
+      "stepTextHash": "888223aa31e39abae0960fdb09093efca94d2f945e1c5495142fcf28aaadb89f",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Реальное старое поступление станции Резервуар №2: накладная 3000, предупреждение математического учёта, колонок Начало/Конец и кнопок Уровнемер нет. SVG: Объекты, предупреждение математического учёта и накладная3000 выделены отдельно; начала/конца нет, поля и подписи внутри. Шаг 2: Другой пример Р2/Секция1 явно подписан в тексте; сообщение математического учёта и накладная читаемы."
+    },
+    {
+      "output": "stations-nav.svg",
+      "sourceHash": "28eef2a12b129078a9d6fad0ffafc90521bb6c452e2fc23c8d58a4c41a0d6da0",
+      "svgHash": "1b3416e83b141a738c6d9b20513ca8a80b79e67f520f93341b61c87644347357",
+      "stepText": "Для проверки станции откройте «Станции» в левом меню. Найдите именно станцию поступления и проверьте столбец математического остатка.",
+      "stepTextHash": "c9082484a52951a5b3abaa4728c0ce6b75e41969c507f404bdaf7545c4f879e6",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Список станций полностью загружен, обе конкретные станции и их реальные режимы видны; кнопки перехода рядом с корзиной. SVG: Станции обведены по ширине меню с правым отступом, стрелка в промежутке справа. Шаг 3: Станции рамкой по ширине левого меню с прямой короткой стрелкой, не касается строк таблицы."
+    },
+    {
+      "output": "gauge-station-open.svg",
+      "sourceHash": "28eef2a12b129078a9d6fad0ffafc90521bb6c452e2fc23c8d58a4c41a0d6da0",
+      "svgHash": "9b4b1e9029c41b37329b02a7a4a3a655bc1088c771dfc5bbd8ffe101da00c3af",
+      "stepText": "В строке «Резервуар №1» компании «Тестируем сервис (ГК)» нажмите кнопку перехода в настройки. В примере математический остаток этой станции не используется.",
+      "stepTextHash": "390a4f10c5980237c4066f63c0cee72cc7f284bc512a3e89ca84e38ca2b427e7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Список станций полностью загружен, обе конкретные станции и их реальные режимы видны; кнопки перехода рядом с корзиной. SVG: Диагональ в нижний правый угол перехода Резервуар №1; соседняя корзина и подпись пагинации свободны. Шаг 4: Переход Р1 выделен; диагональ точно в нижний правый угол, корзина и статистика свободны."
+    },
+    {
+      "output": "sections-tab.svg",
+      "sourceHash": "8d8ef14cc7411cac0e42d148c775688c66bb75b8f048eb8115196ccd5e160f6c",
+      "svgHash": "18f2232ed14ea2be0444f1ecbfe7ca3840a6d47e135d50e88f53b8a758410291",
+      "stepText": "Откройте вкладку «Секции». Здесь перечислены отсеки выбранной станции.",
+      "stepTextHash": "40c6755e4abe44e672110fab83b6db6201becb470e8c629d833d922eef15fee6",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Настоящая вкладка Секции Резервуара №1, нужная Тестсекция с отдельным карандашом; таблица загружена. SVG: Вертикальная стрелка сверху к Секции, заголовок станции слева от неё. Шаг 5: Секции с вертикальной стрелкой сверху, заголовок не пересекается."
+    },
+    {
+      "output": "section-open.svg",
+      "sourceHash": "8d8ef14cc7411cac0e42d148c775688c66bb75b8f048eb8115196ccd5e160f6c",
+      "svgHash": "165c4b17f17d21dab617ef622f2696d6a6dc5df7d3341a0494db8fefbf6b05e6",
+      "stepText": "В строке «Тестсекция» нажмите карандаш. Откроется её форма, где можно проверить выбранный прибор.",
+      "stepTextHash": "e162dfe88fe0d3da67e50201e5c4a4b487382e15154c6f834c5cfa54cadaa0a7",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Настоящая вкладка Секции Резервуара №1, нужная Тестсекция с отдельным карандашом; таблица загружена. SVG: Карандаш Тестсекции со стрелкой справа в пустой части строки. Шаг 6: Карандаш Тестсекции с горизонтальной стрелкой справа; другие строки не отмечены."
+    },
+    {
+      "output": "section-gauge.svg",
+      "sourceHash": "0e4854d5707c4920fd433c690c1641f81fb083ba6377e01229054a42f12bf4bf",
+      "svgHash": "67c8c3b7f236574b9e8caf4fbd2910f2ef3c12d65a3f23227b8af98686bcc591",
+      "stepText": "Проверьте поле «Уровнемер». В примере выбрано «Тестконтроллер - Уровнемер 1». Пустое поле или прибор другого отсека требуют проверки настройки. Для порядка изменения привязки используйте [Открыть инструкцию по привязке уровнемера к секции](/articles/pro-section-hydraulic).",
+      "stepTextHash": "1445a36a2079092654ec1be02019fd0cccc0899cec7543ecea36a9f71146d40b",
+      "clickTargets": [],
+      "clickExplanation": "Обзор состояния или заполнение полей; ссылки в тексте открывают другие инструкции, нажатия на кнопку снимка не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Правая белая панель секции, настоящий выбранный Тестконтроллер — Уровнемер 1; остальная форма загружена. SVG: Уровнемер обведён по ширине белой панели с отступом4px, без стрелки; подпись и выбор не пересечены. Шаг 7: Правый белый блок Уровнемер обведён по ширине с отступом, без стрелки; имя прибора и ссылка читаются."
+    },
+    {
+      "output": "controllers-check.svg",
+      "sourceHash": "8abe917cb3302497cfb5c5796199aa479cde989d4b28b0bd69a157740c2be9fa",
+      "svgHash": "de56de009d3ca789f72b61bd72bcce80c647eb775d517d8d374c10059841b48d",
+      "stepText": "Для проверки обмена откройте «Контроллеры (ТРК)». Сверьте станцию контроллера и время успешного опроса. Значение 01.01.0001 в учебной строке не является свежим показанием. Если данных нет, восстановите обмен и проверьте привязку прибора; не выдавайте нулевые или старые значения за реальный замер.",
+      "stepTextHash": "66d98482a2ccbe68e5499149c6cbcd2da6a2112e983175f7b9f5625f978691f2",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Исходник: Реальный контроллер Резервуара №1: неизвестная лицензия и успешный опрос 01.01.0001, свежего обмена нет; это диагностическое состояние, не выдается за успешный результат. SVG: Меню контроллеров по ширине; время01.01.0001 обведено отдельно, стрелка только к меню. Шаг 8: Контроллеры стрелкой и полная дата01.01.0001 отдельной рамкой; текст не представляет её свежим замером."
+    }
+  ]
+}

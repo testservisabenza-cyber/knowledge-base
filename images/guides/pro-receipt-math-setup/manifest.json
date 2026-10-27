@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/pro-repairs-20261008-stations-list.jpg",
+      "output": "step-01.svg",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "padding": 2,
+          "selector": "a[href=\"/stations\"]",
+          "target": "Раздел Станции",
+          "width": 246,
+          "x": 0,
+          "y": 256.3125,
+          "insetRight": 4
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "toOffset": 0.5,
+          "from": [
+            320,
+            276.1328125
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Раздел Станции",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application",
+      "padding": 0
+    },
+    {
+      "source": "source/pro-repairs-20261008-stations-list.jpg",
+      "output": "step-02.svg",
+      "boxes": [
+        {
+          "height": 61.0625,
+          "padding": 2,
+          "selector": "tbody tr:first-child",
+          "target": "Учебный резервуар №1",
+          "width": 1574,
+          "x": 286,
+          "y": 229.921875
+        },
+        {
+          "height": 32,
+          "padding": 2,
+          "selector": "input[aria-label=\"Filter by Название\"]",
+          "target": "Пустой фильтр по названию",
+          "width": 286.796875,
+          "x": 300,
+          "y": 190.53125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Учебный резервуар №1, Пустой фильтр по названию",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application"
+    },
+    {
+      "source": "source/pro-repairs-20261008-stations-list.jpg",
+      "output": "step-03.svg",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "padding": 2,
+          "selector": "tbody tr:first-child button:has(svg.lucide-arrow-right)",
+          "target": "Настройки учебного резервуара",
+          "width": 36,
+          "x": 1613.203125,
+          "y": 245.921875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "bottom-right",
+          "from": [
+            1679.203125,
+            298.984375
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/stations",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Настройки учебного резервуара",
+      "sourceUrl": "https://pro.benza.online/stations",
+      "background": "application",
+      "padding": 2
+    },
+    {
+      "source": "source/pro-repairs-20261008-station-info.jpg",
+      "output": "step-04.svg",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "padding": 2,
+          "selector": "[role=\"combobox\"]:not([disabled])",
+          "target": "Математический остаток",
+          "width": 508.65625,
+          "x": 818.65625,
+          "y": 452.515625
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Математический остаток",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "output": "step-05.svg",
+      "title": "Выбор математического остатка",
+      "boxes": [
+        {
+          "height": 158.828125,
+          "selector": ".mb-3:has([aria-expanded=\"true\"]),[role=\"listbox\"]",
+          "target": "Математический остаток и варианты учёта",
+          "width": 508.65625,
+          "x": 818.65625,
+          "y": 452.515625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "toOffset": 0.6196261682242991,
+          "from": [
+            1422.3125,
+            550.9296875
+          ]
+        }
+      ],
+      "source": "source/station-math-options.jpg",
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "rightScrollbarWidth": 0,
+      "background": "application"
+    },
+    {
+      "source": "source/pro-repairs-20261008-station-math-balance.jpg",
+      "output": "step-06.svg",
+      "boxes": [
+        {
+          "height": 66.140625,
+          "padding": 2,
+          "selector": "label: Остаток топлива",
+          "target": "Остаток топлива",
+          "width": 508.65625,
+          "x": 818.65625,
+          "y": 536.125
+        }
+      ],
+      "arrows": [],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Остаток топлива",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/pro-repairs-20261008-station-math-balance.jpg",
+      "output": "step-07.svg",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "padding": 2,
+          "selector": "button: Сохранить изменения",
+          "target": "Сохранить изменения",
+          "width": 162.5,
+          "x": 286,
+          "y": 700.40625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "toOffset": 0.5,
+          "from": [
+            550,
+            718.671875
+          ]
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "capture": {
+        "rightScrollbarWidth": 0,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "https://pro.benza.online/station/1042",
+        "viewport": {
+          "height": 1080,
+          "width": 1920
+        }
+      },
+      "title": "Сохранить изменения",
+      "sourceUrl": "https://pro.benza.online/station/1042",
+      "background": "application"
+    },
+    {
+      "source": "source/invoice-empty-clean.jpg",
+      "output": "step-08.svg",
+      "boxes": [
+        {
+          "x": 582.5,
+          "y": 282.21875,
+          "width": 363,
+          "height": 487.84375,
+          "target": "Накладная",
+          "selector": ".modal invoice column"
+        }
+      ],
+      "rightScrollbarWidth": 0,
+      "sourceUrl": "https://pro.benza.online/pourings",
+      "capturedAt": "2026-10-14T05:59:56.471Z",
+      "title": "step-04.svg",
+      "background": "application"
+    }
+  ]
+}

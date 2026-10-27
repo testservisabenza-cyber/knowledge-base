@@ -1,0 +1,1443 @@
+{
+  "rightScrollbarWidth": 0,
+  "targets": [
+    {
+      "height": 70,
+      "selector": "#navbar-brand-box-hide > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 34.65625,
+      "selector": "#react-aria2390243602-\\:r0\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1706.666748046875,
+      "y": 25
+    },
+    {
+      "height": 34.65625,
+      "selector": "#react-aria2390243602-\\:r1\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 42,
+      "x": 1756.666748046875,
+      "y": 25
+    },
+    {
+      "height": 34.65625,
+      "selector": "#react-aria2390243602-\\:r2\\:",
+      "tag": "BUTTON",
+      "target": "5",
+      "width": 42,
+      "x": 1806.666748046875,
+      "y": 25
+    },
+    {
+      "height": 35.989585876464844,
+      "selector": "#react-aria2390243602-\\:r3\\:",
+      "tag": "BUTTON",
+      "target": "BUTTON",
+      "width": 43.33333587646485,
+      "x": 1856.666748046875,
+      "y": 25
+    },
+    {
+      "height": 70,
+      "selector": "#page-topbar > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+      "tag": "A",
+      "target": "A",
+      "width": 202,
+      "x": 24,
+      "y": 0
+    },
+    {
+      "height": 38.35416793823242,
+      "selector": "#button-hide-menu",
+      "tag": "BUTTON",
+      "target": "Свернуть меню",
+      "width": 149.4166717529297,
+      "x": 50.29166793823242,
+      "y": 80
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#main-point > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Главная",
+      "width": 250,
+      "x": 0,
+      "y": 134.3541717529297
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#company",
+      "tag": "A",
+      "target": "Компании",
+      "width": 250,
+      "x": 0,
+      "y": 215.98959350585935
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#stations",
+      "tag": "A",
+      "target": "Станции",
+      "width": 250,
+      "x": 0,
+      "y": 255.625
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#controllers",
+      "tag": "A",
+      "target": "Контроллеры (ТРК)",
+      "width": 250,
+      "x": 0,
+      "y": 295.26043701171875
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#users",
+      "tag": "A",
+      "target": "Пользователи",
+      "width": 250,
+      "x": 0,
+      "y": 334.8958435058594
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#transports",
+      "tag": "A",
+      "target": "Транспорт",
+      "width": 250,
+      "x": 0,
+      "y": 374.53125
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#alrts",
+      "tag": "A",
+      "target": "Оповещения",
+      "width": 250,
+      "x": 0,
+      "y": 414.1666870117187
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(9) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Поступление ГСМ",
+      "width": 250,
+      "x": 0,
+      "y": 453.8020935058594
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(10) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Автоотчеты",
+      "width": 250,
+      "x": 0,
+      "y": 493.4375
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(11) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Аналитика",
+      "width": 250,
+      "x": 0,
+      "y": 533.0729370117188
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(13) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление доступом",
+      "width": 250,
+      "x": 0,
+      "y": 614.7083740234375
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(14) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "Управление входом",
+      "width": 250,
+      "x": 0,
+      "y": 654.34375
+    },
+    {
+      "height": 39.63541793823242,
+      "selector": "#sidebar-menu > ul:nth-of-type(1) > li:nth-of-type(15) > a:nth-of-type(1)",
+      "tag": "A",
+      "target": "benzamat Оплата",
+      "width": 250,
+      "x": 0,
+      "y": 693.9791870117188
+    },
+    {
+      "height": 29,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1)",
+      "tag": "H2",
+      "target": "Контроллер - 33481F76 03373931 5235364C Электромеханическая Действие лицензии: 01.05.2024 00:00 - 31.12.2029 00:00",
+      "width": 941.5833740234376,
+      "x": 286,
+      "y": 97.42708587646484
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#root > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Действия с контроллерами",
+      "width": 203.0416717529297,
+      "x": 1665.9583740234375,
+      "y": 94
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-maininfo",
+      "tag": "BUTTON",
+      "target": "Настройки",
+      "width": 108.59375,
+      "x": 274,
+      "y": 137.8541717529297
+    },
+    {
+      "height": 41.16666793823242,
+      "selector": "#uncontrolled-tab-example-tab-levelmeter",
+      "tag": "BUTTON",
+      "target": "Уровнемеры",
+      "width": 120.875,
+      "x": 382.59375,
+      "y": 137.8541717529297
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-users",
+      "tag": "BUTTON",
+      "target": "Пользователи",
+      "width": 132.625,
+      "x": 503.46875,
+      "y": 137.8541717529297
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-ts",
+      "tag": "BUTTON",
+      "target": "Транспортные средства",
+      "width": 201.42709350585935,
+      "x": 636.09375,
+      "y": 137.8541717529297
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-companies",
+      "tag": "BUTTON",
+      "target": "Компании",
+      "width": 103.375,
+      "x": 837.5208740234375,
+      "y": 137.8541717529297
+    },
+    {
+      "height": 38.5,
+      "selector": "#uncontrolled-tab-example-tab-journal",
+      "tag": "BUTTON",
+      "target": "Журнал всех сообщений",
+      "width": 204.3854217529297,
+      "x": 940.8958740234376,
+      "y": 137.8541717529297
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Настройки на контроллере",
+      "width": 377.75,
+      "x": 286,
+      "y": 204.02084350585935
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Настройки на контроллере",
+      "width": 203.45834350585935,
+      "x": 286,
+      "y": 204.02084350585935
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Показания уровнемеров",
+      "width": 176.4791717529297,
+      "x": 687.75,
+      "y": 204.02084350585935
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Тип",
+      "width": 23.89583396911621,
+      "x": 286,
+      "y": 255.875
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-35-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 296.66668701171875,
+      "y": 293.66668701171875
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 306.66668701171875,
+      "y": 387.6354370117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 306.66668701171875,
+      "y": 387.6354370117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-36-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 317.3333435058594,
+      "y": 425.4270935058594
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "Адрес 0",
+      "width": 336.41668701171875,
+      "x": 306.66668701171875,
+      "y": 471.2291870117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Адрес",
+      "width": 40.71875,
+      "x": 306.66668701171875,
+      "y": 471.2291870117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-37-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 317.3333435058594,
+      "y": 509.0208435058594
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Сохранить",
+      "width": 336.41668701171875,
+      "x": 306.66668701171875,
+      "y": 554.8229370117188
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 90.61458587646484,
+      "x": 306.66668701171875,
+      "y": 554.8229370117188
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 708.4166870117188,
+      "y": 387.6354370117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 708.4166870117188,
+      "y": 387.6354370117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-38-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 719.0833740234375,
+      "y": 425.4270935058594
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "Адрес 0",
+      "width": 336.41668701171875,
+      "x": 708.4166870117188,
+      "y": 471.2291870117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Адрес",
+      "width": 40.71875,
+      "x": 708.4166870117188,
+      "y": 471.2291870117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-39-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 719.0833740234375,
+      "y": 509.0208435058594
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Сохранить",
+      "width": 336.41668701171875,
+      "x": 708.4166870117188,
+      "y": 554.8229370117188
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 90.61458587646484,
+      "x": 708.4166870117188,
+      "y": 554.8229370117188
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 1110.166748046875,
+      "y": 387.6354370117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 1110.166748046875,
+      "y": 387.6354370117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-40-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 1120.8333740234375,
+      "y": 425.4270935058594
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "Адрес 0",
+      "width": 336.41668701171875,
+      "x": 1110.166748046875,
+      "y": 471.2291870117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Адрес",
+      "width": 40.71875,
+      "x": 1110.166748046875,
+      "y": 471.2291870117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-41-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 1120.8333740234375,
+      "y": 509.0208435058594
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Сохранить",
+      "width": 336.41668701171875,
+      "x": 1110.166748046875,
+      "y": 554.8229370117188
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 90.61458587646484,
+      "x": 1110.166748046875,
+      "y": 554.8229370117188
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 1511.916748046875,
+      "y": 387.6354370117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 1511.916748046875,
+      "y": 387.6354370117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-42-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 1522.5833740234375,
+      "y": 425.4270935058594
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "Адрес 0",
+      "width": 336.41668701171875,
+      "x": 1511.916748046875,
+      "y": 471.2291870117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Адрес",
+      "width": 40.71875,
+      "x": 1511.916748046875,
+      "y": 471.2291870117187
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-43-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 1522.5833740234375,
+      "y": 509.0208435058594
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Сохранить",
+      "width": 336.41668701171875,
+      "x": 1511.916748046875,
+      "y": 554.8229370117188
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 90.61458587646484,
+      "x": 1511.916748046875,
+      "y": 554.8229370117188
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(5) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 306.66668701171875,
+      "y": 691.5104370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(5) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 306.66668701171875,
+      "y": 691.5104370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-44-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 317.3333435058594,
+      "y": 729.3021240234375
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(5) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "Адрес 0",
+      "width": 336.41668701171875,
+      "x": 306.66668701171875,
+      "y": 775.1041870117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(5) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Адрес",
+      "width": 40.71875,
+      "x": 306.66668701171875,
+      "y": 775.1041870117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-45-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 317.3333435058594,
+      "y": 812.8958740234375
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(5) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Сохранить",
+      "width": 336.41668701171875,
+      "x": 306.66668701171875,
+      "y": 858.6979370117188
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(5) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 90.61458587646484,
+      "x": 306.66668701171875,
+      "y": 858.6979370117188
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(6) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 708.4166870117188,
+      "y": 691.5104370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(6) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 708.4166870117188,
+      "y": 691.5104370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-46-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 719.0833740234375,
+      "y": 729.3021240234375
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(6) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "Адрес 0",
+      "width": 336.41668701171875,
+      "x": 708.4166870117188,
+      "y": 775.1041870117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(6) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Адрес",
+      "width": 40.71875,
+      "x": 708.4166870117188,
+      "y": 775.1041870117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-47-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 719.0833740234375,
+      "y": 812.8958740234375
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(6) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Сохранить",
+      "width": 336.41668701171875,
+      "x": 708.4166870117188,
+      "y": 858.6979370117188
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(6) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 90.61458587646484,
+      "x": 708.4166870117188,
+      "y": 858.6979370117188
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(7) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 1110.166748046875,
+      "y": 691.5104370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(7) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 1110.166748046875,
+      "y": 691.5104370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-48-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 1120.8333740234375,
+      "y": 729.3021240234375
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(7) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "Адрес 0",
+      "width": 336.41668701171875,
+      "x": 1110.166748046875,
+      "y": 775.1041870117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(7) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Адрес",
+      "width": 40.71875,
+      "x": 1110.166748046875,
+      "y": 775.1041870117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-49-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 1120.8333740234375,
+      "y": 812.8958740234375
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(7) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Сохранить",
+      "width": 336.41668701171875,
+      "x": 1110.166748046875,
+      "y": 858.6979370117188
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(7) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 90.61458587646484,
+      "x": 1110.166748046875,
+      "y": 858.6979370117188
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(8) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 1511.916748046875,
+      "y": 691.5104370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(8) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 1511.916748046875,
+      "y": 691.5104370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-50-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 1522.5833740234375,
+      "y": 729.3021240234375
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(8) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "Адрес 0",
+      "width": 336.41668701171875,
+      "x": 1511.916748046875,
+      "y": 775.1041870117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(8) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Адрес",
+      "width": 40.71875,
+      "x": 1511.916748046875,
+      "y": 775.1041870117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-51-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 1522.5833740234375,
+      "y": 812.8958740234375
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(8) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "target": "Сохранить",
+      "width": 336.41668701171875,
+      "x": 1511.916748046875,
+      "y": 858.6979370117188
+    },
+    {
+      "height": 35.85416793823242,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(8) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Сохранить",
+      "width": 90.61458587646484,
+      "x": 1511.916748046875,
+      "y": 858.6979370117188
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(9) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 306.66668701171875,
+      "y": 995.3854370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(9) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 306.66668701171875,
+      "y": 995.3854370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-52-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 317.3333435058594,
+      "y": 1033.1771240234375
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(10) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 708.4166870117188,
+      "y": 995.3854370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(10) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 708.4166870117188,
+      "y": 995.3854370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-54-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 719.0833740234375,
+      "y": 1033.1771240234375
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(11) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 1110.166748046875,
+      "y": 995.3854370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(11) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 1110.166748046875,
+      "y": 995.3854370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-56-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 1120.8333740234375,
+      "y": 1033.1771240234375
+    },
+    {
+      "height": 67.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(12) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Вкл/Выкл Выключен",
+      "width": 336.41668701171875,
+      "x": 1511.916748046875,
+      "y": 995.3854370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(12) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > label:nth-of-type(1)",
+      "tag": "LABEL",
+      "target": "Вкл/Выкл",
+      "width": 67.70833587646484,
+      "x": 1511.916748046875,
+      "y": 995.3854370117188
+    },
+    {
+      "height": 21.59375,
+      "selector": "#react-select-58-input",
+      "tag": "INPUT",
+      "target": "INPUT",
+      "width": 4.3229169845581055,
+      "x": 1522.5833740234375,
+      "y": 1033.1771240234375
+    },
+    {
+      "height": 578.2708740234375,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Показания уровнемеров 11.10.2026 15:04 Сумма Уровень (см) Температура Заполнение (%) Общий объем (л) 0.0 Масса (кг) 0.0 Плотность (кг/м3) Объем основного продукта (л) 0.0 Уровень подтоварной жидкости (см) Код ошибки",
+      "width": 1140,
+      "x": 382.5,
+      "y": 28
+    },
+    {
+      "height": 30.39583396911621,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > button:nth-of-type(1)",
+      "tag": "BUTTON",
+      "target": "Close",
+      "width": 30.39583396911621,
+      "x": 1483.4375,
+      "y": 45.96875
+    },
+    {
+      "height": 463.2708435058594,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1)",
+      "tag": "TABLE",
+      "target": "11.10.2026 15:04 Сумма Уровень (см) Температура Заполнение (%) Общий объем (л) 0.0 Масса (кг) 0.0 Плотность (кг/м3) Объем основного продукта (л) 0.0 Уровень подтоварной жидкости (см) Код ошибки",
+      "width": 1106.666748046875,
+      "x": 399.1666870117187,
+      "y": 110.33333587646484
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > thead:nth-of-type(1) > tr:nth-of-type(1)",
+      "tag": "TR",
+      "target": "11.10.2026 15:04 Сумма",
+      "width": 1106,
+      "x": 399.5,
+      "y": 110.66667175292967
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(1)",
+      "tag": "TR",
+      "target": "Уровень (см)",
+      "width": 1106,
+      "x": 399.5,
+      "y": 156.92709350585938
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(2)",
+      "tag": "TR",
+      "target": "Температура",
+      "width": 1106,
+      "x": 399.5,
+      "y": 203.1875
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(3)",
+      "tag": "TR",
+      "target": "Заполнение (%)",
+      "width": 1106,
+      "x": 399.5,
+      "y": 249.4479217529297
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4)",
+      "tag": "TR",
+      "target": "Общий объем (л) 0.0",
+      "width": 1106,
+      "x": 399.5,
+      "y": 295.7083435058594
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(4) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "0.0",
+      "width": 221.90625,
+      "x": 1283.59375,
+      "y": 295.7083435058594
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5)",
+      "tag": "TR",
+      "target": "Масса (кг) 0.0",
+      "width": 1106,
+      "x": 399.5,
+      "y": 341.96875
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(5) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "0.0",
+      "width": 221.90625,
+      "x": 1283.59375,
+      "y": 341.96875
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(6)",
+      "tag": "TR",
+      "target": "Плотность (кг/м3)",
+      "width": 1106,
+      "x": 399.5,
+      "y": 388.2291870117187
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(7)",
+      "tag": "TR",
+      "target": "Объем основного продукта (л) 0.0",
+      "width": 1106,
+      "x": 399.5,
+      "y": 434.4895935058594
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(7) > td:nth-of-type(1)",
+      "tag": "TD",
+      "target": "0.0",
+      "width": 221.90625,
+      "x": 1283.59375,
+      "y": 434.4895935058594
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(8)",
+      "tag": "TR",
+      "target": "Уровень подтоварной жидкости (см)",
+      "width": 1106,
+      "x": 399.5,
+      "y": 480.75
+    },
+    {
+      "height": 46.26041793823242,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > table:nth-of-type(1) > tbody:nth-of-type(1) > tr:nth-of-type(9)",
+      "tag": "TR",
+      "target": "Код ошибки",
+      "width": 1106,
+      "x": 399.5,
+      "y": 527.0104370117188
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 453.3229370117187,
+      "x": 296.66668701171875,
+      "y": 291.66668701171875
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Не задано",
+      "width": 511.65625,
+      "x": 286,
+      "y": 285.46875
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 317.3333435058594,
+      "y": 423.4270935058594
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 306.66668701171875,
+      "y": 417.2291870117187
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 317.3333435058594,
+      "y": 507.0208435058594
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 719.0833740234375,
+      "y": 423.4270935058594
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 708.4166870117188,
+      "y": 417.2291870117187
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 719.0833740234375,
+      "y": 507.0208435058594
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 1120.8333740234375,
+      "y": 423.4270935058594
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 1110.166748046875,
+      "y": 417.2291870117187
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 1120.8333740234375,
+      "y": 507.0208435058594
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 1522.5833740234375,
+      "y": 423.4270935058594
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 1511.916748046875,
+      "y": 417.2291870117187
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 1522.5833740234375,
+      "y": 507.0208435058594
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(5) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 317.3333435058594,
+      "y": 727.3021240234375
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(5) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 306.66668701171875,
+      "y": 721.1041870117188
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(5) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 317.3333435058594,
+      "y": 810.8958740234375
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(6) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 719.0833740234375,
+      "y": 727.3021240234375
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(6) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 708.4166870117188,
+      "y": 721.1041870117188
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(6) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 719.0833740234375,
+      "y": 810.8958740234375
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(7) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 1120.8333740234375,
+      "y": 727.3021240234375
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(7) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 1110.166748046875,
+      "y": 721.1041870117188
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(7) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 1120.8333740234375,
+      "y": 810.8958740234375
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(8) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 1522.5833740234375,
+      "y": 727.3021240234375
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(8) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 1511.916748046875,
+      "y": 721.1041870117188
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(8) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 1522.5833740234375,
+      "y": 810.8958740234375
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(9) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 317.3333435058594,
+      "y": 1031.1771240234375
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(9) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 306.66668701171875,
+      "y": 1024.979248046875
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(10) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 719.0833740234375,
+      "y": 1031.1771240234375
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(10) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 708.4166870117188,
+      "y": 1024.979248046875
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(11) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 1120.8333740234375,
+      "y": 1031.1771240234375
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(11) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 1110.166748046875,
+      "y": 1024.979248046875
+    },
+    {
+      "height": 25.59375,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(12) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "target": "DIV",
+      "width": 278.0833435058594,
+      "x": 1522.5833740234375,
+      "y": 1031.1771240234375
+    },
+    {
+      "height": 38,
+      "selector": "#uncontrolled-tab-example-tabpane-levelmeter > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(12) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "target": "Выключен",
+      "width": 336.41668701171875,
+      "x": 1511.916748046875,
+      "y": 1024.979248046875
+    }
+  ],
+  "viewport": {
+    "height": 1080,
+    "width": 1920
+  },
+  "source": "source/gauge-readings.jpg",
+  "url": "https://pro.benza.online/controller/1556",
+  "dom": "- region \"Notifications Alt+T\"\n- banner:\n  - banner:\n    - link:\n      - /url: /\n    - generic: По всем возникающим вопросам и неполадкам сообщайте нашей технической поддержке тел. (8412) 45-41-14\n    - button:\n    - button:\n    - button \"5\":\n      - generic: \"5\"\n    - button:\n  - link:\n    - /url: /\n- button \"Свернуть меню\":\n  - text: Свернуть меню\n- list:\n  - link \"Главная\":\n    - /url: /dashboard\n    - text: Главная\n  - listitem: ОБЩИЙ ФУНКЦИОНАЛ\n  - link \"Компании\":\n    - /url: /companies\n    - text: Компании\n  - link \"Станции\":\n    - /url: /stations\n    - text: Станции\n  - link \"Контроллеры (ТРК)\":\n    - /url: /controllers\n    - text: Контроллеры (ТРК)\n  - link \"Пользователи\":\n    - /url: /users\n    - text: Пользователи\n  - link \"Транспорт\":\n    - /url: /transports\n    - text: Транспорт\n  - link \"Оповещения\":\n    - /url: /alerts\n    - text: Оповещения\n  - link \"Поступление ГСМ 󰅀\":\n    - /url: /fuel-intake\n    - text: Поступление ГСМ 󰅀\n  - link \"Автоотчеты 󰅀\":\n    - /url: /\n    - text: Автоотчеты 󰅀\n  - link \"Аналитика 󰅀\":\n    - /url: /\n    - text: Аналитика 󰅀\n  - listitem: АДМИНИСТРИРОВАНИЕ\n  - link \"Управление доступом 󰅀\":\n    - /url: /\n    - text: Управление доступом 󰅀\n  - link \"Управление входом\":\n    - /url: /security/tokens\n    - text: Управление входом\n  - link \"benzamat Оплата\":\n    - /url: https://pay.benza.online\n    - text: benzamat Оплата\n- 'heading \"Контроллер - 33481F76 03373931 5235364C Электромеханическая Действие лицензии: 01.05.2024 00:00 - 31.12.2029 00:00\" [level=2]':\n  - generic: Контроллер - 33481F76 03373931 5235364C\n  - generic: Электромеханическая\n  - generic: \"Действие лицензии: 01.05.2024 00:00 - 31.12.2029 00:00\"\n- button \"Действия с контроллерами\"\n- tablist:\n  - tab \"Настройки\"\n  - tab \"Уровнемеры\" [selected]\n  - tab \"Пользователи\"\n  - tab \"Транспортные средства\"\n  - tab \"Компании\"\n  - tab \"Журнал всех сообщений\"\n- tabpanel \"Уровнемеры\":\n  - button \"Настройки на контроллере\"\n  - button \"Показания уровнемеров\"\n  - generic: Тип\n  - log\n  - generic: Не задано\n  - combobox\n  - heading \"Уровнемер 1\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 2\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 3\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 4\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 5\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 6\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 7\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 8\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 9\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 10\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 11\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 12\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 13\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 14\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 15\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n  - heading \"Уровнемер 16\" [level=5]\n  - generic: Вкл/Выкл\n  - log\n  - generic: Выключен\n  - combobox\n  - generic: Адрес\n  - log\n  - generic: \"0\"\n  - button \"Сохранить\"\n- contentinfo:\n  - text: Онлайн сервис для управления топливом benzamat ПРО..\n  - link \"Политика обработки персональных данных.\":\n    - /url: /files/personal_data_pro.pdf\n  - link \"Свидетельство на ПО.\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025610388&TypeFile=html\n  - link \"Свидетельство на ТЗ\":\n    - /url: https://www1.fips.ru/registers-doc-view/fips_servlet?DB=RUTM&DocNumber=770581&TypeFile=html\n- dialog \"Показания уровнемеров\" [active]:\n  - generic: Показания уровнемеров\n  - button \"Close\"\n  - table:\n    - rowgroup:\n      - row \"11.10.2026 15:04 Сумма\":\n        - columnheader \"11.10.2026 15:04\"\n        - columnheader \"Сумма\"\n    - rowgroup:\n      - row \"Уровень (см)\":\n        - columnheader \"Уровень (см)\"\n      - row \"Температура\":\n        - columnheader \"Температура\"\n      - row \"Заполнение (%)\":\n        - columnheader \"Заполнение (%)\"\n      - row \"Общий объем (л) 0.0\":\n        - rowheader \"Общий объем (л)\"\n        - cell \"0.0\"\n      - row \"Масса (кг) 0.0\":\n        - rowheader \"Масса (кг)\"\n        - cell \"0.0\"\n      - row \"Плотность (кг/м3)\":\n        - columnheader \"Плотность (кг/м3)\"\n      - row \"Объем основного продукта (л) 0.0\":\n        - rowheader \"Объем основного продукта (л)\"\n        - cell \"0.0\"\n      - row \"Уровень подтоварной жидкости (см)\":\n        - columnheader \"Уровень подтоварной жидкости (см)\"\n      - row \"Код ошибки\":\n        - columnheader \"Код ошибки\""
+}

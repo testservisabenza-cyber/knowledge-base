@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "manifestHash": "862ad05e9bfdf9438706a7585c61af003e8998472bf77959f696d6e113a1d70b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-station-model",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "overview-station-fields.svg",
+      "sourceHash": "2946d2e27a31803faa123627876935ff7712ced0efe2cb4272a4821339481546",
+      "svgHash": "67f044f39d23bceddcb63769bd354c5e2418c0bfb5e609b6b008fb6269cadb2b",
+      "stepText": "Основная информация\nВо вкладке «Основная информация» хранятся название, компания, часовой пояс, описание, серийный номер, наряд-заказ и координаты. Название помогает различать резервуары; описание и номера — дополнительные сведения для учёта.\nКомпанию выбирают при создании, затем это поле недоступно для изменения. Перенос станции между компаниями требует обращения в техническую поддержку. Поля долготы и широты размещают объект на карте; дробную часть отделяют точкой.",
+      "stepTextHash": "d0f313188ca56fecff86d1650c5fccc76a4c25223a7069bf383f7b77991154fc",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Вкладка Основная информация (274, 140, 198x42); 1: Основные и дополнительные сведения (274, 206, 1065x396). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "overview-station-readings.svg",
+      "sourceHash": "9313e888932b7ccc7fdd9d5b9910c8631f860e46712c9b2298c5360537d29d11",
+      "svgHash": "610dec33ccbb3f1c6fcee2a47279b0fc86998ff49d7c1b27bba97b52c4ed21b7",
+      "stepText": "Сводка, история и удаление\nОкно «Данные по секциям» помогает сравнить полный, максимальный и текущий объём и заполненность. График в настройках отображает заполненность секций; история изменений относится к редактированию сведений станции.\nУдаление станции удаляет связанные секции, контроллеры и данные объекта. Для временного прекращения выдачи используют блокировку нужных пользователей или компании; поле активности станции не является работающим выключателем заправки.\nПосле изменений, относящихся к оборудованию, данные записывают в контроллер. Само сохранение сведений в сервисе не подтверждает применение на ТРК.",
+      "stepTextHash": "ba11a11bd4b0487ddd7201da60d1715958ced44306deb4180a9d0b8a4db9a637",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Данные по секциям (560, 28, 800x206). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "overview-stations-list.svg",
+      "sourceHash": "e08a00e4c90da6d1a8f91920e89977c96d1e01c026d605a037090d4ff2411713",
+      "svgHash": "7cbc1b952832e8396d95fedcfd6e60cafb3c6dfac93a197b671b6cd85739a59d",
+      "stepText": "Список станций и действия\nТаблица показывает название, описание, компанию и использование математического остатка. Фильтры под заголовками помогают найти объект; сортировка и пагинация меняют представление списка.\nВ строке кнопка с диаграммой открывает сводку данных по секциям, стрелка — настройки станции, корзина — удаление. «Добавить» создаёт новую станцию.",
+      "stepTextHash": "524b66641bbccaf2b44b9b9d49c2a0225c4edda5de81e79348205c15a8af1afd",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Раздел Станции (0, 256, 246x40); 1: Список станций (286, 155, 1574x437). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "overview-station-timezone.svg",
+      "sourceHash": "8ebabfba33940f7cbe63e0ed663716039dd3bcb770a5d714389be78f8e13e9c2",
+      "svgHash": "b3147c11d3c0c6114bbb1a55deb0853a2fc25c0d8252cd58f7945dabf425acbe",
+      "stepText": "Часовой пояс и вкладки\nЧасовой пояс задаётся как смещение относительно Москвы: 0 — московское время, 1 — на час позже, −1 — на час раньше. По нему устанавливают время на контроллерах этой станции при записи времени.\nИзменение пояса не исправляет даты уже сохранённых заправок. Во вкладках «Секции», «Контроллеры», «Компании» и «История изменений» находятся связанные отсеки, оборудование, доступ организаций и история редактирования.",
+      "stepTextHash": "0a259052458e0e2895ef91315e4bd84299a4b73a0517968132bd181680f54233",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Часовой пояс по московскому времени (274, 372, 533x66); 1: Вкладка Основная информация (274, 140, 198x42). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "overview-station-math.svg",
+      "sourceHash": "8ebabfba33940f7cbe63e0ed663716039dd3bcb770a5d714389be78f8e13e9c2",
+      "svgHash": "4d35c6dda4cd907c4460c6ddf90127411e0c4d337b9c7e10c046f0dcf33ea7af",
+      "stepText": "Измеренный или математический остаток\n«Математический остаток — Не используется» означает работу с показаниями привязанного уровнемера. У показания важно проверять время получения: отсутствие связи не означает, что резервуар пуст.\n«Используется» включает расчёт по операциям: исходный остаток + поступления − выдачи. Поле «Остаток топлива» задаёт сверенное начальное или корректирующее значение. В этом режиме данные уровнемера не используются; прежняя привязка сохраняется, но скрывается.\nИзменение или удаление старого поступления не пересчитывает текущий математический остаток автоматически. После исправления журнала требуется сверка и при необходимости ручная корректировка. История таких корректировок остатка отдельно не ведётся.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по математическому остатку](/articles/pro-plan-station-math).",
+      "stepTextHash": "f4a8c9d2340fe12a4475ac0c8c8924830f3f0fd016b314cfae15ebc32439dd3a",
+      "clickTargets": [],
+      "clickExplanation": "Это обзор состояния; действие описано справочно либо относится к кнопке ссылки в тексте статьи, открывающей новую вкладку. Кнопку интерфейса на этом кадре нажимать не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Вкладка Основная информация (274, 140, 198x42); 1: Математический остаток и сверенный объём (807, 453, 533x150). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "overview-station-sections.svg",
+      "sourceHash": "ad48586bcbd7f6aab76d099aa87415eba2ddb4b6758bf71ce9579be6823fe8f5",
+      "svgHash": "718bb477ecb0c203e7f3e7785778c6df347e48c8e1b30c4393159560b4a71a33",
+      "stepText": "Секции физического резервуара\nСекция — отдельный отсек внутри одного резервуара. У цельного резервуара достаточно одной секции; другой физический резервуар оформляют отдельной станцией.\nТаблица секций показывает название, топливо, полный и текущий объём, заполненность. Секция создаётся кнопкой «Добавление секции», а карандаш открывает её параметры. Удаление секций в сервисе не предусмотрено.",
+      "stepTextHash": "e18bab1e82513258190eb5adbd4ac27f7d09d02f6cd535a3188c1da2aa77d167",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Вкладка Секции (472, 140, 84x42); 1: Таблица секций с добавлением (286, 198, 1574x216). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "overview-station-section-fields.svg",
+      "sourceHash": "5fa0a8c53f280d8c35d96fff7fae1a0d42f8a25b471bd3650d6d01c6a1447dd5",
+      "svgHash": "64c1438a332076c17a2838ed367cfbb09d2f02f6e2cc2a27f9bb1712877c79d9",
+      "stepText": "Параметры и уровнемер секции\nНазвание и топливо определяют отсек и его содержимое. Полный объём задаёт вместимость для отображения заполненности; текущий объём — количество топлива, а не ёмкость резервуара.\nВысота, минимальный и максимальный уровни являются сведениями о резервуаре. Не следует считать их автоматическим ограничением выдачи в ПРО. Максимальный объём в сводке берётся из градуировочных данных и может отличаться от полного.\nУровнемер привязывают к нужной секции при выключенном математическом остатке. Контроллер должен принадлежать станции, а секция — быть добавлена в настройки контроллера. Сигнальный порог требует отдельного правила оповещения.\nДля пошаговой настройки нажмите кнопку [Открыть инструкцию по настройке оповещений](/articles/pro-notifications).",
+      "stepTextHash": "c1567ba755b4431cc0f52f418551844def580da2cc64e22a910a58ddff840037",
+      "clickTargets": [],
+      "clickExplanation": "Это обзор состояния; действие описано справочно либо относится к кнопке ссылки в тексте статьи, открывающей новую вкладку. Кнопку интерфейса на этом кадре нажимать не предлагается.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Параметры секции и уровнемера (1524, 98, 377x918). Стрелок нет, состояние и поля показаны рамками. Белая форма: рамка по ширине панели с отступом от её границ; кнопка сохранения вне рамки полей."
+    },
+    {
+      "output": "overview-station-controllers.svg",
+      "sourceHash": "f6b458ef274132c841f075554548571fa3aa03bdde72bf3d42e8cab915d4cd9b",
+      "svgHash": "128e60ea98343d5be23ede1aafeb25591f3ec1d4fb1de58ed597ab9620bc028c",
+      "stepText": "Контроллеры станции\nВкладка «Контроллеры» показывает оборудование, привязанное к станции: название, ID, состояние настроек, автоопроса и GSM-связи. Связь контроллера, его рукава, секции и уровнемеры определяют источник операций и показаний.",
+      "stepTextHash": "17fce9fd73611ca34cf889ebecf9dc2655532afbb3eaeff52ce7a957af0d22e9",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Контроллеры станции (556, 140, 128x42); 1: Список контроллеров станции (286, 198, 1574x156). Стрелок нет, состояние и поля показаны рамками."
+    },
+    {
+      "output": "overview-station-companies.svg",
+      "sourceHash": "4abcf77ed1dcc10271ae1803cea144016bb212cb151a174a677c5301ed1b9d91",
+      "svgHash": "26d39da1d440f1a9286628cb5b544b10c4371598199f387b92f3eb51f9a91c16",
+      "stepText": "Доступ компаний\n«Компании» задаёт дополнительные организации, которым разрешена работа с объектом. Таблица показывает связанные организации; кнопка «Добавить» связывает со станцией ещё одну компанию.\nДля обслуживания карт организацию также добавляют в соответствующий контроллер. Права пользователя только на объект «Станция» не дают автоматически доступ к контроллерам и их отчётам.",
+      "stepTextHash": "4eff13774f72e903b1a222faddfaf6ee36cee8ea4f3cfacc0f95a1d6e7349b52",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Просмотрены чистый исходник, полный SVG и кадр в статье. Проверенные области: 0: Вкладка Компании (684, 140, 103x42); 1: Таблица доступа компаний с добавлением (286, 182, 1574x354). Стрелок нет, состояние и поля показаны рамками."
+    }
+  ],
+  "inspectedAt": "2026-10-08",
+  "inspectionEnvironment": "Individual clean sources and complete SVGs: 1920x1080. Article viewport: 1920x889; both themes, background choices, step navigation, 125% image zoom and PNG clipboard inspected. Original dark theme and background restored."
+}

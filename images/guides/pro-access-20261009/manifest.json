@@ -1,0 +1,1261 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/roles.png",
+      "boxes": [
+        {
+          "height": 39.5,
+          "width": 246,
+          "x": 0,
+          "y": 655.078125,
+          "target": "Роли в системе",
+          "selector": "getByRole(link, Роли в системе)"
+        }
+      ],
+      "url": "https://pro.benza.online/roles",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "role-nav.svg",
+      "title": "role-nav",
+      "sourceUrl": "https://pro.benza.online/roles",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            284,
+            674.828125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/roles.png",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "width": 83.5,
+          "x": 1792.5,
+          "y": 94,
+          "target": "Добавить",
+          "selector": "getByRole(button, Добавить)"
+        }
+      ],
+      "url": "https://pro.benza.online/roles",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "role-add.svg",
+      "title": "role-add",
+      "sourceUrl": "https://pro.benza.online/roles",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1732.5,
+            112.265625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/objects.png",
+      "boxes": [
+        {
+          "height": 39.5,
+          "width": 246,
+          "x": 0,
+          "y": 694.578125,
+          "target": "Права к объектам",
+          "selector": "getByRole(link, Права к объектам)"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-nav.svg",
+      "title": "object-nav",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            284,
+            714.328125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/objects.png",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "width": 83.5,
+          "x": 1792.5,
+          "y": 94,
+          "target": "Добавить",
+          "selector": "getByRole(button, Добавить)"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-add.svg",
+      "title": "object-add",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1732.5,
+            112.265625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/role-form.png",
+      "boxes": [
+        {
+          "height": 66.140625,
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "target": "Название",
+          "selector": "getByRole(textbox, Введите значение до 100 символов).locator(..)",
+          "measurement": "4 px inset from measured 400 px panel; same-state field height"
+        }
+      ],
+      "url": "https://pro.benza.online/roles",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "role-name.svg",
+      "title": "role-name",
+      "sourceUrl": "https://pro.benza.online/roles",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/role-form.png",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "width": 83.5,
+          "x": 1537,
+          "y": 180.140625,
+          "target": "Добавить роль",
+          "selector": "getByRole(dialog).getByRole(button, Добавить)"
+        }
+      ],
+      "url": "https://pro.benza.online/roles",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "role-submit.svg",
+      "title": "role-submit",
+      "sourceUrl": "https://pro.benza.online/roles",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1680.5,
+            198.40625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/role-added-form.png",
+      "boxes": [
+        {
+          "height": 30.390625,
+          "width": 30.390625,
+          "x": 1881.609375,
+          "y": 17.296875,
+          "target": "Закрыть форму",
+          "selector": "getByRole(button, Close)"
+        }
+      ],
+      "url": "https://pro.benza.online/roles",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "role-close.svg",
+      "title": "role-close",
+      "sourceUrl": "https://pro.benza.online/roles",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1821.609375,
+            32.4921875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/role-created.png",
+      "boxes": [
+        {
+          "height": 32,
+          "width": 456.65625,
+          "x": 300,
+          "y": 182.53125,
+          "target": "Фильтр названия",
+          "selector": "getByRole(textbox, Filter by Название)"
+        },
+        {
+          "height": 61.0625,
+          "width": 1574,
+          "x": 286,
+          "y": 221.921875,
+          "target": "Учебная роль",
+          "selector": "getByRole(row, Диспетчер — просмотр Пользовательская роль)"
+        }
+      ],
+      "url": "https://pro.benza.online/roles",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "role-find.svg",
+      "title": "role-find",
+      "sourceUrl": "https://pro.benza.online/roles",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/role-created.png",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "width": 36,
+          "x": 1351.328125,
+          "y": 237.921875,
+          "target": "Открыть учебную роль",
+          "selector": "getByRole(row, Диспетчер — просмотр Пользовательская роль).getByRole(button)"
+        }
+      ],
+      "url": "https://pro.benza.online/roles",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "role-open.svg",
+      "title": "role-open",
+      "sourceUrl": "https://pro.benza.online/roles",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1447.328125,
+            251.953125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/modules.png",
+      "boxes": [
+        {
+          "height": 41.5,
+          "width": 214.671875,
+          "x": 471.640625,
+          "y": 136,
+          "target": "Вкладка прав",
+          "selector": "getByRole(tab, Права доступа к модулям)"
+        }
+      ],
+      "url": "https://pro.benza.online/role/48",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "rightScrollbarWidth": 15,
+      "output": "module-tab.svg",
+      "title": "module-tab",
+      "sourceUrl": "https://pro.benza.online/role/48",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "top",
+          "from": [
+            578.9765625,
+            94
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/modules.png",
+      "boxes": [
+        {
+          "height": 30,
+          "width": 38,
+          "x": 1737.953125,
+          "y": 467.546875,
+          "target": "Редактировать Компании",
+          "selector": "locator(table tbody tr).filter(hasText=/^Компании/).locator(button)"
+        }
+      ],
+      "url": "https://pro.benza.online/role/48",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "rightScrollbarWidth": 15,
+      "output": "module-pencil.svg",
+      "title": "module-pencil",
+      "sourceUrl": "https://pro.benza.online/role/48",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1835.953125,
+            482.546875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/module-form.png",
+      "boxes": [
+        {
+          "height": 484.1875,
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "target": "Подписи и поля без кнопки сохранения",
+          "selector": "getByRole(dialog).locator(form > div).first()",
+          "measurement": "4 px inset from measured 400 px panel; same-state field height"
+        }
+      ],
+      "url": "https://pro.benza.online/role/48",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "rightScrollbarWidth": 0,
+      "output": "module-fields.svg",
+      "title": "module-fields",
+      "sourceUrl": "https://pro.benza.online/role/48",
+      "background": "application",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/module-form.png",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "width": 91.28125,
+          "x": 1537,
+          "y": 598.1875,
+          "target": "Сохранить",
+          "selector": "getByRole(button, Сохранить)"
+        }
+      ],
+      "url": "https://pro.benza.online/role/48",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "rightScrollbarWidth": 0,
+      "output": "module-save.svg",
+      "title": "module-save",
+      "sourceUrl": "https://pro.benza.online/role/48",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1688.28125,
+            616.453125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/objects.png",
+      "boxes": [
+        {
+          "height": 32,
+          "width": 719,
+          "x": 300,
+          "y": 190.53125,
+          "target": "Фильтр",
+          "selector": "getByRole(textbox, Filter by Описание)"
+        },
+        {
+          "height": 61.0625,
+          "width": 1574,
+          "x": 286,
+          "y": 352.046875,
+          "target": "12334",
+          "selector": "getByRole(row, 12334)"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-find.svg",
+      "title": "object-find",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/objects.png",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "width": 36,
+          "x": 1089,
+          "y": 368.046875,
+          "target": "Изменить",
+          "selector": "getByRole(row, 12334).getByRole(button).nth(0)"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-edit.svg",
+      "title": "object-edit",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1029,
+            382.078125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/objects.png",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "width": 36,
+          "x": 1141,
+          "y": 368.046875,
+          "target": "Удалить",
+          "selector": "getByRole(row, 12334).getByRole(button).nth(1)"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-delete.svg",
+      "title": "object-delete",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1237,
+            382.078125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/object-filled.png",
+      "boxes": [
+        {
+          "height": 66.140625,
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "target": "Описание",
+          "selector": "getByRole(dialog).locator(form > div).nth(0)",
+          "measurement": "4 px inset from measured 400 px panel; same-state field height"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-name.svg",
+      "title": "object-name",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/object-filled.png",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "width": 392,
+          "x": 1524,
+          "y": 180.140625,
+          "target": "Пользователи",
+          "selector": "getByRole(dialog).locator(form > div).nth(1)",
+          "measurement": "4 px inset from measured 400 px panel; same-state field height"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-user.svg",
+      "title": "object-user",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/object-filled.png",
+      "boxes": [
+        {
+          "height": 67.609375,
+          "width": 392,
+          "x": 1524,
+          "y": 331.359375,
+          "target": "Объекты",
+          "selector": "getByRole(dialog).locator(form > div).nth(3)",
+          "measurement": "4 px inset from measured 400 px panel; same-state field height"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-choice.svg",
+      "title": "object-choice",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/object-types.png",
+      "boxes": [
+        {
+          "height": 196.4375,
+          "width": 392,
+          "x": 1524,
+          "y": 255.75,
+          "target": "Подписи и поля без кнопки сохранения",
+          "selector": "getByRole(dialog).locator(form > div).nth(2)",
+          "measurement": "4 px inset from measured 400 px panel; same-state field height"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-type.svg",
+      "title": "object-type",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/object-filled.png",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "width": 91.28125,
+          "x": 1537,
+          "y": 414.96875,
+          "target": "Сохранить",
+          "selector": "getByRole(button, Сохранить)"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-save.svg",
+      "title": "object-save",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1688.28125,
+            433.234375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/object-edit.png",
+      "boxes": [
+        {
+          "height": 300.96875,
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "target": "Подписи и поля без кнопки сохранения",
+          "selector": "getByRole(dialog).locator(form > div).nth(0)",
+          "measurement": "4 px inset from measured 400 px panel; same-state field height"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-edit-fields.svg",
+      "title": "object-edit-fields",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/object-edit.png",
+      "boxes": [
+        {
+          "height": 36.53125,
+          "width": 91.28125,
+          "x": 1537,
+          "y": 414.96875,
+          "target": "Сохранить",
+          "selector": "getByRole(button, Сохранить)"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "object-edit-save.svg",
+      "title": "object-edit-save",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1688.28125,
+            433.234375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/sessions.png",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "width": 246,
+          "x": 0,
+          "y": 734.078125,
+          "target": "Управление входом",
+          "selector": "getByRole(link, Управление входом)"
+        }
+      ],
+      "url": "https://pro.benza.online/security/tokens",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "sessions-nav.svg",
+      "title": "sessions-nav",
+      "sourceUrl": "https://pro.benza.online/security/tokens",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            284,
+            753.8984375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/sessions.png",
+      "boxes": [
+        {
+          "height": 73.03125,
+          "width": 1574,
+          "x": 286,
+          "y": 217.390625,
+          "target": "Учебная сессия",
+          "selector": "getByRole(row, 09.10.2026 08:10:46 …)"
+        }
+      ],
+      "url": "https://pro.benza.online/security/tokens",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "sessions-row.svg",
+      "title": "sessions-row",
+      "sourceUrl": "https://pro.benza.online/security/tokens",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/sessions.png",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "width": 36,
+          "x": 1667.140625,
+          "y": 239.375,
+          "target": "Завершить сессию",
+          "selector": "getByRole(row, 09.10.2026 08:10:46 …).getByRole(button)"
+        }
+      ],
+      "url": "https://pro.benza.online/security/tokens",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "sessions-delete.svg",
+      "title": "sessions-delete",
+      "sourceUrl": "https://pro.benza.online/security/tokens",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1763.140625,
+            253.40625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/user-list.png",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "width": 246,
+          "x": 0,
+          "y": 335.59375,
+          "target": "Пользователи",
+          "selector": "getByRole(link, Пользователи)"
+        }
+      ],
+      "url": "https://pro.benza.online/users",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "user-nav.svg",
+      "title": "user-nav",
+      "sourceUrl": "https://pro.benza.online/users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            284,
+            355.4140625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/user-list.png",
+      "boxes": [
+        {
+          "height": 28.0625,
+          "width": 36,
+          "x": 302,
+          "y": 383.640625,
+          "target": "Открыть",
+          "selector": "getByRole(row, Тест Тест … testtest).getByRole(button).nth(0)"
+        }
+      ],
+      "url": "https://pro.benza.online/users",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "user-open.svg",
+      "title": "user-open",
+      "sourceUrl": "https://pro.benza.online/users",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            242,
+            397.671875
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/user-role.png",
+      "boxes": [
+        {
+          "height": 39.609375,
+          "width": 375.5,
+          "x": 286,
+          "y": 201.03125,
+          "target": "Основная информация",
+          "selector": "getByRole(tab, Основная информация)"
+        },
+        {
+          "height": 67.609375,
+          "width": 575.25,
+          "x": 1284.75,
+          "y": 217.03125,
+          "target": "Роль в системе",
+          "selector": "getByRole(combobox).nth(1).locator(../../../../..)"
+        }
+      ],
+      "url": "https://pro.benza.online/user/37991",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "user-role-check.svg",
+      "title": "user-role-check",
+      "sourceUrl": "https://pro.benza.online/user/37991",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            226,
+            220.8359375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/senior-modules.png",
+      "boxes": [
+        {
+          "height": 41.5,
+          "width": 214.671875,
+          "x": 274,
+          "y": 136,
+          "target": "Права доступа к модулям",
+          "selector": "getByRole(tab, Права доступа к модулям)"
+        },
+        {
+          "height": 55,
+          "width": 1558,
+          "x": 286.5,
+          "y": 565.046875,
+          "target": "Контроллеры и права",
+          "selector": "locator(table tbody tr).filter(hasText=/^Контроллеры/)"
+        }
+      ],
+      "url": "https://pro.benza.online/role/3",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "rightScrollbarWidth": 15,
+      "output": "senior-modules.svg",
+      "title": "senior-modules",
+      "sourceUrl": "https://pro.benza.online/role/3",
+      "background": "application",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            220,
+            156.75
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/role-created.png",
+      "boxes": [
+        {
+          "height": 39.5,
+          "width": 246,
+          "x": 0,
+          "y": 655.078125,
+          "target": "Роли в системе",
+          "selector": "getByRole(link, Роли в системе)"
+        },
+        {
+          "height": 680.953125,
+          "width": 1574,
+          "x": 286,
+          "y": 146.53125,
+          "target": "Таблица",
+          "selector": "getByRole(table).locator(../..)"
+        }
+      ],
+      "url": "https://pro.benza.online/roles",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "overview-roles.svg",
+      "title": "overview-roles",
+      "sourceUrl": "https://pro.benza.online/roles",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/role-info.png",
+      "boxes": [
+        {
+          "height": 41.5,
+          "width": 197.640625,
+          "x": 274,
+          "y": 136,
+          "target": "Основная информация",
+          "selector": "getByRole(tab, Основная информация)"
+        },
+        {
+          "height": 66.140625,
+          "width": 508.65625,
+          "x": 286,
+          "y": 202.5,
+          "target": "Название",
+          "selector": "getByRole(textbox, Введите значение до 100 символов).locator(..)"
+        }
+      ],
+      "url": "https://pro.benza.online/role/36",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "overview-role-info.svg",
+      "title": "overview-role-info",
+      "sourceUrl": "https://pro.benza.online/role/36",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/modules.png",
+      "boxes": [
+        {
+          "height": 41.5,
+          "width": 214.671875,
+          "x": 471.640625,
+          "y": 136,
+          "target": "Вкладка прав",
+          "selector": "getByRole(tab, Права доступа к модулям)"
+        },
+        {
+          "height": 55,
+          "width": 1558,
+          "x": 286.5,
+          "y": 455.046875,
+          "target": "Компании",
+          "selector": "locator(table tbody tr).filter(hasText=/^Компании/)"
+        }
+      ],
+      "url": "https://pro.benza.online/role/48",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "rightScrollbarWidth": 15,
+      "output": "overview-modules.svg",
+      "title": "overview-modules",
+      "sourceUrl": "https://pro.benza.online/role/48",
+      "background": "application",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/module-form.png",
+      "boxes": [
+        {
+          "height": 484.1875,
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "target": "Подписи и поля без кнопки сохранения",
+          "selector": "getByRole(dialog).locator(form > div).first()",
+          "measurement": "4 px inset from measured 400 px panel; same-state field height"
+        }
+      ],
+      "url": "https://pro.benza.online/role/48",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "rightScrollbarWidth": 0,
+      "output": "overview-module-fields.svg",
+      "title": "overview-module-fields",
+      "sourceUrl": "https://pro.benza.online/role/48",
+      "background": "application",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/objects.png",
+      "boxes": [
+        {
+          "height": 39.5,
+          "width": 246,
+          "x": 0,
+          "y": 694.578125,
+          "target": "Права к объектам",
+          "selector": "getByRole(link, Права к объектам)"
+        },
+        {
+          "height": 258.578125,
+          "width": 1574,
+          "x": 286,
+          "y": 154.53125,
+          "target": "Таблица",
+          "selector": "getByRole(table).locator(..)"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "overview-objects.svg",
+      "title": "overview-objects",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/object-filled.png",
+      "boxes": [
+        {
+          "height": 300.96875,
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "target": "Подписи и поля без кнопки сохранения",
+          "selector": "getByRole(dialog).locator(form > div).nth(0)",
+          "measurement": "4 px inset from measured 400 px panel; same-state field height"
+        }
+      ],
+      "url": "https://pro.benza.online/access-objects",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "overview-object-fields.svg",
+      "title": "overview-object-fields",
+      "sourceUrl": "https://pro.benza.online/access-objects",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/user-login.png",
+      "boxes": [
+        {
+          "height": 39.609375,
+          "width": 375.5,
+          "x": 286,
+          "y": 280.25,
+          "target": "Доступ к ЛК",
+          "selector": "getByRole(tab, Доступ к ЛК)"
+        },
+        {
+          "height": 231.890625,
+          "width": 587.25,
+          "x": 685.5,
+          "y": 280.640625,
+          "target": "Подписи и поля без кнопки сохранения",
+          "selector": "getByRole(combobox).locator(../../../../..)"
+        }
+      ],
+      "url": "https://pro.benza.online/user/37991",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "overview-user-login.svg",
+      "title": "overview-user-login",
+      "sourceUrl": "https://pro.benza.online/user/37991",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/sessions.png",
+      "boxes": [
+        {
+          "height": 39.640625,
+          "width": 246,
+          "x": 0,
+          "y": 734.078125,
+          "target": "Управление входом",
+          "selector": "getByRole(link, Управление входом)"
+        },
+        {
+          "height": 209.484375,
+          "width": 1574,
+          "x": 286,
+          "y": 142,
+          "target": "Таблица",
+          "selector": "getByRole(table).locator(..)"
+        }
+      ],
+      "url": "https://pro.benza.online/security/tokens",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "overview-sessions.svg",
+      "title": "overview-sessions",
+      "sourceUrl": "https://pro.benza.online/security/tokens",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/user-role.png",
+      "boxes": [
+        {
+          "height": 39.609375,
+          "width": 375.5,
+          "x": 286,
+          "y": 201.03125,
+          "target": "Основная информация",
+          "selector": "getByRole(tab, Основная информация)"
+        },
+        {
+          "height": 67.609375,
+          "width": 575.25,
+          "x": 1284.75,
+          "y": 217.03125,
+          "target": "Роль в системе",
+          "selector": "getByRole(combobox).nth(1).locator(../../../../..)"
+        }
+      ],
+      "url": "https://pro.benza.online/user/37991",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "output": "overview-user-role.svg",
+      "title": "overview-user-role",
+      "sourceUrl": "https://pro.benza.online/user/37991",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "padding": 2,
+      "arrows": []
+    }
+  ]
+}

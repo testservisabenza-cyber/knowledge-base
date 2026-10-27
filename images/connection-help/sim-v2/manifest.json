@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "id": "restart",
+      "title": "restart",
+      "source": "restart-user-20261021.png",
+      "output": "restart.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1920,
+        "height": 640
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Исходное изображение целиком, без новых рамок и стрелок.",
+      "provenance": "Готовое изображение предоставлено пользователем 21 октября 2026. Сохранено без обработки и без повторной разметки."
+    },
+    {
+      "id": "data-example",
+      "title": "data-example",
+      "source": "data-example-user-20261021.png",
+      "output": "data-example.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1536,
+        "height": 1024
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Исходное изображение целиком, без новых рамок и стрелок.",
+      "provenance": "Готовое изображение предоставлено пользователем 21 октября 2026. Сохранено без обработки и без повторной разметки."
+    },
+    {
+      "id": "sms-example",
+      "title": "sms-example",
+      "source": "sms-example-user-20261021.png",
+      "output": "sms-example.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1448,
+        "height": 1086
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Исходное изображение целиком, без новых рамок и стрелок.",
+      "provenance": "Готовое изображение предоставлено пользователем 21 октября 2026. Сохранено без обработки и без повторной разметки."
+    },
+    {
+      "id": "screws",
+      "title": "screws",
+      "source": "screws-user-20261021.png",
+      "output": "screws.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1536,
+        "height": 1024
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Исходное изображение целиком, без дополнительной разметки.",
+      "provenance": "Готовое фото с шестью красными окружностями предоставлено пользователем 21 октября 2026; сохранено без обработки."
+    },
+    {
+      "id": "board",
+      "title": "board",
+      "source": "board-user-20261021-v2.png",
+      "output": "board.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1448,
+        "height": 736
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Исходное изображение целиком, без новых рамок и стрелок.",
+      "provenance": "Новое готовое фото платы предоставлено пользователем 21 октября 2026; подписи сохранены без обработки."
+    },
+    {
+      "id": "holder",
+      "title": "holder",
+      "source": "holder-user-20261021.png",
+      "output": "holder.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1448,
+        "height": 1086
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Исходное изображение целиком, без новых рамок и стрелок.",
+      "provenance": "Готовое изображение предоставлено пользователем 21 октября 2026. Сохранено без обработки и без повторной разметки."
+    },
+    {
+      "id": "contacts",
+      "title": "contacts",
+      "source": "contacts-user-20261021-v2.png",
+      "output": "contacts.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1086,
+        "height": 1448,
+        "mime": "image/png"
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Исходное изображение целиком, без новых рамок и стрелок.",
+      "provenance": "Готовое изображение предоставлено пользователем 21 октября 2026. Сохранено без обработки и без повторной разметки."
+    },
+    {
+      "id": "antenna-clean",
+      "title": "antenna-clean",
+      "source": "antenna-clean.png",
+      "output": "antenna-clean.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1536,
+        "height": 1024
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Границы измерены на том же исходном изображении в его пикселях, до разметки.",
+      "provenance": "Обработанное предметное фото антенны по фотографии пользователя"
+    },
+    {
+      "id": "antenna-socket",
+      "title": "antenna-socket",
+      "source": "antenna-socket-user-20261021-v2.png",
+      "output": "antenna-socket.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1448,
+        "height": 1086
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Исходное изображение целиком, без новых рамок и стрелок.",
+      "provenance": "Готовое изображение с подписью «Штекер антенны» предоставлено пользователем 21 октября 2026. Сохранено без обработки."
+    },
+    {
+      "id": "card",
+      "title": "card",
+      "source": "card-user-20261021-v2.png",
+      "output": "card.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1448,
+        "height": 1086
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Исходное изображение целиком, без новых рамок и стрелок.",
+      "provenance": "Готовое фото с подписью о замене SIM-карты предоставлено пользователем 21 октября 2026, сохранено без обработки."
+    },
+    {
+      "id": "gsm-check",
+      "title": "Проверьте связь",
+      "source": "gsm-check-user-20261021.png",
+      "output": "gsm-check.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1448,
+        "height": 1086,
+        "mime": "image/png"
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Исходное изображение целиком, без новых рамок и стрелок.",
+      "provenance": "Новое готовое фото платы предоставлено пользователем 21 октября 2026; подписи сохранены без обработки."
+    },
+    {
+      "id": "holder-open",
+      "title": "Открытый симкодержатель с SIM-картой",
+      "source": "holder-open-user-20261022.png",
+      "output": "holder-open.svg",
+      "sourceUrl": "http://127.0.0.1:5174/articles/connection-help",
+      "background": "application",
+      "captureKind": "photo",
+      "viewport": {
+        "width": 1448,
+        "height": 1086
+      },
+      "rightScrollbarWidth": 0,
+      "boxes": [],
+      "arrows": [],
+      "measurementMethod": "Исходное изображение целиком, без новых рамок и стрелок.",
+      "provenance": "Готовое фото предоставлено пользователем 22 октября 2026. Сохранено без обработки и дополнительной разметки."
+    }
+  ],
+  "articleVariant": {
+    "model": "bs022",
+    "equipment": "controller",
+    "scenario": "lost"
+  }
+}

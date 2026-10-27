@@ -1,0 +1,479 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.640625,
+          "selector": "a#alrts",
+          "target": "Меню Оповещения",
+          "width": 246,
+          "x": 0,
+          "y": 414.875
+        }
+      ],
+      "output": "alerts-nav.svg",
+      "title": "alerts-nav",
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            284,
+            434.6953125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": ".page-title-right button",
+          "target": "Добавить",
+          "width": 83.5,
+          "x": 1800.5,
+          "y": 94
+        }
+      ],
+      "output": "alerts-add.svg",
+      "title": "alerts-add",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1730.5,
+            112.265625
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 61.0625,
+          "selector": "tbody tr",
+          "target": "Сохранённое правило",
+          "width": 1574,
+          "x": 286,
+          "y": 229.921875
+        }
+      ],
+      "output": "alerts-row.svg",
+      "title": "alerts-row",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr button:nth-child(1)",
+          "target": "Редактировать правило",
+          "width": 36,
+          "x": 1490.5,
+          "y": 245.921875
+        }
+      ],
+      "output": "alerts-edit.svg",
+      "title": "alerts-edit",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "bottom-right",
+          "from": [
+            1566.5,
+            301.984375
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 28.0625,
+          "selector": "tbody tr button:nth-child(2)",
+          "target": "Удалить правило",
+          "width": 36,
+          "x": 1534.5,
+          "y": 245.921875
+        }
+      ],
+      "output": "alerts-delete.svg",
+      "title": "alerts-delete",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "right",
+          "from": [
+            1640.5,
+            259.953125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/filled.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 66.140625,
+          "selector": ".offcanvas form > .mb-3:nth-child(1)",
+          "target": "Описание",
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "measurement": "4 px inset from both drawer edges; same-state label/control union"
+        }
+      ],
+      "output": "alerts-description.svg",
+      "title": "alerts-description",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/channel-open.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 121.21875,
+          "selector": ".offcanvas form > .mb-3:nth-child(2), .select__menu",
+          "target": "Каналы и весь раскрытый список",
+          "width": 392,
+          "x": 1524,
+          "y": 180.140625,
+          "measurement": "4 px inset from both drawer edges; same-state label/control union"
+        }
+      ],
+      "output": "alerts-channel.svg",
+      "title": "alerts-channel",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/event-open.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 375.609375,
+          "selector": ".offcanvas form > .mb-3:nth-child(3), .select__menu",
+          "target": "События и раскрытый список",
+          "width": 392,
+          "x": 1524,
+          "y": 263.75,
+          "measurement": "4 px inset from both drawer edges; same-state label/control union"
+        }
+      ],
+      "output": "alerts-events.svg",
+      "title": "alerts-events",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/filled.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 68.65625,
+          "selector": ".offcanvas form > .mb-3:nth-child(4)",
+          "target": "Почты",
+          "width": 392,
+          "x": 1524,
+          "y": 347.359375,
+          "measurement": "4 px inset from both drawer edges; same-state label/control union"
+        }
+      ],
+      "output": "alerts-email.svg",
+      "title": "alerts-email",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/filled.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": ".offcanvas button[type=submit]",
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 432.015625
+        }
+      ],
+      "output": "alerts-save.svg",
+      "title": "alerts-save",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1467,
+            450.28125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/edit.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 318.015625,
+          "selector": ".offcanvas form > .mb-3:nth-child(1)",
+          "target": "Все поля правила без Сохранить",
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "measurement": "4 px inset from both drawer edges; same-state label/control union"
+        }
+      ],
+      "output": "alerts-fields.svg",
+      "title": "alerts-fields",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/edit.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": ".offcanvas button[type=submit]",
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 432.015625
+        }
+      ],
+      "output": "alerts-edit-save.svg",
+      "title": "alerts-edit-save",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toSide": "left",
+          "from": [
+            1467,
+            450.28125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/edit.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 318.015625,
+          "selector": ".offcanvas form > .mb-3:nth-child(1)",
+          "target": "Описание",
+          "width": 392,
+          "x": 1524,
+          "y": 98
+        },
+        {
+          "height": 36.53125,
+          "selector": ".offcanvas button[type=submit]",
+          "target": "Сохранить",
+          "width": 91.28125,
+          "x": 1537,
+          "y": 432.015625
+        }
+      ],
+      "output": "alerts-check-save.svg",
+      "title": "alerts-check-save",
+      "padding": 0,
+      "arrows": [
+        {
+          "box": 1,
+          "toSide": "left",
+          "from": [
+            1467,
+            450.28125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/bell.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 34.671875,
+          "selector": "header button:has(svg.lucide-bell)",
+          "target": "Колокольчик",
+          "width": 42,
+          "x": 1806,
+          "y": 24.65625
+        }
+      ],
+      "output": "alerts-bell.svg",
+      "title": "alerts-bell",
+      "padding": 2,
+      "arrows": [
+        {
+          "box": 0,
+          "toCorner": "bottom-left",
+          "from": [
+            1776,
+            87.328125
+          ]
+        }
+      ]
+    },
+    {
+      "source": "source/inbox.png",
+      "sourceUrl": "https://pro.benza.online/notifications",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[id$=\"-tab-usersNotifications\"]",
+          "target": "Пользовательские уведомления",
+          "width": 262.625,
+          "x": 274,
+          "y": 94
+        },
+        {
+          "height": 148.421875,
+          "selector": "table",
+          "target": "Полученные пользовательские сообщения",
+          "width": 1598,
+          "x": 286,
+          "y": 160.5
+        }
+      ],
+      "output": "alerts-inbox.svg",
+      "title": "alerts-inbox",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/system.png",
+      "sourceUrl": "https://pro.benza.online/notifications",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 41.5,
+          "selector": "[id$=\"-tab-systemNotifications\"]",
+          "target": "Системные уведомления",
+          "width": 233.796875,
+          "x": 536.625,
+          "y": 94
+        },
+        {
+          "height": 359.515625,
+          "selector": ".tab-pane.active table",
+          "target": "Объявления сервиса",
+          "width": 1598,
+          "x": 286,
+          "y": 144.5
+        }
+      ],
+      "output": "alerts-system.svg",
+      "title": "alerts-system",
+      "padding": 2,
+      "arrows": []
+    },
+    {
+      "source": "source/list.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.640625,
+          "selector": "a#alrts",
+          "target": "Меню Оповещения",
+          "width": 246,
+          "x": 0,
+          "y": 414.875
+        },
+        {
+          "height": 136.453125,
+          "selector": "table",
+          "target": "Таблица правил",
+          "width": 1574,
+          "x": 286,
+          "y": 154.53125
+        }
+      ],
+      "output": "overview-list.svg",
+      "title": "overview-list",
+      "padding": 0,
+      "arrows": []
+    },
+    {
+      "source": "source/edit.png",
+      "sourceUrl": "https://pro.benza.online/alerts",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 318.015625,
+          "selector": ".offcanvas form > .mb-3:nth-child(1)",
+          "target": "Описание",
+          "width": 392,
+          "x": 1524,
+          "y": 98,
+          "measurement": "4 px inset from both drawer edges; same-state label/control union"
+        }
+      ],
+      "output": "overview-fields.svg",
+      "title": "overview-fields",
+      "padding": 0,
+      "arrows": []
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "manifestHash": "d9c0cf0abf6f37852c9d58596236bf3b765bba690c93dafc6cecee383e0c1344",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-access-role-edit",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "articleInspectionNote": "Каждый шаг просмотрен в статье; обе темы, режимы фона, увеличение, подтверждение копирования и переходы проверены. Ссылки открывают новую вкладку. Тёмная тема и фон под инструкцией восстановлены; временный размер окна сброшен.",
+  "shots": [
+    {
+      "output": "role-nav.svg",
+      "sourceHash": "9e41c0399c732a6214ee7f2fe097a7d205a1b1b7e232a75f7a1bbf654a3ac027",
+      "svgHash": "5cf16a4222117baa6a0e17d82d0515a36ef87bc431533e50ec696ed680285898",
+      "stepText": "В раскрытом разделе «Управление доступом» откройте «Роли в системе».",
+      "stepTextHash": "7d4d37719d2296c8d52638dc5d7bc4b60643db25d8c3e4fdfa27f8aa52357b38",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Полная ширина меню, справа 4 px; горизонтальная стрелка в пустом промежутке. Шаг 1: Меню Роли со стрелкой читается в статье."
+    },
+    {
+      "output": "role-find.svg",
+      "sourceHash": "e4c0ecc3d7a227320c9b2fc720bbab197fb99835d1642f5f1aac4a61de2f320e",
+      "svgHash": "0ae80b46436436fac21643cde31d131a3de6f6e062d86e352064c2d02e02b813",
+      "stepText": "Найдите пользовательскую роль по названию. При необходимости используйте фильтр «Название». Перед изменением проверьте, каким пользователям она назначена. В примере — «Диспетчер — просмотр».",
+      "stepTextHash": "258d77ebbe8cddcc0328db5b2a7e3ca0076fcd66cf26f067ba19cd2e3a06368b",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Фильтр названия и строка новой роли раздельно, без стрелок, буквы не задеты. Шаг 2: Фильтр и нужная роль выделены отдельно, текст совпадает."
+    },
+    {
+      "output": "role-open.svg",
+      "sourceHash": "e4c0ecc3d7a227320c9b2fc720bbab197fb99835d1642f5f1aac4a61de2f320e",
+      "svgHash": "b2d54170081721c200aa797a863872594729f8086197ed1efc2b47aa3ed40414",
+      "stepText": "Нажмите кнопку со стрелкой в строке нужной роли.",
+      "stepTextHash": "e7176ae998abdb28d4e83cfac67f0929325a584c777131f0ce05ce54617c0ecd",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка первой строки новой роли; прямая стрелка справа по пустой ячейке. Шаг 3: Стрелка точно к открытию учебной роли."
+    },
+    {
+      "output": "module-tab.svg",
+      "sourceHash": "415af275e1aaefdd5d30fc826757c78050cf1b29f975d51ea80c80cd520df64b",
+      "svgHash": "5101ba16de8a99c81275f56d739d63b211f14136739c13da4d5fc225527cbd0c",
+      "stepText": "Откройте вкладку «Права доступа к модулям».",
+      "stepTextHash": "80d28cea83cc35fcaa9798a318b29e9e6e42e35da89b153a1136ada1e56e59b2",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Вертикальная стрелка сверху точно к рамке вкладки, справа от текста заголовка. Шаг 4: Вкладка Модули выделена, стрелка вертикальная."
+    },
+    {
+      "output": "module-pencil.svg",
+      "sourceHash": "415af275e1aaefdd5d30fc826757c78050cf1b29f975d51ea80c80cd520df64b",
+      "svgHash": "cf15c6e3e485201b195880094807986df41f0780cd072aef04fa45e91ed15ea1",
+      "stepText": "Нажмите карандаш нужного модуля. В примере — «Компании».",
+      "stepTextHash": "c47727f69920f4bab8011ca6f245b84efe3879d3dc454d2cedb23fb5fc35e94a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Карандаш строки Компании; горизонтальная стрелка справа внутри пустой части ячейки. Шаг 5: Карандаш Компании выделен отдельно."
+    },
+    {
+      "output": "module-fields.svg",
+      "sourceHash": "929181151bae05d6fd050adf3aa7f64beb4e4962a3a9b459d602d0b9f1e3e13a",
+      "svgHash": "2504fd051e5aad34bf84e39cd5ac789d74bab4f9fce02553200c48a710739951",
+      "stepText": "Исправьте разрешённые действия. Чтобы отключить отдельное действие, выберите «Не используется»; проверьте также «Полный доступ», который разрешает все действия при включении.\nМодуль: Раздел, для которого меняются права. В этой форме название нельзя изменить: для другого модуля откройте его строку.\nПросмотр: «Используется» позволяет читать информацию и видеть модуль в левом меню. «Не используется» отключает отдельное право просмотра.\nДобавление: «Используется» разрешает создавать записи; «Не используется» отключает это отдельное разрешение.\nОбновление: «Используется» разрешает редактировать информацию; «Не используется» отключает отдельное право редактирования.\nБлокировка/Удаление: «Используется» разрешает блокировку и удаление данных модуля. Для обычного просмотра эти действия не нужны.\nПолный доступ: «Используется» разрешает все перечисленные действия, даже если отдельные разрешения выключены. При «Не используется» действуют отдельно выбранные права.",
+      "stepTextHash": "17aa0baa0a66ac62e3491bd51e792833a9c6942cc25fd2d22be11e4f1ea19867",
+      "clickTargets": [],
+      "clickExplanation": "Описательный кадр, заполнение полей или ссылка в тексте статьи; отдельного нажатия на снимке нет.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Одно выделение всех подписей и полей по ширине белой панели, Сохранить исключено. Шаг 6: Поля разрешений отдельным широким контуром, пояснения Полный доступ совпадают."
+    },
+    {
+      "output": "module-save.svg",
+      "sourceHash": "929181151bae05d6fd050adf3aa7f64beb4e4962a3a9b459d602d0b9f1e3e13a",
+      "svgHash": "1db6e172a25089b77fffc1019429b367931b04fd77bcce68090f4efdb61b24bf",
+      "stepText": "Нажмите «Сохранить». Сверьте значения в строке модуля. Другие модули настраиваются отдельно.",
+      "stepTextHash": "aa5200dda90d3991238dcad3fd3578746c64968fb32108d84f37903447ec1b5d",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранить отдельно, прямая стрелка справа внутри панели. Шаг 7: Сохранить со стрелкой внутри белой панели, соседний текст не пересекается."
+    }
+  ]
+}

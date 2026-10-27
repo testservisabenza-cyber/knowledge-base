@@ -1,0 +1,575 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "source": "source/renew-open.jpg",
+      "output": "renew-open.svg",
+      "title": "Создать заказ на продление",
+      "sourceUrl": "https://pay.benza.online/Orders/Order/All",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "a[href=\"/Companies/Company/AddCompanyProduct?isContinueProduct=true\"]",
+          "target": "Продлить действие услуги",
+          "width": 191.453125,
+          "x": 1696.546875,
+          "y": 94
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            1792.2734375,
+            46
+          ],
+          "toSide": "top"
+        }
+      ]
+    },
+    {
+      "source": "source/renew-service.jpg",
+      "output": "renew-service.svg",
+      "title": "Выбрать компанию для продления",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/AddCompanyProduct",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38,
+          "selector": ".select2",
+          "target": "Компания",
+          "width": 651.8125,
+          "x": 274,
+          "y": 196.515625
+        },
+        {
+          "height": 36.53125,
+          "selector": "input[type=\"submit\"]",
+          "target": "Выбрать услугу",
+          "width": 123.25,
+          "x": 1011.375,
+          "y": 376.515625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            212,
+            215.515625
+          ],
+          "toSide": "left"
+        },
+        {
+          "box": 1,
+          "from": [
+            949.375,
+            394.78125
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/renew-controllers.jpg",
+      "output": "renew-controllers.svg",
+      "title": "Выбрать существующие контроллеры",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/SelectRate",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38,
+          "selector": "div[class$=\"-control\"]",
+          "target": "Список контроллеров",
+          "width": 736,
+          "x": 515,
+          "y": 372.421875
+        },
+        {
+          "height": 37.609375,
+          "selector": "#react-select-2-option-0",
+          "target": "Нужный ID",
+          "width": 736,
+          "x": 515,
+          "y": 422.421875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            453,
+            391.421875
+          ],
+          "toSide": "left"
+        },
+        {
+          "box": 1,
+          "from": [
+            453,
+            441.2265625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/renew-term.jpg",
+      "output": "renew-term.svg",
+      "title": "Указать срок продления",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/SelectRate",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38,
+          "selector": "div[class$=\"-control\"]",
+          "target": "Выбранные устройства",
+          "width": 736,
+          "x": 515,
+          "y": 372.421875
+        },
+        {
+          "height": 39.53125,
+          "selector": "select[name=\"rateMonthLimitId\"]",
+          "target": "Срок продления",
+          "width": 314,
+          "x": 536,
+          "y": 525.8125
+        },
+        {
+          "height": 36.53125,
+          "selector": "input[type=\"number\"]",
+          "target": "Количество выбранных устройств",
+          "width": 314,
+          "x": 536,
+          "y": 608.84375
+        },
+        {
+          "height": 36.53125,
+          "selector": "input[type=\"button\"]",
+          "target": "Добавить к заказу",
+          "width": 138.140625,
+          "x": 536,
+          "y": 653.375
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "from": [
+            474,
+            545.578125
+          ],
+          "toSide": "left"
+        },
+        {
+          "box": 3,
+          "from": [
+            474,
+            671.640625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/renew-checkout.jpg",
+      "output": "renew-checkout.svg",
+      "title": "Проверить заказ на продление",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/SelectRate",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 38,
+          "selector": "div[class$=\"-control\"]",
+          "target": "Выбранные ID",
+          "width": 736,
+          "x": 515,
+          "y": 372.421875
+        },
+        {
+          "height": 159,
+          "selector": ".list-group",
+          "target": "Состав заказа",
+          "width": 355.984375,
+          "x": 1275,
+          "y": 330.59375
+        },
+        {
+          "height": 42.375,
+          "selector": "button.btn-success",
+          "target": "Перейти к оплате",
+          "width": 355.984375,
+          "x": 1275,
+          "y": 531.203125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 2,
+          "from": [
+            1213,
+            552.390625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/renew-invoice.jpg",
+      "output": "renew-invoice.svg",
+      "title": "Проверить счёт на продление",
+      "sourceUrl": "https://pay.benza.online/Invoices/Invoice/Single",
+      "background": "application",
+      "rightScrollbarWidth": 15,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#downloadInvoice",
+          "target": "Скачать счёт",
+          "width": 105.75,
+          "x": 274,
+          "y": 110
+        },
+        {
+          "height": 36.53125,
+          "selector": "a[href=\"/template/offerta.pdf\"]:not(#invoceExportPDF a)",
+          "target": "Скачать оферту",
+          "width": 125.828125,
+          "x": 388.078125,
+          "y": 110
+        },
+        {
+          "height": 85.53125,
+          "selector": "#tableProducts",
+          "target": "Позиции счёта",
+          "width": 1543,
+          "x": 294,
+          "y": 555.90625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            326.875,
+            62
+          ],
+          "toSide": "top"
+        },
+        {
+          "box": 1,
+          "from": [
+            450.9921875,
+            62
+          ],
+          "toSide": "top"
+        }
+      ]
+    },
+    {
+      "source": "source/renew-confirm.jpg",
+      "output": "renew-confirm.svg",
+      "title": "Сообщить о банковском переводе",
+      "sourceUrl": "https://pay.benza.online/Invoices/Invoice/Single",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 36.53125,
+          "selector": "#btnConfirm",
+          "target": "Подтвердить оплату",
+          "width": 152.265625,
+          "x": 522.234375,
+          "y": 110
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            598.3671875,
+            62
+          ],
+          "toSide": "top"
+        }
+      ]
+    },
+    {
+      "source": "source/renew-payment.jpg",
+      "output": "renew-payment.svg",
+      "title": "Передать данные платежа",
+      "sourceUrl": "https://pay.benza.online/Invoices/Invoice/Single",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 230.421875,
+          "selector": "#offcanvasRight .form-group.mb-3",
+          "target": "Данные платёжного поручения",
+          "width": 472,
+          "x": 1444,
+          "y": 305.734375
+        },
+        {
+          "height": 36.53125,
+          "selector": "#offcanvasRight button.btn-primary",
+          "target": "Отправить на проверку",
+          "width": 171.09375,
+          "x": 1457,
+          "y": 552.15625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "from": [
+            1542.546875,
+            636.6875
+          ],
+          "toSide": "bottom"
+        }
+      ]
+    },
+    {
+      "source": "source/renew-invoices.jpg",
+      "output": "renew-invoices.svg",
+      "title": "Найти счёт после перевода",
+      "sourceUrl": "https://pay.benza.online/Invoices/Invoice/All",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 40.640625,
+          "selector": "#side-menu a[href=\"/Invoices/Invoice/All\"]",
+          "target": "Счета",
+          "width": 246,
+          "x": 0,
+          "y": 254.765625
+        },
+        {
+          "height": 37.671875,
+          "selector": "#DataTableInvoices a[href*=\"Single?invoiceId=5764\"]",
+          "target": "Открыть счёт на продление",
+          "width": 46,
+          "x": 1651.390625,
+          "y": 256.203125
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            280,
+            275.0859375
+          ],
+          "toSide": "right"
+        },
+        {
+          "box": 1,
+          "from": [
+            1589.390625,
+            275.0390625
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/renew-services.jpg",
+      "output": "renew-services.svg",
+      "title": "Открыть услугу после проверки платежа",
+      "sourceUrl": "https://pay.benza.online/Products/Product/All",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 40.640625,
+          "selector": "#side-menu a[href=\"/Products/Product/All\"]",
+          "target": "Услуги",
+          "width": 246,
+          "x": 0,
+          "y": 336.046875
+        },
+        {
+          "height": 30,
+          "selector": "#DataTableProducts tbody a",
+          "target": "Открыть услугу",
+          "width": 38,
+          "x": 1783.046875,
+          "y": 243.671875
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            280,
+            356.3671875
+          ],
+          "toSide": "right"
+        },
+        {
+          "box": 1,
+          "from": [
+            1721.046875,
+            258.671875
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/renew-date.jpg",
+      "output": "renew-date.svg",
+      "title": "Где проверить новый срок",
+      "sourceUrl": "https://pay.benza.online/Companies/CompanyProduct/Single/1549",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.609375,
+          "selector": "#v-pills-BenzamatController-tab",
+          "target": "Контроллеры",
+          "width": 375.5,
+          "x": 274,
+          "y": 302.828125
+        },
+        {
+          "height": 94.21875,
+          "selector": "#v-pills-BenzamatController table",
+          "target": "Срок обслуживания по ID",
+          "width": 1174.5,
+          "x": 673.5,
+          "y": 276.140625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            212,
+            322.6328125
+          ],
+          "toSide": "left"
+        }
+      ]
+    },
+    {
+      "source": "source/login.jpg",
+      "output": "login.svg",
+      "title": "Вход в личный кабинет",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/Login",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 149.421875,
+          "selector": "form .mb-3",
+          "target": "Email и пароль",
+          "width": 395,
+          "x": 762.5,
+          "y": 202.125
+        },
+        {
+          "height": 36.53125,
+          "selector": "form button.btn-primary",
+          "target": "Войти в систему",
+          "width": 395,
+          "x": 762.5,
+          "y": 421.15625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 1,
+          "from": [
+            700.5,
+            439.421875
+          ],
+          "toSide": "left"
+        }
+      ],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 620,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    },
+    {
+      "source": "source/orders-menu.jpg",
+      "output": "orders-menu.svg",
+      "title": "Открыть заказы",
+      "sourceUrl": "https://pay.benza.online/Companies/Company/Single/1575",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "height": 39.5,
+          "selector": "#side-menu a[href=\"/Orders/Order/All\"]",
+          "target": "Заказы",
+          "width": 246,
+          "x": 0,
+          "y": 215.265625
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            280,
+            235.015625
+          ],
+          "toSide": "right"
+        }
+      ]
+    },
+    {
+      "source": "source/forgot-password.png",
+      "output": "forgot-password.svg",
+      "title": "Восстановить забытый пароль",
+      "sourceUrl": "https://pay.benza.online/Identity/Account/Login",
+      "background": "application",
+      "rightScrollbarWidth": 0,
+      "boxes": [
+        {
+          "x": 892.796875,
+          "y": 513.296875,
+          "width": 134.40625,
+          "height": 17,
+          "selector": "#forgot-password",
+          "target": "Забыли пароль?"
+        }
+      ],
+      "arrows": [
+        {
+          "box": 0,
+          "from": [
+            830.796875,
+            521.796875
+          ],
+          "toSide": "left"
+        }
+      ],
+      "crop": {
+        "x": 410,
+        "y": 16,
+        "width": 1100,
+        "height": 620,
+        "reason": "По запросу пользователя от 23.10.2026: убрать пустые поля вокруг полной формы входа, регистрации и подтверждения почты."
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "manifestHash": "99a317fff0d9504aa0ec314970326dd6a39e219ed52a0e2f497e794edf1d943b",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-alerts-mail",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "alerts-nav.svg",
+      "sourceHash": "3a9c29483d8fbe41310e364f71554b140dd505879d52fa8609f4fdd5471e3463",
+      "svgHash": "ec1d91ea3d8602a9f9df0afe45fce9b2f2b831bc9ee95b94955a8560228e4ce6",
+      "stepText": "Откройте «Оповещения» и найдите нужное правило по названию. Если строки нет, создайте правило заново.",
+      "stepTextHash": "31940315fa347fcc29eccb05dda46da90bdd438f9f0bcfd93e14375e9d6b957a",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 1: Меню на всю ширину со стрелкой"
+    },
+    {
+      "output": "alerts-edit.svg",
+      "sourceHash": "3a9c29483d8fbe41310e364f71554b140dd505879d52fa8609f4fdd5471e3463",
+      "svgHash": "be1f66efa113e644ca0212995e0cf1c7382ee3373f618d132cba95e100ddb877",
+      "stepText": "Нажмите карандаш у правила.",
+      "stepTextHash": "f12affa0e90855933506809c326178803978de2bc18e3dec243fc8d5a107839f",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 2: Карандаш с угловой стрелкой"
+    },
+    {
+      "output": "alerts-check-save.svg",
+      "sourceHash": "f8d8181fea5d2ed5a463c18b594bc16c61c91a9eb1792f8a8b060cf226c846a0",
+      "svgHash": "3c165122beb1e51acefe0f41501b5e932c40d2f918750d1240129debe11dc962",
+      "stepText": "Сверьте «Каналы», «События» и «Почты»: выбрана электронная почта, добавлено именно ожидаемое событие, адрес получателя указан верно. После исправления нажмите «Сохранить».",
+      "stepTextHash": "da5240a14368fe22bff869546f623a6fb220ae52c5dad68f866d0f7de4d649d2",
+      "clickTargets": [
+        1
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 3: Поля целиком, Save отдельно"
+    },
+    {
+      "output": "alerts-bell.svg",
+      "sourceHash": "0490efe0da6fabae5b0928731f75da4f6059def9abdede467e03ad28c45c39fc",
+      "svgHash": "48b2a934b0e358de7ebff05d2cd42cd3ae91434fad98f5a6e761d93764c02113",
+      "stepText": "Нажмите колокольчик в верхней панели, чтобы открыть полученные сообщения.",
+      "stepTextHash": "c089f3706ecdd1d711592ab8bf7323fa7ce4c2bd582ac4c849451a8230704e56",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 4: Колокольчик: стрелка в нижний левый угол, без соседних кнопок"
+    },
+    {
+      "output": "alerts-inbox.svg",
+      "sourceHash": "1e3ffb8b1df39c27fdc3d9704cf092db1ad27865ba3329ee003291a099110254",
+      "svgHash": "e04aed19a92b15464a41a331a992e10c2411b8746506fb9b980241479e8a8c0c",
+      "stepText": "На вкладке «Пользовательские уведомления» сравните текст и дату события с выбранным правилом. Если нужного события нет, проверьте, происходило ли оно после сохранения правила. Наличие сообщения в сервисе не подтверждает доставку письма: проверьте адрес и папку спама.",
+      "stepTextHash": "c54ff79fc3b7224c9fcf8d9bf9a01f007dc7c7152a7cc5bc873fb44a2626c20c",
+      "clickTargets": [],
+      "clickExplanation": "Описание/проверка полей без кнопки на снимке; ссылки внутри текста базы открываются отдельно.",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Шаг 5: Пользовательская вкладка+таблица, проверка реальной даты"
+    }
+  ]
+}

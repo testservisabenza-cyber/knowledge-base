@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "status": "pending-full-article-acceptance",
+  "manifestHash": "c70ee4c27e38da9b823571f6b334699e7112e536df9e32de46433b8dfe95c907",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-company-station-access",
+  "articleChecks": {
+    "lightTheme": false,
+    "darkTheme": true,
+    "backgroundModes": false,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": false,
+    "linksPreserveProgress": false,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "company-open-main.svg",
+      "sourceHash": "ce1157ed0ef87f846bf7d92ed18ea3ff0daaa0ea5bed21dd8b1213dd63e0293c",
+      "svgHash": "cf6fc0bfdf41d0e03b7bed955e25b2bbb94611bbcaf5b8503a893c03388503e4",
+      "stepText": "Нажмите стрелку в строке компании, чтобы открыть её карточку.",
+      "stepTextHash": "c7311aa5757fecd1c91ad52c81916ac96fd35adcb90ad4c7e741b3afff22f7f1",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка слева к кнопке в строке Тестируем сервис (ГК), корзина справа свободна. Просмотрены исходник, SVG, увеличение и шаг 2 в настоящей статье. Координаты унаследованы из прежнего манифеста; новое измерение DOM не проводилось."
+    },
+    {
+      "output": "company-stations-tab.svg",
+      "sourceHash": "6b66d307818328b805337b7a845d6a507d6e69285e15c5b2dd60ba69648ccaca",
+      "svgHash": "b9b3dd6dc9b8692bf538dfb2b39832189016516f22fe8d1f0da76ad4cc6dffd3",
+      "stepText": "Откройте вкладку «Станции».",
+      "stepTextHash": "31c0dc45b38a8e6a546781f495c5c35885566ca61d10f55fa72a5d3d12bdc879",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка по диагонали через свободное место под вкладками к нижней части левой грани, подписи соседних вкладок свободны. Просмотрены исходник, SVG, увеличение и шаг 3 в настоящей статье. Координаты унаследованы из прежнего манифеста; новое измерение DOM не проводилось."
+    },
+    {
+      "output": "company-stations-nav.svg",
+      "sourceHash": "de40ae90bde767ed81bcd1e44c6c63a4756b8f22c29cca9587fe0e9de6bb0c51",
+      "svgHash": "088040076df6d742ed42d42c475b0bf3b5a841f231b2ae837fee73d1d3f64d70",
+      "stepText": "Если строки нет, откройте общий раздел «Станции» в левом меню.",
+      "stepTextHash": "7d4b17527da3e7f1388ad722b14dd2ee58c7994b8a6484f12011a27dcef16216",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": false,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка выбранного пункта по ширине левого меню: слева у края, справа отступ 4 px, высота пункта сохранена; стрелка сбоку. Просмотрены исходник, полный SVG, увеличение и шаг 5 в светлой и тёмной темах; копирование проверено. Новый замер DOM не выполнялся."
+    }
+  ],
+  "pending": [
+    {
+      "step": 1,
+      "image": "/images/guides/pro-repairs-20261008/company-find-main.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 4,
+      "image": "/images/guides/pro-repairs-20261008/company-stations-table.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 6,
+      "image": "/images/guides/pro-company-step-stations-owner.svg",
+      "reason": "Повторно используемый неизмененный снимок не входит в манифест исправления; полная повторная приемка статьи не выполнена."
+    },
+    {
+      "step": 7,
+      "reason": "Общий шаг записи в контроллер содержит illustration и controllerWrite, но не image; screenshots:accept останавливается на этом шаге."
+    }
+  ]
+}

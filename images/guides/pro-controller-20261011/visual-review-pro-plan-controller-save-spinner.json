@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-save-spinner",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте «Контроллеры (ТРК)» в левом меню.",
+      "stepTextHash": "38104a21b0a725a456471d94d14eecfab13a48bbfa7d13504701ad21da5f7e90",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Рамка пункта по ширине левого меню, прямая стрелка справа. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    },
+    {
+      "output": "list-id.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "b7fdb6f4ff7abb0d75aafbc4685823113542ad1912f8908dea49c5e83df2e540",
+      "stepText": "Сверьте ID в списке с ID добавляемого устройства. Если строка уже есть, дождитесь первого опроса и не создавайте дубликат.",
+      "stepTextHash": "73d90ecad8f97ace90c05cbe665d9cf03a4170108f099c2ecc700433083e9cc7",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Отдельно выделен ID второй строки; номер читается полностью. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    },
+    {
+      "output": "menu-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "502e6f715490340c4b861f40e9a9594b9cacd0f3f70bf69d5d56a3f2bdb9aae4",
+      "stepText": "Если строки нет, откройте «Действия с контроллерами».",
+      "stepTextHash": "302b4650498eb8328de285ab4789794dcc2c413d2ed2dd525de73a8fc18581e0",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Кнопка действий со списком отдельно обведена, стрелка горизонтальная. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    },
+    {
+      "output": "menu-add.svg",
+      "sourceHash": "becfd567281cbd78f12c28db49975f11a5827c5622c1dfe3c6224d0ff20f836f",
+      "svgHash": "c48655c5ee31c27d95796af67e37aaf31bbc4a1a977f2f76d6d6c5fffe4bf160",
+      "stepText": "Нажмите «Добавить контроллер» и повторите добавление по инструкции ниже.",
+      "stepTextHash": "a8ff20dbc5202d08ade9b650ab9300cfb9360c72e94a1078438ceeabeb9406d3",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Только пункт Добавить контроллер; стрелка не пересекает текст и соседний пункт. Исходник, полный SVG, обычный размер и увеличение в статье просмотрены индивидуально."
+    }
+  ]
+}

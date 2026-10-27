@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "manifestHash": "a6724fddfb5c9ff0e93fa2de305aede42ba06553f970fd3cd372e3712c99b7cd",
+  "articleUrl": "http://127.0.0.1:5174/articles/pro-plan-controller-printer",
+  "articleChecks": {
+    "lightTheme": true,
+    "darkTheme": true,
+    "backgroundModes": true,
+    "stepNavigation": true,
+    "imageZoom": true,
+    "imageCopy": true,
+    "linksPreserveProgress": true,
+    "captureSettingsRestored": true
+  },
+  "shots": [
+    {
+      "output": "nav.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "17d171713e0ea0db3d2046ad3d6f05b951f8151495c4a40433af7fe8dd0a5bea",
+      "stepText": "Откройте в левом меню «Контроллеры (ТРК)».",
+      "stepTextHash": "6353603c5b678f2b8e57cebff7429d8c0d5c7e72134f2f9c1a953bf3e3465fdb",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт контроллеров на ширину меню, прямая стрелка справа. Исходник просмотрен индивидуально, полный SVG проверен отдельно, кадр просмотрен в соответствующем шаге статьи. Интерфейс загружен, курсора и водяного знака нет; измерения относятся к этому состоянию. Проверены читаемость и отсутствие наложений на текст."
+    },
+    {
+      "output": "list-open.svg",
+      "sourceHash": "7aec85a73414873a2516fd6e9e1f1e114726f188e27d391de880192b0b4d5776",
+      "svgHash": "d50e57bd43a183d2e5aea3fb23bfb845a023207dae49186181bdb62660011495",
+      "stepText": "Найдите нужный контроллер по названию или ID и нажмите стрелку в его строке.",
+      "stepTextHash": "92ee17d159e55b76b8191b59c76905784632f0085e59f2f8637fe9ccedcb8f0c",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Стрелка второй строки, отдельно от корзины. Исходник просмотрен индивидуально, полный SVG проверен отдельно, кадр просмотрен в соответствующем шаге статьи. Интерфейс загружен, курсора и водяного знака нет; измерения относятся к этому состоянию. Проверены читаемость и отсутствие наложений на текст."
+    },
+    {
+      "output": "write-start.svg",
+      "sourceHash": "c4474860e64a6024c0a41bbb081644f13b7c9f2256b3136cd03d77a052395a2f",
+      "svgHash": "71df33cc326d88e398217b75f05ba8568d17d4cbf893c73342ba02fdf3a9d831",
+      "stepText": "После записи контроллер будет использовать выбранный тип принтера и заданный текст чека.\nЕсли автоопрос включён, дождитесь передачи данных — обычно до 15 минут. Если он выключен, запишите данные вручную по инструкции ниже.",
+      "stepTextHash": "3ac7eae7e97652b6abd19bcbeb5766a1c9b31f345821e01325366884f68e7064",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Общее настоящее окно записи и отдельная кнопка записи. Исходник просмотрен индивидуально, полный SVG проверен отдельно, кадр просмотрен в соответствующем шаге статьи. Интерфейс загружен, курсора и водяного знака нет; измерения относятся к этому состоянию. Проверены читаемость и отсутствие наложений на текст."
+    },
+    {
+      "output": "printer-tab.svg",
+      "sourceHash": "6583a89737ecf61524746145010f5c465124ae5d8f4af2b03a83d77b91207c16",
+      "svgHash": "a73a3f88b94917967560ab6efc165c4f1de8ce5bfe509e55c16d7abed1ddd69e",
+      "stepText": "В «Настройки» откройте «Принтер чеков».",
+      "stepTextHash": "19099fd5419a0a84eca5c7f71b8be5c12fcfb6313c892bdec752ae2427576737",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Пункт принтера целиком; диагональ к нижнему правому углу. Исходник просмотрен индивидуально, полный SVG проверен отдельно, кадр просмотрен в соответствующем шаге статьи. Интерфейс загружен, курсора и водяного знака нет; измерения относятся к этому состоянию. Проверены читаемость и отсутствие наложений на текст."
+    },
+    {
+      "output": "printer-save.svg",
+      "sourceHash": "6583a89737ecf61524746145010f5c465124ae5d8f4af2b03a83d77b91207c16",
+      "svgHash": "0bfb3260c6425adafe51cf1b2ee8c3b6092c2b4d3c300f9df5c848efc29223f7",
+      "stepText": "Нажмите «Сохранить» под типом принтера.",
+      "stepTextHash": "23a05568ccca1b2cea604805de7fe3942c3366aa41a2f62c8dbb572b4646ed71",
+      "clickTargets": [
+        0
+      ],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Сохранение под типом принтера, горизонтальная стрелка справа. Исходник просмотрен индивидуально, полный SVG проверен отдельно, кадр просмотрен в соответствующем шаге статьи. Интерфейс загружен, курсора и водяного знака нет; измерения относятся к этому состоянию. Проверены читаемость и отсутствие наложений на текст."
+    },
+    {
+      "output": "printer-type.svg",
+      "sourceHash": "6583a89737ecf61524746145010f5c465124ae5d8f4af2b03a83d77b91207c16",
+      "svgHash": "cda7d09b59f9d9e5a5caaa2916f368460d2c0fbc8c42a1970ed1929122786872",
+      "stepText": "Выберите фактический «Тип принтера». Если принтер не подключён, оставьте «Не подключен».",
+      "stepTextHash": "b556311d825b1e0e8086654136ee6c20f4f60883bf6412c79f7a0649960bf525",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Подпись и выбор типа в одной рамке, сохранение вне рамки. Исходник просмотрен индивидуально, полный SVG проверен отдельно, кадр просмотрен в соответствующем шаге статьи. Интерфейс загружен, курсора и водяного знака нет; измерения относятся к этому состоянию. Проверены читаемость и отсутствие наложений на текст."
+    },
+    {
+      "output": "printer-header.svg",
+      "sourceHash": "f556a44ddb80255039a561163b1a6e063eaa539b258d22455f606d839d711fd8",
+      "svgHash": "a90ff35441569a812340e118d4a07ba3107a4ac1d73175d9cc2dae43d6d82be4",
+      "stepText": "Если принтер подключён, при необходимости заполните строки заголовка чека.",
+      "stepTextHash": "f8b08d6063fb26e109cabf60f32640ae6a57cb1452fc79cf815619f18a56f894",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Заголовок чека и обе строки в одной рамке, итог не выделен. Исходник просмотрен индивидуально, полный SVG проверен отдельно, кадр просмотрен в соответствующем шаге статьи. Интерфейс загружен, курсора и водяного знака нет; измерения относятся к этому состоянию. Проверены читаемость и отсутствие наложений на текст."
+    },
+    {
+      "output": "printer-footer.svg",
+      "sourceHash": "f556a44ddb80255039a561163b1a6e063eaa539b258d22455f606d839d711fd8",
+      "svgHash": "fdaab9b65c9e4d127461c027bde6e566bd673ac94a9be9241ce6b5612280115d",
+      "stepText": "При необходимости заполните строку «Итог чека».",
+      "stepTextHash": "3fabcba183092f3185d8343651d1c94cd61e424d8dca3d8a4b7c3f26e5bd21a7",
+      "clickTargets": [],
+      "clickExplanation": "",
+      "checks": {
+        "cleanSource": true,
+        "realLoadedState": true,
+        "sameCaptureMeasurements": true,
+        "correctTargets": true,
+        "noTextOverlap": true,
+        "readableAtArticleSize": true,
+        "fullSizeInspected": true,
+        "articleInspected": true,
+        "textMatchesImage": true
+      },
+      "inspectionNote": "Итог чека со своей строкой выделен отдельно. Исходник просмотрен индивидуально, полный SVG проверен отдельно, кадр просмотрен в соответствующем шаге статьи. Интерфейс загружен, курсора и водяного знака нет; измерения относятся к этому состоянию. Проверены читаемость и отсутствие наложений на текст."
+    }
+  ]
+}
